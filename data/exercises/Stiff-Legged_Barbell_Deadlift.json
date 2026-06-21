@@ -1,0 +1,37 @@
+{
+  "id": "stiff_legged_barbell_deadlift",
+  "document": "Exercise: Stiff-Legged Barbell Deadlift\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hip_extension\n- spinal_flexion\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- glutes\n- lower back\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hamstring_strength_and_hypertrophy\n- lower_back_stability\n- glute_activation\n\nContraindications:\n\n- Lower back pain or injury\n- Recent knee surgery\n\nExercise Variations:\n\n- name: Stiff-Legged Dumbbell Deadlift, equipment: dumbbells\n- name: Stiff-Legged Cable Deadlift, equipment: cable machine\n\nSubstitution Options:\n\n- exercise_name: Romanian Deadlift, equipment: barbell or dumbbells\n- exercise_name: Good Morning, equipment: barbell\n\nInstructions:\n\n- Grasp a bar using an overhand grip (palms facing down). You may need some wrist wraps if using a significant amount of weight.\n- Stand with your torso straight and your legs spaced using a shoulder width or narrower stance. The knees should be slightly bent. This is your starting position.\n- Keeping the knees stationary, lower the barbell to over the top of your feet by bending at the hips while keeping your back straight. Keep moving forward as if you were going to pick something from the floor until you feel a stretch on the hamstrings. Inhale as you perform this movement.\n- Start bringing your torso up straight again by extending your hips until you are back at the starting position. Exhale as you perform this movement.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "stiff_legged_barbell_deadlift",
+    "exercise_name": "stiff_legged_barbell_deadlift",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hip_extension",
+      "spinal_flexion"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hamstring_strength_and_hypertrophy",
+      "lower_back_stability",
+      "glute_activation"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dumbbell_shoulder_press",
+  "document": "Exercise: Dumbbell Shoulder Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_extension\n- abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- triceps_activation\n- shoulder_strength_and_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Dumbbell Front Raise, equipment: dumbbells\n- name: Arnold Press, equipment: dumbbells\n\nSubstitution Options:\n\n- exercise_name: Barbell Shoulder Press, equipment: barbell\n- exercise_name: Smith Machine Shoulder Press, equipment: smith machine\n\nInstructions:\n\n- While holding a dumbbell in each hand, sit on a military press bench or utility bench that has back support. Place the dumbbells upright on top of your thighs.\n- Now raise the dumbbells to shoulder height one at a time using your thighs to help propel them up into position.\n- Make sure to rotate your wrists so that the palms of your hands are facing forward. This is your starting position.\n- Now, exhale and push the dumbbells upward until they touch at the top.\n- Then, after a brief pause at the top contracted position, slowly lower the weights back down to the starting position while inhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "dumbbell_shoulder_press",
+    "exercise_name": "dumbbell_shoulder_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_extension",
+      "abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_activation",
+      "shoulder_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

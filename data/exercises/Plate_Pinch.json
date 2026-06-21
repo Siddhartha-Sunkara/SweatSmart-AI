@@ -1,0 +1,29 @@
+{
+  "id": "plate_pinch",
+  "document": "Exercise: Plate Pinch\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- isometric\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Recent wrist injury, reason: May exacerbate existing injuries\n- condition: High blood pressure, reason: Can increase blood pressure due to isometric contraction\n\nExercise Variations:\n\n- variation_name: Time Trial, description: Hold the pinch position for a set amount of time (e.g., 30 seconds) and increase the duration with each set.\n- variation_name: Weighted Pinch, description: Add weight to one or both plates by placing small weights on top, increasing resistance gradually.\n\nSubstitution Options:\n\n- exercise_name: Plate Pinch Variation, description: Use different shaped objects for grip, such as dumbbells or specialized grip trainers.\n\nInstructions:\n\n- Grab two wide-rimmed plates and put them together with the smooth sides facing outward\n- Use your fingers to grip the outside part of the plate and your thumb for the other side thus holding both plates together. This is the starting position.\n- Squeeze the plate with your fingers and thumb. Hold this position for as long as you can.\n- Repeat for the recommended amount of sets prescribed in your program.\n- Switch arms and repeat the movements.",
+  "metadata": {
+    "exercise_id": "plate_pinch",
+    "exercise_name": "plate_pinch",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "isometric"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

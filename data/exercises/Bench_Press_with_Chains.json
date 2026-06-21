@@ -1,0 +1,33 @@
+{
+  "id": "bench_press_with_chains",
+  "document": "Exercise: Bench Press with Chains\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- vertical_pushing\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- lats\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder instability, reason: increased risk of injury\n- condition: recent rotator cuff surgery, reason: not recommended until fully healed\n\nExercise Variations:\n\n- name: Bench Press with Bands, description: reduces initial load for beginners\n- name: Close-Grip Bench Press with Chains, description: focuses on triceps\n\nSubstitution Options:\n\n- exercise_name: Incline Bench Press with Chains, reason: targets upper chest\n- exercise_name: Flat Barbell Press, reason: similar movement pattern, less fatigue\n\nInstructions:\n\n- Adjust the leader chain, shortening it to the desired length.Place the chains on the sleeves of the bar.\n- Lying on the bench, get your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement. However wide your grip, it should cover the ring on the bar.\n- Pull the bar out of the rack without protracting your shoulders. Focus on squeezing the bar and trying to pull it apart. Lower the bar to your lower chest or upper stomach. The bar, wrist, and elbow should stay in line at all times.\n- Pause when the barbell touches your torso, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout.",
+  "metadata": {
+    "exercise_id": "bench_press_with_chains",
+    "exercise_name": "bench_press_with_chains",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "vertical_pushing"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "lats",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

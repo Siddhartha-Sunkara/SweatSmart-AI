@@ -1,0 +1,36 @@
+{
+  "id": "ball_leg_curl",
+  "document": "Exercise: Ball Leg Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- knee_flexion\n- hip_flexion\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- glutes\n\nEquipment:\n\n- exercise_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hamstring_strength\n- glute_activation\n\nContraindications:\n\n- condition: recent hamstring injury, reason: could exacerbate the injury\n- condition: lower back pain, reason: may increase pressure on the lower back\n\nExercise Variations:\n\n- name: Single-Leg Ball Leg Curl, instructions: ['Begin on the floor laying on your back with one foot on top of the ball.', 'Position the ball so that when your leg is extended, your ankle is on top of the ball. This will be your starting position.', 'Raise your hips off of the ground, keeping your weight on the shoulder blades and your feet.', 'Flex the knee of the leg with the ball, pulling the ball as close to you as you can, contracting the hamstrings.', 'After a brief pause, return to the starting position.']\n\nSubstitution Options:\n\n- name: Seated Leg Curl Machine, equipment: leg curl machine\n\nInstructions:\n\n- Begin on the floor laying on your back with your feet on top of the ball.\n- Position the ball so that when your legs are extended your ankles are on top of the ball. This will be your starting position.\n- Raise your hips off of the ground, keeping your weight on the shoulder blades and your feet.\n- Flex the knees, pulling the ball as close to you as you can, contracting the hamstrings.\n- After a brief pause, return to the starting position.",
+  "metadata": {
+    "exercise_id": "ball_leg_curl",
+    "exercise_name": "ball_leg_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "knee_flexion",
+      "hip_flexion"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves"
+    ],
+    "equipment": [
+      "exercise_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstring_strength",
+      "glute_activation"
+    ],
+    "unilateral": false
+  }
+}

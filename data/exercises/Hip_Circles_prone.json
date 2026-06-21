@@ -1,0 +1,31 @@
+{
+  "id": "hip_circles_prone",
+  "document": "Exercise: Hip Circles (prone)\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- circular_motion\n\nPrimary Muscles:\n\n- abductors\n\nSecondary Muscles:\n\n- adductors\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: recent hip surgery, reason: may cause discomfort or strain\n- condition: severe hip joint issues, reason: could exacerbate existing conditions\n\nExercise Variations:\n\n- name: Hip Circles (supine), force: pull, level: beginner, mechanic: isolation, primaryMuscles: ['abductors'], secondaryMuscles: ['adductors']\n\nSubstitution Options:\n\n- exercise_name: Leg Swings (forward), equipment: body only\n- exercise_name: Leg Swings (backward), equipment: body only\n\nInstructions:\n\n- Position yourself on your hands and knees on the ground. Maintaining good posture, raise one bent knee off of the ground. This will be your starting position.\n- Keeping the knee in a bent position, rotate the femur in an arc, attempting to make a big circle with your knee.\n- Perform this slowly for a number of repetitions, and repeat on the other side.",
+  "metadata": {
+    "exercise_id": "hip_circles_prone",
+    "exercise_name": "hip_circles_(prone)",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "circular_motion"
+    ],
+    "primary_muscles": [
+      "abductors"
+    ],
+    "secondary_muscles": [
+      "adductors"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

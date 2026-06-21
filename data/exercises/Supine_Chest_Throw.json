@@ -1,0 +1,35 @@
+{
+  "id": "supine_chest_throw",
+  "document": "Exercise: Supine Chest Throw\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nexplosive power\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhance_chest_and_shoulder_muscle_activation\n- improve_triceps_strength_and_explosiveness\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Supine Chest Throw with Medicine Ball, force: push, level: beginner, mechanic: compound, primaryMuscles: ['triceps'], secondaryMuscles: ['chest', 'shoulders'], instructions: ['This drill is great for chest passes when you lack a partner or a wall of sufficient strength. Lay on the ground on your back with your knees bent.', 'Begin with the ball on your chest, held with both hands on the bottom.', 'Explode up, extending through the elbow to throw the ball directly above you as high as possible.', 'Catch the ball with both hands as it comes down.'], category: plyometrics, images: ['Supine_Chest_Throw/0.jpg', 'Supine_Chest_Throw/1.jpg'], id: Supine_Chest_Throw_Variation\n\nSubstitution Options:\n\n- exercise_name: Medicine Ball Chest Pass Against Wall, equipment: medicine ball\n\nInstructions:\n\n- This drill is great for chest passes when you lack a partner or a wall of sufficient strength. Lay on the ground on your back with your knees bent.\n- Begin with the ball on your chest, held with both hands on the bottom.\n- Explode up, extending through the elbow to throw the ball directly above you as high as possible.\n- Catch the ball with both hands as it comes down.",
+  "metadata": {
+    "exercise_id": "supine_chest_throw",
+    "exercise_name": "supine_chest_throw",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "explosive_power",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhance_chest_and_shoulder_muscle_activation",
+      "improve_triceps_strength_and_explosiveness"
+    ],
+    "unilateral": false
+  }
+}

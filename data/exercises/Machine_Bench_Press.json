@@ -1,0 +1,36 @@
+{
+  "id": "machine_bench_press",
+  "document": "Exercise: Machine Bench Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- horizontal_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system and glycolytic pathway\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- strength_building\n- hypertrophy\n- muscle_endurance\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Decline Machine Bench Press, equipment: machine\n- name: Machine Incline Bench Press, equipment: machine\n\nSubstitution Options:\n\n- exercise_name: Barbell Bench Press, equipment: barbell\n- exercise_name: Incline Machine Chest Press, equipment: machine\n\nInstructions:\n\n- Sit down on the Chest Press Machine and select the weight.\n- Step on the lever provided by the machine since it will help you to bring the handles forward so that you can grab the handles and fully extend the arms.\n- Grab the handles with a palms-down grip and lift your elbows so that your upper arms are parallel to the floor to the sides of your torso. Tip: Your forearms will be pointing forward since you are grabbing the handles. Once you bring the handles forward and extend the arms you will be at the starting position.\n- Now bring the handles back towards you as you breathe in.\n- Push the handles away from you as you flex your pecs and you breathe out. Hold the contraction for a second before going back to the starting position.\n- Repeat for the recommended amount of reps.\n- When finished step on the lever again and slowly get the handles back to their original place.",
+  "metadata": {
+    "exercise_id": "machine_bench_press",
+    "exercise_name": "machine_bench_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "horizontal_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_and_glycolytic_pathway",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strength_building",
+      "hypertrophy",
+      "muscle_endurance"
+    ],
+    "unilateral": false
+  }
+}

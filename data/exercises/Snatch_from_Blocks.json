@@ -1,0 +1,42 @@
+{
+  "id": "snatch_from_blocks",
+  "document": "Exercise: Snatch from Blocks\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- pull\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- forearms\n- glutes\n- hamstrings\n- lower back\n- shoulders\n- traps\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improved_explosive_power_and_speed\n- hypertrophy_and_strength_gains_in_multiple_muscle_groups\n- enhanced_coordination_and_technique\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain or history of injury\n\nExercise Variations:\n\n- name: Snatch from Elevated Blocks, height: higher than original blocks\n- name: Snatch from Floor, equipment: barbell on the floor\n\nSubstitution Options:\n\n- exercise_name: Clean from Blocks, equipment: barbell\n\nInstructions:\n\n- Begin with a loaded barbell on boxes or stands of the desired height. A wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar, with the elbows pointed out. This will be the starting position.\n- Begin the first pull by driving through the front of the heels, raising the bar from the boxes.\n- Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.\n- As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. The feet should move to just outside the hips, turned out as necessary. Receive the bar with your body as low as possible and the arms fully extended overhead.\n- Keeping the bar aligned over the front of the heels, your head and chest up, drive through heels of the feet to move to a standing position. Carefully return the weight to the boxes.",
+  "metadata": {
+    "exercise_id": "snatch_from_blocks",
+    "exercise_name": "snatch_from_blocks",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "pull"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "shoulders",
+      "triceps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improved_explosive_power_and_speed",
+      "hypertrophy_and_strength_gains_in_multiple_muscle_groups",
+      "enhanced_coordination_and_technique"
+    ],
+    "unilateral": false
+  }
+}

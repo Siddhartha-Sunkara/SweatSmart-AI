@@ -1,0 +1,39 @@
+{
+  "id": "muscle_snatch",
+  "document": "Exercise: Muscle Snatch\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- pull\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- glutes\n- lower back\n- quadriceps\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power\n- strength\n\nContraindications:\n\n- Lower back issues\n- Shoulder instability\n\nExercise Variations:\n\n- name: Power Snatch, description: Focus on explosive power, stopping the bar at mid-thigh.\n- name: Snatch Balance, description: Pause the bar in a balanced position just below the knees.\n\nSubstitution Options:\n\n- exercise_name: Clean and Jerk, equipment: barbell\n- exercise_name: Hang Clean, equipment: barbell\n\nInstructions:\n\n- Begin with a loaded barbell held at the mid thigh position with a wide grip. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.\n- Begin the pull by driving through the front of the heels, raising the bar. Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body.\n- Continue raising the bar to the overhead position, without rebending the knees.",
+  "metadata": {
+    "exercise_id": "muscle_snatch",
+    "exercise_name": "muscle_snatch",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "pull"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

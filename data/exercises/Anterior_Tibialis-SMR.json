@@ -1,0 +1,33 @@
+{
+  "id": "anterior_tibialis_smr",
+  "document": "Exercise: Anterior Tibialis-SMR\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- rolling\n- static_compression\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- reduce_tension_in_the_anterior_tibialis\n- improve_muscle_recovery\n\nContraindications:\n\n- acute injury to the lower leg\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Begin seated on the ground with your legs bent and your feet on the floor.\n- Using a Muscle Roller or a rolling pin, apply pressure to the muscles on the outside of your shins. Work from just below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat on the other leg.",
+  "metadata": {
+    "exercise_id": "anterior_tibialis_smr",
+    "exercise_name": "anterior_tibialis_smr",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "rolling",
+      "static_compression"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [
+      "reduce_tension_in_the_anterior_tibialis",
+      "improve_muscle_recovery"
+    ],
+    "unilateral": false
+  }
+}

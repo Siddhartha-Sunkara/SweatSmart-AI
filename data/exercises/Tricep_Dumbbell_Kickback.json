@@ -1,0 +1,32 @@
+{
+  "id": "tricep_dumbbell_kickback",
+  "document": "Exercise: Tricep Dumbbell Kickback\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_elbow_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- elbow_joint_stability\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Tricep Cable Kickback, equipment: cable machine\n- name: Tricep Barbell Extension, equipment: barbell\n\nSubstitution Options:\n\n- exercise_name: Tricep Dumbbell Extension, equipment: dumbbell\n\nInstructions:\n\n- Start with a dumbbell in each hand and your palms facing your torso. Keep your back straight with a slight bend in the knees and bend forward at the waist. Your torso should be almost parallel to the floor. Make sure to keep your head up. Your upper arms should be close to your torso and parallel to the floor. Your forearms should be pointed towards the floor as you hold the weights. There should be a 90-degree angle formed between your forearm and upper arm. This is your starting position.\n- Now, while keeping your upper arms stationary, exhale and use your triceps to lift the weights until the arm is fully extended. Focus on moving the forearm.\n- After a brief pause at the top contraction, inhale and slowly lower the dumbbells back down to the starting position.\n- Repeat the movement for the prescribed amount of repetitions.",
+  "metadata": {
+    "exercise_id": "tricep_dumbbell_kickback",
+    "exercise_name": "tricep_dumbbell_kickback",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_elbow_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "elbow_joint_stability"
+    ],
+    "unilateral": false
+  }
+}

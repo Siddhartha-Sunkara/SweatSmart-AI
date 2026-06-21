@@ -1,0 +1,30 @@
+{
+  "id": "elbows_back",
+  "document": "Exercise: Elbows Back\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_retraction\n- internal_shoulder_rotation\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder instability, description: This exercise may exacerbate shoulder instability.\n- condition: recent rotator cuff injury, description: Avoid this exercise until full recovery is achieved.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Wall Angels, id: Wall_Angels\n\nInstructions:\n\n- Stand up straight.\n- Place both hands on your lower back, fingers pointing downward and elbows out.\n- Then gently pull your elbows back aiming to touch them together.",
+  "metadata": {
+    "exercise_id": "elbows_back",
+    "exercise_name": "elbows_back",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_retraction",
+      "internal_shoulder_rotation"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

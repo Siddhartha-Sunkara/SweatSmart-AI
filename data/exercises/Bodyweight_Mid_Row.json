@@ -1,0 +1,35 @@
+{
+  "id": "bodyweight_mid_row",
+  "document": "Exercise: Bodyweight Mid Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- horizontal_pulling\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Kneeling Bodyweight Mid Row, instructions: ['Assume a kneeling position with your hands on the ground and your knees over your feet. Perform the movement as described.']\n- name: One-Arm Bodyweight Mid Row, instructions: ['Perform the exercise using one arm at a time, alternating arms after each repetition.']\n\nSubstitution Options:\n\n- exercise_name: Lat Pulldown, equipment: cable machine\n- exercise_name: T-Bar Row, equipment: barbell\n\nInstructions:\n\n- Begin by taking a medium to wide grip on a pull-up apparatus with your palms facing away from you. From a hanging position, tuck your knees to your chest, leaning back and getting your legs over your side of the pull-up apparatus. This will be your starting position.\n- Beginning with your arms straight, flex the elbows and retract the shoulder blades to raise your body up until your legs contact the pull-up apparatus.\n- After a brief pause, return to the starting position.",
+  "metadata": {
+    "exercise_id": "bodyweight_mid_row",
+    "exercise_name": "bodyweight_mid_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "horizontal_pulling"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

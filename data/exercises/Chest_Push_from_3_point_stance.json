@@ -1,0 +1,36 @@
+{
+  "id": "chest_push_from_3_point_stance",
+  "document": "Exercise: Chest Push from 3 point stance\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- plyometric_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- abdominals\n- shoulders\n- triceps\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improve_shoulder_stability_and_triceps_power\n- increase_chest_strength_and_explosiveness\n\nContraindications:\n\n- Individuals with lower back issues should avoid this exercise due to the strain on the spine.\n\nExercise Variations:\n\n- name: Chest Push from 2 point stance, equipment: medicine ball\n- name: Chest Push from 4 point stance, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Medicine Ball Chest Pass, equipment: medicine ball\n\nInstructions:\n\n- Begin in a three point stance, squatted down with your back flat and one hand on the ground. Place the medicine ball directly in front of you.\n- To begin, take your first step as you pull the ball to your chest, positioning both hands to prepare for the throw.\n- As you execute the second step, explosively release the ball forward as hard as possible.",
+  "metadata": {
+    "exercise_id": "chest_push_from_3_point_stance",
+    "exercise_name": "chest_push_from_3_point_stance",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "plyometric_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "abdominals",
+      "shoulders"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improve_shoulder_stability_and_triceps_power",
+      "increase_chest_strength_and_explosiveness"
+    ],
+    "unilateral": false
+  }
+}

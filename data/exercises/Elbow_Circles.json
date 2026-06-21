@@ -1,0 +1,32 @@
+{
+  "id": "elbow_circles",
+  "document": "Exercise: Elbow Circles\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- circular_motion\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- traps\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- improve_shoulder_mobility\n- stretch_shoulders_and_traps\n\nContraindications:\n\n- shoulder instability\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Sit or stand with your feet slightly apart.\n- Place your hands on your shoulders with your elbows at shoulder level and pointing out.\n- Slowly make a circle with your elbows. Breathe out as you start the circle and breathe in as you complete the circle.",
+  "metadata": {
+    "exercise_id": "elbow_circles",
+    "exercise_name": "elbow_circles",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "circular_motion"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "traps"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [
+      "improve_shoulder_mobility",
+      "stretch_shoulders_and_traps"
+    ],
+    "unilateral": false
+  }
+}

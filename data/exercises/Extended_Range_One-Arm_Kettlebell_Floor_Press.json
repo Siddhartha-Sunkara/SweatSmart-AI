@@ -1,0 +1,36 @@
+{
+  "id": "extended_range_one_arm_kettlebell_floor_press",
+  "document": "Exercise: Extended Range One-Arm Kettlebell Floor Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_pressing\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- improve_shoulder_stability\n- enhance_triceps_strength\n- build_chest_strength_and_size\n\nContraindications:\n\n- Shoulder instability or injury\n- Chest pain or discomfort\n\nExercise Variations:\n\n- name: Extended Range Two-Arm Kettlebell Floor Press, equipment: kettlebells\n- name: One-Arm Kettlebell Push Press, equipment: kettlebells\n\nSubstitution Options:\n\n- name: One-Arm Dumbbell Floor Press, equipment: dumbbells\n\nInstructions:\n\n- Lie on the floor and position a kettlebell for one arm to press. The kettlebell should be held by the handle. The leg on the same side that you are pressing should be bent, with the knee crossing over the midline of the body.\n- Press the kettlebell by extending the elbow and adducting the arm, pressing it above your body. Return to the starting position.",
+  "metadata": {
+    "exercise_id": "extended_range_one_arm_kettlebell_floor_press",
+    "exercise_name": "extended_range_one_arm_kettlebell_floor_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_pressing"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_shoulder_stability",
+      "enhance_triceps_strength",
+      "build_chest_strength_and_size"
+    ],
+    "unilateral": false
+  }
+}

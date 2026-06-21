@@ -1,0 +1,32 @@
+{
+  "id": "chain_handle_extension",
+  "document": "Exercise: Chain Handle Extension\n\nCategory:\npowerlifting\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- elbow_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- elbow_joint_stability\n\nContraindications:\n\n- condition: recent elbow surgery, reason: High risk of injury\n- condition: severe shoulder instability, reason: May exacerbate condition\n\nExercise Variations:\n\n- name: Chain Handle Extension with Dumbbells, equipment: ['dumbbells', 'chains']\n- name: Single-Arm Chain Handle Extension, equipment: ['single cable handle attachment', 'chains', 'bench']\n\nSubstitution Options:\n\n- exercise_name: Triceps Pushdown, equipment: cable machine\n\nInstructions:\n\n- You will need two cable handle attachments and a flat bench, as well as chains, for this exercise. Clip the middle of the chains to the handles, and position yourself on the flat bench. Your elbows should be pointing straight up.\n- Begin by extending through the elbow, keeping your upper arm still, with your wrists pronated.\n- Pause at the lockout, and reverse the motion to return to the starting position.",
+  "metadata": {
+    "exercise_id": "chain_handle_extension",
+    "exercise_name": "chain_handle_extension",
+    "category": "powerlifting",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "elbow_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "elbow_joint_stability"
+    ],
+    "unilateral": false
+  }
+}

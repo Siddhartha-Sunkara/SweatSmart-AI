@@ -1,0 +1,33 @@
+{
+  "id": "one_arm_dumbbell_row",
+  "document": "Exercise: One-Arm Dumbbell Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_row\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n- shoulders\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder instability or injury\n- condition: Lower back pain\n\nExercise Variations:\n\n- name: Kneeling One-Arm Dumbbell Row, mechanic: compound, force: pull, level: beginner, primaryMuscles: ['middle back'], secondaryMuscles: ['biceps', 'lats', 'shoulders']\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Dumbbell Row, equipment: dumbbell\n- exercise_name: One-Arm Cable Row, equipment: cable machine\n\nInstructions:\n\n- Choose a flat bench and place a dumbbell on each side of it.\n- Place the right leg on top of the end of the bench, bend your torso forward from the waist until your upper body is parallel to the floor, and place your right hand on the other end of the bench for support.\n- Use the left hand to pick up the dumbbell on the floor and hold the weight while keeping your lower back straight. The palm of the hand should be facing your torso. This will be your starting position.\n- Pull the resistance straight up to the side of your chest, keeping your upper arm close to your side and keeping the torso stationary. Breathe out as you perform this step. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. Also, make sure that the force is performed with the back muscles and not the arms. Finally, the upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the dumbbell; therefore do not try to pull the dumbbell up using the forearms.\n- Lower the resistance straight down to the starting position. Breathe in as you perform this step.\n- Repeat the movement for the specified amount of repetitions.\n- Switch sides and repeat again with the other arm.",
+  "metadata": {
+    "exercise_id": "one_arm_dumbbell_row",
+    "exercise_name": "one_arm_dumbbell_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_row"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "shoulders",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cable_reverse_crunch",
+  "document": "Exercise: Cable Reverse Crunch\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- abdominal_flexion\n- hip_extension\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability\n- abdominal_muscle_definition\n\nContraindications:\n\n- Lower back pain\n- Recent abdominal surgery\n\nExercise Variations:\n\n- name: Cable Reverse Crunch with Medicine Ball, equipment: cable, medicine ball\n- name: Reverse Crunches on Swiss Ball, equipment: swiss ball\n\nSubstitution Options:\n\n- exercise_name: Bicycle Crunches, equipment: bodyweight\n- exercise_name: Leg Raises, equipment: mat\n\nInstructions:\n\n- Connect an ankle strap attachment to a low pulley cable and position a mat on the floor in front of it.\n- Sit down with your feet toward the pulley and attach the cable to your ankles.\n- Lie down, elevate your legs and bend your knees at a 90-degree angle. Your legs and the cable should be aligned. If not, adjust the pulley up or down until they are.\n- With your hands behind your head, bring your knees inward to your torso and elevate your hips off the floor.\n- Pause for a moment and in a slow and controlled manner drop your hips and bring your legs back to the starting 90-degree angle. You should still have tension on your abs in the resting position.\n- Repeat the same movement to failure.",
+  "metadata": {
+    "exercise_id": "cable_reverse_crunch",
+    "exercise_name": "cable_reverse_crunch",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "abdominal_flexion",
+      "hip_extension"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability",
+      "abdominal_muscle_definition"
+    ],
+    "unilateral": false
+  }
+}

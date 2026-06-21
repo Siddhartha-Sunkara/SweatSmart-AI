@@ -1,0 +1,34 @@
+{
+  "id": "butt_lift_bridge",
+  "document": "Exercise: Butt Lift (Bridge)\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hip_extension\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nATP-PC system\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- glute_strengthening\n- hamstring_engagement\n\nContraindications:\n\n- Recent lower back surgery or injury\n- Severe osteoporosis\n\nExercise Variations:\n\n- name: Single-Leg Glute Bridge, equipment: body only, secondaryMuscles: ['hamstrings']\n- name: Glute Bridge with Dumbbell, equipment: dumbbell\n\nSubstitution Options:\n\n- name: Glute Bridge with Resistance Band, equipment: resistance band\n- name: Romanian Deadlift, primaryMuscles: ['hamstrings', 'glutes']\n\nInstructions:\n\n- Lie flat on the floor on your back with the hands by your side and your knees bent. Your feet should be placed around shoulder width. This will be your starting position.\n- Pushing mainly with your heels, lift your hips off the floor while keeping your back straight. Breathe out as you perform this part of the motion and hold at the top for a second.\n- Slowly go back to the starting position as you breathe in.",
+  "metadata": {
+    "exercise_id": "butt_lift_bridge",
+    "exercise_name": "butt_lift_(bridge)",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hip_extension"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "atp_pc_system",
+    "recovery_time_hours": 1,
+    "goals": [
+      "glute_strengthening",
+      "hamstring_engagement"
+    ],
+    "unilateral": false
+  }
+}

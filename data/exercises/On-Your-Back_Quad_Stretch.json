@@ -1,0 +1,34 @@
+{
+  "id": "on_your_back_quad_stretch",
+  "document": "Exercise: On-Your-Back Quad Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension_of_the_hip_joint\n- with_isometric_contraction_of_the_quadriceps\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relax_and_lengthen_the_muscle\n- improve_flexibility_of_the_quadriceps\n\nContraindications:\n\n- acute lower back pain\n- recent quadriceps injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Lie on a flat bench or step, and hang one leg and arm over the side.\n- Bend the knee and hold the top of the foot. As you do this, be careful not to arch your lower back.\n- Pull the belly button to the spine to stay in neutral. Press your foot down and into your hand. To add the hip stretch, lift the hip of the leg you're holding up toward the ceiling.\n- Switch sides.",
+  "metadata": {
+    "exercise_id": "on_your_back_quad_stretch",
+    "exercise_name": "on_your_back_quad_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension_of_the_hip_joint",
+      "with_isometric_contraction_of_the_quadriceps"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relax_and_lengthen_the_muscle",
+      "improve_flexibility_of_the_quadriceps"
+    ],
+    "unilateral": false
+  }
+}

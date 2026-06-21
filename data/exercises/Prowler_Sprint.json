@@ -1,0 +1,39 @@
+{
+  "id": "prowler_sprint",
+  "document": "Exercise: Prowler Sprint\n\nCategory:\ncardio\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- linear_pushing\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- chest\n- glutes\n- quadriceps\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- increase_anaerobic_capacity\n- improve_cardiovascular_fitness\n- build_lower_body_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Prowler Push for Time, duration: 30 seconds\n- name: Prowler Push with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- name: Sled Push, force: push, level: beginner\n\nInstructions:\n\n- Place your sled on an appropriate surface, loaded to a suitable weight. The sled should provide enough resistance to require effort, but not so heavy that you are significantly slowed down.\n- You may use the upright or the low handles for this exercise. Place your hands on the handles with your arms extended, leaning into the implement.\n- With good posture, drive through the ground with alternating, short steps. Move as fast as you can for a short distance.",
+  "metadata": {
+    "exercise_id": "prowler_sprint",
+    "exercise_name": "prowler_sprint",
+    "category": "cardio",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "linear_pushing"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "chest",
+      "glutes",
+      "shoulders",
+      "calves"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "increase_anaerobic_capacity",
+      "improve_cardiovascular_fitness",
+      "build_lower_body_strength"
+    ],
+    "unilateral": false
+  }
+}

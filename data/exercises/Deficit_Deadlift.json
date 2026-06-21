@@ -1,0 +1,41 @@
+{
+  "id": "deficit_deadlift",
+  "document": "Exercise: Deficit Deadlift\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- knee_flexion\n- hip_hinge\n- extension\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- hamstrings\n- middle back\n- quadriceps\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- condition: lower back pain, description: May exacerbate existing conditions without proper form and warm-up.\n- condition: recent lower body injury, description: Should be avoided until full recovery to prevent re-injury.\n\nExercise Variations:\n\n- name: Sumo Deadlift, force: pull, level: intermediate\n- name: Conventional Deadlift, force: pull, level: intermediate\n\nSubstitution Options:\n\n- name: Romanian Deadlift, force: pull, level: intermediate\n\nInstructions:\n\n- Begin by having a platform or weight plates that you can stand on, usually 1-3 inches in height. Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets.\n- With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.\n- Lower the bar by bending at the hips and guiding it to the floor.",
+  "metadata": {
+    "exercise_id": "deficit_deadlift",
+    "exercise_name": "deficit_deadlift",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "knee_flexion",
+      "hip_hinge",
+      "extension"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "quadriceps",
+      "glutes",
+      "forearms",
+      "traps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

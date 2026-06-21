@@ -1,0 +1,31 @@
+{
+  "id": "rope_crunch",
+  "document": "Exercise: Rope Crunch\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion_extension_of_the_spine\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Rope Crunch with Twist, instructions: ['Perform the same movement as described, but add a twist to target the obliques.']\n- name: Rope Crunch with Side Pull, instructions: ['Perform the same movement as described, but pull towards one side to target the oblique muscles.']\n\nSubstitution Options:\n\n- exercise_name: Bicycle Crunches, equipment: bodyweight\n- exercise_name: Leg Raises, equipment: mat\n\nInstructions:\n\n- Kneel 1-2 feet in front of a cable system with a rope attached.\n- After selecting an appropriate weight, grasp the rope with both hands reaching overhead. Your torso should be upright in the starting position.\n- To begin, flex at the spine, attempting to bring your rib cage to your legs as you pull the cable down.\n- Pause at the bottom of the motion, and then slowly return to the starting position.\n- These can be done with twists or to the side to hit the obliques.",
+  "metadata": {
+    "exercise_id": "rope_crunch",
+    "exercise_name": "rope_crunch",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion_extension_of_the_spine"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "leg_extensions",
+  "document": "Exercise: Leg Extensions\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_knee_extension\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- quadriceps_hypertrophy\n- isolation_strength_training_for_the_quads\n\nContraindications:\n\n- Knee instability or injury\n- Recent knee surgery\n\nExercise Variations:\n\n- name: Seated Leg Curls, force: pull, level: beginner, mechanic: isolation\n- name: Standing Leg Extensions, force: push, level: intermediate, mechanic: compound\n\nSubstitution Options:\n\n- name: Squats, force: push, level: intermediate, mechanic: compound\n- name: Leg Press, force: push, level: beginner, mechanic: compound\n\nInstructions:\n\n- For this exercise you will need to use a leg extension machine. First choose your weight and sit on the machine with your legs under the pad (feet pointed forward) and the hands holding the side bars. This will be your starting position. Tip: You will need to adjust the pad so that it falls on top of your lower leg (just above your feet). Also, make sure that your legs form a 90-degree angle between the lower and upper leg. If the angle is less than 90-degrees then that means the knee is over the toes which in turn creates undue stress at the knee joint. If the machine is designed that way, either look for another machine or just make sure that when you start executing the exercise you stop going down once you hit the 90-degree angle.\n- Using your quadriceps, extend your legs to the maximum as you exhale. Ensure that the rest of the body remains stationary on the seat. Pause a second on the contracted position.\n- Slowly lower the weight back to the original position as you inhale, ensuring that you do not go past the 90-degree angle limit.\n- Repeat for the recommended amount of times.",
+  "metadata": {
+    "exercise_id": "leg_extensions",
+    "exercise_name": "leg_extensions",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_knee_extension"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "quadriceps_hypertrophy",
+      "isolation_strength_training_for_the_quads"
+    ],
+    "unilateral": false
+  }
+}

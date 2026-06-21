@@ -1,0 +1,30 @@
+{
+  "id": "side_lying_floor_stretch",
+  "document": "Exercise: Side-Lying Floor Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_static_stretch\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- improve_flexibility\n- relax_lats\n\nContraindications:\n\n- acute injuries\n- severe joint pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- First lie on your left side, bending your left knee in front of you to stabilize your torso (use your abdominal muscles as well to hold you upright).\n- Straighten your right leg and rest the right foot on the floor behind your left. Straighten your right arm over your head and gently pull on your right wrist to stretch the entire right side of the body. Switch sides.",
+  "metadata": {
+    "exercise_id": "side_lying_floor_stretch",
+    "exercise_name": "side_lying_floor_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_static_stretch"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [
+      "improve_flexibility",
+      "relax_lats"
+    ],
+    "unilateral": false
+  }
+}

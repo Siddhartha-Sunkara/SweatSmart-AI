@@ -1,0 +1,42 @@
+{
+  "id": "double_kettlebell_alternating_hang_clean",
+  "document": "Exercise: Double Kettlebell Alternating Hang Clean\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hinge\n- pull\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- biceps\n- calves\n- forearms\n- glutes\n- lower back\n- quadriceps\n- traps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power\n- strength\n\nContraindications:\n\n- Lower back issues\n- Shoulder injuries\n\nExercise Variations:\n\n- name: Single Arm Double Kettlebell Hang Clean, equipment: kettlebells\n- name: Double Kettlebell Snatch, equipment: kettlebells\n\nSubstitution Options:\n\n- exercise_name: Double Kettlebell Alternating Clean from Hang, equipment: kettlebells\n\nInstructions:\n\n- Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.\n- Clean one kettlebell to your shoulder and hold on to the other kettlebell.\n- With a fluid motion, lower the top kettlebell while driving the bottom kettlebell up.",
+  "metadata": {
+    "exercise_id": "double_kettlebell_alternating_hang_clean",
+    "exercise_name": "double_kettlebell_alternating_hang_clean",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hinge",
+      "pull"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "biceps",
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "calves"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

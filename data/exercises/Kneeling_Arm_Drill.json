@@ -1,0 +1,33 @@
+{
+  "id": "kneeling_arm_drill",
+  "document": "Exercise: Kneeling Arm Drill\n\nCategory:\nplyometrics\n\nExercise Type:\nNone\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- pendulum_like_swings\n- arm_acceleration_during_sprinting_motion\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- abdominals\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_arm_efficiency_during_running\n- strengthen_shoulders_and_abdominals\n\nContraindications:\n\n- shoulder injuries\n- recent shoulder surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- This drill helps increase arm efficiency during the run. Begin kneeling, left foot in front, right knee down. Apply pressure through the front heel to keep your glutes and hamstrings activated.\n- Begin by blocking the arms in long, pendulum like swings. Close the arm angle, blocking with the arms as you would when jogging, progressing to a run and finally a sprint.\n- As soon as your hands pass the hip, accelerate them forward during the sprinting motion to move them as quickly as possible.\n- Switch knees and repeat.",
+  "metadata": {
+    "exercise_id": "kneeling_arm_drill",
+    "exercise_name": "kneeling_arm_drill",
+    "category": "plyometrics",
+    "exercise_type": "",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "pendulum_like_swings",
+      "arm_acceleration_during_sprinting_motion"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "abdominals"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_arm_efficiency_during_running",
+      "strengthen_shoulders_and_abdominals"
+    ],
+    "unilateral": false
+  }
+}

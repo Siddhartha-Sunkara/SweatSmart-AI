@@ -1,0 +1,32 @@
+{
+  "id": "calf_raises___with_bands",
+  "document": "Exercise: Calf Raises - With Bands\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_ankle_plantar_flexion\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bands\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- ankle_plantar_flexor_strength\n- calf_muscle_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Leg Calf Raise with Bands, instructions: ['Perform the exercise on one leg at a time.']\n- name: Calf Raises - With Resistance Vests, equipment: resistance vests\n\nSubstitution Options:\n\n- exercise_name: Calf Raises - Machine, equipment: calf raise machine\n- exercise_name: Standing Calf Raise, equipment: no equipment\n\nInstructions:\n\n- Grab an exercise band and stand on it with your toes making sure that the length of the band between the foot and the arms is the same for both sides.\n- While holding the handles of the band, raise the arms to the side of your head as if you were getting ready to perform a shoulder press. The palms should be facing forward with the elbows bent and to the sides. This movement will create tension on the band. This will be your starting position.\n- Keeping the hands by your shoulder, stand up on your toes as you exhale and contract the calves hard at the top of the movement.\n- After a one second contraction, slowly go back down to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "calf_raises___with_bands",
+    "exercise_name": "calf_raises___with_bands",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_ankle_plantar_flexion"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "ankle_plantar_flexor_strength",
+      "calf_muscle_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

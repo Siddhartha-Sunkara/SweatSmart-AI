@@ -1,0 +1,32 @@
+{
+  "id": "standing_pelvic_tilt",
+  "document": "Exercise: Standing Pelvic Tilt\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- isometric\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- glutes\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_lower_back_flexibility\n- relieve_lower_back_tension\n\nContraindications:\n\n- lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Start off with your feet hip-distance apart.\n- Bend your knees slightly to keep them soft and springy.\n- You may want to move your pelvis forward and backward and back few times before holding the tailbone forward in this stretch.",
+  "metadata": {
+    "exercise_id": "standing_pelvic_tilt",
+    "exercise_name": "standing_pelvic_tilt",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "isometric"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_lower_back_flexibility",
+      "relieve_lower_back_tension"
+    ],
+    "unilateral": false
+  }
+}

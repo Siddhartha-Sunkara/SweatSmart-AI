@@ -1,0 +1,35 @@
+{
+  "id": "incline_push_up_depth_jump",
+  "document": "Exercise: Incline Push-Up Depth Jump\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_upper_body_strength_and_explosive_power.\n- improve_chest,_shoulder,_and_tricep_muscle_function.\n\nContraindications:\n\n- Individuals with shoulder or elbow injuries should avoid this exercise.\n\nExercise Variations:\n\n- name: Incline Push-Up with Medicine Ball Throw, force: push, level: intermediate\n\nSubstitution Options:\n\n- name: Incline Push-Up, force: push, level: beginner\n\nInstructions:\n\n- For this drill you will need a box about 12 inches high, and two thick mats or aerobics steps.\n- Place the steps just outside of your shoulders, and place your feet on top of the box so that you are in an incline pushup position, your hands just inside the steps. This will be your starting position.\n- Begin by bending at the elbows to lower your body, quickly reversing position to push your body off of the ground. As you leave the ground, move your hands onto the steps, bending your elbows to absorb the impact.\n- Repeat the motion to return to the starting position.",
+  "metadata": {
+    "exercise_id": "incline_push_up_depth_jump",
+    "exercise_name": "incline_push_up_depth_jump",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_upper_body_strength_and_explosive_power.",
+      "improve_chest,_shoulder,_and_tricep_muscle_function."
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "barbell_shrug_behind_the_back",
+  "document": "Exercise: Barbell Shrug Behind The Back\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_elevation\n\nPrimary Muscles:\n\n- traps\n\nSecondary Muscles:\n\n- forearms\n- middle back\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- middle_back_engagement\n- forearm_endurance_improvement\n- trapezius_muscle_strengthening\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Barbell Shrug in Front of Body, mechanic: isolation, force: pull\n\nSubstitution Options:\n\n- name: Dumbbell Shrug Behind The Back, equipment: dumbbells\n\nInstructions:\n\n- Stand up straight with your feet at shoulder width as you hold a barbell with both hands behind your back using a pronated grip (palms facing back). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for better grip. This will be your starting position.\n- Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps. The arms should remain stretched out at all times.\n- Slowly return to the starting position as you breathe in.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "barbell_shrug_behind_the_back",
+    "exercise_name": "barbell_shrug_behind_the_back",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_elevation"
+    ],
+    "primary_muscles": [
+      "traps"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "middle_back_engagement",
+      "forearm_endurance_improvement",
+      "trapezius_muscle_strengthening"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "kettlebell_pistol_squat",
+  "document": "Exercise: Kettlebell Pistol Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- unilateral_lower_body_compound_movement\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- shoulders\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n4\n\nSystemic Fatigue:\nmoderate\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- improve_overall_lower_body_coordination\n- develop_unilateral_strength_and_stability\n- enhance_glute_activation\n\nContraindications:\n\n- Recent or chronic knee injuries\n- Severe hip or lower back pain\n\nExercise Variations:\n\n- name: Kettlebell Pistol Squat with Medicine Ball, equipment: kettlebells, medicine ball\n- name: Kettlebell Pistol Squat with Resistance Band, equipment: kettlebells, resistance band\n\nSubstitution Options:\n\n- name: Single-Leg RDL with Dumbbell, equipment: dumbbells\n- name: Single-Leg Romanian Deadlift, equipment: barbell or dumbbell\n\nInstructions:\n\n- Pick up a kettlebell with two hands and hold it by the horns. Hold one leg off of the floor and squat down on the other.\n- Squat down by flexing the knee and sitting back with the hips, holding the kettlebell up in front of you.\n- Hold the bottom position for a second and then reverse the motion, driving through the heel and keeping your head and chest up.\n- Lower yourself again and repeat.",
+  "metadata": {
+    "exercise_id": "kettlebell_pistol_squat",
+    "exercise_name": "kettlebell_pistol_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "unilateral_lower_body_compound_movement"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings",
+      "shoulders"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 4.0,
+    "systemic_fatigue": "moderate",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "improve_overall_lower_body_coordination",
+      "develop_unilateral_strength_and_stability",
+      "enhance_glute_activation"
+    ],
+    "unilateral": false
+  }
+}

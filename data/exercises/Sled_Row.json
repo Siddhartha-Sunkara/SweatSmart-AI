@@ -1,0 +1,35 @@
+{
+  "id": "sled_row",
+  "document": "Exercise: Sled Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- pull\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Arm Sled Row, force: pull, level: intermediate\n\nSubstitution Options:\n\n- name: Barbell Row, force: pull, level: beginner\n\nInstructions:\n\n- Attach dual handles to a sled connected by a rope or chain. Load the sled to an appropriate weight. Face the sled, backing up until there is some tension in the line.\n- With a handle in each hand, bend the knees slightly, keep your head and chest up, and begin with your arms extended.\n- To initiate the movement, flex the elbow as you retract your shoulder blades, pulling the sled towards you.\n- Take a step or two back to get tension in the line and repeat.",
+  "metadata": {
+    "exercise_id": "sled_row",
+    "exercise_name": "sled_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "pull"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

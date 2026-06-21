@@ -1,0 +1,33 @@
+{
+  "id": "standing_leg_curl",
+  "document": "Exercise: Standing Leg Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- knee_extension\n- unilateral_hip_flexion\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improved_glute_activation\n- hamstring_strength_and_hypertrophy\n\nContraindications:\n\n- Recent hamstring injury or surgery\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Single-Leg Standing Leg Curl, instructions: ['Perform the exercise with one leg at a time, alternating legs.']\n- name: Standing Leg Curl with Resistance Band, equipment: resistance band\n\nSubstitution Options:\n\n- exercise_name: Romanian Deadlift, equipment: barbell\n- exercise_name: Seated Leg Curl, equipment: machine\n\nInstructions:\n\n- Adjust the machine lever to fit your height and lie with your torso bent at the waist facing forward around 30-45 degrees (since an angled position is more favorable for hamstrings recruitment) with the pad of the lever on the back of your right leg (just a few inches under the calves) and the front of the right leg on top of the machine pad.\n- Keeping the torso bent forward, ensure your leg is fully stretched and grab the side handles of the machine. Position your toes straight. This will be your starting position.\n- As you exhale, curl your right leg up as far as possible without lifting the upper leg from the pad. Once you hit the fully contracted position, hold it for a second.\n- As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions.\n- Perform the same exercise now for the left leg.",
+  "metadata": {
+    "exercise_id": "standing_leg_curl",
+    "exercise_name": "standing_leg_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "knee_extension",
+      "unilateral_hip_flexion"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improved_glute_activation",
+      "hamstring_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

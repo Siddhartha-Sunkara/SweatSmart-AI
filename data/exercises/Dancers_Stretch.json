@@ -1,0 +1,33 @@
+{
+  "id": "dancers_stretch",
+  "document": "Exercise: Dancer's Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_isometric_hold\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- abductors\n- glutes\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_flexibility\n- relax_lower_back_muscles\n\nContraindications:\n\n- lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Sit up on the floor.\n- Cross your right leg over your left, keeping the knee bent. Your left leg is straight and down on the floor.\n- Place your left arm on your right leg and your right hand on the floor.\n- Rotate your upper body to the right, and hold for 10-20 seconds. Switch sides.",
+  "metadata": {
+    "exercise_id": "dancers_stretch",
+    "exercise_name": "dancer's_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_isometric_hold"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "abductors"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_flexibility",
+      "relax_lower_back_muscles"
+    ],
+    "unilateral": false
+  }
+}

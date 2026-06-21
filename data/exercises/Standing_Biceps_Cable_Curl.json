@@ -1,0 +1,32 @@
+{
+  "id": "standing_biceps_cable_curl",
+  "document": "Exercise: Standing Biceps Cable Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elbow_flexion\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- biceps_hypertrophy\n- biceps_strength\n\nContraindications:\n\n- Recent bicep injury or strain\n\nExercise Variations:\n\n- name: Concentration Curl, mechanic: isolation, primaryMuscles: ['biceps']\n- name: Hammer Curl, force: curl, primaryMuscles: ['brachialis', 'forearm flexors']\n\nSubstitution Options:\n\n- name: Barbell Biceps Curl, equipment: barbell\n- name: Dumbbell Bicep Curl, equipment: dumbbells\n\nInstructions:\n\n- Stand up with your torso upright while holding a cable curl bar that is attached to a low pulley. Grab the cable bar at shoulder width and keep the elbows close to the torso. The palm of your hands should be facing up (supinated grip). This will be your starting position.\n- While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second as you squeeze the muscle.\n- Slowly begin to bring the curl bar back to starting position as your breathe in.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "standing_biceps_cable_curl",
+    "exercise_name": "standing_biceps_cable_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elbow_flexion"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "biceps_hypertrophy",
+      "biceps_strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "shoulder_raise",
+  "document": "Exercise: Shoulder Raise\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elevation\n- shoulder_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- lats\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_shoulder_muscle_tone\n- improve_shoulder_strength_and_flexibility\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Barbell Shoulder Raise, equipment: barbell\n- name: Machine Shoulder Raise, equipment: shoulder raise machine\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Lateral Raise, equipment: dumbbells\n\nInstructions:\n\n- Relax your arms to your sides and raise your shoulders up toward your ears, then back down.",
+  "metadata": {
+    "exercise_id": "shoulder_raise",
+    "exercise_name": "shoulder_raise",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elevation",
+      "shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "lats"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_shoulder_muscle_tone",
+      "improve_shoulder_strength_and_flexibility"
+    ],
+    "unilateral": false
+  }
+}

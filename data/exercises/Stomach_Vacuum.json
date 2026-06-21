@@ -1,0 +1,32 @@
+{
+  "id": "stomach_vacuum",
+  "document": "Exercise: Stomach Vacuum\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- isometric\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_intra_abdominal_pressure\n- improve_core_stability\n\nContraindications:\n\n- pregnant women\n- individuals with abdominal pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- To begin, stand straight with your feet shoulder width apart from each other. Place your hands on your hips. This is the starting position.\n- Now slowly inhale as much air as possible and then start to exhale as much as possible while bringing your stomach in as much as possible and hold this position. Try to visualize your navel touching your backbone.\n- One isometric contraction is around 20 seconds. During the 20 second hold, try to breathe normally. Then inhale and bring your stomach back to the starting position.\n- Once you have practiced this exercise, try to perform this exercise for longer than 20 seconds. Tip: You can work your way up to 40-60 seconds.\n- Repeat for the recommended amount of sets.",
+  "metadata": {
+    "exercise_id": "stomach_vacuum",
+    "exercise_name": "stomach_vacuum",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "isometric"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_intra_abdominal_pressure",
+      "improve_core_stability"
+    ],
+    "unilateral": false
+  }
+}

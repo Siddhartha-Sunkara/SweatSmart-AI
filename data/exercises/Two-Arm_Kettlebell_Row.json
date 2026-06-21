@@ -1,0 +1,35 @@
+{
+  "id": "two_arm_kettlebell_row",
+  "document": "Exercise: Two-Arm Kettlebell Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- bilateral_row\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- develop_strength_in_the_middle_back_and_biceps\n- improve_overall_pulling_ability\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain\n\nExercise Variations:\n\n- name: Two-Arm Kettlebell Row with Alternating Grip, description: Use one overhand and one underhand grip.\n- name: One-Arm Kettlebell Row, description: Perform the exercise with one arm at a time.\n\nSubstitution Options:\n\n- name: Barbell Row, equipment: barbell\n- name: Single-Arm Dumbbell Row, equipment: dumbbells\n\nInstructions:\n\n- Place two kettlebells in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position.\n- Grab both kettlebells and pull them to your stomach, retracting your shoulder blades and flexing the elbows. Keep your back straight. Lower and repeat.",
+  "metadata": {
+    "exercise_id": "two_arm_kettlebell_row",
+    "exercise_name": "two_arm_kettlebell_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "bilateral_row"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 1,
+    "goals": [
+      "develop_strength_in_the_middle_back_and_biceps",
+      "improve_overall_pulling_ability"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "plank",
+  "document": "Exercise: Plank\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- static\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- posture_improvement\n- core_strength_and_stability\n\nContraindications:\n\n- Individuals with lower back pain should perform this exercise with caution and may need to modify the position.\n\nExercise Variations:\n\n- name: Plank with Arm Raise, force: static, level: intermediate, mechanic: isolation\n- name: Plank with Leg Raise, force: static, level: intermediate, mechanic: isolation\n\nSubstitution Options:\n\n- name: Side Plank, force: static, level: beginner, mechanic: isolation\n\nInstructions:\n\n- Get into a prone position on the floor, supporting your weight on your toes and your forearms. Your arms are bent and directly below the shoulder.\n- Keep your body straight at all times, and hold this position as long as possible. To increase difficulty, an arm or leg can be raised.",
+  "metadata": {
+    "exercise_id": "plank",
+    "exercise_name": "plank",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "static"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "posture_improvement",
+      "core_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

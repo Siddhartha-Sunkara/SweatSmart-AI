@@ -1,0 +1,39 @@
+{
+  "id": "clean_pull",
+  "document": "Exercise: Clean Pull\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- pull\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- hamstrings\n- lower back\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power\n- strength\n\nContraindications:\n\n- Shoulder injuries\n- Lower back pain\n\nExercise Variations:\n\n- name: Clean Pull with Bands, equipment: barbell, resistance bands\n- name: Clean Pull to Shoulder, equipment: barbell\n\nSubstitution Options:\n\n- exercise_name: Hang Clean, equipment: barbell\n- exercise_name: Power Clean, equipment: barbell\n\nInstructions:\n\n- With a barbell on the floor close to the shins, take an overhand or hook grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.\n- Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight and elbows out. Move the weight with control as you continue to above the knees.\n- Next comes the second pull, the main source of acceleration for the clean. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended. Full extension should be violent and abrupt, and ensure that you do not prolong the extension for longer than necessary.",
+  "metadata": {
+    "exercise_id": "clean_pull",
+    "exercise_name": "clean_pull",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "pull"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

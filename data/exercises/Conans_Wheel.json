@@ -1,0 +1,42 @@
+{
+  "id": "conans_wheel",
+  "document": "Exercise: Conan's Wheel\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\nNone\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- rotational\n- linear\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- biceps\n- calves\n- forearms\n- lower back\n- shoulders\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- upper_body_endurance\n- whole_body_coordination\n- core_stability_and_strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain or injury\n\nExercise Variations:\n\n- name: Conan's Wheel with Medicine Ball, equipment: medicine ball\n- name: Conan's Wheel with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- exercise_name: Barbell Rollouts, equipment: barbell\n- exercise_name: Landmine Rotations, equipment: landmine\n\nInstructions:\n\n- With the weight loaded, take a zurcher hold on the end of the implement. Place the bar in the crook of the elbow and hold onto your wrist. Try to keep the weight off of the forearms.\n- Begin by lifting the weight from the ground. Keep a tight, upright posture as you being to walk, taking short, fast steps. Look up and away as you turn in a circle. Do not hold your breath during the event. Continue walking until you complete one or more complete turns.",
+  "metadata": {
+    "exercise_id": "conans_wheel",
+    "exercise_name": "conan's_wheel",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "rotational",
+      "linear"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "biceps",
+      "lower_back",
+      "forearms",
+      "traps",
+      "shoulders",
+      "calves"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "upper_body_endurance",
+      "whole_body_coordination",
+      "core_stability_and_strength"
+    ],
+    "unilateral": false
+  }
+}

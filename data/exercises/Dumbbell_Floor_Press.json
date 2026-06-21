@@ -1,0 +1,36 @@
+{
+  "id": "dumbbell_floor_press",
+  "document": "Exercise: Dumbbell Floor Press\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- triceps_hypertrophy\n- shoulder_stability\n- chest_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Incline Dumbbell Floor Press, instructions: ['Lay on an incline bench holding dumbbells in your hands. Lower the weights until your upper arm comes in contact with the floor.']\n- name: Dumbbell Incline Floor Press, instructions: ['Lay on a flat surface, but elevate your feet to create an incline angle. Hold dumbbells and lower them until your upper arm touches the floor.']\n\nSubstitution Options:\n\n- exercise_name: Barbell Floor Press, equipment: barbell\n\nInstructions:\n\n- Lay on the floor holding dumbbells in your hands. Your knees can be bent. Begin with the weights fully extended above you.\n- Lower the weights until your upper arm comes in contact with the floor. You can tuck your elbows to emphasize triceps size and strength, or to focus on your chest angle your arms to the side.\n- Pause at the bottom, and then bring the weight together at the top by extending through the elbows.",
+  "metadata": {
+    "exercise_id": "dumbbell_floor_press",
+    "exercise_name": "dumbbell_floor_press",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "triceps_hypertrophy",
+      "shoulder_stability",
+      "chest_strength"
+    ],
+    "unilateral": false
+  }
+}

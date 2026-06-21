@@ -1,0 +1,33 @@
+{
+  "id": "london_bridges",
+  "document": "Exercise: London Bridges\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- horizontal_pulling\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- biceps\n- forearms\n- middle back\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder injury, description: May exacerbate shoulder issues due to the overhead position.\n- condition: back pain, description: Can increase strain on the lower back, especially if not performed with proper form.\n\nExercise Variations:\n\n- name: Single-Arm London Bridges, force: pull, level: advanced, mechanic: compound, primaryMuscles: ['lats'], secondaryMuscles: ['biceps', 'forearms', 'middle back']\n\nSubstitution Options:\n\n- exercise_name: Pull-Up, equipment: bar\n- exercise_name: Lat Pulldown, equipment: cable machine\n\nInstructions:\n\n- Attach a climbing rope to a high beam or cross member. Below it, ensure that the smith machine bar is locked in place with the safeties and cannot move. Alternatively, a secure box could also be utilized.\n- Stand on the bar, using the rope to balance yourself. This will be your starting position.\n- Keeping your body straight, lean back and lower your body by slowly going hand over hand with the rope. Continue until you are perpendicular to the ground.\n- Keeping your body straight, reverse the motion, going hand over hand back to the starting position.",
+  "metadata": {
+    "exercise_id": "london_bridges",
+    "exercise_name": "london_bridges",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "horizontal_pulling"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "forearms",
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

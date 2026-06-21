@@ -1,0 +1,32 @@
+{
+  "id": "chest_stretch_on_stability_ball",
+  "document": "Exercise: Chest Stretch on Stability Ball\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_static_stretch\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- exercise_ball\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.5\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relieve_chest_tension\n- improve_chest_flexibility\n\nContraindications:\n\n- acute chest pain\n- recent chest surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Get on your hands and knees next to an exercise ball.\n- Place your elbows on top of the ball, keeping your arm out to your side. This will be your starting position.\n- Lower your torso towards the floor, keeping your elbow on top of the ball. Hold the stretch for 20-30 seconds, and repeat with the other arm.",
+  "metadata": {
+    "exercise_id": "chest_stretch_on_stability_ball",
+    "exercise_name": "chest_stretch_on_stability_ball",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_static_stretch"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "exercise_ball"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.5,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relieve_chest_tension",
+      "improve_chest_flexibility"
+    ],
+    "unilateral": false
+  }
+}

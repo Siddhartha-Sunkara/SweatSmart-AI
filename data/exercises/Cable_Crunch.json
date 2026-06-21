@@ -1,0 +1,32 @@
+{
+  "id": "cable_crunch",
+  "document": "Exercise: Cable Crunch\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension_of_the_spine\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- abdominal_muscle_strengthening\n\nContraindications:\n\n- Lower back pain or injury\n\nExercise Variations:\n\n- name: Single Arm Cable Crunch, equipment: cable\n- name: Cable Crunch with Medicine Ball, equipment: cable, medicine ball\n\nSubstitution Options:\n\n- exercise_name: Bicycle Crunches, equipment: bodyweight\n- exercise_name: Reverse Cable Crunch, equipment: cable\n\nInstructions:\n\n- Kneel below a high pulley that contains a rope attachment.\n- Grasp cable rope attachment and lower the rope until your hands are placed next to your face.\n- Flex your hips slightly and allow the weight to hyperextend the lower back. This will be your starting position.\n- With the hips stationary, flex the waist as you contract the abs so that the elbows travel towards the middle of the thighs. Exhale as you perform this portion of the movement and hold the contraction for a second.\n- Slowly return to the starting position as you inhale. Tip: Make sure that you keep constant tension on the abs throughout the movement. Also, do not choose a weight so heavy that the lower back handles the brunt of the work.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "cable_crunch",
+    "exercise_name": "cable_crunch",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension_of_the_spine"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "abdominal_muscle_strengthening"
+    ],
+    "unilateral": false
+  }
+}

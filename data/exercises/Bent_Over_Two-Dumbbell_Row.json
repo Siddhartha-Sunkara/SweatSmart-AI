@@ -1,0 +1,36 @@
+{
+  "id": "bent_over_two_dumbbell_row",
+  "document": "Exercise: Bent Over Two-Dumbbell Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_rowing_motion\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n- shoulders\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- improve_overall_upper_body_strength\n- strengthen_the_middle_back_muscles\n\nContraindications:\n\n- Shoulder impingement\n- Lower back pain\n\nExercise Variations:\n\n- name: Kneeling Bent Over Two-Dumbbell Row, mechanic: compound, primaryMuscles: ['middle back']\n- name: Bent Over Dumbbell Row with Cable Assist, equipment: dumbbell, cable machine\n\nSubstitution Options:\n\n- name: Dumbbell Single-Arm Row, equipment: dumbbell\n\nInstructions:\n\n- With a dumbbell in each hand (palms facing your torso), bend your knees slightly and bring your torso forward by bending at the waist; as you bend make sure to keep your back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.\n- While keeping the torso stationary, lift the dumbbells to your side (as you breathe out), keeping the elbows close to the body (do not exert any force with the forearm other than holding the weights). On the top contracted position, squeeze the back muscles and hold for a second.\n- Slowly lower the weight again to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "bent_over_two_dumbbell_row",
+    "exercise_name": "bent_over_two_dumbbell_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_rowing_motion"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "shoulders",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_overall_upper_body_strength",
+      "strengthen_the_middle_back_muscles"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "olympic_squat",
+  "document": "Exercise: Olympic Squat\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- knee_flexion\n- sagittal_plane\n- hip\n- extension\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system, glycolytic pathway\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy_of_quadriceps,_glutes,_and_hamstrings\n- improvement_in_overall_lower_body_strength_and_stability\n\nContraindications:\n\n- Severe knee instability or injury\n- Recent lower back surgery\n\nExercise Variations:\n\n- name: Sumo Deadlift High Pull, equipment: barbell\n- name: Goblet Squat, equipment: dumbbell or kettlebell\n\nSubstitution Options:\n\n- exercise_name: Front Squat, equipment: barbell\n- exercise_name: Back Squat, equipment: barbell\n\nInstructions:\n\n- Begin with a barbell supported on top of the traps. The chest should be up, and the head facing forward. Adopt a hip width stance with the feet turned out as needed.\n- Descend by flexing the knees, refraining from moving the hips back as much as possible. This requires that the knees travel forward; ensure that they stay aligned with the feet. The goal is to keep the torso as upright as possible. Continue all the way down, keeping the weight on the front of the heel.\n- At the moment the upper legs contact the lower, reverse the motion, driving the weight upward.",
+  "metadata": {
+    "exercise_id": "olympic_squat",
+    "exercise_name": "olympic_squat",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "knee_flexion",
+      "sagittal_plane",
+      "hip",
+      "extension"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system,_glycolytic_pathway",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy_of_quadriceps,_glutes,_and_hamstrings",
+      "improvement_in_overall_lower_body_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

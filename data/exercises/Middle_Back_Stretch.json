@@ -1,0 +1,34 @@
+{
+  "id": "middle_back_stretch",
+  "document": "Exercise: Middle Back Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- torso_rotation\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- abdominals\n- lats\n- lower back\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relax_middle_back_muscles\n- improve_spinal_flexibility\n\nContraindications:\n\n- acute back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Stand so your feet are shoulder width apart and your hands are on your hips.\n- Twist at your waist until you feel a stretch. Hold for 10 to 15 seconds, then twist to the other side.",
+  "metadata": {
+    "exercise_id": "middle_back_stretch",
+    "exercise_name": "middle_back_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "torso_rotation"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "lower_back",
+      "lats"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relax_middle_back_muscles",
+      "improve_spinal_flexibility"
+    ],
+    "unilateral": false
+  }
+}

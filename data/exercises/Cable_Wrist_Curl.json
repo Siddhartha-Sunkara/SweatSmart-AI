@@ -1,0 +1,33 @@
+{
+  "id": "cable_wrist_curl",
+  "document": "Exercise: Cable Wrist Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- wrist_flexion\n- extension\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- isolated_forearm_strength_and_muscle_hypertrophy\n- wrist_flexibility_and_mobility\n\nContraindications:\n\n- Individuals with wrist injuries or conditions should consult a healthcare provider before performing this exercise.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Dumbbell Wrist Curl, equipment: dumbbells\n\nInstructions:\n\n- Start out by placing a flat bench in front of a low pulley cable that has a straight bar attachment.\n- Use your arms to grab the cable bar with a narrow to shoulder width supinated grip (palms up) and bring them up so that your forearms are resting against the top of your thighs. Your wrists should be hanging just beyond your knees.\n- Start out by curling your wrist upwards and exhaling. Keep the contraction for a second.\n- Slowly lower your wrists back down to the starting position while inhaling.\n- Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "cable_wrist_curl",
+    "exercise_name": "cable_wrist_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "wrist_flexion",
+      "extension"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "isolated_forearm_strength_and_muscle_hypertrophy",
+      "wrist_flexibility_and_mobility"
+    ],
+    "unilateral": false
+  }
+}

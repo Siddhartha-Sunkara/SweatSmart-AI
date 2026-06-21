@@ -1,0 +1,37 @@
+{
+  "id": "bench_dips",
+  "document": "Exercise: Bench Dips\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elbow\n- triple_articulation_(shoulder\n- wrist)\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- tricep_hypertrophy\n- chest_and_shoulder_strengthening\n\nContraindications:\n\n- Shoulder instability or injury\n- Elbow pain or injury\n\nExercise Variations:\n\n- name: Dips with Weighted Vest, equipment: body only, weighted vest\n- name: Incline Dips, equipment: bench at an incline\n\nSubstitution Options:\n\n- exercise_name: Push-Ups, equipment: body only\n- exercise_name: Tricep Extensions, equipment: dumbbells or resistance bands\n\nInstructions:\n\n- For this exercise you will need to place a bench behind your back. With the bench perpendicular to your body, and while looking away from it, hold on to the bench on its edge with the hands fully extended, separated at shoulder width. The legs will be extended forward, bent at the waist and perpendicular to your torso. This will be your starting position.\n- Slowly lower your body as you inhale by bending at the elbows until you lower yourself far enough to where there is an angle slightly smaller than 90 degrees between the upper arm and the forearm. Tip: Keep the elbows as close as possible throughout the movement. Forearms should always be pointing down.\n- Using your triceps to bring your torso up again, lift yourself back to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "bench_dips",
+    "exercise_name": "bench_dips",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elbow",
+      "triple_articulation_(shoulder",
+      "wrist)"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "tricep_hypertrophy",
+      "chest_and_shoulder_strengthening"
+    ],
+    "unilateral": false
+  }
+}

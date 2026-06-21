@@ -1,0 +1,34 @@
+{
+  "id": "cross_body_hammer_curl",
+  "document": "Exercise: Cross Body Hammer Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- bilateral_alternating_arm_curl_with_external_rotation\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\n\n- forearms\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- biceps_hypertrophy\n- forearm_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single Arm Cross Body Hammer Curl, equipment: dumbbell\n\nSubstitution Options:\n\n- exercise_name: Alternating Dumbbell Curl, equipment: dumbbell\n\nInstructions:\n\n- Stand up straight with a dumbbell in each hand. Your hands should be down at your side with your palms facing in.\n- While keeping your palms facing in and without twisting your arm, curl the dumbbell of the right arm up towards your left shoulder as you exhale. Touch the top of the dumbbell to your shoulder and hold the contraction for a second.\n- Slowly lower the dumbbell along the same path as you inhale and then repeat the same movement for the left arm.\n- Continue alternating in this fashion until the recommended amount of repetitions is performed for each arm.",
+  "metadata": {
+    "exercise_id": "cross_body_hammer_curl",
+    "exercise_name": "cross_body_hammer_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "bilateral_alternating_arm_curl_with_external_rotation"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "biceps_hypertrophy",
+      "forearm_strength"
+    ],
+    "unilateral": false
+  }
+}

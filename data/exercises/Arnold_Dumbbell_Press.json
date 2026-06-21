@@ -1,0 +1,35 @@
+{
+  "id": "arnold_dumbbell_press",
+  "document": "Exercise: Arnold Dumbbell Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_press_with_rotation\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- developing_shoulder_and_triceps_strength\n- improving_shoulder_muscle_balance\n- enhancing_upper_body_symmetry\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent shoulder surgery\n\nExercise Variations:\n\n- name: Arnold Dumbbell Press with Pause, instructions: ['Hold the dumbbells in the starting position as described.', 'Pause for a count of two at the top of the movement before lowering.']\n- name: Arnold Dumbbell Press with Increased Range of Motion, instructions: ['Perform the Arnold Dumbbell Press but extend your arms slightly beyond the fully extended position.']\n\nSubstitution Options:\n\n- name: Barbell Arnold Press, equipment: barbell\n- name: Machine Arnold Press, equipment: cable machine\n\nInstructions:\n\n- Sit on an exercise bench with back support and hold two dumbbells in front of you at about upper chest level with your palms facing your body and your elbows bent. Tip: Your arms should be next to your torso. The starting position should look like the contracted portion of a dumbbell curl.\n- Now to perform the movement, raise the dumbbells as you rotate the palms of your hands until they are facing forward.\n- Continue lifting the dumbbells until your arms are extended above you in straight arm position. Breathe out as you perform this portion of the movement.\n- After a second pause at the top, begin to lower the dumbbells to the original position by rotating the palms of your hands towards you. Tip: The left arm will be rotated in a counter clockwise manner while the right one will be rotated clockwise. Breathe in as you perform this portion of the movement.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "arnold_dumbbell_press",
+    "exercise_name": "arnold_dumbbell_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_press_with_rotation"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "developing_shoulder_and_triceps_strength",
+      "improving_shoulder_muscle_balance",
+      "enhancing_upper_body_symmetry"
+    ],
+    "unilateral": false
+  }
+}

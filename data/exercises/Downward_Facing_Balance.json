@@ -1,0 +1,35 @@
+{
+  "id": "downward_facing_balance",
+  "document": "Exercise: Downward Facing Balance\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- static_hold\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- abdominals\n- hamstrings\n\nEquipment:\n\n- exercise_ball\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- glute_strengthening\n- core_engagement\n\nContraindications:\n\n- lower back pain\n- recent abdominal surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Lie facedown on top of an exercise ball.\n- While resting on your stomach on the ball, walk your hands forward along the floor and lift your legs, extending your elbows and knees.",
+  "metadata": {
+    "exercise_id": "downward_facing_balance",
+    "exercise_name": "downward_facing_balance",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "static_hold"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "hamstrings"
+    ],
+    "equipment": [
+      "exercise_ball"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "glute_strengthening",
+      "core_engagement"
+    ],
+    "unilateral": false
+  }
+}

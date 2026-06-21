@@ -1,0 +1,37 @@
+{
+  "id": "bent_over_one_arm_long_bar_row",
+  "document": "Exercise: Bent Over One-Arm Long Bar Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_row\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n- lower back\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- back_strength_and_hypertrophy\n- unilateral_stability\n\nContraindications:\n\n- condition: shoulder injury, description: May exacerbate shoulder issues due to the overhead position of the arm.\n- condition: lower back pain, description: The bent-over position may place additional strain on the lower back. Consider modifications or alternative exercises if experiencing pain.\n\nExercise Variations:\n\n- name: Bent Over One-Arm Short Bar Row, equipment: short barbell\n- name: Single-Arm Pull-Up, equipment: pull-up bar\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Dumbbell Row, equipment: dumbbells\n- exercise_name: One-Arm Kettlebell Row, equipment: kettlebells\n\nInstructions:\n\n- Put weight on one of the ends of an Olympic barbell. Make sure that you either place the other end of the barbell in the corner of two walls; or put a heavy object on the ground so the barbell cannot slide backward.\n- Bend forward until your torso is as close to parallel with the floor as you can and keep your knees slightly bent.\n- Now grab the bar with one arm just behind the plates on the side where the weight was placed and put your other hand on your knee. This will be your starting position.\n- Pull the bar straight up with your elbow in (to maximize back stimulation) until the plates touch your lower chest. Squeeze the back muscles as you lift the weight up and hold for a second at the top of the movement. Breathe out as you lift the weight. Tip: Do not allow for any swinging of the torso. Only the arm should move.\n- Slowly lower the bar to the starting position getting a nice stretch on the lats. Tip: Do not let the plates touch the floor. To ensure the best range of motion, I recommend using small plates (25-lb ones) as opposed to larger plates (like 35-45lb ones).\n- Repeat for the recommended amount of repetitions and switch arms.",
+  "metadata": {
+    "exercise_id": "bent_over_one_arm_long_bar_row",
+    "exercise_name": "bent_over_one_arm_long_bar_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_row"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "traps",
+      "lats",
+      "lower_back",
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "back_strength_and_hypertrophy",
+      "unilateral_stability"
+    ],
+    "unilateral": false
+  }
+}

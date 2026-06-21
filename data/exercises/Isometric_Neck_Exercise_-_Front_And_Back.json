@@ -1,0 +1,31 @@
+{
+  "id": "isometric_neck_exercise___front_and_back",
+  "document": "Exercise: Isometric Neck Exercise - Front And Back\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- isometric_contraction\n\nPrimary Muscles:\n\n- neck\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- strength_training_for_the_neck_muscles\n\nContraindications:\n\n- recent neck injury\n- neck pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- With your head and neck in a neutral position (normal position with head erect facing forward), place both of your hands on the front side of your head.\n- Now gently push forward as you contract the neck muscles but resisting any movement of your head. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.\n- Hold for the recommended number of seconds.\n- Now release the tension slowly.\n- Rest for the recommended amount of time and repeat with your hands placed on the back side of your head.",
+  "metadata": {
+    "exercise_id": "isometric_neck_exercise___front_and_back",
+    "exercise_name": "isometric_neck_exercise___front_and_back",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "isometric_contraction"
+    ],
+    "primary_muscles": [
+      "neck"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 0,
+    "goals": [
+      "strength_training_for_the_neck_muscles"
+    ],
+    "unilateral": false
+  }
+}

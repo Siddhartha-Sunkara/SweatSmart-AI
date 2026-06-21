@@ -1,0 +1,35 @@
+{
+  "id": "standing_cable_chest_press",
+  "document": "Exercise: Standing Cable Chest Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- horizontal_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Close-Grip Standing Cable Chest Press, primaryMuscles: ['triceps']\n- name: Wide-Grip Standing Cable Chest Press, primaryMuscles: ['chest']\n\nSubstitution Options:\n\n- name: Flat Bench Press, equipment: barbell\n- name: Incline Dumbbell Chest Press, equipment: dumbbells\n\nInstructions:\n\n- Position dual pulleys to chest height and select an appropriate weight. Stand a foot or two in front of the cables, holding one in each hand. You can stagger your stance for better stability.\n- Position the upper arm at a 90 degree angle with the shoulder blades together. This will be your starting position.\n- Keeping the rest of the body stationary, extend through the elbows to press the handles forward, drawing them together in front of you.\n- Pause at the top of the motion, and return to the starting position.",
+  "metadata": {
+    "exercise_id": "standing_cable_chest_press",
+    "exercise_name": "standing_cable_chest_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "horizontal_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

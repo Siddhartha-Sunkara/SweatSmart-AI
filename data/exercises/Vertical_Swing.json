@@ -1,0 +1,37 @@
+{
+  "id": "vertical_swing",
+  "document": "Exercise: Vertical Swing\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump\n- hip_hinge\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- glutes\n- quadriceps\n- shoulders\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power_and_explosiveness\n\nContraindications:\n\n- Lower back pain\n- Recent or chronic knee injury\n\nExercise Variations:\n\n- name: Single-Arm Vertical Swing, equipment: dumbbell\n- name: Medicine Ball Vertical Swing, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Kettlebell Swing, equipment: kettlebell\n\nInstructions:\n\n- Allow the dumbbell to hang at arms length between your legs, holding it with both hands. Keep your back straight and your head up.\n- Swing the dumbbell between your legs, flexing at the hips and bending the knees slightly.\n- Powerfully reverse the motion by extending at the hips, knees, and ankles to propel yourself upward, swinging the dumbell over your head.\n- As you land, absorb the impact through your legs and draw the dumbbell to your torso before the next repetition.",
+  "metadata": {
+    "exercise_id": "vertical_swing",
+    "exercise_name": "vertical_swing",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump",
+      "hip_hinge"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "shoulders",
+      "quadriceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power_and_explosiveness"
+    ],
+    "unilateral": false
+  }
+}

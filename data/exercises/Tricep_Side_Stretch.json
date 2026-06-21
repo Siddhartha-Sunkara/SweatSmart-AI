@@ -1,0 +1,31 @@
+{
+  "id": "tricep_side_stretch",
+  "document": "Exercise: Tricep Side Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_static_stretch\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- shoulders\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.5\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_tricep_flexibility\n\nContraindications:\n\n- recent elbow injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Bring right arm across your body and over your left shoulder, holding your elbow with your left hand, until you feel a stretch in your tricep. Then repeat for your other arm.",
+  "metadata": {
+    "exercise_id": "tricep_side_stretch",
+    "exercise_name": "tricep_side_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_static_stretch"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.5,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_tricep_flexibility"
+    ],
+    "unilateral": false
+  }
+}

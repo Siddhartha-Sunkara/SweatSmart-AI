@@ -1,0 +1,35 @@
+{
+  "id": "back_flyes___with_bands",
+  "document": "Exercise: Back Flyes - With Bands\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- middle back\n- triceps\n\nEquipment:\n\n- bands\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- shoulder_strength\n- middle_back_development\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Machine Back Flyes, equipment: cable machine\n\nSubstitution Options:\n\n- name: Dumbbell Lateral Raises, equipment: dumbbells\n\nInstructions:\n\n- Run a band around a stationary post like that of a squat rack.\n- Grab the band by the handles and stand back so that the tension in the band rises.\n- Extend and lift the arms straight in front of you. Tip: Your arms should be straight and parallel to the floor while perpendicular to your torso. Your feet should be firmly planted on the floor spread at shoulder width. This will be your starting position.\n- As you exhale, move your arms to the sides and back. Keep your arms extended and parallel to the floor. Continue the movement until the arms are extended to your sides.\n- After a pause, go back to the original position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "back_flyes___with_bands",
+    "exercise_name": "back_flyes___with_bands",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "middle_back"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "shoulder_strength",
+      "middle_back_development"
+    ],
+    "unilateral": false
+  }
+}

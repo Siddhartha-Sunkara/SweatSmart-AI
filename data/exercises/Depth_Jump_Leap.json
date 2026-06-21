@@ -1,0 +1,40 @@
+{
+  "id": "depth_jump_leap",
+  "document": "Exercise: Depth Jump Leap\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump_with_landing\n- takeoff_from_a_height\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- develop_plyometric_skills_for_athletes_in_sports_requiring_quick,_powerful_movements\n- improve_lower_body_strength_and_coordination\n- enhance_explosive_power_and_vertical_jump_height\n\nContraindications:\n\n- Individuals with knee or ankle injuries should avoid this exercise due to the high impact nature.\n- Those with lower back issues may also need to be cautious as the landing can place significant stress on the spine.\n\nExercise Variations:\n\n- name: Single-Leg Depth Jump Leap, description: Perform the same movement but with one leg at a time to isolate the muscles further.\n- name: Depth Jump Leap with Medicine Ball, description: Hold a medicine ball during the jump for added resistance and core engagement.\n\nSubstitution Options:\n\n- exercise_name: Box Jump, description: A similar plyometric exercise that can be used as a substitute for Depth Jump Leap, focusing on explosive power and lower body strength.\n\nInstructions:\n\n- For this drill you will need two boxes or benches, one 12 to 16 inches high and the other 22 to 26 inches high.\n- Stand on one of the two boxes with arms at the sides; feet should be together and slightly off the edge as in the depth jump. Place the other box approximately two or three feet in front of and facing the performer.\n- Begin by dropping off the initial box, landing and simultaneously taking off with both feet.\n- Rebound by driving upward and outward as intensely as possible, using the arms and full extension of the body to jump onto the higher box. Again, allow the legs to absorb the impact.",
+  "metadata": {
+    "exercise_id": "depth_jump_leap",
+    "exercise_name": "depth_jump_leap",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump_with_landing",
+      "takeoff_from_a_height"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "adductors",
+      "abductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "develop_plyometric_skills_for_athletes_in_sports_requiring_quick,_powerful_movements",
+      "improve_lower_body_strength_and_coordination",
+      "enhance_explosive_power_and_vertical_jump_height"
+    ],
+    "unilateral": false
+  }
+}

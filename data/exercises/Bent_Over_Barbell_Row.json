@@ -1,0 +1,37 @@
+{
+  "id": "bent_over_barbell_row",
+  "document": "Exercise: Bent Over Barbell Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system and glycolytic system\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improve_grip_strength\n- enhance_overall_upper_body_pulling_strength\n- strengthen_the_middle_back_and_rear_deltoids\n\nContraindications:\n\n- Lower back issues\n- Shoulder injuries\n\nExercise Variations:\n\n- name: Single-Arm Dumbbell Row, equipment: dumbbells\n- name: Machine Bent Over Row, equipment: cable machine\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Row, equipment: dumbbells\n- exercise_name: Kettlebell Row, equipment: kettlebells\n\nInstructions:\n\n- Holding a barbell with a pronated grip (palms facing down), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.\n- Now, while keeping the torso stationary, breathe out and lift the barbell to you. Keep the elbows close to the body and only use the forearms to hold the weight. At the top contracted position, squeeze the back muscles and hold for a brief pause.\n- Then inhale and slowly lower the barbell back to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "bent_over_barbell_row",
+    "exercise_name": "bent_over_barbell_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "shoulders",
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_and_glycolytic_system",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improve_grip_strength",
+      "enhance_overall_upper_body_pulling_strength",
+      "strengthen_the_middle_back_and_rear_deltoids"
+    ],
+    "unilateral": false
+  }
+}

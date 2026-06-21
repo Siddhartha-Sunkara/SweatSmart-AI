@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets / env
+.env
+.env.local
+*.pem
+*.key
+
+# Local data stores
+*.db
+*.sqlite
+*.sqlite3
+*.sqbpro
+qdrant_storage/
+
+# HF / model caches
+.cache/
+.huggingface/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+nul
+
+# Build artifacts
+build/
+dist/
+
+# Reports / logs
+evaluation/reports/
+*.log

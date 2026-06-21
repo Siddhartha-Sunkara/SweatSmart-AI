@@ -1,0 +1,35 @@
+{
+  "id": "linear_acceleration_wall_drill",
+  "document": "Exercise: Linear Acceleration Wall Drill\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- plyometric\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- glutes\n- quadriceps\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_explosive_power\n- increase_glute_activation\n- improve_hamstring_strength_and_flexibility\n\nContraindications:\n\n- Individuals with lower back pain or knee injuries should avoid this exercise.\n\nExercise Variations:\n\n- name: Linear Acceleration Wall Drill with Medicine Ball, force: None, level: intermediate, mechanic: compound, equipment: ['medicine ball'], primaryMuscles: ['hamstrings'], secondaryMuscles: ['calves', 'glutes', 'quadriceps'], instructions: ['Lean at around 45 degrees against a wall. Your feet should be together, glutes contracted.', 'Begin by lifting your right knee quickly, pausing, and then driving it straight down into the ground while simultaneously throwing a medicine ball forward.', 'Switch legs, raising the opposite knee, and then attacking the ground straight down while catching the medicine ball with the other hand.', 'Repeat once more with your right leg, and as soon as the right foot strikes the ground hammer them out rapidly, alternating left and right as fast as you can.'], category: plyometrics, images: ['Linear_Acceleration_Wall_Drill_Medicine_Ball/0.jpg', 'Linear_Acceleration_Wall_Drill_Medicine_Ball/1.jpg'], id: Linear_Acceleration_Wall_Drill_Medicine_Ball\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Lean at around 45 degrees against a wall. Your feet should be together, glutes contracted.\n- Begin by lifting your right knee quickly, pausing, and then driving it straight down into the ground.\n- Switch legs, raising the opposite knee, and then attacking the ground straight down.\n- Repeat once more with your right leg, and as soon as the right foot strikes the ground hammer them out rapidly, alternating left and right as fast as you can.",
+  "metadata": {
+    "exercise_id": "linear_acceleration_wall_drill",
+    "exercise_name": "linear_acceleration_wall_drill",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "plyometric"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "quadriceps"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_explosive_power",
+      "increase_glute_activation",
+      "improve_hamstring_strength_and_flexibility"
+    ],
+    "unilateral": false
+  }
+}

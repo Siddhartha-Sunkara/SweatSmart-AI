@@ -1,0 +1,39 @@
+{
+  "id": "backward_drag",
+  "document": "Exercise: Backward Drag\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body_pulling_with_a_backward_motion\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- forearms\n- glutes\n- hamstrings\n- lower back\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hamstring_activation\n- glute_engagement\n- quadriceps_strength_and_endurance\n\nContraindications:\n\n- Lower back issues\n- Recent knee surgery\n\nExercise Variations:\n\n- name: Sled Drag with Dumbbells, equipment: dumbbells\n- name: Sled Drag with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Reverse Landmine Press, equipment: barbell\n- exercise_name: Kettlebell Retriever, equipment: kettlebells\n\nInstructions:\n\n- Load a sled with the desired weight, attaching a rope or straps to the sled that you can hold onto.\n- Begin the exercise by moving backwards for a given distance. Leaning back, extend through the legs for short steps to move as quickly as possible.",
+  "metadata": {
+    "exercise_id": "backward_drag",
+    "exercise_name": "backward_drag",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body_pulling_with_a_backward_motion"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "forearms",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hamstring_activation",
+      "glute_engagement",
+      "quadriceps_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

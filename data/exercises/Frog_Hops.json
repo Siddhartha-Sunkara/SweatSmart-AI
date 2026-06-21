@@ -1,0 +1,35 @@
+{
+  "id": "frog_hops",
+  "document": "Exercise: Frog Hops\n\nCategory:\nstretching\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- pull\n- bilateral_lower_body_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- explosive_power\n- lower_body_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Frog Hops with Resistance Bands, equipment: ['resistance bands']\n\nSubstitution Options:\n\n- name: Jumping Lunges, force: push and pull, level: intermediate\n\nInstructions:\n\n- Stand with your hands behind your head, and squat down keeping your torso upright and your head up. This will be your starting position.\n- Jump forward several feet, avoiding jumping unnecessarily high. As your feet contact the ground, absorb the impact through your legs, and jump again. Repeat this action 5-10 times.",
+  "metadata": {
+    "exercise_id": "frog_hops",
+    "exercise_name": "frog_hops",
+    "category": "stretching",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "pull",
+      "bilateral_lower_body_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "explosive_power",
+      "lower_body_strength"
+    ],
+    "unilateral": false
+  }
+}

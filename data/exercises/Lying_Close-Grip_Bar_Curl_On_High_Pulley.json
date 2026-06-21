@@ -1,0 +1,32 @@
+{
+  "id": "lying_close_grip_bar_curl_on_high_pulley",
+  "document": "Exercise: Lying Close-Grip Bar Curl On High Pulley\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- cable_isolation\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- bicep_hypertrophy\n- isolated_bicep_strength\n\nContraindications:\n\n- Shoulder injuries\n- Elbow issues\n\nExercise Variations:\n\n- name: Incline Close-Grip Bar Curl On High Pulley, mechanic: isolation, primaryMuscles: ['biceps']\n- name: Close-Grip Hammer Curl On High Pulley, mechanic: isolation, primaryMuscles: ['biceps']\n\nSubstitution Options:\n\n- name: Barbell Curl, equipment: barbell\n- name: Dumbbell Curl, equipment: dumbbells\n\nInstructions:\n\n- Place a flat bench in front of a high pulley or lat pulldown machine.\n- Hold the straight bar attachment using an underhand grip (palms up) that is about shoulder width.\n- Lie on your back with your head over the end of the bench.\n- Now extend your arms straight above your shoulders. Your torso and your arms should make a 90-degree angle and the elbows should be in. This will be your starting position.\n- As you breathe out, curl the bar down in a semicircular motion until it touches your chin. Squeeze the biceps for a second at the top contracted position. Tip: As you execute this motion only the forearms should move. At no time should the upper arms be moving at all. They are to remain perpendicular throughout the movement.\n- Return to starting position slowly.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "lying_close_grip_bar_curl_on_high_pulley",
+    "exercise_name": "lying_close_grip_bar_curl_on_high_pulley",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "cable_isolation"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "bicep_hypertrophy",
+      "isolated_bicep_strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "front_squat_clean_grip",
+  "document": "Exercise: Front Squat (Clean Grip)\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- glutes\n- hamstrings\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hamstring_engagement\n- core_stability_and_strength\n- glute_activation\n- quadriceps_development\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Front Squat (Sumo Stance), force: push, level: intermediate\n- name: Front Squat (Close Grip), force: push, level: intermediate\n\nSubstitution Options:\n\n- name: Back Squat (Clean Grip), force: push, level: intermediate\n- name: Front Squat (Overhand Grip), force: push, level: intermediate\n\nInstructions:\n\n- To begin, first set the bar in a rack slightly below shoulder level. Rest the bar on top of the deltoids, pushing into the clavicles, and lightly touching the throat. Your hands should be in a clean grip, touching the bar only with your fingers to help keep it in position.\n- Lift the bar off the rack by first pushing with your legs and at the same time straightening your torso. Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head and elbows up at all times. This will be your starting position.\n- Bend at the knees, sitting down between your legs. Continue down until your hamstrings are on your calves. Keep your knees aligned with your feet by consciously using your abductors to push your knees out as you squat.\n- Begin to raise the bar as you exhale by pushing the floor mainly with the heel or middle of your foot as you straighten the legs again and return to the starting position.",
+  "metadata": {
+    "exercise_id": "front_squat_clean_grip",
+    "exercise_name": "front_squat_(clean_grip)",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "abdominals",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hamstring_engagement",
+      "core_stability_and_strength",
+      "glute_activation",
+      "quadriceps_development"
+    ],
+    "unilateral": false
+  }
+}

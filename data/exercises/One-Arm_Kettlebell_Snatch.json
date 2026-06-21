@@ -1,0 +1,40 @@
+{
+  "id": "one_arm_kettlebell_snatch",
+  "document": "Exercise: One-Arm Kettlebell Snatch\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- pull_push\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- lower back\n- traps\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improving_hip_and_knee_mobility\n- building_shoulder_strength\n- developing_explosive_power\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain or injury\n\nExercise Variations:\n\n- name: Two-Arm Kettlebell Snatch, equipment: kettlebells\n- name: One-Arm Kettlebell Clean and Press, equipment: kettlebells\n\nSubstitution Options:\n\n- name: Single-Arm Dumbbell Snatch, equipment: dumbbells\n- name: Kettlebell Clean and Press, equipment: kettlebells\n\nInstructions:\n\n- Place a kettlebell between your feet. Bend your knees and push your butt back to get in the proper starting position.\n- Look straight ahead and swing the kettlebell back between your legs.\n- Immediately reverse the direction and drive through with your hips and knees, accelerating the kettlebell upward. As the kettlebell rises to your shoulder rotate your hand and punch straight up, using momentum to receive the weight locked out overhead.",
+  "metadata": {
+    "exercise_id": "one_arm_kettlebell_snatch",
+    "exercise_name": "one_arm_kettlebell_snatch",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "pull_push"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "traps",
+      "triceps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improving_hip_and_knee_mobility",
+      "building_shoulder_strength",
+      "developing_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

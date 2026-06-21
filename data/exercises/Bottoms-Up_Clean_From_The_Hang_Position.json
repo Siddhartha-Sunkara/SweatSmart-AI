@@ -1,0 +1,37 @@
+{
+  "id": "bottoms_up_clean_from_the_hang_position",
+  "document": "Exercise: Bottoms-Up Clean From The Hang Position\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hinge\n- pull\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\n\n- biceps\n- shoulders\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhance_shoulder_stability_and_mobility\n- build_explosive_power\n- develop_grip_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Bottoms-Up Clean From The Hang Position (Single Arm), instructions: ['Perform the exercise with one arm at a time.']\n- name: Bottoms-Up Clean From The Hang Position (With Pause), instructions: ['Pause briefly at the bottom position before initiating the upward movement.']\n\nSubstitution Options:\n\n- name: Bottoms-Up Clean From The Hang Position (Dumbbells), equipment: dumbbells\n\nInstructions:\n\n- Initiate the exercise by standing upright with a kettlebell in one hand.\n- Swing the kettlebell back forcefully and then reverse the motion forcefully. Crush the kettlebell handle as hard as possible and raise the kettlebell to your shoulder.",
+  "metadata": {
+    "exercise_id": "bottoms_up_clean_from_the_hang_position",
+    "exercise_name": "bottoms_up_clean_from_the_hang_position",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hinge",
+      "pull"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [
+      "shoulders",
+      "biceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhance_shoulder_stability_and_mobility",
+      "build_explosive_power",
+      "develop_grip_strength"
+    ],
+    "unilateral": false
+  }
+}

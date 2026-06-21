@@ -1,0 +1,32 @@
+{
+  "id": "one_arm_high_pulley_cable_side_bends",
+  "document": "Exercise: One-Arm High-Pulley Cable Side Bends\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_side_bend\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- target_oblique_muscles\n- improve_core_stability\n\nContraindications:\n\n- Individuals with lower back pain should avoid this exercise or perform it with caution.\n\nExercise Variations:\n\n- name: Two-Arm High-Pulley Cable Crunches, mechanic: compound, primaryMuscles: ['abdominals', 'rectus abdominis']\n\nSubstitution Options:\n\n- name: One-Arm Dumbbell Side Bends, equipment: dumbbells\n\nInstructions:\n\n- Connect a standard handle to a tower. Move cable to highest pulley position.\n- Stand with side to cable. With one hand, reach up and grab handle with underhand grip.\n- Pull down cable until elbow touches your side and the handle is by your shoulder.\n- Position feet hip-width apart. Place free hand on hip to help gauge pivot point.\n- Keep arm in static position. Contract oblique to bring the weight down in a side crunch.\n- Once you reach maximum contraction, slowly release the weight to the starting position. The weight stack should never be unloaded in a resting position. The aim is constant tension during the set.\n- Repeat to failure.\n- Then, reposition and repeat the same series of movements on the opposite side.",
+  "metadata": {
+    "exercise_id": "one_arm_high_pulley_cable_side_bends",
+    "exercise_name": "one_arm_high_pulley_cable_side_bends",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_side_bend"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "target_oblique_muscles",
+      "improve_core_stability"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "quad_stretch",
+  "document": "Exercise: Quad Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- extension\n- unilateral_hip_flexion\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relax_quads\n- improve_quad_flexibility\n\nContraindications:\n\n- recent quadriceps injury\n- hip instability\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Lay on your side. Loop a belt, rope, or band around your top foot. Flex the knee and extend your hip, attempting to touch your glutes with your foot, and holding the belt with your hands. This will be your starting position.\n- With the belt being held over the shoulder or overhead, gently pull to increase the stretch in the quadriceps. Hold for 10-20 seconds, and then switch sides.",
+  "metadata": {
+    "exercise_id": "quad_stretch",
+    "exercise_name": "quad_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "extension",
+      "unilateral_hip_flexion"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relax_quads",
+      "improve_quad_flexibility"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "car_deadlift",
+  "document": "Exercise: Car Deadlift\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- hamstrings\n- lower back\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power\n- strength\n\nContraindications:\n\n- Lower back issues\n- Knee injuries\n\nExercise Variations:\n\n- name: Car Deadlift with Chains, description: Add chains to the car handles for increased dynamic loading.\n- name: Car Deadlift with Bands, description: Use resistance bands for added tension during the lift.\n\nSubstitution Options:\n\n- exercise_name: Trap Bar Deadlift, equipment: trap bar\n- exercise_name: Barbell Deadlift, equipment: barbell\n\nInstructions:\n\n- This event apparatus typically has neutral grip handles, however some have a straight bar that you can approach like a normal deadlift. The apparatus can be loaded with a vehicle or other heavy objects such as tractor tires or kegs.\n- Center yourself between the handles if you are a strong squatter, or back a couple inches if you are a strong deadlifter. You feet should be about hip width apart. Bend at the hip to grip the handles. With your feet and your grip set, take a big breath and then lower your hips and flex the knees.\n- Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. As the weight comes up, pull your shoulder blades together as you drive your hips forward.\n- Lower the weight by bending at the hips and guiding it to the floor.",
+  "metadata": {
+    "exercise_id": "car_deadlift",
+    "exercise_name": "car_deadlift",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

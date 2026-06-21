@@ -1,0 +1,39 @@
+{
+  "id": "atlas_stone_trainer",
+  "document": "Exercise: Atlas Stone Trainer\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound_pull\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- biceps\n- forearms\n- glutes\n- hamstrings\n- quadriceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- developing_lower_back_strength\n- enhancing_overall_core_stability\n- improving_grip_strength\n\nContraindications:\n\n- Lower back issues\n- Shoulder injuries\n\nExercise Variations:\n\n- name: Single-Arm Atlas Stone Trainer, notes: Increase difficulty by performing the exercise with one arm.\n- name: Atlas Stone Trainer with Chains, notes: Add resistance bands for increased challenge and dynamic loading.\n\nSubstitution Options:\n\n- exercise_name: Deadlift, equipment: barbell\n- exercise_name: Barbell Row, equipment: barbell\n\nInstructions:\n\n- This trainer is effective for developing Atlas Stone strength for those who don't have access to stones, and are typically made from bar ends or heavy pipe.\n- Begin by loading the desired weight onto the bar. Straddle the weight, wrapping your arms around the implement, bending at the hips.\n- Begin by pulling the weight up past the knees, extending through the hips. As the weight clears the knees, it can be lapped by resting it on your thighs and sitting back, hugging it tightly to your chest.\n- Finish the movement by extending through your hips and knees to raise the weight as high as possible. The weight can be returned to the lap or to the ground for successive repetitions.",
+  "metadata": {
+    "exercise_id": "atlas_stone_trainer",
+    "exercise_name": "atlas_stone_trainer",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound_pull"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "biceps",
+      "glutes",
+      "forearms",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "developing_lower_back_strength",
+      "enhancing_overall_core_stability",
+      "improving_grip_strength"
+    ],
+    "unilateral": false
+  }
+}

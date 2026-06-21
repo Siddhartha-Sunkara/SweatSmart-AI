@@ -1,0 +1,34 @@
+{
+  "id": "one_half_locust",
+  "document": "Exercise: One Half Locust\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_isometric_contraction\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- biceps\n- chest\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_engagement\n- stretching\n\nContraindications:\n\n- lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Lie facedown on the floor.\n- Put your left hand under your left hipbone to pad your hip and pubic bone.\n- Bend your right knee so you can hold the foot in your right hand.\n- Lift the foot in the air and simultaneously lift your shoulders off the floor. This also stretches the right hip flexor and the chest and shoulders. Switch sides. If it doesn't bother your back, you can try it with both arms and legs at the same time.",
+  "metadata": {
+    "exercise_id": "one_half_locust",
+    "exercise_name": "one_half_locust",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_isometric_contraction"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "abdominals",
+      "biceps"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_engagement",
+      "stretching"
+    ],
+    "unilateral": false
+  }
+}

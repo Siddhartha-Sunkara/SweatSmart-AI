@@ -1,0 +1,37 @@
+{
+  "id": "v_bar_pulldown",
+  "document": "Exercise: V-Bar Pulldown\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- horizontal_pulling\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- biceps\n- middle back\n- shoulders\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improving_shoulder_stability\n- enhancing_bicep_engagement\n- developing_lats_and_middle_back_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Wide Grip V-Bar Pulldown, force: pull, level: intermediate, mechanic: compound, primaryMuscles: ['lats'], secondaryMuscles: ['biceps', 'middle back', 'shoulders']\n- name: Narrow Grip V-Bar Pulldown, force: pull, level: intermediate, mechanic: compound, primaryMuscles: ['lats'], secondaryMuscles: ['biceps', 'middle back', 'shoulders']\n\nSubstitution Options:\n\n- name: Lat Pulldown, equipment: cable\n- name: Pull-Up, equipment: bar\n\nInstructions:\n\n- Sit down on a pull-down machine with a V-Bar attached to the top pulley.\n- Adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.\n- Grab the V-bar with the palms facing each other (a neutral grip). Stick your chest out and lean yourself back slightly (around 30-degrees) in order to better engage the lats. This will be your starting position.\n- Using your lats, pull the bar down as you squeeze your shoulder blades. Continue until your chest nearly touches the V-bar. Exhale as you execute this motion. Tip: Keep the torso stationary throughout the movement.\n- After a second hold on the contracted position, slowly bring the bar back to the starting position as you breathe in.\n- Repeat for the prescribed number of repetitions.",
+  "metadata": {
+    "exercise_id": "v_bar_pulldown",
+    "exercise_name": "v_bar_pulldown",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "horizontal_pulling"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "shoulders",
+      "middle_back",
+      "biceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improving_shoulder_stability",
+      "enhancing_bicep_engagement",
+      "developing_lats_and_middle_back_strength"
+    ],
+    "unilateral": false
+  }
+}

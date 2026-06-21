@@ -1,0 +1,36 @@
+{
+  "id": "drop_push",
+  "document": "Exercise: Drop Push\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- landing\n- vertical_jumping\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power_and_explosiveness\n\nContraindications:\n\n- Recent knee or ankle surgery\n- Severe joint pain or instability\n\nExercise Variations:\n\n- name: Single-Leg Drop Push, primaryMuscles: ['chest', 'quadriceps', 'calves']\n\nSubstitution Options:\n\n- exercise_name: Box Jump, equipment: plyometric box\n\nInstructions:\n\n- Position low boxes or other platforms 2-3 feet apart.\n- Move to a pushup position between them, supporting yourself by placing your hands on the boxes.\n- With good posture, drop from the platforms by pressing up and moving your hands to shoulder width, cushioning your landing by absorbing the impact through the arm.",
+  "metadata": {
+    "exercise_id": "drop_push",
+    "exercise_name": "drop_push",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "landing",
+      "vertical_jumping"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power_and_explosiveness"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "lying_high_bench_barbell_curl",
+  "document": "Exercise: Lying High Bench Barbell Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- isolation\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- isolating_and_strengthening_the_biceps\n- improving_muscular_endurance_in_the_upper_arm\n\nContraindications:\n\n- Individuals with shoulder or elbow injuries should avoid this exercise.\n- Those with pre-existing bicep issues may experience discomfort.\n\nExercise Variations:\n\n- name: Incline Lying Barbell Curl, mechanic: compound, primaryMuscles: ['biceps', 'brachialis']\n- name: Alternating Dumbbell Curl, mechanic: isolation, primaryMuscles: ['biceps']\n\nSubstitution Options:\n\n- exercise_name: Lying High Cable Curl, equipment: cable machine\n- exercise_name: Concentration Curl, equipment: dumbbell\n\nInstructions:\n\n- Lie face forward on a tall flat bench while holding a barbell with a supinated grip (palms facing up). Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles. Your upper body should be positioned in a way that the upper chest is over the end of the bench and the barbell is hanging in front of you with the arms extended and perpendicular to the floor. This will be your starting position.\n- While keeping the elbows in and the upper arms stationary, curl the weight up in a semi-circular motion as you contract the biceps and exhale. Hold at the top of the movement for a second.\n- As you inhale, slowly go back to the starting position. Tip: Maintain full control of the weight at all times and avoid any swinging. Remember, only the forearms should move throughout the movement.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "lying_high_bench_barbell_curl",
+    "exercise_name": "lying_high_bench_barbell_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "isolation"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "isolating_and_strengthening_the_biceps",
+      "improving_muscular_endurance_in_the_upper_arm"
+    ],
+    "unilateral": false
+  }
+}

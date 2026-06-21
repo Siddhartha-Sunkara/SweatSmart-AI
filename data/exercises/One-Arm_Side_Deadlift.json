@@ -1,0 +1,39 @@
+{
+  "id": "one_arm_side_deadlift",
+  "document": "Exercise: One-Arm Side Deadlift\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- unilateral_hip_hinge\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- calves\n- glutes\n- hamstrings\n- lower back\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strengthening_the_core_and_lower_body\n\nContraindications:\n\n- Lower back issues\n- Shoulder injuries\n\nExercise Variations:\n\n- name: One-Arm Side Deadlift with Pause, instructions: ['Perform the One-Arm Side Deadlift as described.', 'Pause at the top of the movement for a count of two.']\n- name: One-Arm Side Deadlift with Band Resistance, equipment: resistance band\n\nSubstitution Options:\n\n- name: Single-Arm Dumbbell Deadlift, equipment: dumbbells\n- name: Kettlebell Swing, equipment: kettlebell\n\nInstructions:\n\n- Stand to the side of a barbell next to its center. Bend your knees and lower your body until you are able to reach the barbell.\n- Grasp the bar as if you were grabbing a briefcase (palms facing you since the bar is sideways). You may need a wrist wrap if you are using a significant amount of weight. This is your starting position.\n- Use your legs to help lift the barbell up while exhaling. Your arms should extend fully as bring the barbell up until you are in a standing position.\n- Slowly bring the barbell back down while inhaling. Tip: Make sure to bend your knees while lowering the weight to avoid any injury from occurring.\n- Repeat for the recommended amount of repetitions.\n- Switch arms and repeat the movement.",
+  "metadata": {
+    "exercise_id": "one_arm_side_deadlift",
+    "exercise_name": "one_arm_side_deadlift",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "unilateral_hip_hinge"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "glutes",
+      "lower_back",
+      "traps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strengthening_the_core_and_lower_body"
+    ],
+    "unilateral": false
+  }
+}

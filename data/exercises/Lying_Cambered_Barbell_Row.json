@@ -1,0 +1,36 @@
+{
+  "id": "lying_cambered_barbell_row",
+  "document": "Exercise: Lying Cambered Barbell Row\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_rowing\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- improve_overall_upper_body_pulling_ability\n- develop_strength_in_the_middle_back_muscles\n\nContraindications:\n\n- condition: shoulder injury, reason: The exercise can put strain on the shoulder joint and rotator cuff muscles.\n- condition: lower back pain, reason: Improper form or excessive weight may exacerbate lower back issues.\n\nExercise Variations:\n\n- name: Incline Lying Cambered Barbell Row, instructions: ['Place a cambered bar underneath an incline exercise bench.', 'Lie face down on the incline exercise bench and grab the bar using a palms down (pronated grip) that is wider than shoulder width. This will be your starting position.', 'As you exhale row the bar up as you keep the elbows close to your body to either your chest, in order to target the upper mid back, or to your stomach if targeting the lats is your goal.', 'After a second hold at the top, lower back down to the starting position slowly as you inhale.']\n\nSubstitution Options:\n\n- exercise_name: Seated Cable Row, equipment: cable machine\n- exercise_name: T-Bar Row, equipment: T-bar attachment and rack\n\nInstructions:\n\n- Place a cambered bar underneath an exercise bench.\n- Lie face down on the exercise bench and grab the bar using a palms down (pronated grip) that is wider than shoulder width. This will be your starting position.\n- As you exhale row the bar up as you keep the elbows close to your body to either your chest, in order to target the upper mid back, or to your stomach if targeting the lats is your goal.\n- After a second hold at the top, lower back down to the starting position slowly as you inhale.",
+  "metadata": {
+    "exercise_id": "lying_cambered_barbell_row",
+    "exercise_name": "lying_cambered_barbell_row",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_rowing"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "traps",
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "improve_overall_upper_body_pulling_ability",
+      "develop_strength_in_the_middle_back_muscles"
+    ],
+    "unilateral": false
+  }
+}

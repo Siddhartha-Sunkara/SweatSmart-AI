@@ -1,0 +1,33 @@
+{
+  "id": "recumbent_bike",
+  "document": "Exercise: Recumbent Bike\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- linear\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Severe back pain, reason: The seated position may exacerbate symptoms in some individuals.\n- condition: Recent knee surgery, reason: High resistance levels can put undue stress on the knees.\n\nExercise Variations:\n\n- name: Interval Training, description: Alternate between high-resistance intervals and low-resistance recovery intervals to enhance cardiovascular fitness.\n- name: Sprint Intervals, description: Perform short bursts of intense pedaling followed by rest periods to improve anaerobic capacity.\n\nSubstitution Options:\n\n- exercise_name: Stationary Bike, reason: similar cardiovascular benefits and lower impact\n\nInstructions:\n\n- To begin, seat yourself on the bike and adjust the seat to your height.\n- Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.\n- Recumbent bikes offer convenience, cardiovascular benefits, and have less impact than other activities. A 150 lb person will burn about 230 calories cycling at a moderate rate for 30 minutes, compared to 450 calories or more running.",
+  "metadata": {
+    "exercise_id": "recumbent_bike",
+    "exercise_name": "recumbent_bike",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "linear"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

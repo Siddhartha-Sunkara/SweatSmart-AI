@@ -1,0 +1,32 @@
+{
+  "id": "body_tricep_press",
+  "document": "Exercise: Body Tricep Press\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- triple_joint_movement_involving_elbow_flexion\n- extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- isolation_of_triceps_muscles_for_strength_and_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Tricep Pushdown, equipment: cable machine\n- name: Close-Grip Bench Press, equipment: bench, barbell\n\nSubstitution Options:\n\n- name: Tricep Dips, equipment: bench\n- name: Overhead Tricep Extension, equipment: dumbbells\n\nInstructions:\n\n- Position a bar in a rack at chest height.\n- Standing, take a shoulder width grip on the bar and step a yard or two back, feet together and arms extended so that you are leaning on the bar. This will be your starting position.\n- Begin by flexing the elbow, lowering yourself towards the bar.\n- Pause, and then reverse the motion by extending the elbows.\n- Progress from bodyweight by adding chains over your shoulders.",
+  "metadata": {
+    "exercise_id": "body_tricep_press",
+    "exercise_name": "body_tricep_press",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "triple_joint_movement_involving_elbow_flexion",
+      "extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "isolation_of_triceps_muscles_for_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

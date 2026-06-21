@@ -1,0 +1,34 @@
+{
+  "id": "standing_olympic_plate_hand_squeeze",
+  "document": "Exercise: Standing Olympic Plate Hand Squeeze\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- isometric\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\n\n- biceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- bicep_activation_as_a_secondary_muscle_group\n- forearm_strength_and_endurance\n\nContraindications:\n\n- Individuals with wrist injuries should avoid this exercise.\n\nExercise Variations:\n\n- name: Seated Olympic Plate Hand Squeeze, id: Seated_Olympic_Plate_Hand_Squeeze\n- name: Standing Dumbbell Wrist Curl, id: Standing_Dumbbell_Wrist_Curl\n\nSubstitution Options:\n\n- name: Standing Dumbbell Wrist Curl, id: Standing_Dumbbell_Wrist_Curl\n\nInstructions:\n\n- To begin, stand straight while holding a weight plate by the ridge at arm's length in each hand using a neutral grip (palms facing in). You feet should be shoulder width apart from each other. This will be your starting position.\n- Lower the plates until the fingers are nearly extended but can still hold weights. Inhale as you lower the plates.\n- Now raise the plates back to the starting position as you exhale by closing your hands.\n- Repeat for the recommended amount of repetitions prescribed in your program.",
+  "metadata": {
+    "exercise_id": "standing_olympic_plate_hand_squeeze",
+    "exercise_name": "standing_olympic_plate_hand_squeeze",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "isometric"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "bicep_activation_as_a_secondary_muscle_group",
+      "forearm_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "seated_dumbbell_palms_down_wrist_curl",
+  "document": "Exercise: Seated Dumbbell Palms-Down Wrist Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- wrist_flexion\n- extension\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n1.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- forearm_strength_and_muscle_hypertrophy\n\nContraindications:\n\n- Individuals with wrist injuries or conditions should consult a healthcare professional before attempting this exercise.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Seated Dumbbell Palms-Up Wrist Curl, equipment: dumbbell\n\nInstructions:\n\n- Start out by placing two dumbbells on the floor in front of a flat bench.\n- Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.\n- Use your arms to grab both of the dumbbells and bring them up so that your forearms are resting against your thighs with the palms of the hands facing down. Your wrists should be hanging over the edge of your thighs.\n- Start out by curling your wrist upwards and exhaling.\n- Slowly lower your wrists back down to the starting position while inhaling. Make sure to inhale during this part of the exercise. Tip: Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.\n- Repeat for the recommended amount of repetitions.\n- When finished, simply lower the dumbbells to the floor.",
+  "metadata": {
+    "exercise_id": "seated_dumbbell_palms_down_wrist_curl",
+    "exercise_name": "seated_dumbbell_palms_down_wrist_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "wrist_flexion",
+      "extension"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 1.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 0,
+    "goals": [
+      "forearm_strength_and_muscle_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "handstand_push_ups",
+  "document": "Exercise: Handstand Push-Ups\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n4\n\nSystemic Fatigue:\nmoderate\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- core_engagement\n- tricep_hypertrophy\n- shoulder_strength_and_stability\n\nContraindications:\n\n- Shoulder injuries\n- Neck issues\n\nExercise Variations:\n\n- name: Handstand Push-Ups with Medicine Ball, equipment: medicine ball\n- name: Handstand Push-Ups with Elevated Hands, equipment: bench or box\n\nSubstitution Options:\n\n- name: Wall Push-Ups, force: push, level: intermediate\n- name: Dips, force: push, level: advanced\n\nInstructions:\n\n- With your back to the wall bend at the waist and place both hands on the floor at shoulder width.\n- Kick yourself up against the wall with your arms straight. Your body should be upside down with the arms and legs fully extended. Keep your whole body as straight as possible. Tip: If doing this for the first time, have a spotter help you. Also, make sure that you keep facing the wall with your head, rather than looking down.\n- Slowly lower yourself to the ground as you inhale until your head almost touches the floor. Tip: It is of utmost importance that you come down slow in order to avoid head injury.\n- Push yourself back up slowly as you exhale until your elbows are nearly locked.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "handstand_push_ups",
+    "exercise_name": "handstand_push_ups",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 4.0,
+    "systemic_fatigue": "moderate",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "core_engagement",
+      "tricep_hypertrophy",
+      "shoulder_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

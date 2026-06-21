@@ -1,0 +1,35 @@
+{
+  "id": "shoulder_press___with_bands",
+  "document": "Exercise: Shoulder Press - With Bands\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_extension\n- horizontal_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- bands\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_activation\n- shoulder_strength_and_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Shoulder Press - With Kettlebells, equipment: kettlebells\n- name: Arnold Press, equipment: barbell or dumbbells\n\nSubstitution Options:\n\n- exercise_name: Overhead Press with Dumbbells, equipment: dumbbells\n\nInstructions:\n\n- To begin, stand on an exercise band so that tension begins at arm's length. Grasp the handles and lift them so that the hands are at shoulder height at each side.\n- Rotate the wrists so that the palms of your hands are facing forward. Your elbows should be bent, with the upper arms and forearms in line to the torso. This is your starting position.\n- As you exhale, lift the handles up until your arms are fully extended overhead.",
+  "metadata": {
+    "exercise_id": "shoulder_press___with_bands",
+    "exercise_name": "shoulder_press___with_bands",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_extension",
+      "horizontal_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_activation",
+      "shoulder_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

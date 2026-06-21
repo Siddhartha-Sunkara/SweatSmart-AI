@@ -1,0 +1,33 @@
+{
+  "id": "side_lying_groin_stretch",
+  "document": "Exercise: Side Lying Groin Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- abduction\n- unilateral_hip_adduction\n\nPrimary Muscles:\n\n- adductors\n\nSecondary Muscles:\n\n- hamstrings\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_hip_flexibility\n- relieve_lower_back_tension\n\nContraindications:\n\n- acute hip or groin injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Start off by lying on your right side and bend your right knee in front of you to stabilize the torso.\n- Rest your head on your right hand or shoulder. Lift your left leg upward and hold it by the back of the knee (easier) or the foot (harder).\n- Pull your left knee in toward your left shoulder and simultaneously press your foot or knee down to the floor. To intensify this stretch, straighten your left leg. Switch sides.",
+  "metadata": {
+    "exercise_id": "side_lying_groin_stretch",
+    "exercise_name": "side_lying_groin_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "abduction",
+      "unilateral_hip_adduction"
+    ],
+    "primary_muscles": [
+      "adductors"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_hip_flexibility",
+      "relieve_lower_back_tension"
+    ],
+    "unilateral": false
+  }
+}

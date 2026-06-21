@@ -1,0 +1,34 @@
+{
+  "id": "kettlebell_pirate_ships",
+  "document": "Exercise: Kettlebell Pirate Ships\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- rotational\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- abdominals\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- enhance_shoulder_strength\n- improve_core_stability\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Kettlebell Pirate Ships with Single Arm, notes: Perform the exercise using one kettlebell per hand.\n\nSubstitution Options:\n\n- name: Renegade Rows, equipment: dumbbells\n\nInstructions:\n\n- With a wide stance, hold a kettlebell with both hands. Allow it to hang at waist level with your arms extended. This will be your starting position.\n- Initiate the movement by turning to one side, swinging the kettlebell to head height. Briefly pause at the top of the motion.\n- Allow the bell to drop as you rotate to the opposite side, again raising the kettlebell to head height.\n- Repeat for the desired amount of repetitions.",
+  "metadata": {
+    "exercise_id": "kettlebell_pirate_ships",
+    "exercise_name": "kettlebell_pirate_ships",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "rotational"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "abdominals"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "enhance_shoulder_strength",
+      "improve_core_stability"
+    ],
+    "unilateral": false
+  }
+}

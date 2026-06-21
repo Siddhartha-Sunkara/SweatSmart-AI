@@ -1,0 +1,38 @@
+{
+  "id": "box_squat",
+  "document": "Exercise: Box Squat\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- adductors\n- calves\n- glutes\n- hamstrings\n- lower back\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- muscle_hypertrophy\n- lower_body_strength\n\nContraindications:\n\n- condition: Lower Back Issues, reason: The exercise places significant stress on the lower back. Modifications or alternative exercises may be necessary.\n- condition: Knee Injuries, reason: The box squat can place a high load on the knees, especially if not performed with proper form.\n\nExercise Variations:\n\n- name: Box Jump, force: push, level: intermediate, mechanic: compound, primaryMuscles: ['quadriceps'], secondaryMuscles: ['adductors', 'calves', 'glutes', 'hamstrings', 'lower back'], instructions: ['Similar to the box squat, but with a jump at the top of the movement.']\n\nSubstitution Options:\n\n- exercise_name: Front Squat, equipment: barbell\n- exercise_name: Goblet Squat, equipment: dumbbell\n\nInstructions:\n\n- The box squat allows you to squat to desired depth and develop explosive strength in the squat movement. Begin in a power rack with a box at the appropriate height behind you. Typically, you would aim for a box height that brings you to a parallel squat, but you can train higher or lower if desired.\n- Begin by stepping under the bar and placing it across the back of the shoulders. Squeeze your shoulder blades together and rotate your elbows forward, attempting to bend the bar across your shoulders. Remove the bar from the rack, creating a tight arch in your lower back, and step back into position. Place your feet wider for more emphasis on the back, glutes, adductors, and hamstrings, or closer together for more quad development. Keep your head facing forward.\n- With your back, shoulders, and core tight, push your knees and butt out and you begin your descent. Sit back with your hips until you are seated on the box. Ideally, your shins should be perpendicular to the ground. Pause when you reach the box, and relax the hip flexors. Never bounce off of a box.\n- Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe.",
+  "metadata": {
+    "exercise_id": "box_squat",
+    "exercise_name": "box_squat",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "adductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "muscle_hypertrophy",
+      "lower_body_strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "physioball_hip_bridge",
+  "document": "Exercise: Physioball Hip Bridge\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hip_extension\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- hamstrings\n\nEquipment:\n\n- exercise_ball\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_hip_mobility\n- strengthen_glutes_and_hamstrings\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Leg Physioball Hip Bridge, primaryMuscles: ['glutes', 'hamstrings'], secondaryMuscles: ['core']\n\nSubstitution Options:\n\n- exercise_name: Glute Bridge, equipment: no equipment\n\nInstructions:\n\n- Lay on a ball so that your upper back is on the ball with your hips unsupported. Both feet should be flat on the floor, hip width apart or wider. This will be your starting position.\n- Begin by extending the hips using your glutes and hamstrings, raising your hips upward as you bridge.\n- Pause at the top of the motion and return to the starting position.",
+  "metadata": {
+    "exercise_id": "physioball_hip_bridge",
+    "exercise_name": "physioball_hip_bridge",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hip_extension"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "exercise_ball"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_hip_mobility",
+      "strengthen_glutes_and_hamstrings"
+    ],
+    "unilateral": false
+  }
+}

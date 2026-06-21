@@ -1,0 +1,40 @@
+{
+  "id": "rickshaw_deadlift",
+  "document": "Exercise: Rickshaw Deadlift\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- knee_flexion\n- hip_hinge\n- extension\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- hamstrings\n- lower back\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- Lower back issues\n- Recent knee surgery\n\nExercise Variations:\n\n- name: Single-Arm Rickshaw Deadlift, equipment: other\n- name: Rickshaw Deadlift with Chains, equipment: other\n\nSubstitution Options:\n\n- exercise_name: Barbell Deadlift, equipment: barbell\n- exercise_name: Sumo Deadlift High Pull, equipment: barbell\n\nInstructions:\n\n- Load the frame with the desired weight. Center yourself between the handles. You feet should be about hip width apart. Bend at the hips to grip the handles, allowing your shoulder blades to protract.\n- With your feet and your grip set, take a big breath and then lower your hips and flex the knees. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. As the weight comes up, pull your shoulder blades together as you drive your hips forward.\n- Lower the weight by bending at the hips and guiding it to the ground.",
+  "metadata": {
+    "exercise_id": "rickshaw_deadlift",
+    "exercise_name": "rickshaw_deadlift",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "knee_flexion",
+      "hip_hinge",
+      "extension"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

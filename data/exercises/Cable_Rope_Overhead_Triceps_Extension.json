@@ -1,0 +1,32 @@
+{
+  "id": "cable_rope_overhead_triceps_extension",
+  "document": "Exercise: Cable Rope Overhead Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_overhead_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- tricep_hypertrophy\n- isolated_triceps_strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Elbow pain or inflammation\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Triceps Dips, equipment: bench\n- name: Overhead Triceps Extension with Dumbbells, equipment: dumbbells\n\nInstructions:\n\n- Attach a rope to the bottom pulley of the pulley machine.\n- Grasping the rope with both hands, extend your arms with your hands directly above your head using a neutral grip (palms facing each other). Your elbows should be in close to your head and the arms should be perpendicular to the floor with the knuckles aimed at the ceiling. This will be your starting position.\n- Slowly lower the rope behind your head as you hold the upper arms stationary. Inhale as you perform this movement and pause when your triceps are fully stretched.\n- Return to the starting position by flexing your triceps as you breathe out.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "cable_rope_overhead_triceps_extension",
+    "exercise_name": "cable_rope_overhead_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_overhead_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "tricep_hypertrophy",
+      "isolated_triceps_strength"
+    ],
+    "unilateral": false
+  }
+}

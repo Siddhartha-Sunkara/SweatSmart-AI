@@ -1,0 +1,33 @@
+{
+  "id": "incline_push_up_medium",
+  "document": "Exercise: Incline Push-Up Medium\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- abdominals\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: recent shoulder injury, reason: may increase risk of re-injury\n\nExercise Variations:\n\n- name: Incline Push-Up Wide Grip, force: push, level: beginner, mechanic: compound, primaryMuscles: ['chest'], secondaryMuscles: ['shoulders', 'triceps']\n\nSubstitution Options:\n\n- exercise_name: Incline Dumbbell Bench Press, equipment: dumbbells\n\nInstructions:\n\n- Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.\n- Place your hands on the bar, with your hands about shoulder width apart.\n- Position your feet back from the bar with arms and body straight. This will be your starting position.\n- Keeping your body straight, lower your chest to the bar by bending the arms.\n- Return to the starting position by extending the elbows, pressing yourself back up.",
+  "metadata": {
+    "exercise_id": "incline_push_up_medium",
+    "exercise_name": "incline_push_up_medium",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "abdominals",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

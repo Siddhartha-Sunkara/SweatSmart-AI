@@ -1,0 +1,33 @@
+{
+  "id": "dead_bug",
+  "document": "Exercise: Dead Bug\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_core_stabilization\n- extension\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- spinal_stabilization\n- core_stability_and_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Dead Bug with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- name: Russian Twists, force: pull, level: beginner\n\nInstructions:\n\n- Begin lying on your back with your hands extended above you toward the ceiling.\n- Bring your feet, knees, and hips up to 90 degrees.\n- Exhale hard to bring your ribcage down and flatten your back onto the floor, rotating your pelvis up and squeezing your glutes. Hold this position throughout the movement. This will be your starting position.\n- Initiate the exercise by extending one leg, straightening the knee and hip to bring the leg just above the ground.\n- Maintain the position of your lumbar and pelvis as you perform the movement, as your back is going to want to arch.\n- Stay tight and return the working leg to the starting position.\n- Repeat on the opposite side, alternating until the set is complete.",
+  "metadata": {
+    "exercise_id": "dead_bug",
+    "exercise_name": "dead_bug",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_core_stabilization",
+      "extension"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "spinal_stabilization",
+      "core_stability_and_strength"
+    ],
+    "unilateral": false
+  }
+}

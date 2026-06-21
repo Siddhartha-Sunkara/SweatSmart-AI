@@ -1,0 +1,35 @@
+{
+  "id": "isometric_chest_squeezes",
+  "document": "Exercise: Isometric Chest Squeezes\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- isometric_contraction\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- strengthening\n- secondary_strengthening\n\nContraindications:\n\n- condition: recent chest injury, reason: High risk of exacerbating the injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Push-ups, level: beginner\n\nInstructions:\n\n- While either seating or standing, bend your arms at a 90-degree angle and place the palms of your hands together in front of your chest. Tip: Your hands should be open with the palms together and fingers facing forward (perpendicular to your torso).\n- Push both hands against each other as you contract your chest. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.\n- Hold for the recommended number of seconds.\n- Now release the tension slowly.\n- Rest for the recommended amount of time and repeat.",
+  "metadata": {
+    "exercise_id": "isometric_chest_squeezes",
+    "exercise_name": "isometric_chest_squeezes",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "isometric_contraction"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strengthening",
+      "secondary_strengthening"
+    ],
+    "unilateral": false
+  }
+}

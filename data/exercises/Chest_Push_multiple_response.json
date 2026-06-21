@@ -1,0 +1,36 @@
+{
+  "id": "chest_push_multiple_response",
+  "document": "Exercise: Chest Push (multiple response)\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- abdominals\n- shoulders\n- triceps\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\nexplosive\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improve_explosive_power\n- increase_upper_body_strength\n\nContraindications:\n\n- condition: Recent shoulder or elbow injury, reason: High impact on shoulders and elbows\n- condition: Lower back pain, reason: Kneeling position may exacerbate lower back issues\n\nExercise Variations:\n\n- name: Chest Push with Partner Assist, instructions: ['Begin in a kneeling position facing a partner. Hold the ball with both hands tight into the chest.', 'Execute the pass by exploding forward and outward with the hips while pushing the ball as hard as possible.', 'Follow through by falling forward, catching yourself with your hands.', 'Partner assists you back to an upright position.']\n- name: Chest Push with Wall, instructions: ['Begin in a kneeling position facing a wall. Hold the ball with both hands tight into the chest.', 'Execute the pass by exploding forward and outward with the hips while pushing the ball as hard as possible.', 'Follow through by falling forward, catching yourself with your hands.']\n\nSubstitution Options:\n\n- exercise_name: Medicine Ball Chest Pass, equipment: medicine ball\n- exercise_name: Push Press, equipment: dumbbells or barbell\n\nInstructions:\n\n- Begin in a kneeling position facing a wall or utilize a partner. Hold the ball with both hands tight into the chest.\n- Execute the pass by exploding forward and outward with the hips while pushing the ball as hard as possible.\n- Follow through by falling forward, catching yourself with your hands.\n- Immediately return to an upright position. Repeat for the desired number of repetitions.",
+  "metadata": {
+    "exercise_id": "chest_push_multiple_response",
+    "exercise_name": "chest_push_(multiple_response)",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "abdominals",
+      "shoulders"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "explosive",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improve_explosive_power",
+      "increase_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

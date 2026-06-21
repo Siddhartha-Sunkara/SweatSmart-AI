@@ -1,0 +1,35 @@
+{
+  "id": "one_arm_kettlebell_para_press",
+  "document": "Exercise: One-Arm Kettlebell Para Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_press\n- rotational_movement\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- developing_shoulder_and_triceps_strength\n- improving_core_stability_and_balance\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent shoulder surgery\n\nExercise Variations:\n\n- variation_name: Two-Arm Kettlebell Para Press, equipment: kettlebells\n- variation_name: One-Arm Kettlebell Overhead Press, equipment: kettlebells\n\nSubstitution Options:\n\n- exercise_name: One-Arm Dumbbell Para Press, equipment: dumbbells\n\nInstructions:\n\n- Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward. This will be your starting position.\n- Hold the kettlebell with the elbow out to the side, and press it up and out until it is locked out overhead.\n- Lower the kettlebell back to your shoulder under control and repeat. Make sure to contract your lat, butt, and stomach forcefully for added stability and strength.",
+  "metadata": {
+    "exercise_id": "one_arm_kettlebell_para_press",
+    "exercise_name": "one_arm_kettlebell_para_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_press",
+      "rotational_movement"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "developing_shoulder_and_triceps_strength",
+      "improving_core_stability_and_balance"
+    ],
+    "unilateral": false
+  }
+}

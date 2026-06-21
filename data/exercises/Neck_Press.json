@@ -1,0 +1,36 @@
+{
+  "id": "neck_press",
+  "document": "Exercise: Neck Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- hypertrophy\n- neck_stabilization\n- strength_gain\n\nContraindications:\n\n- Shoulder injuries\n- Chest pain\n\nExercise Variations:\n\n- name: Close-Grip Neck Press, primaryMuscles: ['triceps']\n- name: Wide-Grip Neck Press, primaryMuscles: ['chest', 'shoulders']\n\nSubstitution Options:\n\n- exercise_name: Incline Dumbbell Press, equipment: dumbbells\n- exercise_name: Flat Bench Dumbbell Press, equipment: dumbbells\n\nInstructions:\n\n- Lie back on a flat bench. Using a medium-width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over your neck with your arms locked. This will be your starting position.\n- As you breathe in, come down slowly until you feel the bar on your neck.\n- After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up).\n- Repeat the movement for the prescribed amount of repetitions.\n- When you are done, place the bar back in the rack.",
+  "metadata": {
+    "exercise_id": "neck_press",
+    "exercise_name": "neck_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hypertrophy",
+      "neck_stabilization",
+      "strength_gain"
+    ],
+    "unilateral": false
+  }
+}

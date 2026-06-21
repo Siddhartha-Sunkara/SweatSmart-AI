@@ -1,0 +1,29 @@
+{
+  "id": "sled_overhead_triceps_extension",
+  "document": "Exercise: Sled Overhead Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_overhead_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder instability, description: Individuals with shoulder instability should avoid overhead movements to prevent exacerbation of the condition.\n\nExercise Variations:\n\n- name: Sled Overhead Triceps Extension with Single Arm, force: push, level: intermediate, mechanic: isolation, primaryMuscles: ['triceps'], secondaryMuscles: [], instructions: ['Attach a single handle to the sled using a chain or rope. Load the sled to an appropriate load.', 'Facing away from the sled, step away until there is tension in the line. Raise your non-working arm above your head and hold it steady for isolation. Your working arm will be extended overhead with palms facing each other. Your elbows should be pointed upward with the elbows flexed. This will be your starting position.', 'Extend through the elbow to straighten the arm. Ensure that your upper arm stays in position to isolate the triceps.', 'Upon full extension, step forward to take the slack out of the line.'], category: strength, images: ['Sled_Overhead_Triceps_Extension_Single_Arm/0.jpg', 'Sled_Overhead_Triceps_Extension_Single_Arm/1.jpg'], id: Sled_Overhead_Triceps_Extension_Single_Arm\n\nSubstitution Options:\n\n- exercise_name: Triceps Pushdown Machine, equipment: machine\n\nInstructions:\n\n- Attach dual handles to a sled using a chain or rope. Load the sled to an appropriate load.\n- Facing away from the sled, step away until there is tension in the line. Raise your hands above your head, keeping them together, palms facing each other. Your elbows should be pointed upward with the elbows flexed. This will be your starting position.\n- Extend through the elbow to straighten the arm. Ensure that your upper arm stays in position to isolate the triceps.\n- Upon full extension, step forward to take the slack out of the line. You may keep your feet staggered for more stability.",
+  "metadata": {
+    "exercise_id": "sled_overhead_triceps_extension",
+    "exercise_name": "sled_overhead_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_overhead_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

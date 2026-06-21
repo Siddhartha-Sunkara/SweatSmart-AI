@@ -1,0 +1,35 @@
+{
+  "id": "incline_push_up_close_grip",
+  "document": "Exercise: Incline Push-Up Close-Grip\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- chest_strength_and_endurance\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Incline Push-Up Wide-Grip, equipment: body only\n- name: Incline Dumbbell Bench Press, equipment: dumbbells\n\nSubstitution Options:\n\n- exercise_name: Close-Grip Push-Up, equipment: body only\n\nInstructions:\n\n- Stand facing a Smith machine bar or sturdy elevated platform at an appropriate height.\n- Place your hands next to one another on the bar.\n- Position your feet back from the bar with arms and body straight. This will be your starting position.\n- Keeping your body straight, lower your chest to the bar by bending the arms.\n- Return to the starting position by extending the elbows, pressing yourself back up.",
+  "metadata": {
+    "exercise_id": "incline_push_up_close_grip",
+    "exercise_name": "incline_push_up_close_grip",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "chest_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

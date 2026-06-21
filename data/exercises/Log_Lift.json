@@ -1,0 +1,42 @@
+{
+  "id": "log_lift",
+  "document": "Exercise: Log Lift\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- abdominals\n- chest\n- glutes\n- hamstrings\n- lower back\n- middle back\n- quadriceps\n- traps\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- muscular_endurance\n- strength\n\nContraindications:\n\n- condition: shoulder instability, reason: The log lift places significant stress on the shoulders, which may exacerbate existing instability.\n- condition: lower back injury, reason: The movement involves a significant amount of hip and knee extension, which could aggravate lower back issues.\n\nExercise Variations:\n\n- name: Log Lift with Pause at Chest, instructions: ['Perform the log lift as described, but pause for a count of two at chest level before pressing.']\n- name: Log Lift with Alternating Hands, instructions: ['Grasp one handle and perform the clean and press. Switch hands on each repetition.']\n\nSubstitution Options:\n\n- name: Barbell Clean and Press, force: push, level: intermediate\n- name: Kettlebell Clean and Press, force: push, level: intermediate\n\nInstructions:\n\n- Begin standing with the log in front of you. Grasp the handles, and begin to clean the log. As you are bent over to start the clean, attempt to get the log as high as possible, pulling it into your chest. Extend through the hips and knees to bring it up to complete the clean.\n- Push your head back and look up, creating a shelf on your chest to rest the log. Begin the press by dipping, flexing slightly through the knees and reversing the motion. This push press will generate momentum to start the log moving vertically. Continue by extending through the elbows to press the log above your head. There are no strict rules on form, so use whatever techniques you are most efficient with. As the log is pressed, ensure that you push your head through on each repetition, looking forward.\n- Repeat as many times as possible. Attempt to control the descent of the log as it is returned to the ground.",
+  "metadata": {
+    "exercise_id": "log_lift",
+    "exercise_name": "log_lift",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "middle_back",
+      "quadriceps",
+      "chest",
+      "glutes",
+      "lower_back",
+      "traps",
+      "triceps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "muscular_endurance",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

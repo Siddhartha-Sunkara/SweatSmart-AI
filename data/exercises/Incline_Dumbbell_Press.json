@@ -1,0 +1,32 @@
+{
+  "id": "incline_dumbbell_press",
+  "document": "Exercise: Incline Dumbbell Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system and glycolytic system\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Incline Dumbbell Flyes, force: push, level: beginner, mechanic: compound, primaryMuscles: ['chest'], secondaryMuscles: ['shoulders', 'triceps']\n\nSubstitution Options:\n\n- exercise_name: Incline Barbell Press, equipment: barbell\n- exercise_name: Machine Chest Press, equipment: cable machine\n\nInstructions:\n\n- Lie back on an incline bench with a dumbbell in each hand atop your thighs. The palms of your hands will be facing each other.\n- Then, using your thighs to help push the dumbbells up, lift the dumbbells one at a time so that you can hold them at shoulder width.\n- Once you have the dumbbells raised to shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.\n- Be sure to keep full control of the dumbbells at all times. Then breathe out and push the dumbbells up with your chest.\n- Lock your arms at the top, hold for a second, and then start slowly lowering the weight. Tip Ideally, lowering the weights should take about twice as long as raising them.\n- Repeat the movement for the prescribed amount of repetitions.\n- When you are done, place the dumbbells back on your thighs and then on the floor. This is the safest manner to release the dumbbells.",
+  "metadata": {
+    "exercise_id": "incline_dumbbell_press",
+    "exercise_name": "incline_dumbbell_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_and_glycolytic_system",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

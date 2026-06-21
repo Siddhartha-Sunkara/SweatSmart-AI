@@ -1,0 +1,39 @@
+{
+  "id": "smith_machine_bent_over_row",
+  "document": "Exercise: Smith Machine Bent Over Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elbow_extension\n- bilateral\n- hinge_with_shoulder_flexion\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n- shoulders\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system and glycolytic pathway\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_strength_in_the_middle_back_and_biceps\n- enhance_shoulder_stability_and_posture\n- improve_overall_upper_body_pulling_capacity\n\nContraindications:\n\n- Shoulder impingement or rotator cuff issues\n- Lower back pain\n\nExercise Variations:\n\n- name: Smith Machine Bent Over Row with Dumbbells, equipment: ['dumbbells']\n- name: Smith Machine Bent Over Row with Resistance Bands, equipment: ['resistance bands']\n\nSubstitution Options:\n\n- exercise_name: Barbell Bent Over Row, equipment: barbell\n- exercise_name: T-Bar Row, equipment: T-bar rack\n\nInstructions:\n\n- Set the barbell attached to the smith machine to a height that is about 2 inches below your knees.\n- Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up.\n- Now grasp the barbell using an overhand (pronated) grip and unlock it from the smith machine rack. Then let it hang directly in front of you as your arms hang extended perpendicular to the floor and your torso. This is your starting position.\n- While keeping the torso stationary, lift the barbell as you breathe out, keeping the elbows close to the body and not doing any force with the forearm other than holding the weights. On the top contracted position, squeeze the back muscles and hold for a second.\n- Slowly lower the weight again to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "smith_machine_bent_over_row",
+    "exercise_name": "smith_machine_bent_over_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elbow_extension",
+      "bilateral",
+      "hinge_with_shoulder_flexion"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "shoulders",
+      "biceps"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_and_glycolytic_pathway",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_strength_in_the_middle_back_and_biceps",
+      "enhance_shoulder_stability_and_posture",
+      "improve_overall_upper_body_pulling_capacity"
+    ],
+    "unilateral": false
+  }
+}

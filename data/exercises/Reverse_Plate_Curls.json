@@ -1,0 +1,32 @@
+{
+  "id": "reverse_plate_curls",
+  "document": "Exercise: Reverse Plate Curls\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- emphasis_on_the_eccentric_phase\n- bicep_curl_with_a_reverse_grip\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\n\n- forearms\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder injury, description: This exercise may exacerbate shoulder injuries due to the position of the elbows.\n\nExercise Variations:\n\n- name: Single Arm Reverse Plate Curl, force: pull, level: beginner, mechanic: isolation, primaryMuscles: ['biceps'], secondaryMuscles: ['forearms']\n\nSubstitution Options:\n\n- exercise_name: Reverse Dumbbell Curls, equipment: dumbbells\n\nInstructions:\n\n- Start by standing straight with a weighted plate held by both hands and arms fully extended. Use a pronated grip (palms facing down) and make sure your fingers grab the rough side of the plate while your thumb grabs the smooth side. Note: For the best results, grab the weighted plate at an 11:00 and 1:00 o'clock position.\n- Your feet should be shoulder width apart from each other and the weighted plate should be near the groin area. This is the starting position.\n- Slowly lift the plate up while keeping the elbows in and the upper arms stationary until your biceps and forearms touch while exhaling. The plate should be evenly aligned with your torso at this point.\n- Feel the contraction for a second and begin to lower the weight back down to the starting position while inhaling\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "reverse_plate_curls",
+    "exercise_name": "reverse_plate_curls",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "emphasis_on_the_eccentric_phase",
+      "bicep_curl_with_a_reverse_grip"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

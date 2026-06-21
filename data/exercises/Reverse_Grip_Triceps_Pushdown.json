@@ -1,0 +1,29 @@
+{
+  "id": "reverse_grip_triceps_pushdown",
+  "document": "Exercise: Reverse Grip Triceps Pushdown\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_upper_body_push\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder injury, reason: The exercise involves shoulder movement which may exacerbate the condition.\n- condition: Elbow issues, reason: Repetitive elbow extension and flexion can strain the joint.\n\nExercise Variations:\n\n- name: Close Grip Variation, description: Use a close grip on the bar attachment to target the triceps more effectively.\n- name: Supinated Grip Variation, description: Use a supinated grip (palms facing up) for variation and added challenge.\n\nSubstitution Options:\n\n- exercise_name: Triceps Cable Pushdown, equipment: cable\n- exercise_name: Overhead Triceps Extension, equipment: dumbbell or cable\n\nInstructions:\n\n- Start by setting a bar attachment (straight or e-z) on a high pulley machine.\n- Facing the bar attachment, grab it with the palms facing up (supinated grip) at shoulder width. Lower the bar by using your lats until your arms are fully extended by your sides. Tip: Elbows should be in by your sides and your feet should be shoulder width apart from each other. This is the starting position.\n- Slowly elevate the bar attachment up as you inhale so it is aligned with your chest. Only the forearms should move and the elbows/upper arms should be stationary by your side at all times.\n- Then begin to lower the cable bar back down to the original staring position while exhaling and contracting the triceps hard.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "reverse_grip_triceps_pushdown",
+    "exercise_name": "reverse_grip_triceps_pushdown",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_upper_body_push"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

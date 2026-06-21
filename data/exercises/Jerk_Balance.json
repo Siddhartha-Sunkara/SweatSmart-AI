@@ -1,0 +1,37 @@
+{
+  "id": "jerk_balance",
+  "document": "Exercise: Jerk Balance\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n- quadriceps\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhancing_explosive_power_in_the_lower_body\n- improving_jerk_technique_and_stability\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Power Jerk Balance, force: push, level: advanced, mechanic: compound, primaryMuscles: ['shoulders'], secondaryMuscles: ['glutes', 'hamstrings', 'quadriceps', 'triceps']\n\nSubstitution Options:\n\n- name: Split Jerk Balance, equipment: barbell\n\nInstructions:\n\n- This drill helps you learn to drive yourself low enough during the jerk and corrects those who move backward during the movement. Begin with the bar racked in the jerk position, with the shoulders forward, torso upright, and the feet split slightly apart.\n- Initiate the movement as you would a normal jerk, dipping at the knees while keeping your torso vertical, and driving back up forcefully, using momentum and not your arms to elevate the weight.\n- Keep the rear foot in place, using it to drive your body forward into a full split as you jerk the weight. Recover by standing up with the weight overhead.",
+  "metadata": {
+    "exercise_id": "jerk_balance",
+    "exercise_name": "jerk_balance",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "triceps",
+      "quadriceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhancing_explosive_power_in_the_lower_body",
+      "improving_jerk_technique_and_stability"
+    ],
+    "unilateral": false
+  }
+}

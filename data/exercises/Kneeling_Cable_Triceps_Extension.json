@@ -1,0 +1,32 @@
+{
+  "id": "kneeling_cable_triceps_extension",
+  "document": "Exercise: Kneeling Cable Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_arm_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- tricep_hypertrophy\n- isolated_triceps_strength_development\n\nContraindications:\n\n- Shoulder instability or injury\n- Elbow pain or injury\n\nExercise Variations:\n\n- name: Kneeling Cable Triceps Extension with Rope Attachment, equipment: cable and rope attachment\n- name: Kneeling Cable Triceps Extension with Dumbbells, equipment: dumbbells\n\nSubstitution Options:\n\n- exercise_name: Triceps Dips, equipment: parallel bars\n- exercise_name: Close-Grip Bench Press, equipment: bench\n\nInstructions:\n\n- Place a bench sideways in front of a high pulley machine.\n- Hold a straight bar attachment above your head with your hands about 6 inches apart with your palms facing down.\n- Face away from the machine and kneel.\n- Place your head and the back of your upper arms on the bench. Your elbows should be bent with the forearms pointing towards the high pulley. This will be your starting position.\n- While keeping your upper arms close to your head at all times with the elbows in, press the bar out in a semicircular motion until the elbows are locked and your arms are parallel to the floor. Contract the triceps hard and keep this position for a second. Exhale as you perform this movement.\n- Slowly return to the starting position as you breathe in.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "kneeling_cable_triceps_extension",
+    "exercise_name": "kneeling_cable_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_arm_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "tricep_hypertrophy",
+      "isolated_triceps_strength_development"
+    ],
+    "unilateral": false
+  }
+}

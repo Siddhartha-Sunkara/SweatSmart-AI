@@ -1,0 +1,37 @@
+{
+  "id": "split_jerk",
+  "document": "Exercise: Split Jerk\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- condition: Knee injury, reason: High impact and knee flexion/extension\n- condition: Shoulder instability, reason: Overhead position with heavy load\n\nExercise Variations:\n\n- name: Power Split Jerk, description: Focuses on explosive power rather than full range of motion\n- name: Split Jerk with Dumbbells, description: Reduces load to focus on form and technique\n\nSubstitution Options:\n\n- exercise_name: Clean and Jerk, reason: Similar compound movement pattern\n\nInstructions:\n\n- Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward.\n- Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders. At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible.\n- In the brief moment the feet are not actively driving against the platform, the athlete's effort to push the bar up will drive them down. The feet should be moved to a split stance, one foot forward, one foot back, with the knees partially bent. Receive the bar with the arms locked out overhead.\n- Return to a standing position, bringing the feet together.",
+  "metadata": {
+    "exercise_id": "split_jerk",
+    "exercise_name": "split_jerk",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

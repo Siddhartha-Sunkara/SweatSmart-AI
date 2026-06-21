@@ -1,0 +1,37 @@
+{
+  "id": "seated_cable_rows",
+  "document": "Exercise: Seated Cable Rows\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- pull\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n- shoulders\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\naerobic and anaerobic\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improved_posture\n- back_strength_and_size\n- bicep_development\n\nContraindications:\n\n- Shoulder injuries\n- Lower back pain\n\nExercise Variations:\n\n- name: Wide Grip Seated Cable Rows, primaryMuscles: ['middle back', 'lats']\n- name: Narrow Grip Seated Cable Rows, primaryMuscles: ['middle back', 'lats']\n\nSubstitution Options:\n\n- name: Lat Pulldowns, equipment: pulley machine\n- name: Barbell Rows, equipment: barbell\n\nInstructions:\n\n- For this exercise you will need access to a low pulley row machine with a V-bar. Note: The V-bar will enable you to have a neutral grip where the palms of your hands face each other. To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.\n- Lean over as you keep the natural alignment of your back and grab the V-bar handles.\n- With your arms extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lats as you hold the bar in front of you. This is the starting position of the exercise.\n- Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it until you touch the abdominals. Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard. Hold that contraction for a second and slowly go back to the original position while breathing in.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "seated_cable_rows",
+    "exercise_name": "seated_cable_rows",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "pull"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "shoulders",
+      "biceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "aerobic_and_anaerobic",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improved_posture",
+      "back_strength_and_size",
+      "bicep_development"
+    ],
+    "unilateral": false
+  }
+}

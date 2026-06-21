@@ -1,0 +1,32 @@
+{
+  "id": "donkey_calf_raises",
+  "document": "Exercise: Donkey Calf Raises\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- ankle_plantar_flexion\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- lower_body_strength_and_endurance\n- calf_muscle_hypertrophy\n\nContraindications:\n\n- Recent lower leg injury or surgery\n- Severe knee pain\n\nExercise Variations:\n\n- name: Seated Calf Raise Machine, mechanic: compound, primaryMuscles: ['calves', 'hamstrings']\n- name: Calf Raises on Bosu Ball, mechanic: isolation, primaryMuscles: ['calves'], secondaryMuscles: ['core']\n\nSubstitution Options:\n\n- exercise_name: Standing Calf Raises, equipment: barbell or dumbbells\n\nInstructions:\n\n- For this exercise you will need access to a donkey calf raise machine. Start by positioning your lower back and hips under the padded lever provided. The tailbone area should be the one making contact with the pad.\n- Place both of your arms on the side handles and place the balls of your feet on the calf block with the heels extending off. Align the toes forward, inward or outward, depending on the area you wish to target, and straighten the knees without locking them. This will be your starting position.\n- Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.\n- Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "donkey_calf_raises",
+    "exercise_name": "donkey_calf_raises",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "ankle_plantar_flexion"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "lower_body_strength_and_endurance",
+      "calf_muscle_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "band_skull_crusher",
+  "document": "Exercise: Band Skull Crusher\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- triple_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bands\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- elbow_joint_stability\n\nContraindications:\n\n- Shoulder instability or injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Skull Crusher, equipment: dumbbells\n\nInstructions:\n\n- Secure a band to the base of a rack or the bench. Lay on the bench so that the band is lined up with your head.\n- Take hold of the band, raising your elbows so that the upper arm is perpendicular to the floor. With the elbow flexed, the band should be above your head. This will be your starting position.\n- Extend through the elbow to straighten your arm, keeping your upper arm in place. Pause at the top of the motion, and return to the starting position.",
+  "metadata": {
+    "exercise_id": "band_skull_crusher",
+    "exercise_name": "band_skull_crusher",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "triple_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "elbow_joint_stability"
+    ],
+    "unilateral": false
+  }
+}

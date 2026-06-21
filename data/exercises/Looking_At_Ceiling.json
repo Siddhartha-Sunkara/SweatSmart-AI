@@ -1,0 +1,29 @@
+{
+  "id": "looking_at_ceiling",
+  "document": "Exercise: Looking At Ceiling\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- spinal_extension_with_hip_flexion\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- stretch_quadriceps,_hamstrings,_and_lower_back\n\nContraindications:\n\n- lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Kneel on the floor, holding your heels with both hands.\n- Lift your buttocks up and forward while bringing your head back to look up at the ceiling, to give an arch in your back.",
+  "metadata": {
+    "exercise_id": "looking_at_ceiling",
+    "exercise_name": "looking_at_ceiling",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "spinal_extension_with_hip_flexion"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "stretch_quadriceps,_hamstrings,_and_lower_back"
+    ],
+    "unilateral": false
+  }
+}

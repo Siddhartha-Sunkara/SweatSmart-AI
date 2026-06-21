@@ -1,0 +1,35 @@
+{
+  "id": "medicine_ball_chest_pass",
+  "document": "Exercise: Medicine Ball Chest Pass\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- explosiveness\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Medicine Ball Overhead Pass, mechanic: compound, primaryMuscles: ['chest', 'shoulders'], secondaryMuscles: ['triceps']\n\nSubstitution Options:\n\n- name: Dumbbell Chest Pass, equipment: dumbbells\n\nInstructions:\n\n- You will need a partner for this exercise. Lacking one, this movement can be performed against a wall.\n- Begin facing your partner holding the medicine ball at your torso with both hands.\n- Pull the ball to your chest, and reverse the motion by extending through the elbows. For sports applications, you can take a step as you throw.\n- Your partner should catch the ball, and throw it back to you.\n- Receive the throw with both hands at chest height.",
+  "metadata": {
+    "exercise_id": "medicine_ball_chest_pass",
+    "exercise_name": "medicine_ball_chest_pass",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "explosiveness",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

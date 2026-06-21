@@ -1,0 +1,32 @@
+{
+  "id": "cable_seated_lateral_raise",
+  "document": "Exercise: Cable Seated Lateral Raise\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_shoulder_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- middle back\n- traps\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder instability or injury, reason: May exacerbate existing conditions\n- condition: Recent shoulder surgery, reason: Too early in recovery phase\n\nExercise Variations:\n\n- name: Single Arm Cable Lateral Raise, force: pull, level: beginner, mechanic: isolation, equipment: cable, primaryMuscles: ['shoulders'], secondaryMuscles: ['middle back', 'traps']\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Lateral Raise, equipment: dumbbells\n- exercise_name: Machine Lateral Raise, equipment: cable machine\n\nInstructions:\n\n- Stand in the middle of two low pulleys that are opposite to each other and place a flat bench right behind you (in perpendicular fashion to you; the narrow edge of the bench should be the one behind you). Select the weight to be used on each pulley.\n- Now sit at the edge of the flat bench behind you with your feet placed in front of your knees.\n- Bend forward while keeping your back flat and rest your torso on the thighs.\n- Have someone give you the single handles attached to the pulleys. Grasp the left pulley with the right hand and the right pulley with the left after you select your weight. The pulleys should run under your knees and your arms will be extended with palms facing each other and a slight bend at the elbows. This will be the starting position.\n- While keeping the arms stationary, raise the upper arms to the sides until they are parallel to the floor and at shoulder height. Exhale during the execution of this movement and hold the contraction for a second.\n- Slowly lower your arms to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions. Tip: Maintain upper arms perpendicular to torso and a fixed elbow position (10 degree to 30 degree angle) throughout exercise.",
+  "metadata": {
+    "exercise_id": "cable_seated_lateral_raise",
+    "exercise_name": "cable_seated_lateral_raise",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "traps",
+      "middle_back"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

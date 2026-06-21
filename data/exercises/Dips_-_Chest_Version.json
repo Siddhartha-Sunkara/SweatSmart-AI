@@ -1,0 +1,35 @@
+{
+  "id": "dips___chest_version",
+  "document": "Exercise: Dips - Chest Version\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- chest_development\n- triceps_strengthening\n\nContraindications:\n\n- condition: Shoulder instability, reason: May exacerbate shoulder issues.\n- condition: Recent rotator cuff injury, reason: Risk of further damage.\n\nExercise Variations:\n\n- name: Wide Grip Dips, primaryMuscles: ['chest', 'triceps']\n- name: Close Grip Dips, primaryMuscles: ['triceps', 'shoulders']\n\nSubstitution Options:\n\n- name: Push-ups, equipment: bodyweight\n- name: Bench Dips, equipment: bench\n\nInstructions:\n\n- For this exercise you will need access to parallel bars. To get yourself into the starting position, hold your body at arms length (arms locked) above the bars.\n- While breathing in, lower yourself slowly with your torso leaning forward around 30 degrees or so and your elbows flared out slightly until you feel a slight stretch in the chest.\n- Once you feel the stretch, use your chest to bring your body back to the starting position as you breathe out. Tip: Remember to squeeze the chest at the top of the movement for a second.\n- Repeat the movement for the prescribed amount of repetitions.",
+  "metadata": {
+    "exercise_id": "dips___chest_version",
+    "exercise_name": "dips___chest_version",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "chest_development",
+      "triceps_strengthening"
+    ],
+    "unilateral": false
+  }
+}

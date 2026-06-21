@@ -1,0 +1,37 @@
+{
+  "id": "front_raise_and_pullover",
+  "document": "Exercise: Front Raise And Pullover\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- horizontal_push_pull_combination\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- lats\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhance_overall_pulling_and_pushing_capabilities\n- improve_shoulder_and_chest_muscle_balance\n- build_upper_body_strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Chest pain or discomfort\n\nExercise Variations:\n\n- name: Single-Arm Variation, notes: Use a lighter weight to maintain form and control.\n- name: Incline Front Raise and Pullover, notes: Increase the incline angle for more chest focus.\n\nSubstitution Options:\n\n- name: Dumbbell Front Raise and Pullover, equipment: dumbbells\n- name: Machine Chest Fly and Lat Pull-Down, equipment: cable machine\n\nInstructions:\n\n- Lie on a flat bench while holding a barbell using a palms down grip that is about 15 inches apart.\n- Place the bar on your upper thighs, extend your arms and lock them while keeping a slight bend on the elbows. This will be your starting position.\n- Now raise the weight using a semicircular motion and keeping your arms straight as you inhale. Continue the same movement until the bar is on the other side above your head . (Tip: the bar will travel approximately 180-degrees). At this point your arms should be parallel to the floor with the palms of your hands facing the ceiling.\n- Now return the barbell to the starting position by reversing the motion as you exhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "front_raise_and_pullover",
+    "exercise_name": "front_raise_and_pullover",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "horizontal_push_pull_combination"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "lats",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhance_overall_pulling_and_pushing_capabilities",
+      "improve_shoulder_and_chest_muscle_balance",
+      "build_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

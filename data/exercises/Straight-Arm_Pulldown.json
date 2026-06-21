@@ -1,0 +1,29 @@
+{
+  "id": "straight_arm_pulldown",
+  "document": "Exercise: Straight-Arm Pulldown\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_pulling\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder injury, description: May cause discomfort or exacerbate the condition.\n\nExercise Variations:\n\n- name: Wide Grip Straight-Arm Pulldown, force: pull, level: beginner, mechanic: isolation, primaryMuscles: ['lats'], secondaryMuscles: [], instructions: ['Same as original but with a wider grip.']\n\nSubstitution Options:\n\n- exercise_name: Seated Cable Row, equipment: cable\n\nInstructions:\n\n- You will start by grabbing the wide bar from the top pulley of a pulldown machine and using a wider than shoulder-width pronated (palms down) grip. Step backwards two feet or so.\n- Bend your torso forward at the waist by around 30-degrees with your arms fully extended in front of you and a slight bend at the elbows. If your arms are not fully extended then you need to step a bit more backwards until they are. Once your arms are fully extended and your torso is slightly bent at the waist, tighten the lats and then you are ready to begin.\n- While keeping the arms straight, pull the bar down by contracting the lats until your hands are next to the side of the thighs. Breathe out as you perform this step.\n- While keeping the arms straight, go back to the starting position while breathing in.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "straight_arm_pulldown",
+    "exercise_name": "straight_arm_pulldown",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_pulling"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

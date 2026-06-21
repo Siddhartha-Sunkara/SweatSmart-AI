@@ -1,0 +1,34 @@
+{
+  "id": "cable_preacher_curl",
+  "document": "Exercise: Cable Preacher Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elbow_flexion\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\n\n- forearms\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- bicep_hypertrophy\n- forearm_strength\n\nContraindications:\n\n- Individuals with elbow or shoulder injuries should avoid this exercise.\n\nExercise Variations:\n\n- name: Incline Cable Curl, mechanic: compound, primaryMuscles: ['biceps', 'forearms'], secondaryMuscles: ['chest']\n\nSubstitution Options:\n\n- exercise_name: Barbell Preacher Curl, equipment: barbell\n\nInstructions:\n\n- Place a preacher bench about 2 feet in front of a pulley machine.\n- Attach a straight bar to the low pulley.\n- Sit at the preacher bench with your elbow and upper arms firmly on top of the bench pad and have someone hand you the bar from the low pulley.\n- Grab the bar and fully extend your arms on top of the preacher bench pad. This will be your starting position.\n- Now start pilling the weight up towards your shoulders and squeeze the biceps hard at the top of the movement. Exhale as you perform this motion. Also, hold for a second at the top.\n- Now slowly lower the weight to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "cable_preacher_curl",
+    "exercise_name": "cable_preacher_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elbow_flexion"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "bicep_hypertrophy",
+      "forearm_strength"
+    ],
+    "unilateral": false
+  }
+}

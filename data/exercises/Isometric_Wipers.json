@@ -1,0 +1,36 @@
+{
+  "id": "isometric_wipers",
+  "document": "Exercise: Isometric Wipers\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_isometric_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- abdominals\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- strengthen_the_chest_muscles\n- improve_core_stability_and_balance\n\nContraindications:\n\n- Individuals with shoulder or wrist injuries should avoid this exercise.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Push-Ups, equipment: body only\n\nInstructions:\n\n- Assume a push-up position, supporting your weight on your hands and toes while keeping your body straight. Your hands should be just outside of shoulder width. This will be your starting position.\n- Begin by shifting your body weight as far to one side as possible, allowing the elbow on that side to flex as you lower your body.\n- Reverse the motion by extending the flexed arm, pushing yourself up and then dropping to the other side.\n- Repeat for the desired number of repetitions.",
+  "metadata": {
+    "exercise_id": "isometric_wipers",
+    "exercise_name": "isometric_wipers",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_isometric_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "abdominals",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strengthen_the_chest_muscles",
+      "improve_core_stability_and_balance"
+    ],
+    "unilateral": false
+  }
+}

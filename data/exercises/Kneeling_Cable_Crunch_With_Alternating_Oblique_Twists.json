@@ -1,0 +1,32 @@
+{
+  "id": "kneeling_cable_crunch_with_alternating_oblique_twists",
+  "document": "Exercise: Kneeling Cable Crunch With Alternating Oblique Twists\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- crunch_with_oblique_twists\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength\n- oblique_definition\n\nContraindications:\n\n- Lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Kneeling Cable Crunch with Single Arm Twist, equipment: cable\n\nInstructions:\n\n- Connect a rope attachment to a high pulley cable and position a mat on the floor in front of it.\n- Grab the rope with both hands and kneel approximately two feet back from the tower.\n- Position the rope behind your head with your hands by your ears.\n- Keep your hands in the same place, contract your abs and pull downward on the rope in a crunching movement until your elbows reach your knees.\n- Pause briefly at the bottom and rise up in a slow and controlled manner until you reach the starting position.\n- Repeat the same downward movement until you're halfway down, at which time you'll begin rotating one of your elbows to the opposite knee.\n- Again, pause briefly at the bottom and rise up in a slow and controlled manner until you reach the starting position.\n- Repeat the same movement as before, but alternate the other elbow to the opposite knee.\n- Continue this series of movements to failure.",
+  "metadata": {
+    "exercise_id": "kneeling_cable_crunch_with_alternating_oblique_twists",
+    "exercise_name": "kneeling_cable_crunch_with_alternating_oblique_twists",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "crunch_with_oblique_twists"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength",
+      "oblique_definition"
+    ],
+    "unilateral": false
+  }
+}

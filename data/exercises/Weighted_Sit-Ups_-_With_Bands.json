@@ -1,0 +1,33 @@
+{
+  "id": "weighted_sit_ups___with_bands",
+  "document": "Exercise: Weighted Sit-Ups - With Bands\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- flexion\n- extension_of_the_spine\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- core_strength_and_stability\n- abdominal_muscle_hypertrophy\n\nContraindications:\n\n- Lower back pain\n- Recent abdominal surgery\n\nExercise Variations:\n\n- name: Weighted Sit-Ups - With Resistance Bands (Flat Bench), equipment: other\n- name: Weighted Sit-Ups - With Dumbbells, equipment: free weights\n\nSubstitution Options:\n\n- name: Weighted Crunches, equipment: other\n- name: Bicycle Crunches, equipment: bodyweight\n\nInstructions:\n\n- Start out by strapping the bands around the base of the decline bench. Place the handles towards the inside of the decline bench so that when lying down, you can reach for both of them.\n- Position your legs through the decline machine until they are secured. Now reach for the exercise bands with both hands. Use a pronated (palms forward) grip to grasp the handles. Position them near your collar bone and rotate your wrist to a neutral grip (palms facing the torso). Note: Your arms should remain stationary throughout the exercise. This is the starting position.\n- Move your torso upward until your upper body is perpendicular to the floor while exhaling. Hold the contraction for a second and lower your upper body back down to the starting position while inhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "weighted_sit_ups___with_bands",
+    "exercise_name": "weighted_sit_ups___with_bands",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "flexion",
+      "extension_of_the_spine"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "core_strength_and_stability",
+      "abdominal_muscle_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

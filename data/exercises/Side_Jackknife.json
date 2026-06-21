@@ -1,0 +1,33 @@
+{
+  "id": "side_jackknife",
+  "document": "Exercise: Side Jackknife\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- dynamic\n- bilateral\n- core_engagement\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability\n\nContraindications:\n\n- Lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Russian Twists, equipment: body only\n\nInstructions:\nNone",
+  "metadata": {
+    "exercise_id": "side_jackknife",
+    "exercise_name": "side_jackknife",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "dynamic",
+      "bilateral",
+      "core_engagement"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

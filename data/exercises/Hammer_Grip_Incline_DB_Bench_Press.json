@@ -1,0 +1,37 @@
+{
+  "id": "hammer_grip_incline_db_bench_press",
+  "document": "Exercise: Hammer Grip Incline DB Bench Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- shoulder_abduction\n- elbow_extension\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- shoulder_and_triceps_strength\n- chest_hypertrophy\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent rotator cuff surgery\n\nExercise Variations:\n\n- variation_name: Wide Grip Hammer Grip Incline DB Bench Press, grip: wide hammer grip\n- variation_name: Close Grip Hammer Grip Incline DB Bench Press, grip: close hammer grip\n\nSubstitution Options:\n\n- exercise_name: Flat Bench Dumbbell Press, equipment: dumbbell\n- exercise_name: Incline Dumbbell Flyes, equipment: dumbbell\n\nInstructions:\n\n- Lie back on an incline bench with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.\n- By using your thighs to help you get the dumbbells up, clean the dumbbells one arm at a time so that you can hold them at shoulder width.\n- Once at shoulder width, keep the palms of your hands with a neutral grip (palms facing each other). Keep your elbows flared out with the upper arms in line with the shoulders (perpendicular to the torso) and the elbows bent creating a 90-degree angle between the upper arm and the forearm. This will be your starting position.\n- Now bring down the weights slowly to your side as you breathe in. Keep full control of the dumbbells at all times.\n- As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up.\n- Repeat the movement for the prescribed amount of repetitions.\n- When you are done, place the dumbbells back in your thighs and then on the floor. This is the safest manner to dispose of the dumbbells.",
+  "metadata": {
+    "exercise_id": "hammer_grip_incline_db_bench_press",
+    "exercise_name": "hammer_grip_incline_db_bench_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "shoulder_abduction",
+      "elbow_extension"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "shoulder_and_triceps_strength",
+      "chest_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

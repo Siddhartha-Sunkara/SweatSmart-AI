@@ -1,0 +1,35 @@
+{
+  "id": "standing_palms_in_dumbbell_press",
+  "document": "Exercise: Standing Palms-In Dumbbell Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- horizontal_flexion\n- shoulder_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- shoulder_strength_and_hypertrophy\n- tricep_engagement\n\nContraindications:\n\n- Shoulder instability or injury\n- Rotator cuff issues\n\nExercise Variations:\n\n- name: Goblet Dumbbell Press, equipment: dumbbell\n- name: Arnold Press, equipment: dumbbell, primaryMuscles: ['shoulders', 'triceps']\n\nSubstitution Options:\n\n- name: Barbell Shoulder Press, equipment: barbell\n- name: Dumbbell Lateral Raise, equipment: dumbbell, primaryMuscles: ['shoulders']\n\nInstructions:\n\n- Start by having a dumbbell in each hand with your arm fully extended to the side using a neutral grip. Your feet should be shoulder width apart from each other. Now slowly lift the dumbbells up until you create a 90 degree angle with your arms. Note: Your forearms should be perpendicular to the floor. This the starting position.\n- Continue to maintain a neutral grip throughout the entire exercise. Slowly lift the dumbbells up until your arms are fully extended.\n- While inhaling lower the weights down until your arm is at a 90 degree angle again.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "standing_palms_in_dumbbell_press",
+    "exercise_name": "standing_palms_in_dumbbell_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "horizontal_flexion",
+      "shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "shoulder_strength_and_hypertrophy",
+      "tricep_engagement"
+    ],
+    "unilateral": false
+  }
+}

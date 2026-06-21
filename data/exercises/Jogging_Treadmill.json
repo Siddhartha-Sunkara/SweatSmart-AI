@@ -1,0 +1,33 @@
+{
+  "id": "jogging_treadmill",
+  "document": "Exercise: Jogging, Treadmill\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- aerobic\n- lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nModerate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Slope Increase, description: Increase the incline to challenge quadriceps further\n- name: Speed Intervals, description: Alternate between jogging and walking for intervals\n\nSubstitution Options:\n\n- exercise_name: Elliptical Trainer, reason: Similar cardiovascular and lower body engagement\n\nInstructions:\n\n- To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.\n- Treadmills offer convenience, cardiovascular benefits, and usually have less impact than jogging outside. A 150 lb person will burn almost 250 calories jogging for 30 minutes, compared to more than 450 calories running. Maintain proper posture as you jog, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate.",
+  "metadata": {
+    "exercise_id": "jogging_treadmill",
+    "exercise_name": "jogging,_treadmill",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "aerobic",
+      "lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

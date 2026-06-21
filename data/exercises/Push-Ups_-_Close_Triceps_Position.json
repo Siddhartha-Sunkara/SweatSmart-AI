@@ -1,0 +1,35 @@
+{
+  "id": "push_ups___close_triceps_position",
+  "document": "Exercise: Push-Ups - Close Triceps Position\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- chest_and_shoulder_strength\n\nContraindications:\n\n- Shoulder injuries\n- Recent elbow surgery\n\nExercise Variations:\n\n- name: Wide-Grip Push-Ups, force: push, level: intermediate\n- name: Diamond Push-Ups, force: push, level: intermediate\n\nSubstitution Options:\n\n- name: Incline Push-Ups, force: push, level: intermediate\n- name: Tricep Dips, force: push, level: intermediate\n\nInstructions:\n\n- Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms' length.\n- Lower yourself until your chest almost touches the floor as you inhale.\n- Using your triceps and some of your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.\n- After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions.",
+  "metadata": {
+    "exercise_id": "push_ups___close_triceps_position",
+    "exercise_name": "push_ups___close_triceps_position",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "chest_and_shoulder_strength"
+    ],
+    "unilateral": false
+  }
+}

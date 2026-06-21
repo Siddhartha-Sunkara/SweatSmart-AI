@@ -1,0 +1,36 @@
+{
+  "id": "standing_long_jump",
+  "document": "Exercise: Standing Long Jump\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump_with_horizontal_displacement\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhance_lower_body_strength_and_coordination\n- increase_explosive_power\n\nContraindications:\n\n- Recent lower body injury\n- Chronic knee or ankle issues\n\nExercise Variations:\n\n- name: Sand Long Jump, surface: sand\n- name: Trampoline Long Jump, equipment: trampoline\n\nSubstitution Options:\n\n- name: Box Jump, force: push, level: beginner\n\nInstructions:\n\n- This drill is best done in sand or other soft landing surface. Ensure that you are able to measure distance. Stand in a partial squat stance with feet shoulder width apart.\n- Utilizing a big arm swing and a countermovement of the legs, jump forward as far as you can.\n- Attempt to land with your feet out in front you, reaching as far as possible with your legs.\n- Measure the distance from your landing point to the starting point and track results.",
+  "metadata": {
+    "exercise_id": "standing_long_jump",
+    "exercise_name": "standing_long_jump",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump_with_horizontal_displacement"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhance_lower_body_strength_and_coordination",
+      "increase_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

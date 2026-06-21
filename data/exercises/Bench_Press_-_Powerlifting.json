@@ -1,0 +1,37 @@
+{
+  "id": "bench_press___powerlifting",
+  "document": "Exercise: Bench Press - Powerlifting\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_pushing\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- forearms\n- lats\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength_and_power_development\n\nContraindications:\n\n- Shoulder impingement\n- Chest wall injuries\n\nExercise Variations:\n\n- name: Bench Press - Barbell, equipment: barbell, primaryMuscles: ['triceps', 'chest']\n- name: Bench Press - Dumbbells, equipment: dumbbells, primaryMuscles: ['triceps', 'chest']\n\nSubstitution Options:\n\n- name: Incline Bench Press, force: push, level: intermediate\n- name: Flat Dumbbell Press, force: push, level: beginner\n\nInstructions:\n\n- Begin by lying on the bench, getting your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.\n- However wide your grip, it should cover the ring on the bar. Pull the bar out of the rack without protracting your shoulders. Focus on squeezing the bar and trying to pull it apart.\n- Lower the bar to your lower chest or upper stomach. The bar, wrist, and elbow should stay in line at all times.\n- Pause when the barbell touches your torso, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout.",
+  "metadata": {
+    "exercise_id": "bench_press___powerlifting",
+    "exercise_name": "bench_press___powerlifting",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_pushing"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "lats",
+      "shoulders",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength_and_power_development"
+    ],
+    "unilateral": false
+  }
+}

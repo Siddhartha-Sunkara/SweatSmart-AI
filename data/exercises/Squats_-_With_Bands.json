@@ -1,0 +1,34 @@
+{
+  "id": "squats___with_bands",
+  "document": "Exercise: Squats - With Bands\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- lower back\n\nEquipment:\n\n- bands\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: recent knee surgery, reason: may increase risk of re-injury\n- condition: severe osteoporosis, reason: increased stress on bones\n\nExercise Variations:\n\n- name: Squats - With Resistance Bands, force: push, level: intermediate, mechanic: compound, equipment: bands and dumbbells, primaryMuscles: ['quadriceps'], secondaryMuscles: ['calves', 'glutes', 'hamstrings', 'lower back']\n\nSubstitution Options:\n\n- exercise_name: Bodyweight Squats, equipment: none\n- exercise_name: Goblet Squats, equipment: dumbbell\n\nInstructions:\n\n- To start out, make sure that the exercise band is at an even split between both the left and right side of the body. To do this, use your hands to grab both sides of the band and place both feet in the middle of the band. Your feet should be shoulder width apart from each other.\n- When holding the bands, they should be the same height on each side. You should be using a pronated grip (palms facing forward) and have the handles of the bands next to your face for this exercise. This is the starting position.\n- Slowly start to bend the knees and lower the legs so that your thighs are parallel to the floor while exhaling.\n- Use the heel of your feet to push your body up to the starting position as you exhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "squats___with_bands",
+    "exercise_name": "squats___with_bands",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings",
+      "lower_back"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

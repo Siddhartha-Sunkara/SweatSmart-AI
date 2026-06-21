@@ -1,0 +1,35 @@
+{
+  "id": "thigh_adductor",
+  "document": "Exercise: Thigh Adductor\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- adductors\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- strength_building\n- muscle_hypertrophy\n\nContraindications:\n\n- Recent knee surgery or injury\n- Pregnancy\n\nExercise Variations:\n\n- name: Seated Leg Curl, equipment: machine\n- name: Standing Cable Adduction, equipment: cable machine\n\nSubstitution Options:\n\n- exercise_name: Leg Press, equipment: machine\n- exercise_name: Barbell Adduction, equipment: barbell\n\nInstructions:\n\n- To begin, sit down on the adductor machine and select a weight you are comfortable with. When your legs are positioned properly on the leg pads of the machine, grip the handles on each side. Your entire upper body (from the waist up) should be stationary. This is the starting position.\n- Slowly press against the machine with your legs to move them towards each other while exhaling.\n- Feel the contraction for a second and begin to move your legs back to the starting position while breathing in. Note: Remember to keep your upper body stationary and avoid fast jerking motions in order to prevent any injuries from occurring.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "thigh_adductor",
+    "exercise_name": "thigh_adductor",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "adductors"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strength_building",
+      "muscle_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

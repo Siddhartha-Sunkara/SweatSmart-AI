@@ -1,0 +1,35 @@
+{
+  "id": "side_standing_long_jump",
+  "document": "Exercise: Side Standing Long Jump\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- ankle_plantarflexion\n- unilateral_hip_extension\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\nNone\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power_and_explosiveness\n\nContraindications:\n\n- Recent lower body injury or surgery\n- Severe joint pain or instability\n\nExercise Variations:\n\n- name: Side Standing Long Jump with Medicine Ball Throw, id: Side_Standing_Long_Jump_Medicine_Ball_Throw\n\nSubstitution Options:\n\n- name: Single-Leg Box Jump, id: Single_Leg_Box_Jump\n\nInstructions:\n\n- Begin standing with your feet hip width apart in an athletic stance. Your head and chest should be up, knees and hips slightly bent. This will be your starting position.\n- Leaning to your right, extend through your hips, knees, and ankles to jump into the air. Block with the arms to lead the movement, jumping as far to your right as you can.\n- Land facing the same direction with your feet hip width apart, absorbing the impact through your lower body.",
+  "metadata": {
+    "exercise_id": "side_standing_long_jump",
+    "exercise_name": "side_standing_long_jump",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "ankle_plantarflexion",
+      "unilateral_hip_extension"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power_and_explosiveness"
+    ],
+    "unilateral": false
+  }
+}

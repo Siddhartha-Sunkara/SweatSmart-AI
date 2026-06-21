@@ -1,0 +1,33 @@
+{
+  "id": "behind_head_chest_stretch",
+  "document": "Exercise: Behind Head Chest Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- static_stretch\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- increase_flexibility_in_chest_and_shoulders\n\nContraindications:\n\n- recent chest injury\n- shoulder instability\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Sit upright on the floor with your partner behind you.\n- Place your hands behind your hand, and push your elbows back as far as you can. Your partner should hold your elbows. This will be your starting position.\n- Gently attempt to pull your elbows forward with your hands still behind your head for 10 or more seconds. Your partner should prevent your elbows from moving.\n- Now, relax your muscles and have your partner gently pull the elbows back as far as it comfortable for you. Be sure to let your partner know when the stretch is adequate to prevent overstretching or injury.",
+  "metadata": {
+    "exercise_id": "behind_head_chest_stretch",
+    "exercise_name": "behind_head_chest_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "static_stretch"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "increase_flexibility_in_chest_and_shoulders"
+    ],
+    "unilateral": false
+  }
+}

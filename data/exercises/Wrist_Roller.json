@@ -1,0 +1,35 @@
+{
+  "id": "wrist_roller",
+  "document": "Exercise: Wrist Roller\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension\n- unilateral_wrist_flexion\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\n\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- wrist_flexibility\n- forearm_strength_and_endurance\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Wrist Roller with Resistance Bands, force: pull, level: intermediate\n\nSubstitution Options:\n\n- name: Plate Pinches, force: isolation, level: beginner\n\nInstructions:\n\n- To begin, stand straight up grabbing a wrist roller using a pronated grip (palms facing down). Your feet should be shoulder width apart.\n- Slowly lift both arms until they are fully extended and parallel to the floor in front of you. Note: Make sure the rope is not wrapped around the roller. Your entire body should be stationary except for the forearms. This is the starting position.\n- Rotate one wrist at a time in an upward motion to bring the weight up to the bar by rolling the rope around the roller.\n- Once the weight has reached the bar, slowly begin to lower the weight back down by rotating the wrist in a downward motion until the weight reaches the starting position.\n- Repeat for the prescribed amount of repetitions in your program.",
+  "metadata": {
+    "exercise_id": "wrist_roller",
+    "exercise_name": "wrist_roller",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension",
+      "unilateral_wrist_flexion"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "wrist_flexibility",
+      "forearm_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

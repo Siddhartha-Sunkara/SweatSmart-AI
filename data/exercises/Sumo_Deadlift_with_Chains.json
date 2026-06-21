@@ -1,0 +1,42 @@
+{
+  "id": "sumo_deadlift_with_chains",
+  "document": "Exercise: Sumo Deadlift with Chains\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hip_hinge\n- knee_extension\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- forearms\n- glutes\n- lower back\n- middle back\n- quadriceps\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- condition: Lower back pain, reason: The exercise places significant stress on the lower back.\n- condition: Recent knee surgery, reason: Knee extension is a component of the movement.\n\nExercise Variations:\n\n- name: Sumo Deadlift with Dumbbells, equipment: dumbbells\n- name: Sumo Deadlift with Kettlebells, equipment: kettlebells\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlift, equipment: barbell\n- exercise_name: Romanian Deadlift with Chains, equipment: barbell\n\nInstructions:\n\n- You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift. Attempt to keep the ends of the chains away from the plates so you don't hit them when you lower the weight.\n- Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.\n- Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.\n- As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.\n- Return the weight to the ground by bending at the hips and controlling the weight on the way down.",
+  "metadata": {
+    "exercise_id": "sumo_deadlift_with_chains",
+    "exercise_name": "sumo_deadlift_with_chains",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hip_hinge",
+      "knee_extension"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "adductors",
+      "forearms",
+      "abductors",
+      "traps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "cable_deadlifts",
+  "document": "Exercise: Cable Deadlifts\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- knee_flexion\n- hip_extension\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- hamstrings\n- lower back\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improve_hip_and_spinal_health\n- strengthen_the_lower_body_and_core\n\nContraindications:\n\n- Lower back issues\n- Recent knee surgery\n\nExercise Variations:\n\n- name: Single-Arm Cable Deadlifts, equipment: cable\n- name: Romanian Deadlifts, equipment: barbell or cable\n\nSubstitution Options:\n\n- exercise_name: Barbell Deadlifts, equipment: barbell\n\nInstructions:\n\n- Move the cables to the bottom of the towers and select an appropriate weight. Stand directly in between the uprights.\n- To begin, squat down be flexing your hips and knees until you can reach the handles.\n- After grasping them, begin your ascent. Driving through your heels extend your hips and knees keeping your hands hanging at your side. Keep your head and chest up throughout the movement.\n- After reaching a full standing position, Return to the starting position and repeat.",
+  "metadata": {
+    "exercise_id": "cable_deadlifts",
+    "exercise_name": "cable_deadlifts",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "knee_flexion",
+      "hip_extension"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "hamstrings",
+      "forearms"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improve_hip_and_spinal_health",
+      "strengthen_the_lower_body_and_core"
+    ],
+    "unilateral": false
+  }
+}

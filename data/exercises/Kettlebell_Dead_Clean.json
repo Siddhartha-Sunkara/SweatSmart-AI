@@ -1,0 +1,39 @@
+{
+  "id": "kettlebell_dead_clean",
+  "document": "Exercise: Kettlebell Dead Clean\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hinge\n- pull\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- glutes\n- lower back\n- quadriceps\n- traps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improve_overall_strength_and_power\n- strengthen_hamstrings_and_glutes\n\nContraindications:\n\n- Lower back issues\n- Shoulder injuries\n\nExercise Variations:\n\n- name: Kettlebell Clean and Press, instructions: ['Clean the kettlebell to your shoulder.', 'Press the kettlebell overhead.']\n- name: Single-Arm Kettlebell Dead Clean, equipment: single-arm kettlebells\n\nSubstitution Options:\n\n- exercise_name: Barbell Deadlift, equipment: barbell\n- exercise_name: Sumo Deadlift High Pull, equipment: barbell or kettlebells\n\nInstructions:\n\n- Place kettlebell between your feet. To get in the starting position, push your butt back and look straight ahead.\n- Clean the kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so.\n- Lower the kettlebell, keeping the hamstrings loaded by keeping your back straight and your butt out.",
+  "metadata": {
+    "exercise_id": "kettlebell_dead_clean",
+    "exercise_name": "kettlebell_dead_clean",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hinge",
+      "pull"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "traps",
+      "calves"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improve_overall_strength_and_power",
+      "strengthen_hamstrings_and_glutes"
+    ],
+    "unilateral": false
+  }
+}

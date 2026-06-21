@@ -1,0 +1,41 @@
+{
+  "id": "split_clean",
+  "document": "Exercise: Split Clean\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hinge\n- pull\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- forearms\n- glutes\n- hamstrings\n- lower back\n- shoulders\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- strength_and_power_development_in_the_upper_body_and_core\n- hypertrophy_of_the_quadriceps,_glutes,_and_hamstrings\n\nContraindications:\n\n- Lower back issues\n- Shoulder instability\n\nExercise Variations:\n\n- name: Hang Clean from Knee Level, force: pull, level: advanced\n- name: Split Clean with Medicine Ball, force: pull, level: intermediate\n\nSubstitution Options:\n\n- name: Split Snatch, force: pull, level: intermediate\n- name: Front Squat, force: push, level: intermediate\n\nInstructions:\n\n- With a barbell on the floor close to the shins, take an overhand grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.\n- Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight. Move the weight with control as you continue to above the knees.\n- Next comes the second pull, the main source of acceleration for the clean. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended.\n- As full extension is achieved, transition into the third pull by aggressively shrugging and flexing the arms with the elbows up and out. At peak extension, aggressively pull yourself down, rotating your elbows under the bar as you do so.\n- Receive the bar with the feet split, aggressively moving one foot forward and one foot back. The bar should be racked onto the protracted shoulders, lightly touching the throat with the hands relaxed. Continue to descend to the bottom position, which will help in the recovery.\n- Immediately recover by driving through the heels, keeping the torso upright and elbows up. Bring the feet together as you stand up.",
+  "metadata": {
+    "exercise_id": "split_clean",
+    "exercise_name": "split_clean",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hinge",
+      "pull"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "shoulders",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "strength_and_power_development_in_the_upper_body_and_core",
+      "hypertrophy_of_the_quadriceps,_glutes,_and_hamstrings"
+    ],
+    "unilateral": false
+  }
+}

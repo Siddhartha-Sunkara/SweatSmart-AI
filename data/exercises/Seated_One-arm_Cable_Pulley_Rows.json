@@ -1,0 +1,33 @@
+{
+  "id": "seated_one_arm_cable_pulley_rows",
+  "document": "Exercise: Seated One-arm Cable Pulley Rows\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_row\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n- traps\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder instability or injury, reason: The exercise places significant stress on the shoulder joint, which could exacerbate existing conditions.\n- condition: Lower back pain, reason: The exercise requires a slight arch in the lower back, which may not be suitable for individuals with lower back issues.\n\nExercise Variations:\n\n- name: Seated One-arm Cable Pulley Rows with Band Resistance Increase, description: Increase the resistance of the cable pulley to add more challenge.\n- name: Seated One-arm Cable Pulley Rows with Pause at Midpoint, description: Pause for 1-2 seconds in the mid-rep position to increase time under tension.\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Dumbbell Rows, equipment: dumbbells\n- exercise_name: One-Arm Kettlebell Rows, equipment: kettlebells\n\nInstructions:\n\n- To get into the starting position, first sit down on the machine and place your feet on the front platform or crossbar provided making sure that your knees are slightly bent and not locked.\n- Lean over as you keep the natural alignment of your back and grab the single handle attachment with your left arm using a palms-down grip.\n- With your arm extended pull back until your torso is at a 90-degree angle from your legs. Your back should be slightly arched and your chest should be sticking out. You should be feeling a nice stretch on your lat as you hold the bar in front of you. The right arm can be kept by the waist. This is the starting position of the exercise.\n- Keeping the torso stationary, pull the handles back towards your torso while keeping the arms close to it as you rotate the wrist, so that by the time your hand is by your abdominals it is in a neutral position (palms facing the torso). Breathe out as you perform that movement. At that point you should be squeezing your back muscles hard.\n- Hold that contraction for a second and slowly go back to the original position while breathing in. Tip: Remember to rotate the wrist as you go back to the starting position so that the palms are facing down again.\n- Repeat for the recommended amount of repetitions and then perform the same movement with the right hand.",
+  "metadata": {
+    "exercise_id": "seated_one_arm_cable_pulley_rows",
+    "exercise_name": "seated_one_arm_cable_pulley_rows",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_row"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "traps",
+      "biceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

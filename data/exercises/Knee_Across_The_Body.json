@@ -1,0 +1,34 @@
+{
+  "id": "knee_across_the_body",
+  "document": "Exercise: Knee Across The Body\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- rotation\n- lateral_flexion\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- abductors\n- lower back\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- strengthen_glutes_and_abductors\n- improve_spinal_flexibility\n\nContraindications:\n\n- lower back pain\n- recent abdominal surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Lie down on the floor with your right leg straight. Bend your left leg and lower it across your body, holding the knee down toward the floor with your right hand. (The knee doesn't need to touch the floor if you're tight.)\n- Place your left arm comfortably beside you and turn your head to the left. Imagine you have a weight tied to your tailbone. let your tailbone fall back toward the floor as your chest reaches in the opposite direction to stretch your lower back. Switch sides.",
+  "metadata": {
+    "exercise_id": "knee_across_the_body",
+    "exercise_name": "knee_across_the_body",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "rotation",
+      "lateral_flexion"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "abductors",
+      "lower_back"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strengthen_glutes_and_abductors",
+      "improve_spinal_flexibility"
+    ],
+    "unilateral": false
+  }
+}

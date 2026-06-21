@@ -1,0 +1,32 @@
+{
+  "id": "one_arm_pronated_dumbbell_triceps_extension",
+  "document": "Exercise: One Arm Pronated Dumbbell Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_elbow_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n1.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n0.75 hours\n\nGoals:\n\n- isolated_triceps_development\n- enhanced_triceps_strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Elbow joint issues\n\nExercise Variations:\n\n- name: One Arm Pronated Dumbbell Triceps Extension (Reverse Grip), equipment: dumbbell\n- name: Triceps Cable Pushdown, equipment: cable machine\n\nSubstitution Options:\n\n- exercise_name: One Arm Dumbbell Triceps Extension (Neutral Grip), equipment: dumbbell\n- exercise_name: Triceps Pushdown Machine, equipment: cable machine\n\nInstructions:\n\n- Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your feet as a pronated grip is required to perform this exercise.\n- Place your non lifting hand on your bicep for support.\n- Slowly begin to lower the dumbbell down as you breathe in.\n- Then, begin lifting the dumbbell upward as you contract the triceps. Remember to breathe out during the concentric (lifting part of the exercise).\n- Repeat until you have performed your set repetitions.\n- Switch arms and repeat the movement.",
+  "metadata": {
+    "exercise_id": "one_arm_pronated_dumbbell_triceps_extension",
+    "exercise_name": "one_arm_pronated_dumbbell_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_elbow_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 1.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 0,
+    "goals": [
+      "isolated_triceps_development",
+      "enhanced_triceps_strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pushups",
+  "document": "Exercise: Pushups\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\naerobic and anaerobic\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_muscular_endurance\n- enhance_chest,_shoulder,_and_tricep_development\n- build_upper_body_strength\n\nContraindications:\n\n- Recent shoulder or elbow surgery\n- Severe joint pain or inflammation\n\nExercise Variations:\n\n- name: Wide-Grip Pushups, primaryMuscles: ['chest', 'triceps'], secondaryMuscles: ['shoulders']\n- name: Close-Grip Pushups, primaryMuscles: ['triceps'], secondaryMuscles: ['chest', 'shoulders']\n\nSubstitution Options:\n\n- exercise_name: Bodyweight Dips, equipment: parallel bars\n- exercise_name: Incline Pushups, equipment: bench or chair\n\nInstructions:\n\n- Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length.\n- Next, lower yourself downward until your chest almost touches the floor as you inhale.\n- Now breathe out and press your upper body back up to the starting position while squeezing your chest.\n- After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed.",
+  "metadata": {
+    "exercise_id": "pushups",
+    "exercise_name": "pushups",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "aerobic_and_anaerobic",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_muscular_endurance",
+      "enhance_chest,_shoulder,_and_tricep_development",
+      "build_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

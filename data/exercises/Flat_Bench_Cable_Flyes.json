@@ -1,0 +1,32 @@
+{
+  "id": "flat_bench_cable_flyes",
+  "document": "Exercise: Flat Bench Cable Flyes\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- circular\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- chest_hypertrophy\n- chest_strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Severe chest pain or discomfort\n\nExercise Variations:\n\n- name: Single-Arm Cable Flyes, equipment: single cable handle and pulley\n- name: Superset with Incline Dumbbell Press, equipment: ['dumbbells', 'bench']\n\nSubstitution Options:\n\n- exercise_name: Incline Dumbbell Flyes, equipment: dumbbells\n- exercise_name: Machine Chest Flyes, equipment: cable machine with a butterfly attachment\n\nInstructions:\n\n- Position a flat bench between two low pulleys so that when you are laying on it, your chest will be lined up with the cable pulleys.\n- Lay flat on the bench and keep your feet on the ground.\n- Have someone hand you the handles on each hand. You will grab each single handle attachment with a palms up grip.\n- Extend your arms by your side with a slight bend on your elbows. Tip: You will keep this bend constant through the whole movement. Your arms should be parallel to the floor. This is your starting position.\n- Now start lifting the arms in a semi-circle motion directly in front of you by pulling the cables together until both hands meet at the top of the movement. Squeeze your chest as you perform this motion and breathe out during this movement. Also, hold the contraction for a second at the top. Tip: When performed correctly, at the top position of this movement, your arms should be perpendicular to your torso and the floor touching above your chest.\n- Slowly come back to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "flat_bench_cable_flyes",
+    "exercise_name": "flat_bench_cable_flyes",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "circular"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "chest_hypertrophy",
+      "chest_strength"
+    ],
+    "unilateral": false
+  }
+}

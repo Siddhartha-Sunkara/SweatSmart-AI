@@ -1,0 +1,36 @@
+{
+  "id": "anti_gravity_press",
+  "document": "Exercise: Anti-Gravity Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_press_variation\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- middle back\n- traps\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_shoulder_strength_and_size\n- improve_overall_upper_body_stability\n\nContraindications:\n\n- Shoulder instability or injury\n- Rotator cuff issues\n\nExercise Variations:\n\n- name: Arnold Press, equipment: barbell\n- name: Barbell Upright Row, equipment: barbell\n\nSubstitution Options:\n\n- name: Overhead Press, equipment: dumbbells\n\nInstructions:\n\n- Place a bar on the ground behind the head of an incline bench.\n- Lay on the bench face down. With a pronated grip, pick the barbell up from the floor. Flex the elbows, performing a reverse curl to bring the bar near your chest. This will be your starting position.\n- To begin, press the barbell out in front of your head by extending your elbows. Keep your arms parallel to the ground throughout the movement.\n- Return to the starting position and repeat to complete the set.",
+  "metadata": {
+    "exercise_id": "anti_gravity_press",
+    "exercise_name": "anti_gravity_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_press_variation"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "traps",
+      "middle_back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_shoulder_strength_and_size",
+      "improve_overall_upper_body_stability"
+    ],
+    "unilateral": false
+  }
+}

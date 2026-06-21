@@ -1,0 +1,37 @@
+{
+  "id": "dips___triceps_version",
+  "document": "Exercise: Dips - Triceps Version\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elbow\n- triple_articulation_(shoulder\n- wrist)\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- tricep_hypertrophy\n- upper_body_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Incline dips, instructions: ['Place your feet on a bench or step and lower yourself to the starting position.']\n- name: Decline dips, instructions: ['Place your hands on a higher bar and your feet on a lower surface, lowering yourself downward.']\n\nSubstitution Options:\n\n- exercise_name: Push-ups, equipment: body only\n- exercise_name: Tricep extensions, equipment: dumbbells\n\nInstructions:\n\n- To get into the starting position, hold your body at arm's length with your arms nearly locked above the bars.\n- Now, inhale and slowly lower yourself downward. Your torso should remain upright and your elbows should stay close to your body. This helps to better focus on tricep involvement. Lower yourself until there is a 90 degree angle formed between the upper arm and forearm.\n- Then, exhale and push your torso back up using your triceps to bring your body back to the starting position.\n- Repeat the movement for the prescribed amount of repetitions.",
+  "metadata": {
+    "exercise_id": "dips___triceps_version",
+    "exercise_name": "dips___triceps_version",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elbow",
+      "triple_articulation_(shoulder",
+      "wrist)"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "tricep_hypertrophy",
+      "upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

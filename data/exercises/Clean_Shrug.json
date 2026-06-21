@@ -1,0 +1,36 @@
+{
+  "id": "clean_shrug",
+  "document": "Exercise: Clean Shrug\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_pulling\n\nPrimary Muscles:\n\n- traps\n\nSecondary Muscles:\n\n- forearms\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\nATP-PC system\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- traps_strengthening\n- forearms_strengthening\n- shoulders_strengthening\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Kettlebell Clean Shrug, equipment: kettlebell\n- name: Dumbbell Clean Shrug, equipment: dumbbells\n\nSubstitution Options:\n\n- name: Barbell Shrug, force: pull, level: beginner\n\nInstructions:\n\n- Begin with a shoulder width, double overhand or hook grip, with the bar hanging at the mid thigh position. Your back should be straight and inclined slightly forward.\n- Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a clean, avoid overloading to the point that the execution slows down.",
+  "metadata": {
+    "exercise_id": "clean_shrug",
+    "exercise_name": "clean_shrug",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_pulling"
+    ],
+    "primary_muscles": [
+      "traps"
+    ],
+    "secondary_muscles": [
+      "shoulders",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "atp_pc_system",
+    "recovery_time_hours": 48,
+    "goals": [
+      "traps_strengthening",
+      "forearms_strengthening",
+      "shoulders_strengthening"
+    ],
+    "unilateral": false
+  }
+}

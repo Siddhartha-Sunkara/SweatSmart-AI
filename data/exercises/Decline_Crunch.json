@@ -1,0 +1,29 @@
+{
+  "id": "decline_crunch",
+  "document": "Exercise: Decline Crunch\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- abdominal_flexion\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Lower back pain, description: This exercise can exacerbate lower back issues due to the stress on the lumbar spine. Consider alternative exercises.\n- condition: Recent abdominal surgery, description: Avoid this exercise until cleared by a healthcare professional.\n\nExercise Variations:\n\n- name: Decline Crunch with Medicine Ball, equipment: medicine ball\n- name: Decline Crunch with Resistance Band, equipment: resistance band\n\nSubstitution Options:\n\n- exercise_name: Decline Reverse Crunch, equipment: body only\n- exercise_name: Decline Leg Raise, equipment: body only\n\nInstructions:\n\n- Secure your legs at the end of the decline bench and lie down.\n- Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.\n- While pushing the small of your back down in the bench to better isolate your abdominal muscles, begin to roll your shoulders off it.\n- Continue to push down as hard as you can with your lower back as you contract your abdominals and exhale. Your shoulders should come up off the bench only about four inches, and your lower back should remain on the bench. At the top of the movement, contract your abdominals hard and keep the contraction for a second. Tip: Focus on slow, controlled movement - don't cheat yourself by using momentum.\n- After the one second contraction, begin to come down slowly again to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "decline_crunch",
+    "exercise_name": "decline_crunch",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "abdominal_flexion"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

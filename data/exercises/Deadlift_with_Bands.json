@@ -1,0 +1,40 @@
+{
+  "id": "deadlift_with_bands",
+  "document": "Exercise: Deadlift with Bands\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- hamstrings\n- middle back\n- quadriceps\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n4\n\nSystemic Fatigue:\nmoderate\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hypertrophy\n- power\n- strength\n\nContraindications:\n\n- Lower back issues\n- Recent spinal surgery\n\nExercise Variations:\n\n- name: Deadlift with Long Bands, equipment: barbell, long bands\n- name: Deadlift with Chains, equipment: barbell, chains\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlift with Bands, equipment: barbell\n- exercise_name: Romanian Deadlift with Bands, equipment: barbell\n\nInstructions:\n\n- To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. For long bands, they will need to be anchored to a secure base, such as heavy dumbbells or a rack.\n- With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.\n- Lower the bar by bending at the hips and guiding it to the floor.",
+  "metadata": {
+    "exercise_id": "deadlift_with_bands",
+    "exercise_name": "deadlift_with_bands",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "quadriceps",
+      "glutes",
+      "forearms",
+      "traps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 4.0,
+    "systemic_fatigue": "moderate",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hypertrophy",
+      "power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

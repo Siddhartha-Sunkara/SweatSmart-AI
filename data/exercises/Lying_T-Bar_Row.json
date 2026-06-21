@@ -1,0 +1,35 @@
+{
+  "id": "lying_t_bar_row",
+  "document": "Exercise: Lying T-Bar Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- pull\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- posture_improvement\n- strength_and_hypertrophy\n\nContraindications:\n\n- condition: Lower Back Pain, reason: May exacerbate existing conditions if not performed with proper form\n- condition: Shoulder Impingement, reason: Can increase shoulder stress if not executed correctly\n\nExercise Variations:\n\n- name: Wide-Grip Lying T-Bar Row, primaryMuscles: ['middle back', 'lats']\n- name: Narrow-Grip Lying T-Bar Row, primaryMuscles: ['middle back', 'lats']\n\nSubstitution Options:\n\n- exercise_name: Seated Cable Row, equipment: cable machine\n- exercise_name: Face Pulls, equipment: pulley system\n\nInstructions:\n\n- Load up the T-bar Row Machine with the desired weight and adjust the leg height so that your upper chest is at the top of the pad. Tip: In some machines all you can do is stand on the appropriate step that allows you to be at a height that has the upper chest at the top of the pad.\n- Lay face down on the pad and grab the handles. You can either use a palms down, palms up, or palms in position depending on what part of your back you want to emphasize.\n- Lift the bar off the rack and extend your arms in front of you. This will be your starting position.\n- As you exhale slowly pull the weight up and squeeze your back at the top of the movement. Tip: Keep the upper arms as close to the torso as possible throughout the movement in order to better engage the back muscles. Also, do not lift your body off of the pad at any time and refrain from using the biceps to lift the weight.\n- After a second contraction at the top of the movement, as you inhale, slowly go back down to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "lying_t_bar_row",
+    "exercise_name": "lying_t_bar_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "pull"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "posture_improvement",
+      "strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

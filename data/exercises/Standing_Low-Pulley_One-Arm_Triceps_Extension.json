@@ -1,0 +1,35 @@
+{
+  "id": "standing_low_pulley_one_arm_triceps_extension",
+  "document": "Exercise: Standing Low-Pulley One-Arm Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_shoulder_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- tricep_hypertrophy\n- elbow_joint_stability\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Arm Cable Pushdown, equipment: cable\n- name: Triceps Cable Press-Down, equipment: cable\n\nSubstitution Options:\n\n- name: Triceps Dips, equipment: bench\n- name: Overhead Triceps Extension with Dumbbells, equipment: dumbbells\n\nInstructions:\n\n- Grab a single handle with your left arm next to the low pulley machine. Turn away from the machine keeping the handle to the side of your body with your arm fully extended. Now use both hands to elevate the single handle directly above the head with the palm facing forward. Keep your upper arm completely vertical (perpendicular to the floor) and put your right hand on your left elbow to help keep it steady. This is the starting position.\n- Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.\n- Go back to the starting position by using the triceps to raise the single handle. Breathe out as you perform this step.\n- Repeat for the recommended amount of repetitions.\n- Switch arms and repeat the exercise.",
+  "metadata": {
+    "exercise_id": "standing_low_pulley_one_arm_triceps_extension",
+    "exercise_name": "standing_low_pulley_one_arm_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_shoulder_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "tricep_hypertrophy",
+      "elbow_joint_stability"
+    ],
+    "unilateral": false
+  }
+}

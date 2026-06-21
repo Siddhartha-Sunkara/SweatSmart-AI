@@ -1,0 +1,35 @@
+{
+  "id": "pushups_close_and_wide_hand_positions",
+  "document": "Exercise: Pushups (Close and Wide Hand Positions)\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- strength_building\n- cardiovascular_endurance\n\nContraindications:\n\n- condition: recent shoulder injury, reason: High risk of exacerbating the condition.\n- condition: shoulder instability, reason: May cause further instability or pain.\n\nExercise Variations:\n\n- name: Pushups (Close and Wide Hand Positions) with Knee Bends, force: push, level: intermediate\n- name: Pushups (Close and Wide Hand Positions) on an Incline, force: push, level: intermediate\n\nSubstitution Options:\n\n- name: Incline Pushups, force: push, level: beginner\n- name: Wall Pushups, force: push, level: beginner\n\nInstructions:\n\n- Lie on the floor face down and body straight with your toes on the floor and the hands wider than shoulder width for a wide hand position and closer than shoulder width for a close hand position. Make sure you are holding your torso up at arms length.\n- Lower yourself until your chest almost touches the floor as you inhale.\n- Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.\n- After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions.",
+  "metadata": {
+    "exercise_id": "pushups_close_and_wide_hand_positions",
+    "exercise_name": "pushups_(close_and_wide_hand_positions)",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strength_building",
+      "cardiovascular_endurance"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "reverse_grip_bent_over_rows",
+  "document": "Exercise: Reverse Grip Bent-Over Rows\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_row\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Lower Back Pain, description: Individuals with lower back pain should avoid this exercise or perform it with caution, focusing on maintaining a neutral spine.\n- condition: Shoulder Impingement, description: Individuals with shoulder impingement should modify the movement to reduce overhead stress and ensure proper form.\n\nExercise Variations:\n\n- name: Wide-Grip Reverse Grip Bent-Over Rows, force: pull, level: intermediate, mechanic: compound, primaryMuscles: ['middle back'], secondaryMuscles: ['biceps', 'lats', 'shoulders']\n\nSubstitution Options:\n\n- exercise_name: T-Bar Rows, equipment: T-bar\n- exercise_name: Single-Arm Dumbbell Rows, equipment: dumbbells\n\nInstructions:\n\n- Stand erect while holding a barbell with a supinated grip (palms facing up).\n- Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The barbell should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.\n- While keeping the torso stationary, lift the barbell as you breathe out, keeping the elbows close to the body and not doing any force with the forearm other than holding the weights. On the top contracted position, squeeze the back muscles and hold for a second.\n- Slowly lower the weight again to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "reverse_grip_bent_over_rows",
+    "exercise_name": "reverse_grip_bent_over_rows",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_row"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "shoulders",
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

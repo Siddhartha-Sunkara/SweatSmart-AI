@@ -1,0 +1,32 @@
+{
+  "id": "plyo_push_up",
+  "document": "Exercise: Plyo Push-up\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_linear\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: recent shoulder injury, reason: High risk of re-injury\n- condition: chronic joint pain, reason: May exacerbate existing conditions\n\nExercise Variations:\n\n- name: Clap Push-up, instructions: ['Move into a prone position on the floor, supporting your weight on your hands and toes.', 'Your arms should be fully extended with the hands around shoulder width. Keep your body straight throughout the movement. This will be your starting position.', 'Descend by flexing at the elbow, lowering your chest towards the ground.', 'At the bottom, reverse the motion by pushing yourself up through elbow extension as quickly as possible. Attempt to push your upper body up until your hands leave the ground and clap.', 'Return to the starting position and repeat the exercise.']\n\nSubstitution Options:\n\n- exercise_name: Box Jump, equipment: box\n\nInstructions:\n\n- Move into a prone position on the floor, supporting your weight on your hands and toes.\n- Your arms should be fully extended with the hands around shoulder width. Keep your body straight throughout the movement. This will be your starting position.\n- Descend by flexing at the elbow, lowering your chest towards the ground.\n- At the bottom, reverse the motion by pushing yourself up through elbow extension as quickly as possible. Attempt to push your upper body up until your hands leave the ground.\n- Return to the starting position and repeat the exercise.\n- For added difficulty, add claps into the movement while you are air borne.",
+  "metadata": {
+    "exercise_id": "plyo_push_up",
+    "exercise_name": "plyo_push_up",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_linear"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

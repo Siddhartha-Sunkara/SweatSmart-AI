@@ -1,0 +1,42 @@
+{
+  "id": "yoke_walk",
+  "document": "Exercise: Yoke Walk\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\nNone\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- core_engagement\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- abductors\n- adductors\n- calves\n- glutes\n- hamstrings\n- lower back\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- developing_overall_strength,_particularly_in_the_legs_and_core\n- building_muscular_endurance\n- improving_balance_and_coordination\n\nContraindications:\n\n- Individuals with lower back issues should use caution and possibly seek guidance from a fitness professional.\n- Those with shoulder injuries may need to modify their grip or reduce weight.\n\nExercise Variations:\n\n- name: Yoke Run, instructions: Similar to the Yoke Walk, but performed at a faster pace with an emphasis on speed.\n- name: Yoke Carry, instructions: Performing the yoke walk without walking, instead holding the apparatus in place for a set duration or distance.\n\nSubstitution Options:\n\n- exercise_name: Barbell Walkout, equipment: barbell\n- exercise_name: Kettlebell Goblet Squat and Carry, equipment: kettlebells\n\nInstructions:\n\n- The yoke is usually done with a yoke apparatus, but is sometimes seen with refrigerators or other heavy objects.\n- Begin by racking the apparatus across the back of the shoulders. With your head looking forward and back arched, lift the yoke by driving through the heels.\n- Begin walking as quickly as possible using short, quick steps. You may hold the side posts of the yoke to help steady it and hold it in position. Continue for the given distance as fast as possible, usually 75-100 feet.",
+  "metadata": {
+    "exercise_id": "yoke_walk",
+    "exercise_name": "yoke_walk",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "core_engagement",
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "glutes",
+      "lower_back",
+      "adductors",
+      "abductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "developing_overall_strength,_particularly_in_the_legs_and_core",
+      "building_muscular_endurance",
+      "improving_balance_and_coordination"
+    ],
+    "unilateral": false
+  }
+}

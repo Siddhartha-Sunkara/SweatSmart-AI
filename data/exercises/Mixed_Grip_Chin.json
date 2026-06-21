@@ -1,0 +1,32 @@
+{
+  "id": "mixed_grip_chin",
+  "document": "Exercise: Mixed Grip Chin\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- pull\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder injury, description: This exercise may exacerbate shoulder injuries due to the unique grip and angle of pull. Consult a healthcare professional before attempting this exercise.\n- condition: recent back surgery, description: Avoid this exercise until full recovery as it places significant strain on the back muscles, which may not be fully healed yet.\n\nExercise Variations:\n\n- name: Neutral Grip Chin, instructions: ['Using a spacing that is just about 1 inch wider than shoulder width, grab a pull-up bar with the palms of both hands facing towards you. This will be your starting position.', 'Now start to pull yourself up as you exhale.']\n- name: Close Grip Chin, instructions: ['Using a spacing that is just about 6 inches wider than shoulder width, grab a pull-up bar with the palms of both hands facing towards you. This will be your starting position.', 'Now start to pull yourself up as you exhale.']\n\nSubstitution Options:\n\n- exercise_name: Wide Grip Lat Pulldown, equipment: cable machine\n- exercise_name: Barbell Rows, equipment: barbell\n\nInstructions:\n\n- Using a spacing that is just about 1 inch wider than shoulder width, grab a pull-up bar with the palms of one hand facing forward and the palms of the other hand facing towards you. This will be your starting position.\n- Now start to pull yourself up as you exhale. Tip: With the arm that has the palms facing up concentrate on using the back muscles in order to perform the movement. The elbow of that arm should remain close to the torso. With the other arm that has the palms facing forward, the elbows will be away but in line with the torso. You will concentrate on using the lats to pull your body up.\n- After a second contraction at the top, start to slowly come down as you inhale.\n- Repeat for the recommended amount of repetitions.\n- On the following set, switch grips; so if you had the right hand with the palms facing you and the left one with the palms facing forward, on the next set you will have the palms facing forward for the right hand and facing you for the left.",
+  "metadata": {
+    "exercise_id": "mixed_grip_chin",
+    "exercise_name": "mixed_grip_chin",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "pull"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

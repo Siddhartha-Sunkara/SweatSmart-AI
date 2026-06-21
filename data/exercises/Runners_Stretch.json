@@ -1,0 +1,34 @@
+{
+  "id": "runners_stretch",
+  "document": "Exercise: Runner's Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension_of_the_hip\n- knee_joints\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relieve_muscle_tension_in_the_lower_back\n- improve_flexibility_of_the_hamstrings_and_hip_flexors\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Deep Lunge Stretch, id: Deep_Lunge_Stretch\n\nSubstitution Options:\n\n- name: Seated Forward Bend, id: Seated_Forward_Bend\n\nInstructions:\n\n- It's easiest to get into this stretch if you start standing up, put one leg behind you, and slowly lower your torso down to the floor.\n- Keep the front heel on the floor (if it lifts up, scoot your other leg further back).\n- Place your hands on either side of your front leg. To get more out of this stretch, push your butt up toward the ceiling, and then gradually lower it back toward the floor. You'll Stretch the hip flexor of the back leg and the hamstring and buttocks of the front.",
+  "metadata": {
+    "exercise_id": "runners_stretch",
+    "exercise_name": "runner's_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension_of_the_hip",
+      "knee_joints"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "calves"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relieve_muscle_tension_in_the_lower_back",
+      "improve_flexibility_of_the_hamstrings_and_hip_flexors"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "face_pull",
+  "document": "Exercise: Face Pull\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_shoulder_retraction\n- extension\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- middle back\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- middle_back_development\n- shoulder_strength_and_stability\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Face Pull with Rope Attachment, equipment: cable and rope attachment\n- name: Face Pull with Dual Handles, equipment: cable and dual handles\n\nSubstitution Options:\n\n- exercise_name: Pendlay Row, equipment: barbell\n- exercise_name: Single-Arm Dumbbell Row, equipment: dumbbells\n\nInstructions:\n\n- Facing a high pulley with a rope or dual handles attached, pull the weight directly towards your face, separating your hands as you do so. Keep your upper arms parallel to the ground.",
+  "metadata": {
+    "exercise_id": "face_pull",
+    "exercise_name": "face_pull",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_shoulder_retraction",
+      "extension"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "middle_back"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "middle_back_development",
+      "shoulder_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

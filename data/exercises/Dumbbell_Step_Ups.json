@@ -1,0 +1,33 @@
+{
+  "id": "dumbbell_step_ups",
+  "document": "Exercise: Dumbbell Step Ups\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_lower_body_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1.5 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Knee instability or injury, reason: The exercise places significant stress on the knee joint.\n- condition: Recent lower body surgery, reason: May not be suitable until full recovery and clearance from a healthcare provider.\n\nExercise Variations:\n\n- name: Single Leg Dumbbell Step Ups with Alternating Arms, description: Perform the exercise while alternating arms to engage different muscle fibers.\n- name: Dumbbell Step Ups on a Stair Stepper, equipment: stair stepper\n\nSubstitution Options:\n\n- exercise_name: Barbell Step Ups, equipment: barbell\n- exercise_name: Smith Machine Step Ups, equipment: smith machine\n\nInstructions:\n\n- Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).\n- Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.\n- Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.\n- Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg.",
+  "metadata": {
+    "exercise_id": "dumbbell_step_ups",
+    "exercise_name": "dumbbell_step_ups",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_lower_body_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

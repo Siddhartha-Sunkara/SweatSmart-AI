@@ -1,0 +1,40 @@
+{
+  "id": "atlas_stones",
+  "document": "Exercise: Atlas Stones\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- compound_pull\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- abdominals\n- adductors\n- biceps\n- calves\n- forearms\n- glutes\n- hamstrings\n- middle back\n- quadriceps\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n4\n\nSystemic Fatigue:\nmoderate\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Lower back injury, reason: The exercise places significant stress on the lower back.\n- condition: Recent surgery, reason: May increase recovery time and risk of complications.\n\nExercise Variations:\n\n- name: Single-Arm Atlas Stones, notes: Increase difficulty by performing the exercise with one arm.\n- name: Atlas Stones Overhead Press, notes: After lifting the stone to your chest, press it overhead for added upper body involvement.\n\nSubstitution Options:\n\n- exercise_name: Deadlift, equipment: barbell\n- exercise_name: Trap Bar Deadlift, equipment: trap bar\n\nInstructions:\n\n- Begin with the atlas stone between your feet. Bend at the hips to wrap your arms vertically around the Atlas Stone, attempting to get your fingers underneath the stone. Many stones will have a small flat portion on the bottom, which will make the stone easier to hold.\n- Pulling the stone into your torso, drive through the back half of your feet to pull the stone from the ground.\n- As the stone passes the knees, lap it by sitting backward, pulling the stone on top of your thighs.\n- Sit low, getting the stone high onto your chest as you change your grip to reach over the stone. Stand, driving through with your hips. Close distance to the loading platform, and lean back, extending the hips to get the stone as high as possible.",
+  "metadata": {
+    "exercise_id": "atlas_stones",
+    "exercise_name": "atlas_stones",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "compound_pull"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "middle_back",
+      "quadriceps",
+      "biceps",
+      "glutes",
+      "adductors",
+      "forearms",
+      "traps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 4.0,
+    "systemic_fatigue": "moderate",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [],
+    "unilateral": false
+  }
+}

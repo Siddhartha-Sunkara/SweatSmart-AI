@@ -1,0 +1,44 @@
+{
+  "id": "overhead_squat",
+  "document": "Exercise: Overhead Squat\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- shoulder_extension\n- quad_dominant\n- knee_flexion\n- hip\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- calves\n- glutes\n- hamstrings\n- lower back\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system with some contribution from glycolysis\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy_of_quadriceps_and_glutes\n- strengthening_of_core_muscles\n- improved_shoulder_stability_and_mobility\n\nContraindications:\n\n- Shoulder instability or injury\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Sumo Overhead Squat, description: Wider stance with toes turned out.\n- name: Overhead Split Squat, description: One leg forward, other back in a lunge position before performing the overhead squat.\n\nSubstitution Options:\n\n- exercise_name: Front Squat, equipment: barbell\n- exercise_name: Goblet Squat, equipment: dumbbell or kettlebell\n\nInstructions:\n\n- Start out by having a barbell in front of you on the floor. Your feet should be wider than shoulder width apart from each other.\n- Bend the knees and use a pronated grip (palms facing you) to grab the barbell. Your hands should be at a wider than shoulder width apart from each other before lifting. Once you are positioned, lift the barbell up until you can rest it on your chest.\n- Move the barbell over and slightly behind your head and make sure your arms are fully extended. Keep your head up at all times and also maintain a straight back. Retract your shoulder blades. This is your starting position.\n- Slowly lower the weight by bending your knees until your thighs are parallel to the ground while inhaling. Tip: Keep your back straight while performing this exercise to avoid any injuries and your arms should remain extended and over your head at all times.\n- Now use your feet and legs to help bring the weight back up to the starting position while exhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "overhead_squat",
+    "exercise_name": "overhead_squat",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "shoulder_extension",
+      "quad_dominant",
+      "knee_flexion",
+      "hip"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "glutes",
+      "lower_back",
+      "shoulders",
+      "triceps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_with_some_contribution_from_glycolysis",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy_of_quadriceps_and_glutes",
+      "strengthening_of_core_muscles",
+      "improved_shoulder_stability_and_mobility"
+    ],
+    "unilateral": false
+  }
+}

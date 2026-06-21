@@ -1,0 +1,35 @@
+{
+  "id": "chair_leg_extended_stretch",
+  "document": "Exercise: Chair Leg Extended Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- abduction\n- unilateral_hip_flexion\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- adductors\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_hamstring_flexibility\n- stretch_adductors\n\nContraindications:\n\n- severe knee or hip injuries\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Sit upright in a chair and grip the seat on the sides.\n- Raise one leg, extending the knee, flexing the ankle as you do so.\n- Slowly move that leg outward as far as you can, and then back to the center and down.\n- Repeat for your other leg.",
+  "metadata": {
+    "exercise_id": "chair_leg_extended_stretch",
+    "exercise_name": "chair_leg_extended_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "abduction",
+      "unilateral_hip_flexion"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "adductors"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_hamstring_flexibility",
+      "stretch_adductors"
+    ],
+    "unilateral": false
+  }
+}

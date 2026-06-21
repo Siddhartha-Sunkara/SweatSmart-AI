@@ -1,0 +1,35 @@
+{
+  "id": "single_leg_butt_kick",
+  "document": "Exercise: Single Leg Butt Kick\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- plyometric\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- enhance_quadriceps_strength\n- improve_explosive_power\n\nContraindications:\n\n- condition: knee injury, description: This exercise may exacerbate knee injuries due to the high impact nature of the movement.\n\nExercise Variations:\n\n- name: Single Leg Tuck Jumps, instructions: ['Begin by standing on one leg, with the bent knee raised.', 'Using a countermovement jump, take off upward by extending the hip, knee, and ankle of the grounded leg.', 'Immediately flex the knee and attempt to touch your butt with the heel of your jumping leg while tucking the legs together.', 'Return the leg to a partially bent position underneath the hips and land. Your opposite leg should stay in relatively the same position throughout the drill.']\n\nSubstitution Options:\n\n- exercise_name: Single Leg Jumping Jacks, equipment: body only\n\nInstructions:\n\n- Begin by standing on one leg, with the bent knee raised. This will be your start position.\n- Using a countermovement jump, take off upward by extending the hip, knee, and ankle of the grounded leg.\n- Immediately flex the knee and attempt to touch your butt with the heel of your jumping leg.\n- Return the leg to a partially bent position underneath the hips and land. Your opposite leg should stay in relatively the same position throughout the drill.",
+  "metadata": {
+    "exercise_id": "single_leg_butt_kick",
+    "exercise_name": "single_leg_butt_kick",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "plyometric"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_quadriceps_strength",
+      "improve_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

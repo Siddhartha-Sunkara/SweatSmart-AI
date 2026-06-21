@@ -1,0 +1,34 @@
+{
+  "id": "seated_cable_shoulder_press",
+  "document": "Exercise: Seated Cable Shoulder Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_press\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- developing_shoulder_strength_and_size\n- improving_triceps_engagement\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent shoulder surgery\n\nExercise Variations:\n\n- name: Standing Cable Shoulder Press, mechanic: compound, equipment: cable\n- name: Seated Dumbbell Shoulder Press, equipment: dumbbells\n\nSubstitution Options:\n\n- name: Seated Dumbbell Shoulder Press, equipment: dumbbells\n\nInstructions:\n\n- Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 90 degrees to the body, with your head and chest up. The elbows should also be bent to about 90 degrees. This will be your starting position.\n- Begin by extending through the elbow, pressing the handles together above your head.\n- After pausing at the top, return the handles to the starting position. Ensure that you maintain tension on the cables.\n- You can also execute this movement with your back off the pad and alternate hands.",
+  "metadata": {
+    "exercise_id": "seated_cable_shoulder_press",
+    "exercise_name": "seated_cable_shoulder_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_press"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "developing_shoulder_strength_and_size",
+      "improving_triceps_engagement"
+    ],
+    "unilateral": false
+  }
+}

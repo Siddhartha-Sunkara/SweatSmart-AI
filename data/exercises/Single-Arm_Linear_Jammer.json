@@ -1,0 +1,38 @@
+{
+  "id": "single_arm_linear_jammer",
+  "document": "Exercise: Single-Arm Linear Jammer\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- knee_extension\n- shoulder_abduction\n- hip\n- extension\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- chest\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- developing_shoulder_and_triceps_strength\n- improving_hip_and_knee_extension_power\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent shoulder surgery\n\nExercise Variations:\n\n- name: Single-Arm Dumbbell Linear Jammer, equipment: dumbbells\n- name: Single-Arm Kettlebell Linear Jammer, equipment: kettlebells\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Dumbbell Lateral Raise, equipment: dumbbells\n- exercise_name: Seated Single-Arm Overhead Press, equipment: barbell or dumbbells\n\nInstructions:\n\n- Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.\n- Raise the bar from the floor, taking it to your shoulders with one or both hands. Adopt a wide stance. This will be your starting position.\n- Perform the movement by extending the elbow, pressing the weight up. Move explosively, extending the hips and knees fully to produce maximal force.\n- Return to the starting position.",
+  "metadata": {
+    "exercise_id": "single_arm_linear_jammer",
+    "exercise_name": "single_arm_linear_jammer",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "knee_extension",
+      "shoulder_abduction",
+      "hip",
+      "extension"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "developing_shoulder_and_triceps_strength",
+      "improving_hip_and_knee_extension_power"
+    ],
+    "unilateral": false
+  }
+}

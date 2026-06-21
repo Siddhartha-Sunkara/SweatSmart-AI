@@ -1,0 +1,35 @@
+{
+  "id": "balance_board",
+  "document": "Exercise: Balance Board\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body_stabilization\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\n\n- hamstrings\n- quadriceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_calf_muscle_strength\n- improve_lower_body_stability_and_coordination\n\nContraindications:\n\n- Recent lower body injury\n- Severe balance issues\n\nExercise Variations:\n\n- name: Balance Board with Resistance Band, id: Balance_Board_With_Band\n- name: Balance Board with Eye Closure, id: Balance_Board_Eye_Closure\n\nSubstitution Options:\n\n- name: Single-Leg RDL, id: Single_Leg_RDL\n- name: Single-Leg Calf Raise, id: Single_Leg_Calf_Raise\n\nInstructions:\n\n- Place a balance board in front of you.\n- Stand up on it and try to balance yourself.\n- Hold the balance for as long as desired.",
+  "metadata": {
+    "exercise_id": "balance_board",
+    "exercise_name": "balance_board",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body_stabilization"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_calf_muscle_strength",
+      "improve_lower_body_stability_and_coordination"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "hip_lift_with_band",
+  "document": "Exercise: Hip Lift with Band\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hip_extension\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- calves\n- hamstrings\n\nEquipment:\n\n- bands\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- posture_improvement\n- hamstring_engagement\n- glute_activation_and_strengthening\n\nContraindications:\n\n- Recent lower back surgery\n- Severe hip or knee pain\n\nExercise Variations:\n\n- name: Single-Leg Hip Lift with Band, equipment: bands\n- name: Hip Thrust with Band, equipment: barbell, bands\n\nSubstitution Options:\n\n- name: Glute Bridge, equipment: none\n\nInstructions:\n\n- After choosing a suitable band, lay down in the middle of the rack, after securing the band on either side of you. If your rack doesn't have pegs, the band can be secured using heavy dumbbells or similar objects, just ensure they won't move.\n- Adjust your position so that the band is directly over your hips. Bend your knees and place your feet flat on the floor. Your hands can be on the floor or holding the band in position.\n- Keeping your shoulders on the ground, drive through your heels to raise your hips, pushing into the band as high as you can.\n- Pause at the top of the motion, and return to the starting position.",
+  "metadata": {
+    "exercise_id": "hip_lift_with_band",
+    "exercise_name": "hip_lift_with_band",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hip_extension"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "posture_improvement",
+      "hamstring_engagement",
+      "glute_activation_and_strengthening"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "palms_up_barbell_wrist_curl_over_a_bench",
+  "document": "Exercise: Palms-Up Barbell Wrist Curl Over A Bench\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- wrist_flexion\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- wrist_strength_and_endurance\n\nContraindications:\n\n- Individuals with wrist injuries should avoid this exercise or perform it with caution.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Dumbbell Wrist Curl, equipment: dumbbells\n\nInstructions:\n\n- Start out by placing a barbell on one side of a flat bench.\n- Kneel down on both of your knees so that your body is facing the flat bench.\n- Use your arms to grab the barbell with a supinated grip (palms up) and bring them up so that your forearms are resting against the flat bench. Your wrists should be hanging over the edge.\n- Start out by curling your wrist upwards and exhaling.\n- Slowly lower your wrists back down to the starting position while inhaling.\n- Your forearms should be stationary as your wrist is the only movement needed to perform this exercise.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "palms_up_barbell_wrist_curl_over_a_bench",
+    "exercise_name": "palms_up_barbell_wrist_curl_over_a_bench",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "wrist_flexion"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "wrist_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

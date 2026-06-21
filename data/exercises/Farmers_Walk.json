@@ -1,0 +1,39 @@
+{
+  "id": "farmers_walk",
+  "document": "Exercise: Farmer's Walk\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\nNone\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_carrying\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\n\n- abdominals\n- glutes\n- hamstrings\n- lower back\n- quadriceps\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- endurance\n- strength\n\nContraindications:\n\n- condition: recent surgery, reason: risk of strain or injury to healing tissues\n- condition: severe back pain, reason: can exacerbate existing conditions\n\nExercise Variations:\n\n- name: Farmer's Walk with Kettlebells\n- name: Farmer's Walk with Medicine Balls\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren't available. Begin by standing between the implements.\n- After gripping the handles, lift them up by driving through your heels, keeping your back straight and your head up.\n- Walk taking short, quick steps, and don't forget to breathe. Move for a given distance, typically 50-100 feet, as fast as possible.",
+  "metadata": {
+    "exercise_id": "farmers_walk",
+    "exercise_name": "farmer's_walk",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_carrying"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "traps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "endurance",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

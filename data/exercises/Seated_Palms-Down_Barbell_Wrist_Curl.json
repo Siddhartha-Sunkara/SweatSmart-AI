@@ -1,0 +1,33 @@
+{
+  "id": "seated_palms_down_barbell_wrist_curl",
+  "document": "Exercise: Seated Palms-Down Barbell Wrist Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension_of_the_wrist\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n1.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- wrist_flexor_muscle_hypertrophy\n- improved_grip_strength\n\nContraindications:\n\n- Recent wrist or forearm injury\n- Severe arthritis in the wrists\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Dumbbell Wrist Curl, equipment: dumbbells\n\nInstructions:\n\n- Hold a barbell with both hands and your palms facing down; hands spaced about shoulder width.\n- Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.\n- Lean forward and place your forearms on top of your upper thighs with your palms down. Tip: Make sure that the back of the wrists lay on top of your knees. This will be your starting position.\n- Lower the bar as far as possible while inhaling and keeping a tight grip.\n- Now curl bar up as high as possible while flexing the forearms and exhaling. Hold the contraction at the top for a second and Tip: Only the wrist should move.",
+  "metadata": {
+    "exercise_id": "seated_palms_down_barbell_wrist_curl",
+    "exercise_name": "seated_palms_down_barbell_wrist_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension_of_the_wrist"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 1.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "wrist_flexor_muscle_hypertrophy",
+      "improved_grip_strength"
+    ],
+    "unilateral": false
+  }
+}

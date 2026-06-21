@@ -1,0 +1,32 @@
+{
+  "id": "cable_russian_twists",
+  "document": "Exercise: Cable Russian Twists\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- rotational\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strengthening\n- oblique_development\n\nContraindications:\n\n- Individuals with lower back pain should use caution and consult a healthcare professional.\n\nExercise Variations:\n\n- name: Single Arm Cable Russian Twist, force: pull, primaryMuscles: ['abdominals']\n- name: Seated Cable Russian Twist, force: pull, level: intermediate, mechanic: compound, equipment: cable\n\nSubstitution Options:\n\n- name: Bosu Ball Russian Twists, equipment: bosu ball\n- name: Medicine Ball Russian Twists, equipment: medicine ball\n\nInstructions:\n\n- Connect a standard handle attachment, and position the cable to a middle pulley position.\n- Lie on a stability ball perpendicular to the cable and grab the handle with one hand. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.\n- Grab the handle with both hands and fully extend your arms above your chest. You hands should be directly in-line with the pulley. If not, adjust the pulley up or down until they are.\n- Keep your hips elevated and abs engaged. Rotate your torso away from the pulley for a full-quarter rotation. Your body should be flat from head to knees.\n- Pause for a moment and in a slow and controlled manner reset to the starting position. You should still have side tension on the cable in the resting position.\n- Repeat the same movement to failure.\n- Then, reposition and repeat the same series of movements on the opposite side.",
+  "metadata": {
+    "exercise_id": "cable_russian_twists",
+    "exercise_name": "cable_russian_twists",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "rotational"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strengthening",
+      "oblique_development"
+    ],
+    "unilateral": false
+  }
+}

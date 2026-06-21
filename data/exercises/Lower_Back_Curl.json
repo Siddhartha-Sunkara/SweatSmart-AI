@@ -1,0 +1,29 @@
+{
+  "id": "lower_back_curl",
+  "document": "Exercise: Lower Back Curl\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion_extension\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Lower Back Pain, description: This exercise may exacerbate lower back pain. Consult a healthcare professional before attempting.\n\nExercise Variations:\n\n- name: Reverse Lower Back Curl, instructions: ['Lie on your back with your arms out to your sides. This will be your starting position.', 'Using your lower back muscles, flex your spine lifting your chest towards the ceiling. Do not use your arms to push yourself up. Keep your head down during the movement. Repeat for 10-20 repetitions.']\n\nSubstitution Options:\n\n- exercise_name: Cat-Cow Stretch, equipment: body only\n\nInstructions:\n\n- Lie on your stomach with your arms out to your sides. This will be your starting position.\n- Using your lower back muscles, extend your spine lifting your chest off of the ground. Do not use your arms to push yourself up. Keep your head up during the movement. Repeat for 10-20 repetitions.",
+  "metadata": {
+    "exercise_id": "lower_back_curl",
+    "exercise_name": "lower_back_curl",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion_extension"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

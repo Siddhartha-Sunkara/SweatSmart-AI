@@ -1,0 +1,33 @@
+{
+  "id": "upward_stretch",
+  "document": "Exercise: Upward Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension_flexion\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- chest\n- lats\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relaxation\n- flexibility\n\nContraindications:\n\n- shoulder injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Extend both hands straight above your head, palms touching.\n- Slowly push your hands up and back, keeping your back straight.",
+  "metadata": {
+    "exercise_id": "upward_stretch",
+    "exercise_name": "upward_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension_flexion"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "lats"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relaxation",
+      "flexibility"
+    ],
+    "unilateral": false
+  }
+}

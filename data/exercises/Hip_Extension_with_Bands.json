@@ -1,0 +1,34 @@
+{
+  "id": "hip_extension_with_bands",
+  "document": "Exercise: Hip Extension with Bands\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hip_extension\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- hamstrings\n\nEquipment:\n\n- bands\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hip_extension_strength\n- glute_activation_and_strengthening\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single Leg Hip Extension with Bands, force: push, level: beginner, mechanic: compound, primaryMuscles: ['glutes'], secondaryMuscles: ['hamstrings']\n\nSubstitution Options:\n\n- name: Glute Bridge, equipment: none\n\nInstructions:\n\n- Secure one end of the band to the lower portion of a post and attach the other to one ankle.\n- Facing the attachment point of the band, hold on to the column to stabilize yourself.\n- Keeping your head and your chest up, move the resisted leg back as far as you can while keeping the knee straight.\n- Return the leg to the starting position.",
+  "metadata": {
+    "exercise_id": "hip_extension_with_bands",
+    "exercise_name": "hip_extension_with_bands",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hip_extension"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hip_extension_strength",
+      "glute_activation_and_strengthening"
+    ],
+    "unilateral": false
+  }
+}

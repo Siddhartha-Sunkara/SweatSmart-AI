@@ -1,0 +1,34 @@
+{
+  "id": "standing_bent_over_two_arm_dumbbell_triceps_extension",
+  "document": "Exercise: Standing Bent-Over Two-Arm Dumbbell Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elbow_extension\n- triple_extension_(shoulder_flexion\n- wrist_extension)\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- tricep_hypertrophy\n- elbow_extension_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Arm Dumbbell Triceps Extension, equipment: dumbbell\n- name: Triceps Cable Pushdown, equipment: cable machine\n\nSubstitution Options:\n\n- name: Triceps Pushdown Machine, equipment: cable machine\n- name: Overhead Dumbbell Extension, equipment: dumbbells\n\nInstructions:\n\n- With a dumbbell in each hand and the palms facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up. The upper arms should be close to the torso and parallel to the floor while the forearms are pointing towards the floor as the hands hold the weights. Tip: There should be a 90-degree angle between the forearms and the upper arm. This is your starting position.\n- Keeping the upper arms stationary, use the triceps to lift the weights as you exhale until the forearms are parallel to the floor and the whole arms are extended. Like many other arm exercises, only the forearm moves.\n- After a second contraction at the top, slowly lower the dumbbells back to their starting position as you inhale.\n- Repeat the movement for the prescribed amount of repetitions.",
+  "metadata": {
+    "exercise_id": "standing_bent_over_two_arm_dumbbell_triceps_extension",
+    "exercise_name": "standing_bent_over_two_arm_dumbbell_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elbow_extension",
+      "triple_extension_(shoulder_flexion",
+      "wrist_extension)"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "tricep_hypertrophy",
+      "elbow_extension_strength"
+    ],
+    "unilateral": false
+  }
+}

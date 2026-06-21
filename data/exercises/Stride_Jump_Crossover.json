@@ -1,0 +1,37 @@
+{
+  "id": "stride_jump_crossover",
+  "document": "Exercise: Stride Jump Crossover\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump_with_lateral_movement\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hypertrophy\n- power_and_explosiveness\n\nContraindications:\n\n- Recent lower body injury\n- Chronic knee or ankle issues\n\nExercise Variations:\n\n- name: Single-Leg Stride Jump Crossover, force: push, level: intermediate\n\nSubstitution Options:\n\n- name: Box Jump, force: push, level: beginner\n\nInstructions:\n\n- Stand to the side of a box with your inside foot on top of it, close to the edge.\n- Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.\n- Land in the opposite position that you started, on the opposite side of the box. The foot that was initially on the box will now be on the ground, with the opposite foot now on the box.\n- Repeat the movement, crossing back over to the other side.",
+  "metadata": {
+    "exercise_id": "stride_jump_crossover",
+    "exercise_name": "stride_jump_crossover",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump_with_lateral_movement"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abductors",
+      "calves",
+      "hamstrings",
+      "adductors"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hypertrophy",
+      "power_and_explosiveness"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "rocket_jump",
+  "document": "Exercise: Rocket Jump\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- explosive_extension\n- vertical_jump_with_a_squat\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_quadriceps_strength_and_endurance\n- enhance_explosive_power\n- improve_vertical_jump_height\n\nContraindications:\n\n- Recent or chronic knee injuries\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Single-Leg Rocket Jump, force: push, level: intermediate, mechanic: unilateral, equipment: body only\n\nSubstitution Options:\n\n- exercise_name: Box Jump, force: push, level: beginner, mechanic: compound, equipment: box\n\nInstructions:\n\n- Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.\n- To initiate the move, squat down halfway and explode back up as high as possible.\n- Fully extend your entire body, reaching overhead as far as possible. As you land, absorb your impact through the legs.",
+  "metadata": {
+    "exercise_id": "rocket_jump",
+    "exercise_name": "rocket_jump",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "explosive_extension",
+      "vertical_jump_with_a_squat"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_quadriceps_strength_and_endurance",
+      "enhance_explosive_power",
+      "improve_vertical_jump_height"
+    ],
+    "unilateral": false
+  }
+}

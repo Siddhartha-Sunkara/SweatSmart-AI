@@ -1,0 +1,35 @@
+{
+  "id": "machine_shoulder_military_press",
+  "document": "Exercise: Machine Shoulder (Military) Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_extension\n- flexion\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_activation\n- shoulder_strength_and_size\n\nContraindications:\n\n- Shoulder instability or injury\n- Rotator cuff issues\n\nExercise Variations:\n\n- name: Arnold Press, description: Perform the movement with a slight forward lean and rotate the wrists as you press to target the front delts more.\n- name: Lateral Raise, description: Focus on raising the weight out to the sides for an isolation focus on the lateral head of the deltoids.\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Shoulder Press, equipment: dumbbells\n- exercise_name: Barbell Military Press, equipment: barbell\n\nInstructions:\n\n- Sit down on the Shoulder Press Machine and select the weight.\n- Grab the handles to your sides as you keep the elbows bent and in line with your torso. This will be your starting position.\n- Now lift the handles as you exhale and you extend the arms fully. At the top of the position make sure that you hold the contraction for a second.\n- Lower the handles slowly back to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "machine_shoulder_military_press",
+    "exercise_name": "machine_shoulder_(military)_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_extension",
+      "flexion"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_activation",
+      "shoulder_strength_and_size"
+    ],
+    "unilateral": false
+  }
+}

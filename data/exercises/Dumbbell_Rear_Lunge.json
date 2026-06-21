@@ -1,0 +1,36 @@
+{
+  "id": "dumbbell_rear_lunge",
+  "document": "Exercise: Dumbbell Rear Lunge\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- glute_activation\n- quadriceps_development\n\nContraindications:\n\n- condition: knee pain or injury, reason: The exercise can exacerbate knee issues due to the backward lunge position.\n- condition: recent lower body surgery, reason: May not be suitable until full recovery and clearance from a healthcare provider.\n\nExercise Variations:\n\n- name: Dumbbell Front Lunge, force: push, level: intermediate, mechanic: compound, primaryMuscles: ['quadriceps'], secondaryMuscles: ['calves', 'glutes', 'hamstrings']\n\nSubstitution Options:\n\n- exercise_name: Single-Leg Dumbbell Deadlift, equipment: dumbbell\n- exercise_name: Barbell Renegade Row, equipment: barbell\n\nInstructions:\n\n- Stand with your torso upright holding two dumbbells in your hands by your sides. This will be your starting position.\n- Step backward with your right leg around two feet or so from the left foot and lower your upper body down, while keeping the torso upright and maintaining balance. Inhale as you go down. Tip: As in the other exercises, do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. Make sure that you keep your front shin perpendicular to the ground. Keep the torso upright during the lunge; flexible hip flexors are important. A long lunge emphasizes the Gluteus Maximus; a short lunge emphasizes Quadriceps.\n- Push up and go back to the starting position as you exhale. Tip: Use the ball of your feet to push in order to accentuate the quadriceps. To focus on the glutes, press with your heels.\n- Now repeat with the opposite leg.",
+  "metadata": {
+    "exercise_id": "dumbbell_rear_lunge",
+    "exercise_name": "dumbbell_rear_lunge",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "glute_activation",
+      "quadriceps_development"
+    ],
+    "unilateral": false
+  }
+}

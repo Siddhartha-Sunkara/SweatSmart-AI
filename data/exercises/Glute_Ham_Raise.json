@@ -1,0 +1,36 @@
+{
+  "id": "glute_ham_raise",
+  "document": "Exercise: Glute Ham Raise\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- eccentric_concentric\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- glutes\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- posterior_chain_strength\n- hamstring_hypertrophy\n- glute_activation\n\nContraindications:\n\n- Lower back issues\n- Recent knee surgery\n\nExercise Variations:\n\n- name: Single Leg Glute Ham Raise, force: pull, level: intermediate\n- name: Glute Ham Raise with Resistance Bands, force: pull, level: intermediate\n\nSubstitution Options:\n\n- name: Romanian Deadlift, force: pull, level: intermediate\n- name: Deadlift, force: pull, level: advanced\n\nInstructions:\n\n- Begin by adjusting the equipment to fit your body. Place your feet against the footplate in between the rollers as you lie facedown. Your knees should be just behind the pad.\n- Start from the bottom of the movement. Keep your back arched as you begin the movement by flexing the knees. Drive your toes into the foot plate as you do so. Keep your upper body straight, and continue until your body is upright.\n- Return to the starting position, keeping your descent under control.",
+  "metadata": {
+    "exercise_id": "glute_ham_raise",
+    "exercise_name": "glute_ham_raise",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "eccentric_concentric"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "posterior_chain_strength",
+      "hamstring_hypertrophy",
+      "glute_activation"
+    ],
+    "unilateral": false
+  }
+}

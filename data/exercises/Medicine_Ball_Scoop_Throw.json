@@ -1,0 +1,38 @@
+{
+  "id": "medicine_ball_scoop_throw",
+  "document": "Exercise: Medicine Ball Scoop Throw\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- lower_body_push\n- upper_body_pull\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- abdominals\n- hamstrings\n- quadriceps\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhance_explosive_power_in_the_legs_and_core\n- improve_upper_body_strength_and_coordination\n- increase_shoulder_stability_and_mobility\n\nContraindications:\n\n- Recent shoulder or elbow surgery\n- Severe lower back pain\n\nExercise Variations:\n\n- variation_name: Single Arm Scoop Throw, notes: Use one arm to scoop and throw the ball, alternating arms.\n- variation_name: Medicine Ball Overhead Throw, notes: Throw the ball directly overhead after the scoop motion.\n\nSubstitution Options:\n\n- exercise_name: Medicine Ball Slam, equipment: medicine ball\n\nInstructions:\n\n- Assume a semisquat stance with a medicine ball in your hands. Your arms should hang so the ball is near your feet.\n- Begin by thrusting the hips forward as you extend through the legs, jumping up.\n- As you do, swing your arms up and over your head, keeping them extended, releasing the ball at the peak of your movement. The goal is to throw the ball the greatest distance behind you.",
+  "metadata": {
+    "exercise_id": "medicine_ball_scoop_throw",
+    "exercise_name": "medicine_ball_scoop_throw",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "lower_body_push",
+      "upper_body_pull"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "hamstrings",
+      "quadriceps"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhance_explosive_power_in_the_legs_and_core",
+      "improve_upper_body_strength_and_coordination",
+      "increase_shoulder_stability_and_mobility"
+    ],
+    "unilateral": false
+  }
+}

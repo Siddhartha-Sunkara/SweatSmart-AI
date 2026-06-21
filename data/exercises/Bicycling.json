@@ -1,0 +1,36 @@
+{
+  "id": "bicycling",
+  "document": "Exercise: Bicycling\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- cyclical\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\naerobic\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- cardiovascular_fitness\n- lower_body_strength_and_endurance\n\nContraindications:\n\n- Recent knee surgery\n- Severe back pain\n\nExercise Variations:\n\n- name: Mountain Climbers, mechanic: bodyweight, primaryMuscles: ['quadriceps', 'calves', 'glutes', 'hamstrings']\n- name: Sprint Intervals, force: high, level: intermediate\n\nSubstitution Options:\n\n- exercise_name: Stationary Cycling, equipment: stationary bike\n\nInstructions:\n\n- To begin, seat yourself on the bike and adjust the seat to your height.",
+  "metadata": {
+    "exercise_id": "bicycling",
+    "exercise_name": "bicycling",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "cyclical"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "aerobic",
+    "recovery_time_hours": 1,
+    "goals": [
+      "cardiovascular_fitness",
+      "lower_body_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

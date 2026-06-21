@@ -1,0 +1,35 @@
+{
+  "id": "smith_machine_behind_the_back_shrug",
+  "document": "Exercise: Smith Machine Behind the Back Shrug\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elevation\n- shoulder_abduction\n\nPrimary Muscles:\n\n- traps\n\nSecondary Muscles:\n\n- shoulders\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- shoulder_stability\n- trapezius_muscle_strength_and_hypertrophy\n\nContraindications:\n\n- condition: shoulder instability, description: Individuals with shoulder instability should avoid this exercise or perform it with caution under professional supervision.\n- condition: recent rotator cuff injury, description: Avoid this exercise until full recovery from a recent rotator cuff injury has been achieved.\n\nExercise Variations:\n\n- name: Smith Machine Behind the Back Shrug with Pause, instructions: ['With the bar at thigh level, load an appropriate weight.', 'Stand with the bar behind you, taking a shoulder-width, pronated grip on the bar and unhook the weight. You should be standing up straight with your head and chest up and your arms extended. This will be your starting position.', 'Initiate the movement by shrugging your shoulders straight up. Pause at the top for 1-2 seconds.', 'After a brief pause return the weight to the starting position.', 'Repeat for the desired number of repetitions before engaging the hooks to rack the weight.']\n\nSubstitution Options:\n\n- name: Barbell Shrugs, equipment: barbell\n- name: Kettlebell Shrugs, equipment: kettlebells\n\nInstructions:\n\n- With the bar at thigh level, load an appropriate weight.\n- Stand with the bar behind you, taking a shoulder-width, pronated grip on the bar and unhook the weight. You should be standing up straight with your head and chest up and your arms extended. This will be your starting position.\n- Initiate the movement by shrugging your shoulders straight up. Do not flex the arms or wrist during the movement.\n- After a brief pause return the weight to the starting position.\n- Repeat for the desired number of repetitions before engaging the hooks to rack the weight.",
+  "metadata": {
+    "exercise_id": "smith_machine_behind_the_back_shrug",
+    "exercise_name": "smith_machine_behind_the_back_shrug",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elevation",
+      "shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "traps"
+    ],
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "shoulder_stability",
+      "trapezius_muscle_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

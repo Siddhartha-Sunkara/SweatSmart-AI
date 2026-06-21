@@ -1,0 +1,37 @@
+{
+  "id": "rack_pulls",
+  "document": "Exercise: Rack Pulls\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_pulling\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- hamstrings\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- building_overall_strength_and_power\n- strengthening_the_lower_back_and_posterior_chain\n\nContraindications:\n\n- Lower back issues\n- Recent lower body injury\n\nExercise Variations:\n\n- name: Sumo Rack Pulls, force: pull, level: intermediate\n- name: Conventional Rack Pulls, force: pull, level: intermediate\n\nSubstitution Options:\n\n- name: Deadlifts, force: pull, level: intermediate\n- name: Romanian Deadlifts, force: pull, level: intermediate\n\nInstructions:\n\n- Set up in a power rack with the bar on the pins. The pins should be set to the desired point; just below the knees, just above, or in the mid thigh position. Position yourself against the bar in proper deadlifting position. Your feet should be under your hips, your grip shoulder width, back arched, and hips back to engage the hamstrings. Since the weight is typically heavy, you may use a mixed grip, a hook grip, or use straps to aid in holding the weight.\n- With your head looking forward, extend through the hips and knees, pulling the weight up and back until lockout. Be sure to pull your shoulders back as you complete the movement.\n- Return the weight to the pins and repeat.",
+  "metadata": {
+    "exercise_id": "rack_pulls",
+    "exercise_name": "rack_pulls",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_pulling"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "traps",
+      "hamstrings",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "building_overall_strength_and_power",
+      "strengthening_the_lower_back_and_posterior_chain"
+    ],
+    "unilateral": false
+  }
+}

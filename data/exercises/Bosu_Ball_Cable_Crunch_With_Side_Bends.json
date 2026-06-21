@@ -1,0 +1,33 @@
+{
+  "id": "bosu_ball_cable_crunch_with_side_bends",
+  "document": "Exercise: Bosu Ball Cable Crunch With Side Bends\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- crunch\n- side_bend\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_endurance\n- oblique_development\n\nContraindications:\n\n- Lower back pain\n- Recent abdominal surgery\n\nExercise Variations:\n\n- name: Bosu Ball Cable Crunch With Side Bends (Single Arm), notes: Use one arm to hold the cable handle and perform the crunch, then switch arms for side bends.\n- name: Bosu Ball Cable Crunch Without Bosu, notes: Perform the exercise on a flat surface without the Bosu Ball for increased stability.\n\nSubstitution Options:\n\n- exercise_name: Seated Cable Crunch, equipment: cable machine\n- exercise_name: Decline V-Up, equipment: bench\n\nInstructions:\n\n- Connect a standard handle to each arm of a cable machine, and position them in the most downward position.\n- Grab a Bosu Ball and position it in front and center of the cable machine.\n- Lie down on the Bosu Ball with the small of your back arched around the ball. Your rear end should be close to the floor without touching it.\n- With both hands, reach back and grab the handle of each cable.\n- With your feet positioned in a wide stance, extend your arms straight out in front of you and in between your knees. Your hands should be at knee level.\n- Keep your arms straight and in-line with the upward angle of the cable. Elevate your torso in a crunching motion without dropping or bending your arms.\n- Maintain the rigid position with your arms. Slowly descend back to the starting position with your back arched around the Bosu Ball and your abdominals elongated.\n- Repeat the same series of movements to failure.\n- Once you reach failure, keep your abs tight and raise your torso into plank position so your back is elevated off the Bosu Ball.\n- Lower your arms down to your side; keep them straight. Start doing alternating side bends; reach for your heels! This finishing movement will focus on your obliques.",
+  "metadata": {
+    "exercise_id": "bosu_ball_cable_crunch_with_side_bends",
+    "exercise_name": "bosu_ball_cable_crunch_with_side_bends",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "crunch",
+      "side_bend"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_endurance",
+      "oblique_development"
+    ],
+    "unilateral": false
+  }
+}

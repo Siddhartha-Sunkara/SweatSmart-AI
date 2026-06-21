@@ -1,0 +1,32 @@
+{
+  "id": "smith_machine_hip_raise",
+  "document": "Exercise: Smith Machine Hip Raise\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- spinal_flexion\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability\n- abdominal_muscle_definition\n\nContraindications:\n\n- Lower back pain\n- Recent abdominal surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Bicycle Crunches, equipment: bodyweight\n- exercise_name: Reverse Hyperextension, equipment: machine\n\nInstructions:\n\n- Position a bench in the rack and load the bar to an appropriate weight. Lie down on the bench, placing the bottom of your feet against the bar. Unlock the bar and extend your legs. You may need to use your hands to assist you. For added stability grasp the sides of the Smith Machine. This will be your starting position.\n- Initiate the movement by rotating your pelvis, flexing your spine to raise your hips off of the bench. Maintain a slight bend in the knees throughout the motion.\n- After a brief pause, return the hips to the bench.\n- Repeat for the desired number of repetitions.",
+  "metadata": {
+    "exercise_id": "smith_machine_hip_raise",
+    "exercise_name": "smith_machine_hip_raise",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "spinal_flexion"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability",
+      "abdominal_muscle_definition"
+    ],
+    "unilateral": false
+  }
+}

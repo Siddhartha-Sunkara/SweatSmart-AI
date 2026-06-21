@@ -1,0 +1,35 @@
+{
+  "id": "hurdle_hops",
+  "document": "Exercise: Hurdle Hops\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump_with_lateral_movement\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: knee injury, reason: High impact and lateral movement may exacerbate knee issues.\n- condition: recent surgery, reason: May not be suitable for individuals recovering from recent surgeries without medical clearance.\n\nExercise Variations:\n\n- name: Single Leg Hurdle Hop, primaryMuscles: ['hamstrings', 'glutes', 'calves']\n- name: Hurdle Hop with Arm Swing, primaryMuscles: ['hamstrings', 'abductors', 'adductors', 'calves', 'glutes'], secondaryMuscles: ['shoulders', 'triceps']\n\nSubstitution Options:\n\n- exercise_name: Box Jumps, equipment: box\n\nInstructions:\n\n- Set up a row of hurdles or other small barriers, placing them a few feet apart.\n- Stand in front of the first hurdle with your feet shoulder width apart. This will be your starting position.\n- Begin by jumping with both feet over the first hurdle, swinging both arms as you jump.\n- Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next hurdle. Continue until you have jumped over all of the hurdles.",
+  "metadata": {
+    "exercise_id": "hurdle_hops",
+    "exercise_name": "hurdle_hops",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump_with_lateral_movement"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "adductors",
+      "abductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [],
+    "unilateral": false
+  }
+}

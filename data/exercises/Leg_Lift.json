@@ -1,0 +1,35 @@
+{
+  "id": "leg_lift",
+  "document": "Exercise: Leg Lift\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- hip_extension\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hamstring_engagement\n- glute_activation_and_strengthening\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Leg Lift with Resistance Band, equipment: resistance band\n- name: Single-Leg Glute Bridge, equipment: body only\n\nSubstitution Options:\n\n- exercise_name: Glute Bridge, equipment: body only\n- exercise_name: Clamshell, equipment: body only\n\nInstructions:\n\n- While standing up straight with both feet next to each other at around shoulder width, grab a sturdy surface such as the sides of a squat rack or the top of a chair to brace yourself and keep balance.\n- With or without an ankle weight, lift one leg behind you as if performing a leg curl but standing up while keeping the other leg straight. Breathe out as you perform this movement.\n- Slowly bring the raised leg back to the floor as you breathe in.\n- Repeat for the recommended amount of repetitions.\n- Repeat the movement with the opposite leg.",
+  "metadata": {
+    "exercise_id": "leg_lift",
+    "exercise_name": "leg_lift",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "hip_extension"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstring_engagement",
+      "glute_activation_and_strengthening"
+    ],
+    "unilateral": false
+  }
+}

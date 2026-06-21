@@ -1,0 +1,27 @@
+{
+  "id": "ankle_circles",
+  "document": "Exercise: Ankle Circles\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- circular_motion\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\nNone\n\nContraindications:\n\n- recent ankle injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Use a sturdy object like a squat rack to hold yourself.\n- Lift the right leg in the air (just around 2 inches from the floor) and perform a circular motion with the big toe. Pretend that you are drawing a big circle with it. Tip: One circle equals 1 repetition. Breathe normally as you perform the movement.\n- When you are done with the right foot, then repeat with the left leg.",
+  "metadata": {
+    "exercise_id": "ankle_circles",
+    "exercise_name": "ankle_circles",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "circular_motion"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kettlebell_turkish_get_up_lunge_style",
+  "document": "Exercise: Kettlebell Turkish Get-Up (Lunge style)\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral\n- multi_joint\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- abdominals\n- hamstrings\n- quadriceps\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder instability or injury\n- condition: Lower back pain\n\nExercise Variations:\n\n- name: Kettlebell Turkish Get-Up (Push-up style), force: push, level: intermediate, mechanic: compound, primaryMuscles: ['shoulders'], secondaryMuscles: ['abdominals', 'hamstrings', 'quadriceps', 'triceps']\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Dumbbell RDL, equipment: dumbbells\n- exercise_name: Single-Leg RDL with Kettlebell, equipment: kettlebells\n\nInstructions:\n\n- Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.\n- Keeping the kettlebell locked out at all times, pivot to the opposite side and use your non- working arm to assist you in driving forward to the lunge position. Using your free hand, push yourself to a seated position, then progressing to one knee.\n- While looking up at the kettlebell, slowly stand up. Reverse the motion back to the starting position and repeat.",
+  "metadata": {
+    "exercise_id": "kettlebell_turkish_get_up_lunge_style",
+    "exercise_name": "kettlebell_turkish_get_up_(lunge_style)",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral",
+      "multi_joint"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "hamstrings",
+      "triceps",
+      "quadriceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

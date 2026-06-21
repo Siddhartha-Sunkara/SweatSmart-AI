@@ -1,0 +1,35 @@
+{
+  "id": "t_bar_row_with_handle",
+  "document": "Exercise: T-Bar Row with Handle\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- horizontal_pulling\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- strengthen_the_middle_back_and_biceps\n- improve_overall_upper_body_strength\n\nContraindications:\n\n- Shoulder impingement\n- Lower back pain\n\nExercise Variations:\n\n- name: T-Bar Row with Single Arm, equipment: barbell\n- name: T-Bar Row with Dumbbells, equipment: dumbbells\n\nSubstitution Options:\n\n- exercise_name: Barbell Bent-Over Row, equipment: barbell\n- exercise_name: Kettlebell Row, equipment: kettlebells\n\nInstructions:\n\n- Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.\n- Stand over the bar, and position a Double D row handle around the bar next to the collar. Using your hips and legs, rise to a standing position.\n- Assume a wide stance with your hips back and your chest up. Your arms should be extended. This will be your starting position.\n- Pull the weight to your upper abdomen by retracting the shoulder blades and flexing the elbows. Do not jerk the weight or cheat during the movement.\n- After a brief pause, return to the starting position.",
+  "metadata": {
+    "exercise_id": "t_bar_row_with_handle",
+    "exercise_name": "t_bar_row_with_handle",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "horizontal_pulling"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "strengthen_the_middle_back_and_biceps",
+      "improve_overall_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

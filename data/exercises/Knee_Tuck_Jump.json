@@ -1,0 +1,40 @@
+{
+  "id": "knee_tuck_jump",
+  "document": "Exercise: Knee Tuck Jump\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- knee_flexion\n- vertical_jump_with_hip\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- glutes\n- quadriceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- develop_glute_activation\n- enhance_hip_and_knee_flexion_strength\n- improve_explosive_power\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Knee Tuck Jump with Medicine Ball, force: push, level: intermediate, mechanic: compound, equipment: medicine ball\n\nSubstitution Options:\n\n- name: Box Jump, force: push, level: beginner, mechanic: compound, equipment: box\n\nInstructions:\n\n- Begin in a comfortable standing position with your knees slightly bent. Hold your hands in front of you, palms down with your fingertips together at chest height. This will be your starting position.\n- Rapidly dip down into a quarter squat and immediately explode upward. Drive the knees towards the chest, attempting to touch them to the palms of the hands.\n- Jump as high as you can, raising your knees up, and then ensure a good land be re-extending your legs, absorbing impact through be allowing the knees to rebend.",
+  "metadata": {
+    "exercise_id": "knee_tuck_jump",
+    "exercise_name": "knee_tuck_jump",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "knee_flexion",
+      "vertical_jump_with_hip"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "adductors",
+      "abductors",
+      "calves"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "develop_glute_activation",
+      "enhance_hip_and_knee_flexion_strength",
+      "improve_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+# VCS
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.mypy_cache
+.ruff_cache
+*.egg-info
+.venv
+venv
+env
+
+# Editors / OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+nul
+
+# Local secrets — pass via compose env_file at runtime instead
+.env
+
+# Build / cache
+build
+dist
+.cache
+.huggingface
+
+# Docs / misc
+*.md
+plans

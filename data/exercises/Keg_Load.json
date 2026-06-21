@@ -1,0 +1,44 @@
+{
+  "id": "keg_load",
+  "document": "Exercise: Keg Load\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- abdominals\n- biceps\n- calves\n- forearms\n- glutes\n- hamstrings\n- middle back\n- quadriceps\n- shoulders\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_explosive_strength_and_power\n- improve_grip_strength_and_endurance\n- enhance_core_stability_and_overall_functional_fitness\n\nContraindications:\n\n- Individuals with lower back injuries or instability should avoid this exercise.\n- Those with shoulder impingement issues may find this exercise challenging.\n\nExercise Variations:\n\n- name: Single-Arm Keg Load, force: pull, level: advanced\n- name: Keg Load with Medicine Ball, force: push, level: intermediate\n\nSubstitution Options:\n\n- name: Barbell Clean and Press, force: pull, level: intermediate\n- name: Kettlebell Swing, force: push, level: intermediate\n\nInstructions:\n\n- To load kegs, place the desired number a distance from the loading platform, typically 30-50 feet.\n- Begin by grabbing the close handle of the first keg, tilting it onto its side to grab the opposite edge of the bottom of the keg. Lift the keg up to your chest.\n- The higher you can place the keg, the faster you should be able to move to the platform. Shouldering is usually not allowed. Be sure to keep a firm hold on the keg. Move as quickly as possible to the platform, and load it, extending through your hips, knees, and ankles to get it as high as possible.\n- Return to the starting position to retrieve the next keg, and repeat until the event is completed.",
+  "metadata": {
+    "exercise_id": "keg_load",
+    "exercise_name": "keg_load",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "middle_back",
+      "quadriceps",
+      "biceps",
+      "glutes",
+      "forearms",
+      "traps",
+      "shoulders",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_explosive_strength_and_power",
+      "improve_grip_strength_and_endurance",
+      "enhance_core_stability_and_overall_functional_fitness"
+    ],
+    "unilateral": false
+  }
+}

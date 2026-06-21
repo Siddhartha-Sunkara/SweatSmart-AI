@@ -1,0 +1,40 @@
+{
+  "id": "forward_drag_with_press",
+  "document": "Exercise: Forward Drag with Press\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- push_pull\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- quadriceps\n- shoulders\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- upper_body_strength\n- chest_hypertrophy\n- core_stability\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent rotator cuff surgery\n\nExercise Variations:\n\n- name: Single Arm Drag with Press, force: push, level: advanced\n- name: Sled Push with Overhead Press, force: push, level: intermediate\n\nSubstitution Options:\n\n- name: Barbell Push Press, force: push, level: intermediate\n- name: Landmine Press, force: push, level: intermediate\n\nInstructions:\n\n- Attach a dual handled chain or rope attachment to the sled. You should be facing away from the sled, holding a handle in each hand.\n- Begin the movement by moving forward for one step. Leaning forward, extend through the legs and hips to move, pausing with each step to extend through the elbows, pressing your hands forward. Step forward until you return to the start position prepared to press.",
+  "metadata": {
+    "exercise_id": "forward_drag_with_press",
+    "exercise_name": "forward_drag_with_press",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "push_pull"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "shoulders",
+      "triceps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "upper_body_strength",
+      "chest_hypertrophy",
+      "core_stability"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "split_jump",
+  "document": "Exercise: Split Jump\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_quadriceps,_glutes,_hamstrings,_and_calf_muscles\n- enhance_explosive_power_and_vertical_jump_height\n\nContraindications:\n\n- Individuals with knee instability or recent injuries should consult a healthcare professional before attempting this exercise.\n\nExercise Variations:\n\n- name: Split Lunge with Jump, force: push, level: intermediate, mechanic: compound, equipment: body only\n\nSubstitution Options:\n\n- name: Box Jump, force: push, level: beginner, mechanic: compound, equipment: box\n\nInstructions:\n\n- Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.\n- Ensure that the front knee is over the midline of the foot.\n- Extending through both legs, jump as high as possible, swinging your arms to gain lift.\n- As you jump, bring your feet together, and move them back to their initial positions as you land.\n- Absorb the impact by reverting back to the starting position.",
+  "metadata": {
+    "exercise_id": "split_jump",
+    "exercise_name": "split_jump",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_quadriceps,_glutes,_hamstrings,_and_calf_muscles",
+      "enhance_explosive_power_and_vertical_jump_height"
+    ],
+    "unilateral": false
+  }
+}

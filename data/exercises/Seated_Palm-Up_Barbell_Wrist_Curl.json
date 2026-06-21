@@ -1,0 +1,33 @@
+{
+  "id": "seated_palm_up_barbell_wrist_curl",
+  "document": "Exercise: Seated Palm-Up Barbell Wrist Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension_of_the_wrist\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improving_wrist_flexion_strength\n- strengthening_the_forearms\n\nContraindications:\n\n- Individuals with wrist injuries or conditions should consult a healthcare provider before attempting this exercise.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Seated Dumbbell Wrist Curl, equipment: dumbbells\n\nInstructions:\n\n- Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.\n- Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.\n- Lean forward and place your forearms on top of your upper thighs with your palms up. Tip: Make sure that the front of the wrists lay on top of your knees. This will be your starting position.\n- Lower the bar as far as possible while inhaling and keeping a tight grip.\n- Now curl bar up as high as possible while flexing the forearms and exhaling. Hold the contraction at the top for a second and Tip: Only the wrist should move.",
+  "metadata": {
+    "exercise_id": "seated_palm_up_barbell_wrist_curl",
+    "exercise_name": "seated_palm_up_barbell_wrist_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension_of_the_wrist"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improving_wrist_flexion_strength",
+      "strengthening_the_forearms"
+    ],
+    "unilateral": false
+  }
+}

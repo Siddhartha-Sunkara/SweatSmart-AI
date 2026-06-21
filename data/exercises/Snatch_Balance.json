@@ -1,0 +1,39 @@
+{
+  "id": "snatch_balance",
+  "document": "Exercise: Snatch Balance\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- snatch\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhance_shoulder_stability_and_mobility\n- develop_explosive_power\n- build_overall_upper_body_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- variation_name: Snatch Balance with Medicine Ball, equipment: medicine ball\n- variation_name: Snatch Balance with Bands, equipment: bands\n\nSubstitution Options:\n\n- exercise_name: Clean Balance, equipment: barbell\n\nInstructions:\n\n- Begin with the feet in the pulling position, the bar racked across the back of the shoulders, and the hands placed in a wide snatch grip.\n- Pop the bar with an abrupt dip and drive of the knees, and aggressively drive under the bar, transitioning the feet into the receiving position.\n- Receive the bar locked out overhead near the bottom of the squat. The torso should remain vertical, lowering the hips between the legs.\n- Continue to descend to full depth, and return to a standing position. Carefully lower the weight.",
+  "metadata": {
+    "exercise_id": "snatch_balance",
+    "exercise_name": "snatch_balance",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "snatch"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "shoulders",
+      "triceps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhance_shoulder_stability_and_mobility",
+      "develop_explosive_power",
+      "build_overall_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

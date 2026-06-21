@@ -1,0 +1,33 @@
+{
+  "id": "overhead_slam",
+  "document": "Exercise: Overhead Slam\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_pushing\n- vertical_pulling\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Overhead Slam with Medicine Ball Increase, difficulty: intermediate, instructions: ['Increase the weight of the medicine ball gradually.']\n- name: Overhead Slam with Partner Assist, difficulty: advanced, instructions: ['Have a partner assist in providing resistance during the upward phase.']\n\nSubstitution Options:\n\n- name: Kettlebell Swing, equipment: kettlebell\n\nInstructions:\n\n- Hold a medine ball with both hands and stand with your feet at shoulder width. This will be your starting position.\n- Initiate the countermovement by raising the ball above your head and fully extending your body.\n- Reverse the motion, slamming the ball into the ground directly in front of you as hard as you can.\n- Receive the ball with both hands on the bounce and repeat the movement.",
+  "metadata": {
+    "exercise_id": "overhead_slam",
+    "exercise_name": "overhead_slam",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_pushing",
+      "vertical_pulling"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power"
+    ],
+    "unilateral": false
+  }
+}

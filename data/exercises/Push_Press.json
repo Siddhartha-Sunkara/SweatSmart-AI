@@ -1,0 +1,36 @@
+{
+  "id": "push_press",
+  "document": "Exercise: Push Press\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- shoulder_press_with_hip_extension\n- knee_flexion\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- quadriceps\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- strength_and_power_development\n- muscular_endurance_enhancement\n\nContraindications:\n\n- shoulder instability\n- recent shoulder surgery\n\nExercise Variations:\n\n- name: Push Press with Dumbbells, force: push, level: expert, mechanic: compound, equipment: dumbbells\n- name: Push Press with Medicine Ball, force: push, level: expert, mechanic: compound, equipment: medicine ball\n\nSubstitution Options:\n\n- name: Overhead Squat, force: push, level: expert, mechanic: compound, equipment: barbell\n\nInstructions:\nNone",
+  "metadata": {
+    "exercise_id": "push_press",
+    "exercise_name": "push_press",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "shoulder_press_with_hip_extension",
+      "knee_flexion"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "quadriceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "strength_and_power_development",
+      "muscular_endurance_enhancement"
+    ],
+    "unilateral": false
+  }
+}

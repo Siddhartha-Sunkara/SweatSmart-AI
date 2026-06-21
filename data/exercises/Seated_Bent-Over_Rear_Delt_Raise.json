@@ -1,0 +1,32 @@
+{
+  "id": "seated_bent_over_rear_delt_raise",
+  "document": "Exercise: Seated Bent-Over Rear Delt Raise\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_shoulder_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- develop_rear_deltoid_strength_and_size\n- improve_shoulder_stability\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent shoulder surgery\n\nExercise Variations:\n\n- name: Single-Arm Seated Bent-Over Rear Delt Raise, equipment: dumbbell\n- name: Seated Bent-Over Rear Delt Raise with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- exercise_name: Seated Rear Delt Fly, equipment: dumbbell or cable machine\n\nInstructions:\n\n- Place a couple of dumbbells looking forward in front of a flat bench.\n- Sit on the end of the bench with your legs together and the dumbbells behind your calves.\n- Bend at the waist while keeping the back straight in order to pick up the dumbbells. The palms of your hands should be facing each other as you pick them. This will be your starting position.\n- Keeping your torso forward and stationary, and the arms slightly bent at the elbows, lift the dumbbells straight to the side until both arms are parallel to the floor. Exhale as you lift the weights. (Note: avoid swinging the torso or bringing the arms back as opposed to the side.)\n- After a one second contraction at the top, slowly lower the dumbbells back to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "seated_bent_over_rear_delt_raise",
+    "exercise_name": "seated_bent_over_rear_delt_raise",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "develop_rear_deltoid_strength_and_size",
+      "improve_shoulder_stability"
+    ],
+    "unilateral": false
+  }
+}

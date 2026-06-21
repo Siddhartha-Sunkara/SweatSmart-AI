@@ -1,0 +1,31 @@
+{
+  "id": "overhead_cable_curl",
+  "document": "Exercise: Overhead Cable Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- cable_based_isolation_movement_targeting_the_biceps\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- isolation_of_the_biceps_for_strength_and_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Concentration Cable Curl, instructions: ['Perform the exercise while leaning forward against a bench, focusing on squeezing the biceps.']\n- name: Reverse Cable Curl, instructions: ['Use an overhand grip and perform the movement with palms facing down.']\n\nSubstitution Options:\n\n- exercise_name: Barbell Curl, equipment: barbell\n- exercise_name: Hammer Curl, equipment: dumbbells\n\nInstructions:\n\n- To begin, set a weight that is comfortable on each side of the pulley machine. Note: Make sure that the amount of weight selected is the same on each side.\n- Now adjust the height of the pulleys on each side and make sure that they are positioned at a height higher than that of your shoulders.\n- Stand in the middle of both sides and use an underhand grip (palms facing towards the ceiling) to grab each handle. Your arms should be fully extended and parallel to the floor with your feet positioned shoulder width apart from each other. Your body should be evenly aligned the handles. This is the starting position.\n- While exhaling, slowly squeeze the biceps on each side until your forearms and biceps touch.\n- While inhaling, move your forearms back to the starting position. Note: Your entire body is stationary during this exercise except for the forearms.\n- Repeat for the recommended amount of repetitions prescribed in your program.",
+  "metadata": {
+    "exercise_id": "overhead_cable_curl",
+    "exercise_name": "overhead_cable_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "cable_based_isolation_movement_targeting_the_biceps"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "isolation_of_the_biceps_for_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

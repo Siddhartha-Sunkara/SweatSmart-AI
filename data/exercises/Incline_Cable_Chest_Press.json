@@ -1,0 +1,36 @@
+{
+  "id": "incline_cable_chest_press",
+  "document": "Exercise: Incline Cable Chest Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- horizontal_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_engagement\n- shoulder_stability\n- chest_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Flat Cable Chest Press, equipment: cable\n- name: Incline Barbell Chest Press, equipment: barbell\n\nSubstitution Options:\n\n- name: Incline Dumbbell Chest Press, equipment: dumbbells\n\nInstructions:\n\n- Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 45 degrees to the body, with your head and chest up. The elbows should be bent to about 90 degrees. This will be your starting position.\n- Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement.\n- After pausing at full extension, return to the starting position, keeping tension on the cables.",
+  "metadata": {
+    "exercise_id": "incline_cable_chest_press",
+    "exercise_name": "incline_cable_chest_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "horizontal_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_engagement",
+      "shoulder_stability",
+      "chest_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "standing_dumbbell_triceps_extension",
+  "document": "Exercise: Standing Dumbbell Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- triple_joint_movement_involving_elbow_extension\n- shoulder_flexion\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- tricep_hypertrophy\n- elbow_extension_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single Arm Standing Dumbbell Triceps Extension, equipment: dumbbell\n- name: Standing Dumbbell Skull Crushers, equipment: dumbbell\n\nSubstitution Options:\n\n- name: Triceps Dips, equipment: bench\n- name: Overhead Triceps Extension with Cable Machine, equipment: cable machine\n\nInstructions:\n\n- To begin, stand up with a dumbbell held by both hands. Your feet should be about shoulder width apart from each other. Slowly use both hands to grab the dumbbell and lift it over your head until both arms are fully extended.\n- The resistance should be resting in the palms of your hands with your thumbs around it. The palm of the hands should be facing up towards the ceiling. This will be your starting position.\n- Keeping your upper arms close to your head with elbows in and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.\n- Go back to the starting position by using the triceps to raise the dumbbell. Breathe out as you perform this step.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "standing_dumbbell_triceps_extension",
+    "exercise_name": "standing_dumbbell_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "triple_joint_movement_involving_elbow_extension",
+      "shoulder_flexion"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "tricep_hypertrophy",
+      "elbow_extension_strength"
+    ],
+    "unilateral": false
+  }
+}

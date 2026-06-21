@@ -1,0 +1,37 @@
+{
+  "id": "dumbbell_clean",
+  "document": "Exercise: Dumbbell Clean\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- forearms\n- glutes\n- lower back\n- quadriceps\n- shoulders\n- traps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: recent knee surgery, reason: due to the high impact and range of motion involved.\n- condition: chronic lower back pain, reason: due to the stress on the lumbar spine during the movement.\n\nExercise Variations:\n\n- name: Dumbbell Clean to Overhead Press, force: pull, level: intermediate, mechanic: compound, primaryMuscles: ['hamstrings'], secondaryMuscles: ['calves', 'forearms', 'glutes', 'lower back', 'quadriceps', 'shoulders', 'traps']\n\nSubstitution Options:\n\n- exercise_name: Barbell Clean, equipment: barbell\n\nInstructions:\n\n- Begin standing with a dumbbell in each hand with your feet shoulder width apart.\n- Lower the weights to the floor by flexing at the hips and knees, pushing your hips back until the dumbbells reach the floor. This will be your starting position.\n- To initiate the movement, violently jump upward by extending the hips, knees, and ankles to acclerate the weights upward. Maintaining a neutral grip on the dumbbells, keep the arms straight until full extension is reached.\n- After full extension, rebend the hips and knees to receive the weight in a squat position. Allow the arms to bend, guiding the dumbbells to your shoulders.\n- Upon receiving the weight in the squat position, extend the hips and knees to finish in a standing position with the weights on your shoulders.",
+  "metadata": {
+    "exercise_id": "dumbbell_clean",
+    "exercise_name": "dumbbell_clean",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "shoulders",
+      "calves"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

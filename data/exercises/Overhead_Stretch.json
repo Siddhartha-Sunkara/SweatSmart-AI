@@ -1,0 +1,38 @@
+{
+  "id": "overhead_stretch",
+  "document": "Exercise: Overhead Stretch\n\nCategory:\nstretching\n\nExercise Type:\ncompound\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- external_rotation\n- shoulder_abduction\n- extension_of_the_spine\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- chest\n- forearms\n- lats\n- triceps\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relax_abdominal_muscles\n- improve_spinal_flexibility\n\nContraindications:\n\n- condition: recent or chronic back injury, description: This exercise may exacerbate existing conditions.\n- condition: shoulder instability, description: May increase risk of shoulder dislocation or further injury.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Seated Spinal Stretch, id: Seated_Spinal_Stretch\n- name: Cat-Cow Stretch, id: Cat_Cow_Stretch\n\nInstructions:\n\n- Standing straight up, lace your fingers together and open your palms to the ceiling. Keep your shoulders down as you extend your arms up.\n- To create a full torso stretch, pull your tailbone down and stabilize your torso as you do this. Stretch the muscles on both the front and the back of the torso.",
+  "metadata": {
+    "exercise_id": "overhead_stretch",
+    "exercise_name": "overhead_stretch",
+    "category": "stretching",
+    "exercise_type": "compound",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "external_rotation",
+      "shoulder_abduction",
+      "extension_of_the_spine"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "lats",
+      "triceps",
+      "forearms"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relax_abdominal_muscles",
+      "improve_spinal_flexibility"
+    ],
+    "unilateral": false
+  }
+}

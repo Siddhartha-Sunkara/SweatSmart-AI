@@ -1,0 +1,32 @@
+{
+  "id": "crunch___hands_overhead",
+  "document": "Exercise: Crunch - Hands Overhead\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- abdominal_flexion\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability\n- abdominal_muscle_definition\n\nContraindications:\n\n- Individuals with lower back pain should avoid this exercise or perform it with caution.\n\nExercise Variations:\n\n- name: Crunch - Hands Behind Head, force: pull, level: intermediate, mechanic: isolation\n\nSubstitution Options:\n\n- name: Reverse Crunches, force: pull, level: beginner, mechanic: isolation\n\nInstructions:\n\n- Lie on the floor with your back flat and knees bent with around a 60-degree angle between the hamstrings and the calves.\n- Keep your feet flat on the floor and stretch your arms overhead with your palms crossed. This will be your starting position.\n- Curl your upper body forward and bring your shoulder blades just off the floor. At all times, keep your arms aligned with your head, neck and shoulder. Don't move them forward from that position. Exhale as you perform this portion of the movement and hold the contraction for a second.\n- Slowly lower down to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "crunch___hands_overhead",
+    "exercise_name": "crunch___hands_overhead",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "abdominal_flexion"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability",
+      "abdominal_muscle_definition"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "lying_leg_curls",
+  "document": "Exercise: Lying Leg Curls\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension_of_the_knee_joint\n- flexion\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- posture_improvement\n- hamstring_strengthening\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Leg Lying Leg Curls, instructions: ['Perform the exercise with one leg at a time for added challenge.']\n- name: Leg Curls with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- exercise_name: Romanian Deadlifts, equipment: barbell or dumbbells\n\nInstructions:\n\n- Adjust the machine lever to fit your height and lie face down on the leg curl machine with the pad of the lever on the back of your legs (just a few inches under the calves). Tip: Preferably use a leg curl machine that is angled as opposed to flat since an angled position is more favorable for hamstrings recruitment.\n- Keeping the torso flat on the bench, ensure your legs are fully stretched and grab the side handles of the machine. Position your toes straight (or you can also use any of the other two stances described on the foot positioning section). This will be your starting position.\n- As you exhale, curl your legs up as far as possible without lifting the upper legs from the pad. Once you hit the fully contracted position, hold it for a second.\n- As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "lying_leg_curls",
+    "exercise_name": "lying_leg_curls",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension_of_the_knee_joint",
+      "flexion"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "posture_improvement",
+      "hamstring_strengthening"
+    ],
+    "unilateral": false
+  }
+}

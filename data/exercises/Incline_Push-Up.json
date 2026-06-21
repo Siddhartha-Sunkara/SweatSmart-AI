@@ -1,0 +1,35 @@
+{
+  "id": "incline_push_up",
+  "document": "Exercise: Incline Push-Up\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Wide-Grip Incline Push-Up, primaryMuscles: ['chest', 'shoulders']\n- name: Incline Push-Up with Pause, instructions: ['Lower chest to edge of box or platform by bending arms.', 'Pause at the bottom for 1-2 seconds before pushing back up.']\n\nSubstitution Options:\n\n- exercise_name: Incline Dumbbell Bench Press, equipment: dumbbells\n\nInstructions:\n\n- Stand facing bench or sturdy elevated platform. Place hands on edge of bench or platform, slightly wider than shoulder width.\n- Position forefoot back from bench or platform with arms and body straight. Arms should be perpendicular to body. Keeping body straight, lower chest to edge of box or platform by bending arms.\n- Push body up until arms are extended. Repeat.",
+  "metadata": {
+    "exercise_id": "incline_push_up",
+    "exercise_name": "incline_push_up",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "reverse_hyperextension",
+  "document": "Exercise: Reverse Hyperextension\n\nCategory:\nstrength\n\nExercise Type:\nNone\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hip_flexion\n- extension\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- glutes\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- hamstring_hypertrophy\n- glute_activation_and_strength\n\nContraindications:\n\n- Lower back pain or injury\n- Recent spinal surgery\n\nExercise Variations:\n\n- name: Single Leg Reverse Hyperextension, equipment: machine\n- name: Reverse Hyperextension with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- exercise_name: Romanian Deadlift, equipment: barbell or dumbbells\n- exercise_name: Good Morning, equipment: barbell\n\nInstructions:\n\n- Place your feet between the pads after loading an appropriate weight. Lay on the top pad, allowing your hips to hang off the back, while grasping the handles to hold your position.\n- To begin the movement, flex the hips, pulling the legs forward.\n- Reverse the motion by extending the hips, kicking the leg back. It is very important not to over-extend the hip on this movement, stopping short of your full range of motion.\n- Return by again flexing the hip, pulling the carriage forward as far as you can.\n- Repeat for the desired number of repetitions.",
+  "metadata": {
+    "exercise_id": "reverse_hyperextension",
+    "exercise_name": "reverse_hyperextension",
+    "category": "strength",
+    "exercise_type": "",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hip_flexion",
+      "extension"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstring_hypertrophy",
+      "glute_activation_and_strength"
+    ],
+    "unilateral": false
+  }
+}

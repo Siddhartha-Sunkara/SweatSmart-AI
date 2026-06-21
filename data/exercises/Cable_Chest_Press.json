@@ -1,0 +1,35 @@
+{
+  "id": "cable_chest_press",
+  "document": "Exercise: Cable Chest Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- horizontal_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- chest_hypertrophy\n- shoulder_and_tricep_strength\n\nContraindications:\n\n- Shoulder impingement\n\nExercise Variations:\n\n- name: Incline Cable Chest Press, mechanic: compound, primaryMuscles: ['chest'], secondaryMuscles: ['shoulders', 'triceps']\n- name: Decline Cable Chest Press, mechanic: compound, primaryMuscles: ['chest'], secondaryMuscles: ['shoulders', 'triceps']\n\nSubstitution Options:\n\n- exercise_name: Barbell Chest Press, equipment: barbell\n- exercise_name: Dumbbell Chest Press, equipment: dumbbells\n\nInstructions:\n\n- Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 45 degrees to the body, with your head and chest up. The elbows should be bent to about 90 degrees. This will be your starting position.\n- Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement.\n- After pausing at full extension, return to th starting position, keeping tension on the cables.\n- You can also execute this movement with your back off the pad, at an incline or decline, or alternate hands.",
+  "metadata": {
+    "exercise_id": "cable_chest_press",
+    "exercise_name": "cable_chest_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "horizontal_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "chest_hypertrophy",
+      "shoulder_and_tricep_strength"
+    ],
+    "unilateral": false
+  }
+}

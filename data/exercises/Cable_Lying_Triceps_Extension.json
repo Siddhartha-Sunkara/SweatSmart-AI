@@ -1,0 +1,32 @@
+{
+  "id": "cable_lying_triceps_extension",
+  "document": "Exercise: Cable Lying Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elbow_flexion\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- elbow_flexor_strength\n\nContraindications:\n\n- Recent elbow surgery\n- Severe shoulder instability\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Triceps Pushdown, equipment: cable\n- exercise_name: Overhead Triceps Extension, equipment: dumbbells or barbell\n\nInstructions:\n\n- Lie on a flat bench and grasp the straight bar attachment of a low pulley with a narrow overhand grip. Tip: The easiest way to do this is to have someone hand you the bar as you lay down.\n- With your arms extended, position the bar over your torso. Your arms and your torso should create a 90-degree angle. This will be your starting position.\n- Lower the bar by bending at the elbow while keeping the upper arms stationary and elbows in. Go down until the bar lightly touches your forehead. Breathe in as you perform this portion of the movement.\n- Flex the triceps as you lift the bar back to its starting position. Exhale as you perform this portion of the movement.\n- Hold for a second at the contracted position and repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "cable_lying_triceps_extension",
+    "exercise_name": "cable_lying_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elbow_flexion"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "elbow_flexor_strength"
+    ],
+    "unilateral": false
+  }
+}

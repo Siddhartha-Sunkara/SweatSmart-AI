@@ -1,0 +1,32 @@
+{
+  "id": "dumbbell_shrug",
+  "document": "Exercise: Dumbbell Shrug\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_elevation\n\nPrimary Muscles:\n\n- traps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- posture_improvement\n- trapezius_muscle_strengthening\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Kettlebell Shrug, equipment: kettlebell\n- name: Smith Machine Shrug, equipment: smith machine\n\nSubstitution Options:\n\n- exercise_name: Barbell Shrug, equipment: barbell\n\nInstructions:\n\n- Stand erect with a dumbbell on each hand (palms facing your torso), arms extended on the sides.\n- Lift the dumbbells by elevating the shoulders as high as possible while you exhale. Hold the contraction at the top for a second. Tip: The arms should remain extended at all times. Refrain from using the biceps to help lift the dumbbells. Only the shoulders should be moving up and down.\n- Lower the dumbbells back to the original position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "dumbbell_shrug",
+    "exercise_name": "dumbbell_shrug",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_elevation"
+    ],
+    "primary_muscles": [
+      "traps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "posture_improvement",
+      "trapezius_muscle_strengthening"
+    ],
+    "unilateral": false
+  }
+}

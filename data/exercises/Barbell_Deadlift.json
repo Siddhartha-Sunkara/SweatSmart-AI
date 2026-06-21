@@ -1,0 +1,42 @@
+{
+  "id": "barbell_deadlift",
+  "document": "Exercise: Barbell Deadlift\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- sagittal_plane\n- multi_joint\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- calves\n- forearms\n- glutes\n- hamstrings\n- lats\n- middle back\n- quadriceps\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy_and_strength_gains_in_the_lower_back,_glutes,_hamstrings,_and_core_muscles\n- improved_posture_and_spinal_stability\n\nContraindications:\n\n- Lower back issues with a herniated disc\n- Recent lower back surgery\n\nExercise Variations:\n\n- name: Conventional Barbell Deadlift, grip: overhand, medium width\n- name: Sumo Deadlift, grip: wide overhand or sumo grip\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlift, equipment: barbell\n- exercise_name: Romanian Deadlift, equipment: barbell\n\nInstructions:\n\n- Stand in front of a loaded barbell.\n- While keeping the back as straight as possible, bend your knees, bend forward and grasp the bar using a medium (shoulder width) overhand grip. This will be the starting position of the exercise. Tip: If it is difficult to hold on to the bar with this grip, alternate your grip or use wrist straps.\n- While holding the bar, start the lift by pushing with your legs while simultaneously getting your torso to the upright position as you breathe out. In the upright position, stick your chest out and contract the back by bringing the shoulder blades back. Think of how the soldiers in the military look when they are in standing in attention.\n- Go back to the starting position by bending at the knees while simultaneously leaning the torso forward at the waist while keeping the back straight. When the weights on the bar touch the floor you are back at the starting position and ready to perform another repetition.\n- Perform the amount of repetitions prescribed in the program.",
+  "metadata": {
+    "exercise_id": "barbell_deadlift",
+    "exercise_name": "barbell_deadlift",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "sagittal_plane",
+      "multi_joint"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "middle_back",
+      "quadriceps",
+      "glutes",
+      "forearms",
+      "traps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy_and_strength_gains_in_the_lower_back,_glutes,_hamstrings,_and_core_muscles",
+      "improved_posture_and_spinal_stability"
+    ],
+    "unilateral": false
+  }
+}

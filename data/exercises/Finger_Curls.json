@@ -1,0 +1,32 @@
+{
+  "id": "finger_curls",
+  "document": "Exercise: Finger Curls\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension_of_the_fingers\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- isolation_of_the_forearms_for_strength_and_hypertrophy\n\nContraindications:\n\n- Individuals with wrist injuries or carpal tunnel syndrome should avoid this exercise.\n\nExercise Variations:\n\n- name: Reverse Barbell Curl, force: pull, primaryMuscles: ['forearms']\n- name: Dumbbell Wrist Curls, equipment: dumbbells\n\nSubstitution Options:\n\n- exercise_name: Barbell Wrist Curls, equipment: barbell\n\nInstructions:\n\n- Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.\n- Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart. This will be your starting position.\n- Lower the bar as far as possible by extending the fingers. Allowing the bar to roll down the hands, catch the bar with the final joint in the fingers.\n- Now curl bar up as high as possible by closing your hands while exhaling. Hold the contraction at the top.",
+  "metadata": {
+    "exercise_id": "finger_curls",
+    "exercise_name": "finger_curls",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension_of_the_fingers"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "isolation_of_the_forearms_for_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dumbbell_lunges",
+  "document": "Exercise: Dumbbell Lunges\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: knee injury, description: Individuals with knee injuries should avoid this exercise or modify it to reduce stress on the knees, such as using a smaller range of motion.\n- condition: back pain, description: Individuals experiencing back pain may find this exercise challenging. They should focus on maintaining proper form and consider reducing the weight of the dumbbells used.\n\nExercise Variations:\n\n- name: Reverse Dumbbell Lunges, instructions: ['Stand with your torso upright holding two dumbbells in your hands by your sides. This will be your starting position.', 'Step backward with your right leg around 2 feet or so from the foot being left stationary behind and lower your upper body down, while keeping the torso upright and maintaining balance.', 'Using mainly the heel of your foot, push up and go back to the starting position as you exhale.', 'Repeat the movement for the recommended amount of repetitions and then perform with the left leg.']\n- name: Dumbbell Reverse Lunges, instructions: ['Stand facing a bench or chair holding two dumbbells in your hands by your sides. This will be your starting position.', 'Step backward onto the bench with your right foot and lower your upper body down, while keeping the torso upright and maintaining balance.', 'Using mainly the heel of your foot, push up and off the bench as you exhale.', 'Repeat the movement for the recommended amount of repetitions and then perform with the left leg.']\n\nSubstitution Options:\n\n- exercise_name: Bodyweight Lunges, equipment: none\n- exercise_name: Barbell Lunges, equipment: barbell\n\nInstructions:\n\n- Stand with your torso upright holding two dumbbells in your hands by your sides. This will be your starting position.\n- Step forward with your right leg around 2 feet or so from the foot being left stationary behind and lower your upper body down, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: As in the other exercises, do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. Make sure that you keep your front shin perpendicular to the ground.\n- Using mainly the heel of your foot, push up and go back to the starting position as you exhale.\n- Repeat the movement for the recommended amount of repetitions and then perform with the left leg.",
+  "metadata": {
+    "exercise_id": "dumbbell_lunges",
+    "exercise_name": "dumbbell_lunges",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

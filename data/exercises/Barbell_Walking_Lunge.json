@@ -1,0 +1,38 @@
+{
+  "id": "barbell_walking_lunge",
+  "document": "Exercise: Barbell Walking Lunge\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- calves_conditioning\n- glute_activation_and_strengthening\n- hamstring_engagement\n- quadriceps_strength_and_endurance\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe hip or knee osteoarthritis\n\nExercise Variations:\n\n- name: Reverse Barbell Walking Lunge, description: Similar to the barbell walking lunge, but you step backward with each leg.\n- name: Alternating Barbell Walking Lunge, description: Step forward and then immediately back to starting position before switching legs.\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Walking Lunge, equipment: dumbbells\n- exercise_name: Bodyweight Walking Lunge, equipment: bodyweight\n\nInstructions:\n\n- Begin standing with your feet shoulder width apart and a barbell across your upper back.\n- Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.\n- Drive through the heel of your lead foot and extend both knees to raise yourself back up.\n- Step forward with your rear foot, repeating the lunge on the opposite leg.",
+  "metadata": {
+    "exercise_id": "barbell_walking_lunge",
+    "exercise_name": "barbell_walking_lunge",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "calves_conditioning",
+      "glute_activation_and_strengthening",
+      "hamstring_engagement",
+      "quadriceps_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "front_leg_raises",
+  "document": "Exercise: Front Leg Raises\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension\n- unilateral_hip_flexion\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hamstring_flexibility_and_strength\n\nContraindications:\n\n- Lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Seated Leg Raises, force: pull, level: beginner\n\nInstructions:\n\n- Stand next to a chair or other support, holding on with one hand.\n- Swing your leg forward, keeping the leg straight. Continue with a downward swing, bringing the leg as far back as your flexibility allows. Repeat 5-10 times, and then switch legs.",
+  "metadata": {
+    "exercise_id": "front_leg_raises",
+    "exercise_name": "front_leg_raises",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension",
+      "unilateral_hip_flexion"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstring_flexibility_and_strength"
+    ],
+    "unilateral": false
+  }
+}

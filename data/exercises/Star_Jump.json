@@ -1,0 +1,35 @@
+{
+  "id": "star_jump",
+  "document": "Exercise: Star Jump\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump_with_a_split_stance\n- arm_extension\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- shoulders\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1.5 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Knee injury, reason: High impact and stress on the knee joint.\n- condition: Recent surgery, reason: May not be suitable for recovery or rehabilitation phases.\n\nExercise Variations:\n\n- name: Tuck Jump, description: Similar to Star Jump, but bring knees towards chest upon landing.\n- name: Broad Jump, description: Jump forward as far as possible from a standing position\n\nSubstitution Options:\n\n- exercise_name: Jumping Jacks, reason: similar movement pattern but less intense\n\nInstructions:\n\n- Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.\n- To initiate the move, squat down halfway and explode back up as high as possible. Fully extend your entire body, spreading your legs and arms away from the body.\n- As you land, bring your limbs back in and absorb your impact through the legs.",
+  "metadata": {
+    "exercise_id": "star_jump",
+    "exercise_name": "star_jump",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump_with_a_split_stance",
+      "arm_extension"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

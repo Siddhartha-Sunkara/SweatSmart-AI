@@ -1,0 +1,36 @@
+{
+  "id": "dip_machine",
+  "document": "Exercise: Dip Machine\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- triple_articulation\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- shoulder_stability_and_strength\n- chest_strength\n\nContraindications:\n\n- Shoulder injuries or instability\n- Elbow issues such as tendinitis\n\nExercise Variations:\n\n- name: Close-Grip Dip Machine, notes: Focus on the triceps by using a close grip\n- name: Wide-Arm Dip Machine, notes: Emphasizes chest and shoulder involvement, use with caution for beginners\n\nSubstitution Options:\n\n- exercise_name: Tricep Pushdown, equipment: cable machine\n- exercise_name: Overhead Triceps Extension, equipment: dumbbells or cable machine\n\nInstructions:\n\n- Sit securely in a dip machine, select the weight and firmly grasp the handles.\n- Now keep your elbows in at your sides in order to place emphasis on the triceps. The elbows should be bent at a 90 degree angle.\n- As you contract the triceps, extend your arms downwards as you exhale. Tip: At the bottom of the movement, focus on keeping a little bend in your arms to keep tension on the triceps muscle.\n- Now slowly let your arms come back up to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "dip_machine",
+    "exercise_name": "dip_machine",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "triple_articulation"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "shoulder_stability_and_strength",
+      "chest_strength"
+    ],
+    "unilateral": false
+  }
+}

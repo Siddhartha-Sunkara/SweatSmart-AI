@@ -1,0 +1,32 @@
+{
+  "id": "one_arm_supinated_dumbbell_triceps_extension",
+  "document": "Exercise: One Arm Supinated Dumbbell Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_upper_body_push\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- isolated_triceps_strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Elbow pain or injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: One Arm Dumbbell Triceps Extension (Neutral Grip), equipment: dumbbell\n\nInstructions:\n\n- Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your face as a supinated grip is required to perform this exercise.\n- Place your non lifting hand on your bicep for support.\n- Slowly begin to lower the dumbbell down as you breathe in.\n- Then, begin lifting the dumbbell upward as you contract the triceps. Remember to breathe out during the concentric (lifting part of the exercise).\n- Repeat until you have performed your set repetitions.\n- Switch arms and repeat the movement.\n- Switch arms again and repeat the movement.",
+  "metadata": {
+    "exercise_id": "one_arm_supinated_dumbbell_triceps_extension",
+    "exercise_name": "one_arm_supinated_dumbbell_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_upper_body_push"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "isolated_triceps_strength"
+    ],
+    "unilateral": false
+  }
+}

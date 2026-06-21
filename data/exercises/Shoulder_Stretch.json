@@ -1,0 +1,29 @@
+{
+  "id": "shoulder_stretch",
+  "document": "Exercise: Shoulder Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_upper_body_stretch\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- improve_shoulder_flexibility\n\nContraindications:\n\n- shoulder injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Reach your left arm across your body and hold it straight.",
+  "metadata": {
+    "exercise_id": "shoulder_stretch",
+    "exercise_name": "shoulder_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_upper_body_stretch"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [
+      "improve_shoulder_flexibility"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "good_morning",
+  "document": "Exercise: Good Morning\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- flexion_extension_of_the_hip_joint\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- abdominals\n- glutes\n- lower back\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- condition: Lower back pain, reason: May exacerbate existing conditions due to the high demand on the lower back muscles.\n- condition: Recent spinal surgery, reason: High risk of injury and may not be suitable for recovery stages.\n\nExercise Variations:\n\n- name: Sumo Good Morning, description: Wider stance with toes pointed out at about 45 degrees.\n- name: Conventional Good Morning, description: Narrower stance and more upright torso angle.\n\nSubstitution Options:\n\n- name: Romanian Deadlift, force: push, level: intermediate\n\nInstructions:\n\n- Begin with a bar on a rack at shoulder height. Rack the bar across the rear of your shoulders as you would a power squat, not on top of your shoulders. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Step back from the rack.\n- Begin by bending at the hips, moving them back as you bend over to near parallel. Keep your back arched and your cervical spine in proper alignment.\n- Reverse the motion by extending through the hips with your glutes and hamstrings. Continue until you have returned to the starting position.",
+  "metadata": {
+    "exercise_id": "good_morning",
+    "exercise_name": "good_morning",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "flexion_extension_of_the_hip_joint"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "abdominals",
+      "lower_back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

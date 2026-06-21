@@ -1,0 +1,40 @@
+{
+  "id": "clean_deadlift",
+  "document": "Exercise: Clean Deadlift\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hinge\n- squat\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- lower back\n- middle back\n- quadriceps\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system with some contribution from glycolysis\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- strength_gains_in_the_posterior_chain\n- hypertrophy_of_the_hamstrings,_glutes,_and_lower_back\n\nContraindications:\n\n- Lower back issues\n- Shoulder injuries\n\nExercise Variations:\n\n- name: Clean Deadlift with Bands, equipment: barbell and resistance bands\n- name: Clean Deadlift to Overhead, equipment: barbell\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlift High Pull, equipment: barbell\n- exercise_name: Romanian Deadlift, equipment: dumbbells or barbell\n\nInstructions:\n\n- Begin standing with a barbell close to your shins. Your feet should be directly under your hips with your feet turned out slightly. Grip the bar with a double overhand grip or hook grip, about shoulder width apart. Squat down to the bar. Your spine should be in full extension, with a back angle that places your shoulders in front of the bar and your back as vertical as possible.\n- Begin by driving through the floor through the front of your heels. As the bar travels upward, maintain a constant back angle. Flare your knees out to the side to help keep them out of the bar's path.\n- After the bar crosses the knees, complete the lift by driving the hips into the bar until your hips and knees are extended.",
+  "metadata": {
+    "exercise_id": "clean_deadlift",
+    "exercise_name": "clean_deadlift",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hinge",
+      "squat"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_with_some_contribution_from_glycolysis",
+    "recovery_time_hours": 48,
+    "goals": [
+      "strength_gains_in_the_posterior_chain",
+      "hypertrophy_of_the_hamstrings,_glutes,_and_lower_back"
+    ],
+    "unilateral": false
+  }
+}

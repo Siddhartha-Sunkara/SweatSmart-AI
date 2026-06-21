@@ -1,0 +1,33 @@
+{
+  "id": "double_kettlebell_push_press",
+  "document": "Exercise: Double Kettlebell Push Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_overhead_press_with_leg_involvement\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- calves\n- quadriceps\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder instability, reason: Increased risk of injury due to shoulder involvement\n- condition: recent rotator cuff injury, reason: May exacerbate existing injuries\n\nExercise Variations:\n\n- name: Kettlebell Push Press with Pause at Lockout, instructions: ['Clean two kettlebells to your shoulders.', 'Squat down a few inches and reverse the motion rapidly. Use the momentum from the legs to drive the kettlebells overhead.', 'Pause for 1-2 seconds at the lockout position before lowering the kettlebells back to your shoulders.']\n\nSubstitution Options:\n\n- exercise_name: Barbell Push Press, equipment: barbell\n- exercise_name: Single-Arm Kettlebell Push Press, equipment: kettlebells\n\nInstructions:\n\n- Clean two kettlebells to your shoulders.\n- Squat down a few inches and reverse the motion rapidly. Use the momentum from the legs to drive the kettlebells overhead.\n- Once the kettlebells are locked out, lower the kettlebells to your shoulders and repeat.",
+  "metadata": {
+    "exercise_id": "double_kettlebell_push_press",
+    "exercise_name": "double_kettlebell_push_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_overhead_press_with_leg_involvement"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "triceps",
+      "quadriceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

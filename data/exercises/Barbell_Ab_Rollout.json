@@ -1,0 +1,36 @@
+{
+  "id": "barbell_ab_rollout",
+  "document": "Exercise: Barbell Ab Rollout\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- horizontal_pushing_with_a_pulling_action\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- lower back\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- postural_improvement\n- core_strength_and_stability\n- abdominal_muscle_hypertrophy\n\nContraindications:\n\n- Shoulder injuries\n- Lower back pain\n\nExercise Variations:\n\n- name: Single Arm Barbell Ab Rollout, notes: Use a single arm for added difficulty\n- name: Barbell Ab Rollout with Pause at Top, notes: Hold the top position for 1-2 seconds before lowering\n\nSubstitution Options:\n\n- exercise_name: Kettlebell Ab Rollout, equipment: kettlebell\n- exercise_name: Resistance Band Ab Rollout, equipment: resistance band\n\nInstructions:\n\n- For this exercise you will need to get into a pushup position, but instead of having your hands of the floor, you will be grabbing on to an Olympic barbell (loaded with 5-10 lbs on each side) instead. This will be your starting position.\n- While keeping a slight arch on your back, lift your hips and roll the barbell towards your feet as you exhale. Tip: As you perform the movement, your glutes should be coming up, you should be keeping the abs tight and should maintain your back posture at all times. Also your arms should be staying perpendicular to the floor throughout the movement. If you don't, you will work out your shoulders and back more than the abs.\n- After a second contraction at the top, start to roll the barbell back forward to the starting position slowly as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "barbell_ab_rollout",
+    "exercise_name": "barbell_ab_rollout",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "horizontal_pushing_with_a_pulling_action"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "lower_back",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "postural_improvement",
+      "core_strength_and_stability",
+      "abdominal_muscle_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

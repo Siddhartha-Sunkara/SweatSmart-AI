@@ -1,0 +1,34 @@
+{
+  "id": "standing_cable_lift",
+  "document": "Exercise: Standing Cable Lift\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_pull\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- shoulders\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Arm Dumbbell Lift, equipment: dumbbells\n- name: One-Arm Cable Pull-Through, equipment: cable\n\nSubstitution Options:\n\n- name: Dumbbell Lateral Raise, equipment: dumbbells\n- name: Seated Cable Row, equipment: cable\n\nInstructions:\n\n- Connect a standard handle on a tower, and move the cable to the lowest pulley position.\n- With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable. Your outstretched arm should be aligned with the cable.\n- With your feet positioned shoulder width apart, squat down and grab the handle with both hands. Your arms should still be fully extended.\n- In one motion, pull the handle up and across your body until your arms are in a fully-extended position above your head.\n- Keep your back straight and your arms close to your body as you pivot your back foot and straighten your legs to get a full range of motion.\n- Retract your arms and then your body. Return to the neutral position in a slow and controlled manner.\n- Repeat to failure.\n- Then, reposition and repeat the same series of movements on the opposite side.",
+  "metadata": {
+    "exercise_id": "standing_cable_lift",
+    "exercise_name": "standing_cable_lift",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_pull"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

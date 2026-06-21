@@ -1,0 +1,39 @@
+{
+  "id": "axle_deadlift",
+  "document": "Exercise: Axle Deadlift\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hinge\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- hamstrings\n- middle back\n- quadriceps\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system and glycolytic system\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy_of_the_lower_back_and_glutes\n- strength_in_the_hinge_pattern\n\nContraindications:\n\n- Lower back issues\n- Recent lower body surgery\n\nExercise Variations:\n\n- variation_name: Axle Deadlift with Chains, additional_equipment: chains\n- variation_name: Axle Deadlift with Bands, additional_equipment: bands\n\nSubstitution Options:\n\n- exercise_name: Trap Bar Deadlift, equipment: trap bar\n- exercise_name: Sumo Deadlift High Pull, equipment: barbell\n\nInstructions:\n\n- Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an over/under grip.\n- With your feet and your grip set, take a big breath and then lower your hips and flex the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward.\n- After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.\n- Lower the bar by bending at the hips and guiding it to the floor.",
+  "metadata": {
+    "exercise_id": "axle_deadlift",
+    "exercise_name": "axle_deadlift",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hinge"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "quadriceps",
+      "glutes",
+      "forearms",
+      "traps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_and_glycolytic_system",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy_of_the_lower_back_and_glutes",
+      "strength_in_the_hinge_pattern"
+    ],
+    "unilateral": false
+  }
+}

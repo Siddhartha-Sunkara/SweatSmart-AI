@@ -1,0 +1,38 @@
+{
+  "id": "board_press",
+  "document": "Exercise: Board Press\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- triple_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- forearms\n- lats\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- triceps_hypertrophy\n- shoulder_stability\n- upper_body_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Board Press with Bands, equipment: barbell, resistance bands\n- name: Board Press with Chains, equipment: barbell, chains\n\nSubstitution Options:\n\n- exercise_name: Close-Grip Bench Press, equipment: barbell\n- exercise_name: Dips, equipment: parallel bars\n\nInstructions:\n\n- Begin by lying on the bench, getting your head beyond the bar if possible. One to five boards, made out of 2x6's, can be screwed together and held in place by a training partner, bands, or just tucked under your shirt.\n- Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.\n- You can take a standard bench grip, or shoulder width to focus on the triceps. Pull the bar out of the rack without protracting your shoulders. The bar, wrist, and elbow should stay in line at all times. Focus on squeezing the bar and trying to pull it apart.\n- Lower the bar to the boards, and then drive the bar up with as much force as possible. The elbows should be tucked in until lockout.",
+  "metadata": {
+    "exercise_id": "board_press",
+    "exercise_name": "board_press",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "triple_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "lats",
+      "shoulders",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "triceps_hypertrophy",
+      "shoulder_stability",
+      "upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

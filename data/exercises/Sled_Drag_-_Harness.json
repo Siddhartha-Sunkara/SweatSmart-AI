@@ -1,0 +1,37 @@
+{
+  "id": "sled_drag___harness",
+  "document": "Exercise: Sled Drag - Harness\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push_pull\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- lower_body_strength\n- cardiovascular_endurance\n- core_stability\n\nContraindications:\n\n- Recent knee surgery\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Sled Drag - Handles, force: push, level: beginner\n- name: Sled Push - Harness, force: push, level: intermediate\n\nSubstitution Options:\n\n- name: Resistance Band Pulls, force: pull, level: beginner\n- name: Barbell Deadlift, force: pull, level: intermediate\n\nInstructions:\n\n- To begin, load the sled with the desired weight and attach the pulling strap. You can pull with handles, use a harness, or attach the pulling strap to a weight belt.\n- Whether pulling forwards or backwards, lean in the direction of travel and progress by extending through the hips and knees.",
+  "metadata": {
+    "exercise_id": "sled_drag___harness",
+    "exercise_name": "sled_drag___harness",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push_pull"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "lower_body_strength",
+      "cardiovascular_endurance",
+      "core_stability"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "round_the_world_shoulder_stretch",
+  "document": "Exercise: Round The World Shoulder Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_rotation\n- extension\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- biceps\n- chest\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_shoulder_flexibility\n- relieve_upper_back_tension\n\nContraindications:\n\n- shoulder instability or injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Seated Shoulder Stretch, force: static, level: beginner\n\nInstructions:\n\n- Stand up straight with your legs together, holding a bodybar or broomstick.\n- Hold the pole behind your hips with a wider than shoulder width grip. Your palms should be down and your thumbs facing out.\n- Slowly lift your arms up behind your head. Don't force it if it gets hard to lift further.",
+  "metadata": {
+    "exercise_id": "round_the_world_shoulder_stretch",
+    "exercise_name": "round_the_world_shoulder_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_rotation",
+      "extension"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_shoulder_flexibility",
+      "relieve_upper_back_tension"
+    ],
+    "unilateral": false
+  }
+}

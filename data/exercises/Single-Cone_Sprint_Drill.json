@@ -1,0 +1,36 @@
+{
+  "id": "single_cone_sprint_drill",
+  "document": "Exercise: Single-Cone Sprint Drill\n\nCategory:\nplyometrics\n\nExercise Type:\nNone\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- plyometric\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nanaerobic\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_foot_speed_and_agility\n- improve_explosive_power\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Double-Cone Sprint Drill, id: Double-Cone_Sprint_Drill\n\nSubstitution Options:\n\n- name: Bounding Drill, id: Bounding_Drill\n\nInstructions:\n\n- This drill teaches quick foot action. You need a single cone. Begin standing next to the cone with one arm back and one arm forward.\n- Chop the feet as quickly as possible, blocking with the arms. Circle the cone, keep your knees up, with violent foot action.\n- Rest after three trips around the cone.",
+  "metadata": {
+    "exercise_id": "single_cone_sprint_drill",
+    "exercise_name": "single_cone_sprint_drill",
+    "category": "plyometrics",
+    "exercise_type": "",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "plyometric"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "anaerobic",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_foot_speed_and_agility",
+      "improve_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

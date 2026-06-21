@@ -1,0 +1,35 @@
+{
+  "id": "double_leg_butt_kick",
+  "document": "Exercise: Double Leg Butt Kick\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: knee injury, description: High impact on knees may exacerbate injuries.\n\nExercise Variations:\n\n- name: Double Leg Jump, instructions: ['Begin standing with your knees slightly bent.', 'Quickly squat a short distance, flexing the hips and knees, and immediately extend to jump for maximum horizontal distance.']\n\nSubstitution Options:\n\n- exercise_name: Single Leg Hop, equipment: body only\n\nInstructions:\n\n- Begin standing with your knees slightly bent.\n- Quickly squat a short distance, flexing the hips and knees, and immediately extend to jump for maximum vertical height.\n- As you go up, tuck your heels by flexing the knees, attempting to touch the buttocks.\n- Finish the motion by landing with the knees only partially bent, using your legs to absorb the impact.",
+  "metadata": {
+    "exercise_id": "double_leg_butt_kick",
+    "exercise_name": "double_leg_butt_kick",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "adductors",
+      "abductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tire_flip",
+  "document": "Exercise: Tire Flip\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- push_pull\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- chest\n- forearms\n- glutes\n- hamstrings\n- lower back\n- shoulders\n- traps\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- strength_and_power_development\n- muscular_endurance_enhancement\n- functional_strength_improvement\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain or injury\n\nExercise Variations:\n\n- name: Tire Flip - Single Arm, force: pull, level: advanced\n- name: Tire Flip - Overhead, force: pull, level: expert\n\nSubstitution Options:\n\n- name: Barbell Clean, force: pull, level: intermediate\n- name: Sandbag Flip, force: pull, level: intermediate\n\nInstructions:\n\n- Begin by gripping the bottom of the tire on the tread, and position your feet back a bit. Your chest should be driving into the tire.\n- To lift the tire, extend through the hips, knees, and ankles, driving into the tire and up.\n- As the tire reaches a 45 degree angle, step forward and drive a knee into the tire. As you do so adjust your grip to the upper portion of the tire and push it forward as hard as possible to complete the turn. Repeat as necessary.",
+  "metadata": {
+    "exercise_id": "tire_flip",
+    "exercise_name": "tire_flip",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "push_pull"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "shoulders",
+      "triceps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "strength_and_power_development",
+      "muscular_endurance_enhancement",
+      "functional_strength_improvement"
+    ],
+    "unilateral": false
+  }
+}

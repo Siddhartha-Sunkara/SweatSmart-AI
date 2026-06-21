@@ -1,0 +1,32 @@
+{
+  "id": "calf_press_on_the_leg_press_machine",
+  "document": "Exercise: Calf Press On The Leg Press Machine\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- ankle_plantar_flexion\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n1.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n2 hours\n\nGoals:\n\n- lower_body_strength\n- calf_hypertrophy\n\nContraindications:\n\n- Recent lower leg injury or surgery\n- Severe knee pain\n\nExercise Variations:\n\n- name: Seated Calf Press with Weighted Bar, description: Increase the weight on the leg press machine for a more challenging variation.\n- name: Single-Leg Calf Press, description: Perform the exercise with one leg at a time to isolate each calf muscle.\n\nSubstitution Options:\n\n- exercise_name: Standing Calf Raise, equipment: dumbbells or no equipment\n\nInstructions:\n\n- Using a leg press machine, sit down on the machine and place your legs on the platform directly in front of you at a medium (shoulder width) foot stance.\n- Lower the safety bars holding the weighted platform in place and press the platform all the way up until your legs are fully extended in front of you without locking your knees. (Note: In some leg press units you can leave the safety bars on for increased safety. If your leg press unit allows for this, then this is the preferred method of performing the exercise.) Your torso and the legs should make perfect 90-degree angle. Now carefully place your toes and balls of your feet on the lower portion of the platform with the heels extending off. Toes should be facing forward, outwards or inwards as described at the beginning of the chapter. This will be your starting position.\n- Press on the platform by raising your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.\n- Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "calf_press_on_the_leg_press_machine",
+    "exercise_name": "calf_press_on_the_leg_press_machine",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "ankle_plantar_flexion"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 1.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 2,
+    "goals": [
+      "lower_body_strength",
+      "calf_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

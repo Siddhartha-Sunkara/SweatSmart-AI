@@ -1,0 +1,32 @@
+{
+  "id": "monster_walk",
+  "document": "Exercise: Monster Walk\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body_movement_with_alternating_steps\n\nPrimary Muscles:\n\n- abductors\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bands\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_hip_stability_and_mobility\n- strengthen_abductors\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Monster Walk with Dumbbells, equipment: ['bands', 'dumbbells']\n- name: Reverse Monster Walk, instructions: ['Walk backward using the same technique as described in the original exercise.']\n\nSubstitution Options:\n\n- exercise_name: Side Step with Resistance Band, equipment: bands\n\nInstructions:\n\n- Place a band around both ankles and another around both knees. There should be enough tension that they are tight when your feet are shoulder width apart.\n- To begin, take short steps forward alternating your left and right foot.\n- After several steps, do just the opposite and walk backward to where you started.",
+  "metadata": {
+    "exercise_id": "monster_walk",
+    "exercise_name": "monster_walk",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body_movement_with_alternating_steps"
+    ],
+    "primary_muscles": [
+      "abductors"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_hip_stability_and_mobility",
+      "strengthen_abductors"
+    ],
+    "unilateral": false
+  }
+}

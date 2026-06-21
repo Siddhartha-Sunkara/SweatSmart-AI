@@ -1,0 +1,35 @@
+{
+  "id": "standing_palm_in_one_arm_dumbbell_press",
+  "document": "Exercise: Standing Palm-In One-Arm Dumbbell Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- external_rotation\n- shoulder_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- building_triceps_endurance\n- developing_shoulder_strength_and_stability\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent shoulder surgery\n\nExercise Variations:\n\n- name: Palm-Out One-Arm Dumbbell Press, grip: neutral to supinated\n- name: Two-Arm Dumbbell Press, grip: neutral\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Shoulder Press, equipment: dumbbells\n- exercise_name: Barbell Overhead Press, equipment: barbell\n\nInstructions:\n\n- Start by having a dumbbell in one hand with your arm fully extended to the side using a neutral grip. Use your other arm to hold on to an incline bench to keep your balance.\n- Your feet should be shoulder width apart from each other. Now slowly lift the dumbbell up until you create a 90 degree angle with your arm. Note: Your forearm should be perpendicular to the floor. Continue to maintain a neutral grip throughout the entire exercise.\n- Slowly lift the dumbbell up until your arm is fully extended. This the starting position.\n- While inhaling lower the weight down until your arm is at a 90 degree angle again.\n- Feel the contraction for a second and then lift the weight back up towards the starting position while exhaling. Remember to hold on to the incline bench and keep your feet positioned to keep balance during the exercise.\n- Repeat for the recommended amount of repetitions.\n- Switch arms and repeat the exercise.",
+  "metadata": {
+    "exercise_id": "standing_palm_in_one_arm_dumbbell_press",
+    "exercise_name": "standing_palm_in_one_arm_dumbbell_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "external_rotation",
+      "shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "building_triceps_endurance",
+      "developing_shoulder_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

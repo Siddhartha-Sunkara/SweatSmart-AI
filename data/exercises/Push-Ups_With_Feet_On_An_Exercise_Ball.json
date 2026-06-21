@@ -1,0 +1,36 @@
+{
+  "id": "push_ups_with_feet_on_an_exercise_ball",
+  "document": "Exercise: Push-Ups With Feet On An Exercise Ball\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- exercise_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- shoulder_stability_and_strength\n- chest_strength_and_size\n\nContraindications:\n\n- Shoulder injuries\n- Recent wrist surgery\n\nExercise Variations:\n\n- name: Push-Ups With Feet On An Exercise Ball and Hands on Knees, equipment: exercise ball, knees\n- name: Push-Ups with Feet Elevated on a Platform, equipment: platform or step\n\nSubstitution Options:\n\n- name: Dumbbell Push-Ups, equipment: dumbbells\n- name: Incline Push-Ups, equipment: bench or chair\n\nInstructions:\n\n- Lie on the floor face down and place your hands about 36 inches apart from each other holding your torso up at arms length.\n- Place your toes on top of an exercise ball. This will allow your body to be elevated.\n- Lower yourself until your chest almost touches the floor as you inhale.\n- Using your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.\n- After a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions.",
+  "metadata": {
+    "exercise_id": "push_ups_with_feet_on_an_exercise_ball",
+    "exercise_name": "push_ups_with_feet_on_an_exercise_ball",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "exercise_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "shoulder_stability_and_strength",
+      "chest_strength_and_size"
+    ],
+    "unilateral": false
+  }
+}

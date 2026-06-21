@@ -1,0 +1,32 @@
+{
+  "id": "backward_medicine_ball_throw",
+  "document": "Exercise: Backward Medicine Ball Throw\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- plyometric\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_explosive_power\n- improve_shoulder_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Medicine Ball Throw Against Wall, instructions: ['Stand a few meters in front of a wall, holding the medicine ball between your legs.', 'Squat down and then forcefully reverse direction, coming to full extension and toss the ball against the wall.']\n\nSubstitution Options:\n\n- exercise_name: Medicine Ball Slam, equipment: medicine ball\n\nInstructions:\n\n- This exercise is best done with a partner. If you lack a partner, the ball can be thrown and retrieved or thrown against a wall.\n- Begin standing a few meters in front of your partner, both facing the same direction. Begin holding the ball between your legs.\n- Squat down and then forcefully reverse direction, coming to full extension and you toss the ball over your head to your partner.\n- Your partner can then roll the ball back to you. Repeat for the desired number of repetitions.",
+  "metadata": {
+    "exercise_id": "backward_medicine_ball_throw",
+    "exercise_name": "backward_medicine_ball_throw",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "plyometric"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_explosive_power",
+      "improve_shoulder_strength"
+    ],
+    "unilateral": false
+  }
+}

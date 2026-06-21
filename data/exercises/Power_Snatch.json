@@ -1,0 +1,41 @@
+{
+  "id": "power_snatch",
+  "document": "Exercise: Power Snatch\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- glutes\n- lower back\n- quadriceps\n- shoulders\n- traps\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n4\n\nSystemic Fatigue:\nmoderate\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nATP-PC, Glycolytic\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hypertrophy\n- power\n- strength\n\nContraindications:\n\n- Lower back issues\n- Shoulder instability\n\nExercise Variations:\n\n- name: Power Snatch from Blocks, force: pull, level: expert\n- name: Power Snatch with Bands, force: pull, level: expert\n\nSubstitution Options:\n\n- name: Clean and Jerk, force: pull, level: expert\n- name: Snatch Balance, force: pull, level: advanced\n\nInstructions:\n\n- Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.\n- Begin the first pull by driving through the front of the heels, raising the bar from the ground. The back angle should stay the same until the bar passes the knees.\n- Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.\n- As you move your feet into the receiving position, a slightly wider position, pull yourself below the bar as you elevate the bar overhead. The bar should be received in a partial squat. Continue raising the bar to the overhead position, receiving the bar locked out overhead.\n- Return to a standing position with the weight over head.",
+  "metadata": {
+    "exercise_id": "power_snatch",
+    "exercise_name": "power_snatch",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "traps",
+      "shoulders",
+      "triceps",
+      "calves"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 4.0,
+    "systemic_fatigue": "moderate",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "atp_pc,_glycolytic",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hypertrophy",
+      "power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

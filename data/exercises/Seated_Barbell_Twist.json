@@ -1,0 +1,32 @@
+{
+  "id": "seated_barbell_twist",
+  "document": "Exercise: Seated Barbell Twist\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- lateral_flexion_of_the_spine\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- strengthening_the_oblique_muscles\n- improving_core_stability_and_balance\n\nContraindications:\n\n- Individuals with lower back pain or history of spinal issues\n\nExercise Variations:\n\n- name: Barbell Seated Twist with Dumbbells, equipment: ['barbell', 'dumbbells']\n- name: Seated Barbell Twist with Resistance Bands, equipment: ['barbell', 'resistance bands']\n\nSubstitution Options:\n\n- name: Seated Cable Twist, equipment: cable machine\n- name: Russian Twists, equipment: medicine ball or weight plate\n\nInstructions:\n\n- Start out by sitting at the end of a flat bench with a barbell placed on top of your thighs. Your feet should be shoulder width apart from each other.\n- Grip the bar with your palms facing down and make sure your hands are wider than shoulder width apart from each other. Begin to lift the barbell up over your head until your arms are fully extended.\n- Now lower the barbell behind your head until it is resting along the base of your neck. This is the starting position.\n- While keeping your feet and head stationary, move your waist from side to side so that your oblique muscles feel the contraction. Only move from side to side as far as your waist will allow you to go. Stretching or moving too far can cause an injury to occur. Tip: Use a slow and controlled motion.\n- Remember to breathe out while twisting your body to the side and in when moving back to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "seated_barbell_twist",
+    "exercise_name": "seated_barbell_twist",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "lateral_flexion_of_the_spine"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strengthening_the_oblique_muscles",
+      "improving_core_stability_and_balance"
+    ],
+    "unilateral": false
+  }
+}

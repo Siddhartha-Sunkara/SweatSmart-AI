@@ -1,0 +1,32 @@
+{
+  "id": "chair_lower_back_stretch",
+  "document": "Exercise: Chair Lower Back Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_isometric_contraction\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- lower back\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_flexibility\n- relax_lats_and_lower_back_muscles\n\nContraindications:\n\n- acute lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Sit upright on a chair.\n- Bend to one side with your arm over your head. You can hold onto the chair with your free hand.\n- Hold for 10 seconds, and repeat for your other side.",
+  "metadata": {
+    "exercise_id": "chair_lower_back_stretch",
+    "exercise_name": "chair_lower_back_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_isometric_contraction"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "lower_back"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_flexibility",
+      "relax_lats_and_lower_back_muscles"
+    ],
+    "unilateral": false
+  }
+}

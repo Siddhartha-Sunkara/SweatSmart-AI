@@ -1,0 +1,39 @@
+{
+  "id": "kettlebell_turkish_get_up_squat_style",
+  "document": "Exercise: Kettlebell Turkish Get-Up (Squat style)\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- abdominals\n- calves\n- hamstrings\n- quadriceps\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- core_stability\n- strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain or injury\n\nExercise Variations:\n\n- name: Turkish Get-Up with Single Arm Kettlebell, equipment: kettlebells\n- name: Turkish Get-Up with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- name: Dumbbell Turkish Get-Up (Squat style), equipment: dumbbells\n- name: Kettlebell Renegade Row, equipment: kettlebells\n\nInstructions:\n\n- Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.\n- Keeping the kettlebell locked out at all times, pivot to the opposite side and use your non- working arm to assist you in driving forward to the lunge position.\n- Using your free hand, push yourself to a seated position, then progressing to your feet. While looking up at the kettlebell, slowly stand up. Reverse the motion back to the starting position and repeat.",
+  "metadata": {
+    "exercise_id": "kettlebell_turkish_get_up_squat_style",
+    "exercise_name": "kettlebell_turkish_get_up_(squat_style)",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "quadriceps",
+      "triceps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "core_stability",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

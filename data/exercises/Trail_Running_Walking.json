@@ -1,0 +1,32 @@
+{
+  "id": "trail_running_walking",
+  "document": "Exercise: Trail Running/Walking\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- impact\n- lower_body_dynamic_movement_with_variable_resistance\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- Individuals with knee or ankle injuries should proceed with caution and consider alternative exercises.\n- Pregnant women should consult a healthcare provider before engaging in trail running/walking.\n\nExercise Variations:\n\n- name: Trail Hiking, level: beginner, primaryMuscles: ['quadriceps'], secondaryMuscles: ['calves', 'glutes', 'hamstrings']\n- name: Hill Running, level: intermediate, primaryMuscles: ['quadriceps'], secondaryMuscles: ['calves', 'glutes', 'hamstrings']\n\nSubstitution Options:\n\n- name: Stair Climbing, category: cardio\n- name: Skiing (Cross-Country), category: cardio\n\nInstructions:\n\n- Running or hiking on trails will get the blood pumping and heart beating almost immediately. Make sure you have good shoes. While you use the muscles in your calves and buttocks to pull yourself up a hill, the knees, joints and ankles absorb the bulk of the pounding coming back down. Take smaller steps as you walk downhill, keep your knees bent to reduce the impact and slow down to avoid falling.\n- A 150 lb person can burn over 200 calories for 30 minutes walking uphill, compared to 175 on a flat surface. If running the trail, a 150 lb person can burn well over 500 calories in 30 minutes.",
+  "metadata": {
+    "exercise_id": "trail_running_walking",
+    "exercise_name": "trail_running/walking",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "impact",
+      "lower_body_dynamic_movement_with_variable_resistance"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

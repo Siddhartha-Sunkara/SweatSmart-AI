@@ -1,0 +1,38 @@
+{
+  "id": "goblet_squat",
+  "document": "Exercise: Goblet Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- sagittal_plane_squat\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- shoulders\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nATP-PC system and glycolytic pathway\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- quadriceps_strength_and_hypertrophy\n- hamstring_endurance\n- glute_activation\n\nContraindications:\n\n- Recent or chronic knee injuries\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Goblet Front Squat, equipment: kettlebells\n- name: Sumo Deadlift High Pull, equipment: kettlebells\n\nSubstitution Options:\n\n- exercise_name: Bodyweight Squat, equipment: none\n- exercise_name: Front Squat, equipment: barbell\n\nInstructions:\n\n- Stand holding a light kettlebell by the horns close to your chest. This will be your starting position.\n- Squat down between your legs until your hamstrings are on your calves. Keep your chest and head up and your back straight.\n- At the bottom position, pause and use your elbows to push your knees out. Return to the starting position, and repeat for 10-20 repetitions.",
+  "metadata": {
+    "exercise_id": "goblet_squat",
+    "exercise_name": "goblet_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "sagittal_plane_squat"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings",
+      "shoulders"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "atp_pc_system_and_glycolytic_pathway",
+    "recovery_time_hours": 24,
+    "goals": [
+      "quadriceps_strength_and_hypertrophy",
+      "hamstring_endurance",
+      "glute_activation"
+    ],
+    "unilateral": false
+  }
+}

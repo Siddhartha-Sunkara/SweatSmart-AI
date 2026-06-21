@@ -1,0 +1,38 @@
+{
+  "id": "side_hop_sprint",
+  "document": "Exercise: Side Hop-Sprint\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- lateral_hopping\n- sprinting\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- enhance_lateral_stability\n- improve_explosive_power\n\nContraindications:\n\n- recent lower body injury\n- chronic knee issues\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Stand to the side of a cone or hurdle.\n- Begin this drill by hopping sideways over the obstacle, rebounding out of your landing to hop back to where you started.\n- Hop for a prescribed number or repetitions as quickly as possible, and finish this drill by sprinting a short distance upon landing the last hop.",
+  "metadata": {
+    "exercise_id": "side_hop_sprint",
+    "exercise_name": "side_hop_sprint",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "lateral_hopping",
+      "sprinting"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abductors",
+      "calves",
+      "hamstrings",
+      "adductors"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "enhance_lateral_stability",
+      "improve_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

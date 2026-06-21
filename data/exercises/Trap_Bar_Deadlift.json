@@ -1,0 +1,32 @@
+{
+  "id": "trap_bar_deadlift",
+  "document": "Exercise: Trap Bar Deadlift\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hip_hinge\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Lower back pain, reason: Potential strain on the lumbar spine\n- condition: Recent knee surgery, reason: High impact and stress on the knees\n\nExercise Variations:\n\n- variation_name: Trap Bar Deadlift with Shrugs, additional_muscles: ['trapezius']\n- variation_name: Trap Bar Deadlift to Chest, additional_muscles: ['chest', 'shoulders']\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlift, equipment: barbell\n\nInstructions:\n\n- For this exercise load a trap bar, also known as a hex bar, to an appropriate weight resting on the ground. Stand in the center of the apparatus and grasp both handles.\n- Lower your hips, look forward with your head and keep your chest up.\n- Begin the movement by driving through the heels and extend your hips and knees. Avoid rounding your back at all times.\n- At the completion of the movement, lower the weight back to the ground under control.",
+  "metadata": {
+    "exercise_id": "trap_bar_deadlift",
+    "exercise_name": "trap_bar_deadlift",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hip_hinge"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

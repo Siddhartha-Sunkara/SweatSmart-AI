@@ -1,0 +1,32 @@
+{
+  "id": "isometric_neck_exercise___sides",
+  "document": "Exercise: Isometric Neck Exercise - Sides\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- static_contraction\n\nPrimary Muscles:\n\n- neck\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- muscle_endurance\n- stability\n\nContraindications:\n\n- recent neck injury\n- neck pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- With your head and neck in a neutral position (normal position with head erect facing forward), place your left hand on the left side of your head.\n- Now gently push towards the left as you contract the left neck muscles but resisting any movement of your head. Start with slow tension and increase slowly. Keep breathing normally as you execute this contraction.\n- Hold for the recommended number of seconds.\n- Now release the tension slowly.\n- Rest for the recommended amount of time and repeat with your right hand placed on the right side of your head.",
+  "metadata": {
+    "exercise_id": "isometric_neck_exercise___sides",
+    "exercise_name": "isometric_neck_exercise___sides",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "static_contraction"
+    ],
+    "primary_muscles": [
+      "neck"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [
+      "muscle_endurance",
+      "stability"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "spider_crawl",
+  "document": "Exercise: Spider Crawl\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- core_engagement\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- chest\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high due to core stabilization and lower body movement\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- full_body_engagement\n- lower_body_coordination\n- core_stability_and_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- variation_name: Spider Crawl with Resistance Band, equipment: resistance band\n\nSubstitution Options:\n\n- exercise_name: Side Plank with Leg Lift, equipment: body only\n\nInstructions:\n\n- Begin in a prone position on the floor. Support your weight on your hands and toes, with your feet together and your body straight. Your arms should be bent to 90 degrees. This will be your starting position.\n- Initiate the movement by raising one foot off of the ground. Externally rotate the leg and bring the knee toward your elbow, as far forward as possible.\n- Return this leg to the starting position and repeat on the opposite side.",
+  "metadata": {
+    "exercise_id": "spider_crawl",
+    "exercise_name": "spider_crawl",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "core_engagement",
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high_due_to_core_stabilization_and_lower_body_movement",
+    "recovery_time_hours": 1,
+    "goals": [
+      "full_body_engagement",
+      "lower_body_coordination",
+      "core_stability_and_strength"
+    ],
+    "unilateral": false
+  }
+}

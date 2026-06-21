@@ -1,0 +1,37 @@
+{
+  "id": "press_sit_up",
+  "document": "Exercise: Press Sit-Up\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- horizontal_flexion\n- vertical_push\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- chest\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- core_strength_and_stability\n- upper_body_strength\n\nContraindications:\n\n- Shoulder injuries\n- Lower back pain\n\nExercise Variations:\n\n- name: Kettlebell Press Sit-Up, equipment: kettlebell\n- name: Dumbbell Press Sit-Up, equipment: dumbbells\n\nSubstitution Options:\n\n- exercise_name: Barbell Upright Row, equipment: barbell\n- exercise_name: Overhead Press, equipment: dumbbells or barbell\n\nInstructions:\n\n- To begin, lie down on a bench with a barbell resting on your chest. Position your legs so they are secure on the extension of the abdominal bench. This is the starting position.\n- While inhaling, tighten your abdominals and glutes. Simultaneously curl your torso as you do when performing a sit-up and press the barbell to an overhead position while exhaling. Tip: Use your arms to push the barbell out as you perform this exercise while still focusing on the abdominal muscles.\n- Lower your upper body back down to the starting position while bringing the barbell back down to your torso. Remember to breathe in while lowering the body.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "press_sit_up",
+    "exercise_name": "press_sit_up",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "horizontal_flexion",
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "core_strength_and_stability",
+      "upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

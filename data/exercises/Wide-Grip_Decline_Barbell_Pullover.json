@@ -1,0 +1,39 @@
+{
+  "id": "wide_grip_decline_barbell_pullover",
+  "document": "Exercise: Wide-Grip Decline Barbell Pullover\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_extension\n- flexion\n- scapular_retraction\n- protraction\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system with some contribution from glycolysis\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- scapular_stability_and_mobility\n- chest_hypertrophy\n- triceps_strength_and_endurance\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent rotator cuff surgery\n\nExercise Variations:\n\n- name: Narrow-Grip Decline Barbell Pullover, force: pull, primaryMuscles: ['chest', 'triceps']\n- name: Decline Cable Cross-Body Row, equipment: cable machine\n\nSubstitution Options:\n\n- exercise_name: Wide-Grip Decline Dumbbell Pullover, equipment: dumbbells\n- exercise_name: Incline Dumbbell Pullover, equipment: dumbbells, incline bench\n\nInstructions:\n\n- Lie down on a decline bench with both legs securely locked in position. Reach for the barbell behind the head using a pronated grip (palms facing out). Make sure to grab the barbell wider than shoulder width apart for this exercise. Slowly lift the barbell up from the floor by using your arms.\n- When positioned properly, your arms should be fully extended and perpendicular to the floor. This is the starting position.\n- Begin by moving the barbell back down in a semicircular motion as if you were going to place it on the floor, but instead, stop when the arms are parallel to the floor. Tip: Keep the arms fully extended at all times. The movement should only happen at the shoulder joint. Inhale as you perform this portion of the movement.\n- Now bring the barbell up while exhaling until you are back at the starting position. Remember to keep full control of the barbell at all times.\n- Repeat the movement for the prescribed amount of repetitions of your training program.\n- When finished with your set, slowly lower the barbell back down until it is level with your head and release it.",
+  "metadata": {
+    "exercise_id": "wide_grip_decline_barbell_pullover",
+    "exercise_name": "wide_grip_decline_barbell_pullover",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_extension",
+      "flexion",
+      "scapular_retraction",
+      "protraction"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_with_some_contribution_from_glycolysis",
+    "recovery_time_hours": 1,
+    "goals": [
+      "scapular_stability_and_mobility",
+      "chest_hypertrophy",
+      "triceps_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

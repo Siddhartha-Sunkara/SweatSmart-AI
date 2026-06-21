@@ -1,0 +1,39 @@
+{
+  "id": "kettlebell_windmill",
+  "document": "Exercise: Kettlebell Windmill\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_stabilization\n- unilateral_hip_hinge\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n- shoulders\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hip_mobility_and_flexibility\n- unilateral_strength_and_balance\n- core_stability_and_strength\n\nContraindications:\n\n- Shoulder injuries or instability\n- Lower back pain or injury\n\nExercise Variations:\n\n- name: Kettlebell Windmill with Medicine Ball, equipment: medicine ball, kettlebells\n- name: Kettlebell Windmill with Resistance Band, equipment: kettlebells, resistance band\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Dumbbell Row, equipment: dumbbells\n- exercise_name: Single-Leg RDL with Kettlebell, equipment: kettlebells\n\nInstructions:\n\n- Place a kettlebell in front of your lead foot and clean and press it overhead with your opposite arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so, so that the palm faces forward. Press it overhead by extending the elbow.\n- Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Turn your feet out at a forty-five degree angle from the arm with the locked out kettlebell. Bending at the hip to one side, sticking your butt out, slowly lean until you can touch the floor with your free hand. Keep your eyes on the kettlebell that you hold over your head at all times.\n- Pause for a second after reaching the ground and reverse the motion back to the starting position.",
+  "metadata": {
+    "exercise_id": "kettlebell_windmill",
+    "exercise_name": "kettlebell_windmill",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_stabilization",
+      "unilateral_hip_hinge"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hip_mobility_and_flexibility",
+      "unilateral_strength_and_balance",
+      "core_stability_and_strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "triceps_pushdown",
+  "document": "Exercise: Triceps Pushdown\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder instability, description: May exacerbate shoulder issues due to the overhead position.\n- condition: recent elbow injury, description: Elbow strain may be aggravated by this exercise.\n\nExercise Variations:\n\n- name: Close-Grip Pushdown, force: push, level: beginner, mechanic: isolation, primaryMuscles: ['triceps'], secondaryMuscles: [], equipment: cable\n\nSubstitution Options:\n\n- exercise_name: Tricep Dips, equipment: bench\n- exercise_name: Overhead Triceps Extension, equipment: dumbbells\n\nInstructions:\n\n- Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.\n- Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. This is your starting position.\n- Using the triceps, bring the bar down until it touches the front of your thighs and the arms are fully extended perpendicular to the floor. The upper arms should always remain stationary next to your torso and only the forearms should move. Exhale as you perform this movement.\n- After a second hold at the contracted position, bring the bar slowly up to the starting point. Breathe in as you perform this step.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "triceps_pushdown",
+    "exercise_name": "triceps_pushdown",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

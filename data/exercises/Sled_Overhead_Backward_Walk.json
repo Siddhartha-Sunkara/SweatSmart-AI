@@ -1,0 +1,38 @@
+{
+  "id": "sled_overhead_backward_walk",
+  "document": "Exercise: Sled Overhead Backward Walk\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push_with_backward_walking\n- unilateral_overhead_pull\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- calves\n- middle back\n- quadriceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improve_core_stability_and_balance\n- enhance_lower_body_endurance_and_coordination\n- develop_shoulder_and_upper_body_strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain or injury\n\nExercise Variations:\n\n- variation_name: Sled Overhead Backward Walk with Dumbbells, equipment: dumbbells\n- variation_name: Sled Overhead Backward Walk with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Barbell Overhead Squat Backward Walk, equipment: barbell\n- exercise_name: Kettlebell Overhead Goblet Squat Backward Walk, equipment: kettlebells\n\nInstructions:\n\n- Attach dual handles to a sled connected by a rope or chain. Load the sled to a light weight.\n- Face the sled, backing up until there is some tension in the line. Hold your hands directly above your head with your elbows extended. This will be your starting position.\n- Walk backwards, keeping your arms raised above your head. Avoid jerky movements.",
+  "metadata": {
+    "exercise_id": "sled_overhead_backward_walk",
+    "exercise_name": "sled_overhead_backward_walk",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push_with_backward_walking",
+      "unilateral_overhead_pull"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "middle_back",
+      "quadriceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improve_core_stability_and_balance",
+      "enhance_lower_body_endurance_and_coordination",
+      "develop_shoulder_and_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

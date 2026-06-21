@@ -1,0 +1,31 @@
+{
+  "id": "seated_head_harness_neck_resistance",
+  "document": "Exercise: Seated Head Harness Neck Resistance\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- isometric\n\nPrimary Muscles:\n\n- neck\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- strength_training_for_the_neck_muscles\n\nContraindications:\n\n- neck injuries\n- recent neck surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Place a neck strap on the floor at the end of a flat bench. Once you have selected the weights, sit at the end of the flat bench with your feet wider than shoulder width apart from each other. Your toes should be pointed out.\n- Slowly move your torso forward until it is almost parallel with the floor. Using both hands, securely position the neck strap around your head. Tip: Make sure the weights are still lying on the floor to prevent any strain on the neck. Now grab the weight with both hands while elevating your torso back until it is almost perpendicular to the floor. Note: Your head and torso needs to be slightly tilted forward to perform this exercise.\n- Now place both hands on top of your knees. This is the starting position.\n- Slowly lower your neck down until your chin touches the upper part of your chest while breathing in.\n- While exhaling, bring your neck back to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "seated_head_harness_neck_resistance",
+    "exercise_name": "seated_head_harness_neck_resistance",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "isometric"
+    ],
+    "primary_muscles": [
+      "neck"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strength_training_for_the_neck_muscles"
+    ],
+    "unilateral": false
+  }
+}

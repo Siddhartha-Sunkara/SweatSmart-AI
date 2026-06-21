@@ -1,0 +1,32 @@
+{
+  "id": "smith_machine_reverse_calf_raises",
+  "document": "Exercise: Smith Machine Reverse Calf Raises\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- ankle_plantarflexion\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- calf_muscle_strength\n- muscle_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single Leg Smith Machine Reverse Calf Raises, primaryMuscles: ['calves']\n\nSubstitution Options:\n\n- name: Bodyweight Calf Raises, equipment: bodyweight\n- name: Seated Calf Raise Machine, equipment: machine\n\nInstructions:\n\n- Adjust the barbell on the smith machine to fit your height and align a raised platform right under the bar.\n- Stand on the platform with the heels of your feet secured on top of it with the balls of your feet extending off it. Position your toes facing forward with a shoulder width stance.\n- Now, place your shoulders under the barbell while maintaining the foot positioning described and push the barbell up by extending your hips and knees until your torso is standing erect. The knees should be kept with a slight bend; never locked. This will be your starting position. Tip: The barbell on your back is only for balance purposes.\n- Raise the balls of your feet as you breathe out by extending your toes as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position for a second before you start to go back down.\n- Slowly go back down to the starting position as you breathe in by lowering the balls of your feet and toes.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "smith_machine_reverse_calf_raises",
+    "exercise_name": "smith_machine_reverse_calf_raises",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "ankle_plantarflexion"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "calf_muscle_strength",
+      "muscle_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kettlebell_pass_between_the_legs",
+  "document": "Exercise: Kettlebell Pass Between The Legs\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- extension\n- compound_movement_involving_hip\n- bilateral\n- shoulder_flexion\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n- shoulders\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high due to multiple muscle groups involved\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- core_strengthening\n- hip_and_shoulder_mobility\n- functional_strength_improvement\n\nContraindications:\n\n- Lower back pain or instability\n- Shoulder injuries\n\nExercise Variations:\n\n- name: Single-Arm Kettlebell Pass, instructions: ['Perform the same movement but use one kettlebell and alternate between arms.']\n- name: Kettlebell Pass to Overhead Press, instructions: ['After passing the kettlebell between your legs, press it overhead for added challenge.']\n\nSubstitution Options:\n\n- exercise_name: Barbell Pass Between The Legs, equipment: barbell\n- exercise_name: Dumbbell Pass Between The Legs, equipment: dumbbells\n\nInstructions:\n\n- Place one kettlebell between your legs and take a comfortable stance. Bend over by pushing your butt out and keeping your back flat.\n- Pick up a kettlebell and pass it to your other hand between your legs, in the fashion of a \"W\". Go back and forth for several repetitions.",
+  "metadata": {
+    "exercise_id": "kettlebell_pass_between_the_legs",
+    "exercise_name": "kettlebell_pass_between_the_legs",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "extension",
+      "compound_movement_involving_hip",
+      "bilateral",
+      "shoulder_flexion"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "shoulders"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high_due_to_multiple_muscle_groups_involved",
+    "recovery_time_hours": 48,
+    "goals": [
+      "core_strengthening",
+      "hip_and_shoulder_mobility",
+      "functional_strength_improvement"
+    ],
+    "unilateral": false
+  }
+}

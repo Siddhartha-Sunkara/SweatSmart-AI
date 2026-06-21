@@ -1,0 +1,37 @@
+{
+  "id": "jerk_dip_squat",
+  "document": "Exercise: Jerk Dip Squat\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- knees\n- triple_extension_(ankles\n- hips)\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- calves\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- improving_core_stability_and_overall_functional_fitness\n- developing_explosive_power_and_strength_in_the_upper_body_and_legs\n\nContraindications:\n\n- Severe knee or shoulder injuries\n- Recent surgery in the lower body or upper body\n\nExercise Variations:\n\n- name: Jerk Dip Squat with Bands, equipment: barbell and resistance bands\n- name: Single-Arm Jerk Dip Squat, equipment: barbell, dumbbells or kettlebells\n\nSubstitution Options:\n\n- exercise_name: Dip, equipment: parallel bars\n- exercise_name: Push Press, equipment: barbell\n\nInstructions:\n\n- This movement strengthens the dip portion of the jerk. Begin with the bar racked in the jerk position, with the shoulders forward to create a shelf and the bar lightly contacting the throat. The feet should be directly under the hips, with the feet turned out as is comfortable.\n- Keeping the torso vertical, dip by flexing the knees, allowing them to travel forward and without moving the hips to the rear. The dip should not be excessive. Return the weight to the starting position by driving forcefully though the feet.",
+  "metadata": {
+    "exercise_id": "jerk_dip_squat",
+    "exercise_name": "jerk_dip_squat",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "knees",
+      "triple_extension_(ankles",
+      "hips)"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "calves"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 24,
+    "goals": [
+      "improving_core_stability_and_overall_functional_fitness",
+      "developing_explosive_power_and_strength_in_the_upper_body_and_legs"
+    ],
+    "unilateral": false
+  }
+}

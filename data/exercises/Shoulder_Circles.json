@@ -1,0 +1,32 @@
+{
+  "id": "shoulder_circles",
+  "document": "Exercise: Shoulder Circles\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- circular_motion\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- traps\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- relieve_shoulder_tension\n- improve_shoulder_mobility\n\nContraindications:\n\n- shoulder instability\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- With shoulders relaxed and arms resting loosely at your sides (or in your lap if you're seated), gently roll your shoulders forward, up, back, and down.\n- Reverse direction. You can do this exercise alternating shoulders or both at the same time.",
+  "metadata": {
+    "exercise_id": "shoulder_circles",
+    "exercise_name": "shoulder_circles",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "circular_motion"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "traps"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [
+      "relieve_shoulder_tension",
+      "improve_shoulder_mobility"
+    ],
+    "unilateral": false
+  }
+}

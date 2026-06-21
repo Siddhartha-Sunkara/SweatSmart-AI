@@ -1,0 +1,36 @@
+{
+  "id": "suspended_row",
+  "document": "Exercise: Suspended Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- horizontal_pulling\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhancing_posterior_chain_activation\n- improving_muscular_endurance\n- developing_upper_body_strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Severe back pain\n\nExercise Variations:\n\n- name: Single-Arm Suspended Row, force: pull, level: beginner\n- name: Kneeling Suspended Row, force: pull, level: beginner\n\nSubstitution Options:\n\n- name: Lat Pulldown, force: pull, level: beginner\n- name: Pull-Up, force: pull, level: intermediate\n\nInstructions:\n\n- Suspend your straps at around chest height. Take a handle in each hand and lean back. Keep your body erect and your head and chest up. Your arms should be fully extended. This will be your starting position.\n- Begin by flexing the elbow to initiate the movement. Protract your shoulder blades as you do so.\n- At the completion of the motion pause, and then return to the starting position.",
+  "metadata": {
+    "exercise_id": "suspended_row",
+    "exercise_name": "suspended_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "horizontal_pulling"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhancing_posterior_chain_activation",
+      "improving_muscular_endurance",
+      "developing_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

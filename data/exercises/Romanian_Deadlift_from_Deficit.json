@@ -1,0 +1,39 @@
+{
+  "id": "romanian_deadlift_from_deficit",
+  "document": "Exercise: Romanian Deadlift from Deficit\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_hip_extension\n- spinal_flexion\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- forearms\n- glutes\n- lower back\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hamstring_hypertrophy\n- glute_activation\n- spinal_flexibility\n\nContraindications:\n\n- Lower back issues\n- Recent hamstring injury\n\nExercise Variations:\n\n- name: Romanian Deadlift from Deficit with Dumbbells, equipment: ['dumbbells']\n- name: Romanian Deadlift with Resistance Bands, equipment: ['resistance bands']\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlift High Pull, equipment: barbell\n- exercise_name: Good Morning, equipment: barbell\n\nInstructions:\n\n- Begin standing while holding a bar at arm's length in front of you. You can stand on a raised platform to increase the range of motion.\n- Begin by flexing the knees slightly, and then flex at the hip, moving your butt back as far as possible, lowering the torso as far as flexibility allows. The back should remain in absolute extension at all times, and the bar should remain in contact with the legs. If done properly, there should be heavy tension felt in the hamstrings.\n- Reverse the motion to return to the starting position.",
+  "metadata": {
+    "exercise_id": "romanian_deadlift_from_deficit",
+    "exercise_name": "romanian_deadlift_from_deficit",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_hip_extension",
+      "spinal_flexion"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "traps",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hamstring_hypertrophy",
+      "glute_activation",
+      "spinal_flexibility"
+    ],
+    "unilateral": false
+  }
+}

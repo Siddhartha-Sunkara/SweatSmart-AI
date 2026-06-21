@@ -1,0 +1,32 @@
+{
+  "id": "lying_triceps_press",
+  "document": "Exercise: Lying Triceps Press\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- e_z_curl_bar\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- tricep_hypertrophy\n- elbow_extension_strength\n\nContraindications:\n\n- Recent elbow surgery\n- Severe shoulder instability\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Triceps Pushdown, equipment: cable machine\n- name: Overhead Triceps Extension, equipment: dumbbells or barbell\n\nInstructions:\n\n- Lie on a flat bench with either an e-z bar (my preference) or a straight bar placed on the floor behind your head and your feet on the floor.\n- Grab the bar behind you, using a medium overhand (pronated) grip, and raise the bar in front of you at arms length. Tip: The arms should be perpendicular to the torso and the floor. The elbows should be tucked in. This is the starting position.\n- As you breathe in, slowly lower the weight until the bar lightly touches your forehead while keeping the upper arms and elbows stationary.\n- At that point, use the triceps to bring the weight back up to the starting position as you breathe out.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "lying_triceps_press",
+    "exercise_name": "lying_triceps_press",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "e_z_curl_bar"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "tricep_hypertrophy",
+      "elbow_extension_strength"
+    ],
+    "unilateral": false
+  }
+}

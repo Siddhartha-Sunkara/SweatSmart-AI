@@ -1,0 +1,38 @@
+{
+  "id": "rope_climb",
+  "document": "Exercise: Rope Climb\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_pulling\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- biceps\n- forearms\n- middle back\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhance_core_stability\n- improve_grip_strength\n- develop_upper_body_strength\n\nContraindications:\n\n- Shoulder injuries\n- Upper back pain\n\nExercise Variations:\n\n- name: Assisted Rope Climb, equipment: assisted rope trainer\n- name: Rope Climb with Weighted Vest, equipment: rope and weighted vest\n\nSubstitution Options:\n\n- exercise_name: Pull-Up, equipment: bar\n- exercise_name: Bent Over Row, equipment: dumbbells or barbell\n\nInstructions:\n\n- Grab the rope with both hands above your head. Pull down on the rope as you take a small jump.\n- Wrap the rope around one leg, using your feet to pinch the rope. Reach up as high as possible with your arms, gripping the rope tightly.\n- Release the rope from your feet as you pull yourself up with your arms, bringing your knees towards your chest.\n- Resecure your feet on the rope, and then stand up to take another high hold on the rope. Continue until you reach the top of the rope.\n- To lower yourself, loosen the grip of your feet on the rope as you slide down using a hand over hand motion.",
+  "metadata": {
+    "exercise_id": "rope_climb",
+    "exercise_name": "rope_climb",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_pulling"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "shoulders",
+      "middle_back",
+      "forearms",
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhance_core_stability",
+      "improve_grip_strength",
+      "develop_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

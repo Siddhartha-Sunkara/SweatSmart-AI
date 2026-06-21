@@ -1,0 +1,33 @@
+{
+  "id": "reverse_flyes_with_external_rotation",
+  "document": "Exercise: Reverse Flyes With External Rotation\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_shoulder_external_rotation\n- abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improving_shoulder_mobility_and_stability\n- shoulder_strength_and_hypertrophy\n\nContraindications:\n\n- Shoulder instability or injury\n- Rotator cuff issues\n\nExercise Variations:\n\n- name: Reverse Flyes With External Rotation Using Resistance Bands, equipment: resistance bands\n- name: Seated Reverse Flyes with External Rotation, equipment: dumbbell or cable\n\nSubstitution Options:\n\n- name: Face Pulls, equipment: cable machine\n- name: Lateral Raises, equipment: dumbbell or cable\n\nInstructions:\n\n- To begin, lie down on an incline bench set at a 30-degree angle with the chest and stomach pressing against the incline.\n- Have the dumbbells in each hand with the palms facing down to the floor. Your arms should be in front of you so that they are perpendicular to the angle of the bench. Tip: Your elbows should have a slight bend. The legs should be stationary while applying pressure with the ball of your toes (your heels should not be touching the floor). This is the starting position.\n- Maintaining the slight bend of the elbows, move the weights out and away from each other in an arc motion while exhaling.\n- As you lift the weight, your wrist should externally rotate by 90-degrees so that you go from a palms down (pronated) grip to a palms facing each other (neutral) grip. Tip: Try to squeeze your shoulder blades together to get the best results from this exercise.\n- The arms should be elevated until they are level with the head.\n- Feel the contraction and slowly lower the weights back down to the starting position while inhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "reverse_flyes_with_external_rotation",
+    "exercise_name": "reverse_flyes_with_external_rotation",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_shoulder_external_rotation",
+      "abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improving_shoulder_mobility_and_stability",
+      "shoulder_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

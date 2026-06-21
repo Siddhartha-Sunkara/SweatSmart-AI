@@ -1,0 +1,35 @@
+{
+  "id": "shotgun_row",
+  "document": "Exercise: Shotgun Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- pull\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- biceps\n- middle back\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- condition: Shoulder impingement, reason: The wide-split stance and supination may exacerbate symptoms.\n- condition: Lower back issues, reason: The movement can place stress on the lower back, especially with heavy weights.\n\nExercise Variations:\n\n- name: Wide-Grip Shotgun Row, primaryMuscles: ['lats', 'biceps', 'middle back'], secondaryMuscles: [], instructions: ['Attach a wide-grip handle to the low cable.', 'Perform the movement as described, focusing on squeezing the lats.']\n\nSubstitution Options:\n\n- exercise_name: T-Bar Row, equipment: barbell\n- exercise_name: Lat Pulldown, equipment: cable\n\nInstructions:\n\n- Attach a single handle to a low cable.\n- After selecting the correct weight, stand a couple feet back with a wide-split stance. Your arm should be extended and your shoulder forward. This will be your starting position.\n- Perform the movement by retracting the shoulder and flexing the elbow. As you pull, supinate the wrist, turning the palm upward as you go.\n- After a brief pause, return to the starting position.",
+  "metadata": {
+    "exercise_id": "shotgun_row",
+    "exercise_name": "shotgun_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "pull"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "biceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

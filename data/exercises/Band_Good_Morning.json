@@ -1,0 +1,36 @@
+{
+  "id": "band_good_morning",
+  "document": "Exercise: Band Good Morning\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hip_hinge\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- glutes\n- lower back\n\nEquipment:\n\n- bands\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hamstring_strength\n- spinal_mobility\n- glute_activation\n\nContraindications:\n\n- Lower back pain\n- Recent hamstring injury\n\nExercise Variations:\n\n- variation_name: Single Leg Band Good Morning, equipment: bands\n\nSubstitution Options:\n\n- exercise_name: Bodyweight Good Morning, equipment: none\n\nInstructions:\n\n- Using a 41 inch band, stand on one end, spreading your feet a small amount. Bend at the hips to loop the end of the band behind your neck. This will be your starting position.\n- Keeping your legs straight, extend through the hips to come to a near vertical position.\n- Ensure that you do not round your back as you go down back to the starting position.",
+  "metadata": {
+    "exercise_id": "band_good_morning",
+    "exercise_name": "band_good_morning",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hip_hinge"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstring_strength",
+      "spinal_mobility",
+      "glute_activation"
+    ],
+    "unilateral": false
+  }
+}

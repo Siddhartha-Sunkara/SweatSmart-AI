@@ -1,0 +1,32 @@
+{
+  "id": "alternating_kettlebell_row",
+  "document": "Exercise: Alternating Kettlebell Row\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_row\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder injury, reason: May exacerbate shoulder issues due to overhead reach\n\nExercise Variations:\n\n- variation_name: Kettlebell One-Arm Row, notes: Use a single kettlebell and perform the exercise on one side at a time.\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Dumbbell Row, equipment: dumbbells\n\nInstructions:\n\n- Place two kettlebells in front of your feet. Bend your knees slightly and push your butt out as much as possible. As you bend over to get into the starting position grab both kettlebells by the handles.\n- Pull one kettlebell off of the floor while holding on to the other kettlebell. Retract the shoulder blade of the working side, as you flex the elbow, drawing the kettlebell towards your stomach or rib cage.\n- Lower the kettlebell in the working arm and repeat with your other arm.",
+  "metadata": {
+    "exercise_id": "alternating_kettlebell_row",
+    "exercise_name": "alternating_kettlebell_row",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_row"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

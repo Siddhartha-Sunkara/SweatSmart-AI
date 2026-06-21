@@ -1,0 +1,37 @@
+{
+  "id": "stiff_leg_barbell_good_morning",
+  "document": "Exercise: Stiff Leg Barbell Good Morning\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hip_flexion\n- spinal_flexion\n- extension\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- build_glute_and_hamstring_muscle_mass\n- increase_lower_back_strength_and_stability\n\nContraindications:\n\n- Lower back pain or injury\n- Recent spinal surgery\n\nExercise Variations:\n\n- name: Stiff Leg Barbell Good Morning with Dumbbells, equipment: dumbbells\n- name: Stiff Leg Barbell Good Morning with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- exercise_name: Romanian Deadlift, equipment: barbell\n- exercise_name: Deadlift, equipment: barbell\n\nInstructions:\n\n- This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.\n- Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.\n- Step away from the rack and position your legs using a shoulder width medium stance. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position.\n- Keeping your legs stationary, move your torso forward by bending at the hips while inhaling. Lower your torso until it is parallel with the floor.\n- Begin to raise the bar as you exhale by elevating your torso back to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "stiff_leg_barbell_good_morning",
+    "exercise_name": "stiff_leg_barbell_good_morning",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hip_flexion",
+      "spinal_flexion",
+      "extension"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "build_glute_and_hamstring_muscle_mass",
+      "increase_lower_back_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

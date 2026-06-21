@@ -1,0 +1,32 @@
+{
+  "id": "lying_face_up_plate_neck_resistance",
+  "document": "Exercise: Lying Face Up Plate Neck Resistance\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- isometric\n- concentric\n\nPrimary Muscles:\n\n- neck\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- strength_training_for_the_neck_muscles\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Dumbbell Neck Press, force: pull, level: intermediate\n\nSubstitution Options:\n\n- name: Barbell Neck Press, force: pull, level: intermediate\n\nInstructions:\n\n- Lie face up with your whole body straight on a flat bench while holding a weight plate on top of your forehead. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the traps, neck and head to be off the bench. This will be your starting position.\n- While keeping the plate secure on your forehead slowly lower your head back in a semi-circular motion as you breathe in.\n- Raise your head back up to the starting position in a semi-circular motion as you breathe out. Hold the contraction for a second.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "lying_face_up_plate_neck_resistance",
+    "exercise_name": "lying_face_up_plate_neck_resistance",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "isometric",
+      "concentric"
+    ],
+    "primary_muscles": [
+      "neck"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strength_training_for_the_neck_muscles"
+    ],
+    "unilateral": false
+  }
+}

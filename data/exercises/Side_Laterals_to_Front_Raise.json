@@ -1,0 +1,35 @@
+{
+  "id": "side_laterals_to_front_raise",
+  "document": "Exercise: Side Laterals to Front Raise\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- front_raise\n- unilateral_shoulder_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- traps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- trap_activation\n- shoulder_strength_and_hypertrophy\n\nContraindications:\n\n- Shoulder instability or injury\n- Rotator cuff issues\n\nExercise Variations:\n\n- name: Single-Arm Side Lateral to Front Raise, notes: Use a single dumbbell for each arm.\n- name: Machine Side Lateral to Front Raise, equipment: cable machine\n\nSubstitution Options:\n\n- exercise_name: Lateral Raises, equipment: dumbbell or cable\n- exercise_name: Front Raise, equipment: dumbbell or barbell\n\nInstructions:\n\n- In a standing position, hold a pair of dumbbells at your side. This will be your starting position.\n- Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating.\n- At the top of the exercise move the weights out in front of you, keeping your arms extended.\n- Lower the weights with a controlled motion.\n- On the next repetition, raise the weights in front of you to shoulder height before moving the weights laterally to your sides.\n- Lower the weights to the starting position.",
+  "metadata": {
+    "exercise_id": "side_laterals_to_front_raise",
+    "exercise_name": "side_laterals_to_front_raise",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "front_raise",
+      "unilateral_shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "traps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "trap_activation",
+      "shoulder_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

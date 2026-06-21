@@ -1,0 +1,36 @@
+{
+  "id": "split_squat_with_dumbbells",
+  "document": "Exercise: Split Squat with Dumbbells\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hamstring_engagement\n- glute_activation_and_strength\n- quadriceps_strength_and_size\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe hip pain or instability\n\nExercise Variations:\n\n- name: Split Squat with Resistance Band, equipment: resistance band\n- name: Split Squat with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Bodyweight Split Squat, equipment: none\n- exercise_name: Barbell Split Squat, equipment: barbell\n\nInstructions:\n\n- Position yourself into a staggered stance with the rear foot elevated and front foot forward.\n- Hold a dumbbell in each hand, letting them hang at the sides. This will be your starting position.\n- Begin by descending, flexing your knee and hip to lower your body down. Maintain good posture througout the movement. Keep the front knee in line with the foot as you perform the exercise.\n- At the bottom of the movement, drive through the heel to extend the knee and hip to return to the starting position.",
+  "metadata": {
+    "exercise_id": "split_squat_with_dumbbells",
+    "exercise_name": "split_squat_with_dumbbells",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hamstring_engagement",
+      "glute_activation_and_strength",
+      "quadriceps_strength_and_size"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "suspended_fallout",
+  "document": "Exercise: Suspended Fallout\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_extension\n- external_rotation\n- spinal_flexion\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- chest\n- lower back\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- improving_shoulder_mobility_and_stability\n- strengthening_the_upper_body,_particularly_the_shoulders_and_core\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain or injury\n\nExercise Variations:\n\n- name: Suspended Fallout with Bands, equipment: resistance bands\n- name: Suspended Fallout with Weighted Vest, equipment: weighted vest\n\nSubstitution Options:\n\n- exercise_name: Kettlebell Overhead Press, equipment: kettlebells\n- exercise_name: Dumbbell Lateral Raise, equipment: dumbbells\n\nInstructions:\n\n- Adjust the straps so the handles are at an appropriate height, below waist level.\n- Begin standing and grasping the handles. Lean into the straps, moving to an incline push-up position. This will be your starting position.\n- Keeping your arms straight, lean further into the suspension straps, bringing your body closer to the ground, allowing your shoulders to extend, raising your arms up and over your head.\n- Maintain a neutral spine and keep the rest of your body straight, your shoulders being the only joints allowed to move.\n- Pause during the peak contraction, and then return to the starting position.",
+  "metadata": {
+    "exercise_id": "suspended_fallout",
+    "exercise_name": "suspended_fallout",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_extension",
+      "external_rotation",
+      "spinal_flexion"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "lower_back",
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improving_shoulder_mobility_and_stability",
+      "strengthening_the_upper_body,_particularly_the_shoulders_and_core"
+    ],
+    "unilateral": false
+  }
+}

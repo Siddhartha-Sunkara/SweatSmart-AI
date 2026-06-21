@@ -1,0 +1,32 @@
+{
+  "id": "plate_twist",
+  "document": "Exercise: Plate Twist\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- rotational\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability\n- abdominal_muscle_conditioning\n\nContraindications:\n\n- Individuals with lower back pain should avoid sudden rotational movements.\n\nExercise Variations:\n\n- name: Medicine Ball Russian Twists, equipment: medicine ball\n- name: Seated Plate Twist, equipment: plate, chair\n\nSubstitution Options:\n\n- exercise_name: Russian Twists, equipment: no equipment\n\nInstructions:\n\n- Lie down on the floor or an exercise mat with your legs fully extended and your upper body upright. Grab the plate by its sides with both hands out in front of your abdominals with your arms slightly bent.\n- Slowly cross your legs near your ankles and lift them up off the ground. Your knees should also be bent slightly. Note: Move your upper body back slightly to help keep you balanced turning this exercise. This is the starting position.\n- Move the plate to the left side and touch the floor with it. Breathe out as you perform that movement.\n- Come back to the starting position as you breathe in and then repeat the movement but this time to the right side of the body. Tip: Use a slow controlled movement at all times. Jerking motions can injure the back.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "plate_twist",
+    "exercise_name": "plate_twist",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "rotational"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability",
+      "abdominal_muscle_conditioning"
+    ],
+    "unilateral": false
+  }
+}

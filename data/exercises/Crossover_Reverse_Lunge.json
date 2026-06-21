@@ -1,0 +1,33 @@
+{
+  "id": "crossover_reverse_lunge",
+  "document": "Exercise: Crossover Reverse Lunge\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- abdominals\n- abductors\n- glutes\n- hamstrings\n- quadriceps\n\nEquipment:\nNone\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: knee instability or injury, reason: high stress on the knee joint during the movement\n- condition: lower back pain, reason: potential strain on the lower back muscles\n\nExercise Variations:\n\n- name: Crossover Reverse Lunge with Dumbbell, weight: 5-10 kg per hand, reason: increases resistance and challenges core stability\n\nSubstitution Options:\n\n- exercise_name: Reverse Lunge with Twist, reason: similar unilateral lower body movement pattern\n\nInstructions:\n\n- Stand with your feet shoulder width apart. This will be your starting position.\n- Perform a rear lunge by stepping back with one foot and flexing the hips and front knee. As you do so, rotate your torso across the front leg.\n- After a brief pause, return to the starting position and repeat on the other side, continuing in an alternating fashion.",
+  "metadata": {
+    "exercise_id": "crossover_reverse_lunge",
+    "exercise_name": "crossover_reverse_lunge",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "quadriceps",
+      "glutes",
+      "abductors",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

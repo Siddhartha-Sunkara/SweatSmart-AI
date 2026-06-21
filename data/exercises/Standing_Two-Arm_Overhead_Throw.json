@@ -1,0 +1,37 @@
+{
+  "id": "standing_two_arm_overhead_throw",
+  "document": "Exercise: Standing Two-Arm Overhead Throw\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_pulling\n- horizontal_throwing\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- chest\n- lats\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_core_strength_and_coordination\n- enhance_explosive_power_in_the_upper_body\n- improve_shoulder_stability_and_mobility\n\nContraindications:\nNone\n\nExercise Variations:\n\n- variation_name: Single-Arm Overhead Throw, equipment: medicine ball\n- variation_name: Overhead Medicine Ball Pass, equipment: medicine ball, partner\n\nSubstitution Options:\n\n- exercise_name: Medicine Ball Slam, equipment: medicine ball\n\nInstructions:\n\n- Stand with your feet shoulder width apart holding a medicine ball in both hands. To begin, reach the medicine ball deep behind your head as you bend the knees slightly and lean back.\n- Violently throw the ball forward, flexing at the hip and using your whole body to complete the movement.\n- The medicine ball can be thrown to a partner or to a wall, receiving it as it bounces back.",
+  "metadata": {
+    "exercise_id": "standing_two_arm_overhead_throw",
+    "exercise_name": "standing_two_arm_overhead_throw",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_pulling",
+      "horizontal_throwing"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "lats"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_core_strength_and_coordination",
+      "enhance_explosive_power_in_the_upper_body",
+      "improve_shoulder_stability_and_mobility"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "single_leg_push_off",
+  "document": "Exercise: Single Leg Push-off\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- improve_explosive_power_in_the_legs\n- enhance_lower_body_strength_and_power\n\nContraindications:\n\n- Individuals with knee or ankle injuries should consult a healthcare professional before attempting this exercise.\n\nExercise Variations:\n\n- name: Single Leg Push-off with Dumbbell, force: push, level: intermediate, mechanic: compound, equipment: dumbbell\n\nSubstitution Options:\n\n- name: Box Jump, force: vertical jump, level: beginner, mechanic: compound, equipment: box\n\nInstructions:\n\n- Stand on the ground with one foot resting on the box, heel close to the edge.\n- Push off with your foot on top of the box, trying to gain as much height as possible by extending through the hip and knee.\n- Land with the same foot on top of the box, returning your other foot back to the start position.",
+  "metadata": {
+    "exercise_id": "single_leg_push_off",
+    "exercise_name": "single_leg_push_off",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "improve_explosive_power_in_the_legs",
+      "enhance_lower_body_strength_and_power"
+    ],
+    "unilateral": false
+  }
+}

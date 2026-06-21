@@ -1,0 +1,34 @@
+{
+  "id": "worlds_greatest_stretch",
+  "document": "Exercise: World's Greatest Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- static_stretch\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- glutes\n- quadriceps\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.5\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- reduce_muscle_tension\n- increase_flexibility\n\nContraindications:\n\n- acute hamstring injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- This is a three-part stretch. Begin by lunging forward, with your front foot flat on the ground and on the toes of your back foot. With your knees bent, squat down until your knee is almost touching the ground. Keep your torso erect, and hold this position for 10-20 seconds.\n- Now, place the arm on the same side as your front leg on the ground, with the elbow next to the foot. Your other hand should be placed on the ground, parallel to your lead leg, to help support you during this portion of the stretch.\n- After 10-20 seconds, place your hands on either side of your front foot. Raise the toes of the front foot off of the ground, and straighten your leg. You may need to reposition your rear leg to do so. Hold for 10-20 seconds, and then repeat the entire sequence for the other side.",
+  "metadata": {
+    "exercise_id": "worlds_greatest_stretch",
+    "exercise_name": "world's_greatest_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "static_stretch"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "quadriceps"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.5,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "reduce_muscle_tension",
+      "increase_flexibility"
+    ],
+    "unilateral": false
+  }
+}

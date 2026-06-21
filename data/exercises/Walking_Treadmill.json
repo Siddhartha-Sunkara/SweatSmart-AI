@@ -1,0 +1,38 @@
+{
+  "id": "walking_treadmill",
+  "document": "Exercise: Walking, Treadmill\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- aerobic\n- lower_body_dominant\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nModerate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improving_cardiovascular_health\n- weight_management\n- enhancing_lower_body_strength_and_endurance\n\nContraindications:\n\n- Individuals with severe knee or hip issues should consult a healthcare provider before engaging in this exercise.\n\nExercise Variations:\n\n- name: Incline Walking, mechanic: Increase treadmill incline for added challenge\n- name: Interval Training, mechanic: Alternate between walking and jogging/sprinting\n\nSubstitution Options:\n\n- name: Outdoor Walking, equipment: none\n\nInstructions:\n\n- To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.\n- Treadmills offer convenience, cardiovascular benefits, and usually have less impact than walking outside. When walking, you should move at a moderate to fast pace, not a leisurely one. Being an activity of lower intensity, walking doesn't burn as many calories as some other activities, but still provides great benefit. A 150 lb person will burn about 175 calories walking 4 miles per hour for 30 minutes, compared to 450 calories running twice as fast. Maintain proper posture as you walk, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate.",
+  "metadata": {
+    "exercise_id": "walking_treadmill",
+    "exercise_name": "walking,_treadmill",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "aerobic",
+      "lower_body_dominant"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improving_cardiovascular_health",
+      "weight_management",
+      "enhancing_lower_body_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

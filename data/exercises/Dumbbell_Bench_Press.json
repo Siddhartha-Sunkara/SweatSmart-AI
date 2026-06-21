@@ -1,0 +1,32 @@
+{
+  "id": "dumbbell_bench_press",
+  "document": "Exercise: Dumbbell Bench Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- horizontal_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system and glycolytic pathway\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: recent chest surgery, reason: may increase risk of complications\n- condition: severe shoulder pain, reason: may exacerbate existing issues\n\nExercise Variations:\n\n- name: Dumbbell Incline Bench Press, force: push, mechanic: compound, primaryMuscles: ['chest'], secondaryMuscles: ['shoulders', 'triceps']\n- name: Dumbbell Decline Bench Press, force: push, mechanic: compound, primaryMuscles: ['chest'], secondaryMuscles: ['shoulders', 'triceps']\n\nSubstitution Options:\n\n- exercise_name: Barbell Bench Press, equipment: barbell\n- exercise_name: Incline Dumbbell Bench Press, equipment: dumbbells, angle: 45 degrees\n\nInstructions:\n\n- Lie down on a flat bench with a dumbbell in each hand resting on top of your thighs. The palms of your hands will be facing each other.\n- Then, using your thighs to help raise the dumbbells up, lift the dumbbells one at a time so that you can hold them in front of you at shoulder width.\n- Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. The dumbbells should be just to the sides of your chest, with your upper arm and forearm creating a 90 degree angle. Be sure to maintain full control of the dumbbells at all times. This will be your starting position.\n- Then, as you breathe out, use your chest to push the dumbbells up. Lock your arms at the top of the lift and squeeze your chest, hold for a second and then begin coming down slowly. Tip: Ideally, lowering the weight should take about twice as long as raising it.\n- Repeat the movement for the prescribed amount of repetitions of your training program.",
+  "metadata": {
+    "exercise_id": "dumbbell_bench_press",
+    "exercise_name": "dumbbell_bench_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "horizontal_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_and_glycolytic_pathway",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

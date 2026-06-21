@@ -1,0 +1,29 @@
+{
+  "id": "standing_one_arm_dumbbell_curl_over_incline_bench",
+  "document": "Exercise: Standing One-Arm Dumbbell Curl Over Incline Bench\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_elbow_flexion\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n1.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n0.75 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder injury, reason: The exercise places significant stress on the shoulder joint, which could exacerbate an existing condition.\n- condition: Bicep strain or tear, reason: Performing this exercise with poor form can lead to further injury.\n\nExercise Variations:\n\n- name: Standing One-Arm Dumbbell Curl Over Incline Bench with Alternating Arms, instructions: ['Perform the exercise as described, but switch arms after each set.']\n- name: Standing One-Arm Dumbbell Curl Over Incline Bench with Different Angles, instructions: ['Adjust the incline angle of the bench to vary the difficulty and target different parts of the biceps.']\n\nSubstitution Options:\n\n- exercise_name: Barbell Curl, equipment: barbell\n- exercise_name: Hammer Curl, equipment: dumbbell\n\nInstructions:\n\n- Stand on the back side of an incline bench as if you were going to be a spotter for someone. Have a dumbbell in one hand and rest it across the incline bench with a supinated (palms up) grip.\n- Position your non lifting hand at the corner or side of the incline bench. The chest should be pressed against the top part of the incline and your feet should be pressed against the floor at a wide stance. This is the starting position.\n- While holding the upper arm stationary, curl the dumbbell upward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a second.\n- Slowly begin to bring the dumbbells back to starting position as your breathe in.\n- Repeat for the recommended amount of repetitions.\n- Switch arms while performing this exercise.",
+  "metadata": {
+    "exercise_id": "standing_one_arm_dumbbell_curl_over_incline_bench",
+    "exercise_name": "standing_one_arm_dumbbell_curl_over_incline_bench",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_elbow_flexion"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 1.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 0,
+    "goals": [],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "rope_straight_arm_pulldown",
+  "document": "Exercise: Rope Straight-Arm Pulldown\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_upper_body_pull\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- latissimus_dorsi_isolation_and_strengthening\n\nContraindications:\n\n- Shoulder impingement\n- Lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Seated Cable Row, equipment: cable machine\n\nInstructions:\n\n- Attach a rope to a high pulley and make your weight selection. Stand a couple feet back from the pulley with your feet staggered and take the rope with both hands. Lean forward from the hip, keeping your back straight, with your arms extended up in front of you. This will be your starting position.\n- Keeping your arms straight, extend the shoulder to pull the rope down to your thighs.\n- Pause at the bottom of the motion, squeezing your lats.\n- Return to the starting position without allowing the weight to fully rest on the stack.",
+  "metadata": {
+    "exercise_id": "rope_straight_arm_pulldown",
+    "exercise_name": "rope_straight_arm_pulldown",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_upper_body_pull"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "latissimus_dorsi_isolation_and_strengthening"
+    ],
+    "unilateral": false
+  }
+}

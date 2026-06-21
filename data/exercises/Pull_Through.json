@@ -1,0 +1,36 @@
+{
+  "id": "pull_through",
+  "document": "Exercise: Pull Through\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hip_hinge\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- hamstrings\n- lower back\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\naerobic and anaerobic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- lower_back_support\n- hamstring_engagement\n- glute_activation_and_strengthening\n\nContraindications:\n\n- Lower back pain (unless cleared by a healthcare professional)\n\nExercise Variations:\n\n- name: Single Leg Pull Through, equipment: cable\n- exercise_name: Pull Through with Dumbbells, equipment: dumbbells\n\nSubstitution Options:\n\n- exercise_name: Romanian Deadlift, equipment: barbell\n- exercise_name: Good Morning, equipment: cable\n\nInstructions:\n\n- Begin standing a few feet in front of a low pulley with a rope or handle attached. Face away from the machine, straddling the cable, with your feet set wide apart.\n- Begin the movement by reaching through your legs as far as possible, bending at the hips. Keep your knees slightly bent. Keeping your arms straight, extend through the hip to stand straight up. Avoid pulling upward through the shoulders; all of the motion should originate through the hips.",
+  "metadata": {
+    "exercise_id": "pull_through",
+    "exercise_name": "pull_through",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hip_hinge"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "lower_back",
+      "hamstrings"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "aerobic_and_anaerobic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "lower_back_support",
+      "hamstring_engagement",
+      "glute_activation_and_strengthening"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "alternating_cable_shoulder_press",
+  "document": "Exercise: Alternating Cable Shoulder Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_abduction\n- extension\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Seated Alternating Cable Shoulder Press, mechanic: compound, primaryMuscles: ['shoulders'], secondaryMuscles: ['triceps']\n\nSubstitution Options:\n\n- exercise_name: Alternating Dumbbell Shoulder Press, equipment: dumbbells\n\nInstructions:\n\n- Move the cables to the bottom of the tower and select an appropriate weight.\n- Grasp the cables and hold them at shoulder height, palms facing forward. This will be your starting position.\n- Keeping your head and chest up, extend through the elbow to press one side directly over head.\n- After pausing at the top, return to the starting position and repeat on the opposite side.",
+  "metadata": {
+    "exercise_id": "alternating_cable_shoulder_press",
+    "exercise_name": "alternating_cable_shoulder_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_abduction",
+      "extension"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

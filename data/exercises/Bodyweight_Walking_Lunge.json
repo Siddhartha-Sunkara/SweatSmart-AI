@@ -1,0 +1,34 @@
+{
+  "id": "bodyweight_walking_lunge",
+  "document": "Exercise: Bodyweight Walking Lunge\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- cardiovascular_fitness\n- lower_body_strength\n\nContraindications:\n\n- condition: knee pain, description: Individuals with knee pain should modify the exercise or seek medical advice.\n- condition: recent lower body injury, description: Avoid this exercise until full recovery and consult a healthcare professional.\n\nExercise Variations:\n\n- name: Weighted Walking Lunge, id: Weighted_Walking_Lunge\n- name: Walking Lunge with Dumbbell, id: Walking_Lunge_with_Dumbbell\n\nSubstitution Options:\n\n- name: Bodyweight Reverse Lunge, id: Bodyweight_Reverse_Lunge\n\nInstructions:\n\n- Begin standing with your feet shoulder width apart and your hands on your hips.\n- Step forward with one leg, flexing the knees to drop your hips. Descend until your rear knee nearly touches the ground. Your posture should remain upright, and your front knee should stay above the front foot.\n- Drive through the heel of your lead foot and extend both knees to raise yourself back up.\n- Step forward with your rear foot, repeating the lunge on the opposite leg.",
+  "metadata": {
+    "exercise_id": "bodyweight_walking_lunge",
+    "exercise_name": "bodyweight_walking_lunge",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "cardiovascular_fitness",
+      "lower_body_strength"
+    ],
+    "unilateral": false
+  }
+}

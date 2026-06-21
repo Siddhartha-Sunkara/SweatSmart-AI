@@ -1,0 +1,33 @@
+{
+  "id": "elbow_to_knee",
+  "document": "Exercise: Elbow to Knee\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- rotational_flexion\n- extension_of_the_spine\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability\n- spinal_flexibility\n\nContraindications:\n\n- Individuals with lower back pain should perform this exercise with caution or seek guidance from a healthcare professional.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Russian Twists, equipment: body only\n\nInstructions:\n\n- Lie on the floor, crossing your right leg across your bent left knee. Clasp your hands behind your head, beginning with your shoulder blades on the ground. This will be your starting position.\n- Perform the motion by flexing the spine and rotating your torso to bring the left elbow to the right knee.\n- Return to the starting position and repeat the movement for the desired number of repetitions before switching sides.",
+  "metadata": {
+    "exercise_id": "elbow_to_knee",
+    "exercise_name": "elbow_to_knee",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "rotational_flexion",
+      "extension_of_the_spine"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability",
+      "spinal_flexibility"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "seated_glute",
+  "document": "Exercise: Seated Glute\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- isometric\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- adductors\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_glute_flexibility\n- enhance_adductor_muscle_tone\n\nContraindications:\n\n- recent lower back surgery\n- acute hip injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- In a seated position with your knees bent, cross one ankle over the opposite knee. Your partner will stand behind you. Now, lean forward as your partner braces your shoulders with their hands. This will be your starting position.\n- Attempt to push your torso back for 10-20 seconds, as your partner prevents any actual movement of your torso.\n- Now relax your muscles as your partner increases the stretch by gently pushing your torso forward for 10-20 seconds.",
+  "metadata": {
+    "exercise_id": "seated_glute",
+    "exercise_name": "seated_glute",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "isometric"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "adductors"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_glute_flexibility",
+      "enhance_adductor_muscle_tone"
+    ],
+    "unilateral": false
+  }
+}

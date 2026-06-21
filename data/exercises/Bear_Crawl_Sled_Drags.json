@@ -1,0 +1,39 @@
+{
+  "id": "bear_crawl_sled_drags",
+  "document": "Exercise: Bear Crawl Sled Drags\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- dynamic\n- sagittal_plane\n- bilateral\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- core_stability_and_engagement\n- lower_body_strength_and_endurance\n- cardiovascular_conditioning\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Bear Crawl Sled Drags with Resistance Bands, force: push, level: intermediate\n- name: Bear Crawl Sled Drags on Incline, force: push, level: advanced\n\nSubstitution Options:\n\n- name: Kettlebell Goblet Squats, force: push, level: beginner\n- name: Battle Ropes, force: push, level: beginner\n\nInstructions:\n\n- Wearing either a harness or a loose weight belt, attach the chain to the back so that you will be facing away from the sled. Bend down so that your hands are on the ground. Your back should be flat and knees bent. This is your starting position.\n- Begin by driving with legs, alternating left and right. Use your hands to maintain balance and to help pull. Try to keep your back flat as you move over a given distance.",
+  "metadata": {
+    "exercise_id": "bear_crawl_sled_drags",
+    "exercise_name": "bear_crawl_sled_drags",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "dynamic",
+      "sagittal_plane",
+      "bilateral"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "core_stability_and_engagement",
+      "lower_body_strength_and_endurance",
+      "cardiovascular_conditioning"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "one_arm_overhead_kettlebell_squats",
+  "document": "Exercise: One-Arm Overhead Kettlebell Squats\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- lower_body_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- shoulders\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hamstrings_strength\n- glutes_strength\n- quadriceps_strength\n- shoulders_stability\n\nContraindications:\n\n- condition: shoulder instability, reason: due to overhead position\n- condition: knee injury, reason: due to squatting motion\n\nExercise Variations:\n\n- name: One-Arm Overhead Kettlebell Front Squat, mechanic: compound, primaryMuscles: ['quadriceps', 'glutes', 'hamstrings'], secondaryMuscles: ['shoulders']\n\nSubstitution Options:\n\n- name: Single-Arm Overhead Dumbbell Squats, equipment: dumbbells\n\nInstructions:\n\n- Clean and press a kettlebell with one arm. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so. Press the weight overhead by extending through the elbow.This will be your starting position.\n- Looking straight ahead and keeping a kettlebell locked out above you, flex the knees and hips and lower your torso between your legs, keeping your head and chest up.\n- Pause at the bottom position for a second before rising back to the top, driving through the heels of your feet.",
+  "metadata": {
+    "exercise_id": "one_arm_overhead_kettlebell_squats",
+    "exercise_name": "one_arm_overhead_kettlebell_squats",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "lower_body_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings",
+      "shoulders"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hamstrings_strength",
+      "glutes_strength",
+      "quadriceps_strength",
+      "shoulders_stability"
+    ],
+    "unilateral": false
+  }
+}

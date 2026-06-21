@@ -1,0 +1,35 @@
+{
+  "id": "body_up",
+  "document": "Exercise: Body-Up\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_upper_body_push\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- abdominals\n- forearms\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- tricep_hypertrophy\n- core_stability\n\nContraindications:\n\n- Shoulder injuries\n- Recent elbow surgery\n\nExercise Variations:\n\n- name: Diamond Push-Up, primaryMuscles: ['triceps', 'chest']\n- name: Incline Body-Up, primaryMuscles: ['triceps', 'shoulders'], equipment: bench\n\nSubstitution Options:\n\n- exercise_name: Push-Up, equipment: body only\n\nInstructions:\n\n- Assume a plank position on the ground. You should be supporting your bodyweight on your toes and forearms, keeping your torso straight. Your forearms should be shoulder-width apart. This will be your starting position.\n- Pressing your palms firmly into the ground, extend through the elbows to raise your body from the ground. Keep your torso rigid as you perform the movement.\n- Slowly lower your forearms back to the ground by allowing the elbows to flex.\n- Repeat.",
+  "metadata": {
+    "exercise_id": "body_up",
+    "exercise_name": "body_up",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_upper_body_push"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "forearms"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "tricep_hypertrophy",
+      "core_stability"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "squat_with_plate_movers",
+  "document": "Exercise: Squat with Plate Movers\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- lower_body_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- quadriceps_strength_and_hypertrophy\n- core_stability\n- hamstring_engagement\n- glute_activation_and_strengthening\n\nContraindications:\n\n- Recent knee surgery\n- Severe hip or knee osteoarthritis\n\nExercise Variations:\n\n- name: Squat with Dumbbells, equipment: dumbbells\n- name: Sumo Deadlift High Pull, equipment: barbell\n\nSubstitution Options:\n\n- name: Barbell Back Squat, equipment: barbell\n- name: Front Squat with Plate Movers, equipment: barbell\n\nInstructions:\n\n- To begin, first set the bar on a rack to just below shoulder level. Position a weight plate on the ground a couple feet back from the rack. Once the bar is loaded, step under it and place the back of your shoulders across it.\n- Hold on to the bar with both hands and lift it off the rack by first pushing with your legs and at the same time straighten your torso.\n- Step away from the rack and adopt a wide stance with the toes slightly pointed out, with one foot on the weight plate. Keep your head up at all times. This will be your starting position.\n- Begin to slowly lower the bar by bending the knees and hips. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees.\n- Raise the bar as you exhale by pushing the floor with the heels of your feet as you extend the hips and knees.\n- At the top of the movement, side step, bringing your feet together on the opposite side of the plate.\n- Using your inside foot, push the weight plate, sliding it across the floor to where you were just standing.\n- Place your inside foot on the weight plate, adopting a wide stance for the next repetition.",
+  "metadata": {
+    "exercise_id": "squat_with_plate_movers",
+    "exercise_name": "squat_with_plate_movers",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "lower_body_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "adductors",
+      "abductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "quadriceps_strength_and_hypertrophy",
+      "core_stability",
+      "hamstring_engagement",
+      "glute_activation_and_strengthening"
+    ],
+    "unilateral": false
+  }
+}

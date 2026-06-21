@@ -1,0 +1,41 @@
+{
+  "id": "sumo_deadlift_with_bands",
+  "document": "Exercise: Sumo Deadlift with Bands\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hip_hinge\n- knee_extension\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- adductors\n- forearms\n- glutes\n- lower back\n- middle back\n- quadriceps\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- core_stability_and_spinal_support_improvement\n- hypertrophy_and_strength_gains_in_the_hamstrings,_glutes,_and_lower_back\n\nContraindications:\n\n- Recent or chronic lower back injury\n- Severe knee instability or pain\n\nExercise Variations:\n\n- name: Sumo Deadlift with Chains, equipment: barbell and chains\n- name: Sumo Deadlift with Resistance Bands Only, equipment: resistance bands only\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlift, equipment: barbell\n- exercise_name: Romanian Deadlift with Bands, equipment: barbell\n\nInstructions:\n\n- To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. Ensure that they under the back half of your foot, directly where you are driving into the floor.\n- Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip.\n- Take a breath, and then lower your hips, looking forward with your head with your chest up. Drive through the floor, spreading your feet apart, with your weight on the back half of your feet. Extend through the hips and knees.\n- As the bar passes through the knees, lean back and drive the hips into the bar, pulling your shoulder blades together.\n- Return the weight to the ground by bending at the hips and controlling the weight on the way down.",
+  "metadata": {
+    "exercise_id": "sumo_deadlift_with_bands",
+    "exercise_name": "sumo_deadlift_with_bands",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hip_hinge",
+      "knee_extension"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "adductors",
+      "forearms",
+      "traps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "core_stability_and_spinal_support_improvement",
+      "hypertrophy_and_strength_gains_in_the_hamstrings,_glutes,_and_lower_back"
+    ],
+    "unilateral": false
+  }
+}

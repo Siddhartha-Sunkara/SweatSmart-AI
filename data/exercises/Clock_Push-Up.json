@@ -1,0 +1,32 @@
+{
+  "id": "clock_push_up",
+  "document": "Exercise: Clock Push-Up\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder instability or injury, reason: The movement pattern can exacerbate existing shoulder issues due to the range of motion involved.\n- condition: Recent upper body surgery, reason: May be too strenuous and could interfere with healing processes.\n\nExercise Variations:\n\n- name: Clock Push-Up with Medicine Ball, description: Hold a medicine ball during the jump phase for added resistance and core engagement.\n- name: Clock Push-Up with Tempo, description: Use a slower descent (2 seconds) and explosive ascent (1 second) to increase time under tension and power output.\n\nSubstitution Options:\n\n- exercise_name: Diamond Push-Up, reason: Targets the same primary muscles with a more focused approach.\n- exercise_name: Incline Push-Up, reason: Can be used to vary the angle of attack on the chest muscle, providing a different stimulus.\n\nInstructions:\n\n- Move into a prone position on the floor, supporting your weight on your hands and toes.\n- Your arms should be fully extended with the hands around shoulder width. Keep your body straight throughout the movement. This will be your starting position.\n- Descend by flexing at the elbow, lowering your chest toward the ground.\n- At the bottom, reverse the motion by pushing yourself up through elbow extension as quickly as possible until you are air borne. Aim to \"jump\" 12-18 inches to one side.\n- As you accelerate up, move your outside foot away from your direction of travel. Leaving the ground, shift your body about 30 degrees for the next repetition.\n- Return to the starting position and repeat the exercise, working all the way around until you are back where you started.",
+  "metadata": {
+    "exercise_id": "clock_push_up",
+    "exercise_name": "clock_push_up",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

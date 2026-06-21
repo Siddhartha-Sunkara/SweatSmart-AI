@@ -1,0 +1,32 @@
+{
+  "id": "seated_one_arm_dumbbell_palms_down_wrist_curl",
+  "document": "Exercise: Seated One-Arm Dumbbell Palms-Down Wrist Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- wrist_flexion\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- isolated_forearm_strength\n- wrist_flexor_hypertrophy\n\nContraindications:\n\n- Individuals with wrist injuries or carpal tunnel syndrome should avoid this exercise or perform it with caution and under professional supervision.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Seated One-Arm Dumbbell Palms-Up Wrist Curl, equipment: dumbbell\n\nInstructions:\n\n- Sit on a flat bench with a dumbbell in your right hand.\n- Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.\n- Lean forward and place your right forearm on top of your upper right thigh with your palm down. Tip: Make sure that the back of the wrist lies on top of your knees. This will be your starting position.\n- Lower the dumbbell as far as possible as you keep a tight grip on the dumbbell. Inhale as you perform this movement.\n- Now curl the dumbbell as high as possible as you contract the forearms and as you exhale. Keep the contraction for a second before you lower again. Tip: The only movement should happen at the wrist.\n- Perform for the recommended amount of repetitions, switch arms and repeat the movement.",
+  "metadata": {
+    "exercise_id": "seated_one_arm_dumbbell_palms_down_wrist_curl",
+    "exercise_name": "seated_one_arm_dumbbell_palms_down_wrist_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "wrist_flexion"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "isolated_forearm_strength",
+      "wrist_flexor_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

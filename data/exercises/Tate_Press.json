@@ -1,0 +1,35 @@
+{
+  "id": "tate_press",
+  "document": "Exercise: Tate Press\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_arm_movement_with_controlled_eccentric_phase\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- triceps_hypertrophy\n- chest_and_shoulder_engagement\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent elbow surgery\n\nExercise Variations:\n\n- name: Tate Press with Resistance Bands, equipment: dumbbells and resistance bands\n- name: Tate Press with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Tricep Dips, equipment: bench or parallel bars\n- exercise_name: Overhead Triceps Extension, equipment: dumbbell or cable machine\n\nInstructions:\n\n- Lie down on a flat bench with a dumbbell in each hand on top of your thighs. The palms of your hand will be facing each other.\n- By using your thighs to help you get the dumbbells up, clean the dumbbells one arm at a time so that you can hold them in front of you at shoulder width. Note: when holding the dumbbells in front of you, make sure your arms are wider than shoulder width apart from each other using a pronated (palms forward) grip. Allow your elbows to point out. This is your starting position.\n- Keeping the upper arms stationary, slowly move the dumbbells in and down in a semi circular motion until they touch the upper chest while inhaling. Keep full control of the dumbbells at all times and do not move the upper arms nor rest the dumbbells on the chest.\n- As you breathe out, move the dumbbells up using your triceps and the same semi-circular motion but in reverse. Attempt to keep the dumbbells together as they move up. Lock your arms in the contracted position, hold for a second and then start coming down again slowly again. Tip: It should take at least twice as long to go down than to come up.\n- Repeat the movement for the prescribed amount of repetitions of your training program.",
+  "metadata": {
+    "exercise_id": "tate_press",
+    "exercise_name": "tate_press",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_arm_movement_with_controlled_eccentric_phase"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_hypertrophy",
+      "chest_and_shoulder_engagement"
+    ],
+    "unilateral": false
+  }
+}

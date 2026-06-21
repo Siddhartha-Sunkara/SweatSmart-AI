@@ -1,0 +1,41 @@
+{
+  "id": "power_stairs",
+  "document": "Exercise: Power Stairs\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_push_pull\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- adductors\n- calves\n- glutes\n- lower back\n- quadriceps\n- shoulders\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- explosive_power\n- strength\n\nContraindications:\n\n- Recent knee or hip surgery\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Power Stairs with Medicine Ball, equipment: medicine ball\n- name: Power Stairs with Sandbag, equipment: sandbag\n\nSubstitution Options:\n\n- name: Box Jump, force: pull, level: intermediate\n- name: Tire Flip, force: push, level: advanced\n\nInstructions:\n\n- In the power stairs, implements are moved up a staircase. For training purposes, these can be performed with a tire or box.\n- Begin by taking the implement with both hands. Set your feet wide, with your head and chest up. Drive through the ground with your heels, extending your knees and hips to raise the weight from the ground.\n- As you lean back, attempt to swing the weight onto the stairs, which are usually around 16-18\" high. You can use your legs to help push the weight onto the stair.\n- Repeat for 3-5 repetitions, and continue with a heavier weight, moving as fast as possible.",
+  "metadata": {
+    "exercise_id": "power_stairs",
+    "exercise_name": "power_stairs",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_push_pull"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "adductors",
+      "traps",
+      "shoulders",
+      "calves"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "explosive_power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

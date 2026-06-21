@@ -1,0 +1,42 @@
+{
+  "id": "rickshaw_carry",
+  "document": "Exercise: Rickshaw Carry\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\nNone\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- core_engagement_with_a_walking_gait\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\n\n- abdominals\n- calves\n- glutes\n- hamstrings\n- lower back\n- quadriceps\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- building_overall_muscular_endurance\n- developing_grip_strength_and_endurance\n- improving_core_stability_and_balance\n\nContraindications:\n\n- Recent lower back injury\n- Severe knee or hip issues\n\nExercise Variations:\n\n- name: Single-Arm Dumbbell Carry, equipment: dumbbells\n- name: Kettlebell Goblet Squat and Carry, equipment: kettlebells\n\nSubstitution Options:\n\n- exercise_name: Barbell Farmer's Walk, equipment: barbell\n- exercise_name: Sandbag Carry, equipment: sandbags\n\nInstructions:\n\n- Position the frame at the starting point, and load with the appropriate weight. Standing in the center of the frame, begin by gripping the handles and driving through your heels to lift the frame. Ensure your chest and head are up and your back is straight.\n- Immediately begin walking briskly with quick, controlled steps. Keep your chest up and head forward, and make sure you continue breathing. Bring the frame to the ground after you have reached the end point.",
+  "metadata": {
+    "exercise_id": "rickshaw_carry",
+    "exercise_name": "rickshaw_carry",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "core_engagement_with_a_walking_gait",
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "traps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "building_overall_muscular_endurance",
+      "developing_grip_strength_and_endurance",
+      "improving_core_stability_and_balance"
+    ],
+    "unilateral": false
+  }
+}

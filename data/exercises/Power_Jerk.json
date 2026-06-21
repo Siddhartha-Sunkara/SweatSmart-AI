@@ -1,0 +1,40 @@
+{
+  "id": "power_jerk",
+  "document": "Exercise: Power Jerk\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- calves\n- glutes\n- hamstrings\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhance_shoulder_stability\n- develop_explosive_power\n- increase_quadriceps_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Clean and Jerk, level: master\n- name: Split Jerk, level: expert\n\nSubstitution Options:\n\n- name: Power Clean, level: expert\n- name: Snatch Balance, level: advanced\n\nInstructions:\n\n- Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible.\n- Drive through the heels create as much speed and force as possible, and be sure to move your head out of the way as the bar leaves the shoulders.\n- At this moment as the feet leave the floor, the feet must be placed into the receiving position as quickly as possible. In the brief moment the feet are not actively driving against the platform, the athletes effort to push the bar up will drive them down. The feet should be moved to a slightly wider stance, with the knees partially bent.\n- Receive the bar with the arms locked out overhead.\n- Return to a standing position.",
+  "metadata": {
+    "exercise_id": "power_jerk",
+    "exercise_name": "power_jerk",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "glutes",
+      "shoulders",
+      "triceps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhance_shoulder_stability",
+      "develop_explosive_power",
+      "increase_quadriceps_strength"
+    ],
+    "unilateral": false
+  }
+}

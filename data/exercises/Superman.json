@@ -1,0 +1,38 @@
+{
+  "id": "superman",
+  "document": "Exercise: Superman\n\nCategory:\nstretching\n\nExercise Type:\ncompound\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_extension\n- hip_extension\n- flexion_of_the_spine\n- extension\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- strengthening_the_lower_back_and_glutes\n- improving_core_stability_and_posture\n\nContraindications:\n\n- Lower back pain or injury\n- Recent spinal surgery\n\nExercise Variations:\n\n- name: Superman with dumbbells, equipment: dumbbells\n- name: Superman with resistance band, equipment: resistance band\n\nSubstitution Options:\n\n- exercise_name: Bird Dog, equipment: body only\n- exercise_name: Bridge, equipment: body only\n\nInstructions:\n\n- To begin, lie straight and face down on the floor or exercise mat. Your arms should be fully extended in front of you. This is the starting position.\n- Simultaneously raise your arms, legs, and chest off of the floor and hold this contraction for 2 seconds. Tip: Squeeze your lower back to get the best results from this exercise. Remember to exhale during this movement. Note: When holding the contracted position, you should look like superman when he is flying.\n- Slowly begin to lower your arms, legs and chest back down to the starting position while inhaling.\n- Repeat for the recommended amount of repetitions prescribed in your program.",
+  "metadata": {
+    "exercise_id": "superman",
+    "exercise_name": "superman",
+    "category": "stretching",
+    "exercise_type": "compound",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_extension",
+      "hip_extension",
+      "flexion_of_the_spine",
+      "extension"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "strengthening_the_lower_back_and_glutes",
+      "improving_core_stability_and_posture"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "pallof_press_with_rotation",
+  "document": "Exercise: Pallof Press With Rotation\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- rotational\n- linear_pulling\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- chest\n- shoulders\n- triceps\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Lower back pain, description: This exercise may exacerbate lower back issues due to rotational stress. Consider alternative exercises.\n- condition: Shoulder instability, description: May increase risk of shoulder injury. Consult a healthcare professional before attempting.\n\nExercise Variations:\n\n- name: Pallof Press with Single Arm, force: pull, level: beginner, mechanic: compound, primaryMuscles: ['abdominals'], secondaryMuscles: ['chest', 'shoulders', 'triceps']\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Cable Press, equipment: cable\n- exercise_name: Banded Pallof Press, equipment: resistance band\n\nInstructions:\n\n- Connect a standard handle to a tower, and position the cable to shoulder height.\n- With your side to the cable, grab the handle with one hand and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable. Align outstretched arm with cable.\n- With your feet positioned hip-width apart, pull the cable into your chest and grab the handle with your other hand. Both hands should be on the handle at this time.\n- Facing forward, press the cable away from your chest. You core should be tight and engaged.\n- Keeping your hips straight, twist your torso away from the pulley until you get a full quarter rotation.\n- Maintain your rigid stance and straight arms. Return to the neutral position in a slow and controlled manner. Your arms should be extended in front of you.\n- With the side tension still engaging your core, bring your hands to your chest and immediately press outward to a fully extended position. This constitutes one rep.\n- Repeat to failure.\n- Then, reposition and repeat the same series of movements on the opposite side.",
+  "metadata": {
+    "exercise_id": "pallof_press_with_rotation",
+    "exercise_name": "pallof_press_with_rotation",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "rotational",
+      "linear_pulling"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

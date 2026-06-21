@@ -1,0 +1,36 @@
+{
+  "id": "weighted_sissy_squat",
+  "document": "Exercise: Weighted Sissy Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- unilateral_lower_body_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- quadriceps_hypertrophy\n- glute_activation_and_strength\n\nContraindications:\n\n- Recent knee surgery\n- Severe hip or lower back pain\n\nExercise Variations:\n\n- name: Weighted Sissy Squat with Kettlebell, equipment: kettlebell\n- name: Single-Leg Barbell Deadlift, equipment: barbell\n\nSubstitution Options:\n\n- name: Single-Leg Romanian Deadlift with Dumbbell, equipment: dumbbells\n\nInstructions:\n\n- Standing upright, with feet at shoulder width and toes raised, use one hand to hold onto the beams of a squat rack and the opposite arm to hold a plate on top of your chest. This is your starting position.\n- As you use one arm to hold yourself, bend at the knees and slowly lower your torso toward the ground by bringing your pelvis and knees forward. Inhale as you go down and stop when your upper and lower legs almost create a 90-degree angle. Hold the stretch position for a second.\n- After your one second hold, use your thigh muscles to bring your torso back up to the starting position. Exhale as you move up.\n- Repeat for the recommended amount of times.",
+  "metadata": {
+    "exercise_id": "weighted_sissy_squat",
+    "exercise_name": "weighted_sissy_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "unilateral_lower_body_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "quadriceps_hypertrophy",
+      "glute_activation_and_strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "box_jump_multiple_response",
+  "document": "Exercise: Box Jump (Multiple Response)\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- glutes\n- quadriceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hypertrophy\n- cardiovascular_fitness\n- power_and_explosiveness\n\nContraindications:\n\n- Recent or chronic knee injuries\n- Lower back pain\n\nExercise Variations:\n\n- name: Single-Leg Box Jump, primaryMuscles: ['quadriceps', 'hamstrings', 'glutes']\n- name: Medicine Ball Throw, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Jumping Lunges, equipment: none\n- exercise_name: Depth Jumps, equipment: box or platform\n\nInstructions:\n\n- Assume a relaxed stance facing the box or platform approximately an arm's length away. Arms should be down at the sides and legs slightly bent.\n- Using the arms to aid in the initial burst, jump upward and forward, landing with feet simultaneously on top of the box or platform.\n- Immediately drop or jump back down to the original starting place; then repeat the sequence.",
+  "metadata": {
+    "exercise_id": "box_jump_multiple_response",
+    "exercise_name": "box_jump_(multiple_response)",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "adductors",
+      "abductors",
+      "calves"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hypertrophy",
+      "cardiovascular_fitness",
+      "power_and_explosiveness"
+    ],
+    "unilateral": false
+  }
+}

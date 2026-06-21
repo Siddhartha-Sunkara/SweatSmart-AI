@@ -1,0 +1,30 @@
+{
+  "id": "standing_lateral_stretch",
+  "document": "Exercise: Standing Lateral Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_flexibility_stretch\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relax_abdominal_muscles\n- improve_spinal_flexibility\n\nContraindications:\n\n- acute abdominal pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Take a slightly wider than hip distance stance with your knees slightly bent.\n- Place your right hand on your right hip to support the spine.\n- Raise your left arm in a vertical line and place your left hand behind your head. Keep it there as you incline your torso to the right.\n- Keep your weight evenly distributed between both legs (don't lean into your left hip). Switch sides.",
+  "metadata": {
+    "exercise_id": "standing_lateral_stretch",
+    "exercise_name": "standing_lateral_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_flexibility_stretch"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relax_abdominal_muscles",
+      "improve_spinal_flexibility"
+    ],
+    "unilateral": false
+  }
+}

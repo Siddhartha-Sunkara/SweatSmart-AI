@@ -1,0 +1,35 @@
+{
+  "id": "one_arm_floor_press",
+  "document": "Exercise: One Arm Floor Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_pressing\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- engaging_the_chest_and_shoulder_muscles_for_balanced_development\n- isolating_and_strengthening_the_triceps\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent rotator cuff surgery\n\nExercise Variations:\n\n- name: One Arm Incline Floor Press, mechanic: compound, primaryMuscles: ['triceps', 'chest'], secondaryMuscles: ['shoulders']\n\nSubstitution Options:\n\n- exercise_name: One Arm Dumbbell Press, equipment: dumbbells\n\nInstructions:\n\n- Lie down on a flat surface with your back pressing against the floor or an exercise mat. Make sure your knees are bent.\n- Have a partner hand you the bar on one hand. When starting, your arm should be just about fully extended, similar to the starting position of a barbell bench press. However, this time your grip will be neutral (palms facing your torso).\n- Make sure the hand you are not using to lift the weight is placed by your side.\n- Begin the exercise by lowering the barbell until your elbow touches the ground. Make sure to breathe in as this is the eccentric (lowering part of the exercise).\n- Then start lifting the barbell back up to the original starting position. Remember to breathe out during the concentric (lifting part of the exercise).\n- Repeat until you have performed your recommended repetitions.\n- Switch arms and repeat the movement.",
+  "metadata": {
+    "exercise_id": "one_arm_floor_press",
+    "exercise_name": "one_arm_floor_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_pressing"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "engaging_the_chest_and_shoulder_muscles_for_balanced_development",
+      "isolating_and_strengthening_the_triceps"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "alternate_leg_diagonal_bound",
+  "document": "Exercise: Alternate Leg Diagonal Bound\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- bounding\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- glutes\n- hamstrings\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- coordination_and_balance\n- lower_body_power\n\nContraindications:\n\n- condition: knee instability, description: Individuals with knee instability should avoid this exercise due to the high impact nature.\n- condition: recent lower body injury, description: Should be avoided until full recovery and clearance from a healthcare professional.\n\nExercise Variations:\n\n- name: Single Leg Diagonal Bound, id: Single_Leg_Diagonal_Bound\n- name: Medial Bound, id: Medial_Bound\n\nSubstitution Options:\n\n- name: Lateral Bound, id: Lateral_Bound\n\nInstructions:\n\n- Assume a comfortable stance with one foot slightly in front of the other.\n- Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound.\n- It may help to use a line on the ground to guage distance from side to side.\n- Repeat the sequence with the other leg.",
+  "metadata": {
+    "exercise_id": "alternate_leg_diagonal_bound",
+    "exercise_name": "alternate_leg_diagonal_bound",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "bounding"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "adductors",
+      "abductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "coordination_and_balance",
+      "lower_body_power"
+    ],
+    "unilateral": false
+  }
+}

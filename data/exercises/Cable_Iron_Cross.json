@@ -1,0 +1,33 @@
+{
+  "id": "cable_iron_cross",
+  "document": "Exercise: Cable Iron Cross\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_shoulder_abduction\n- adduction\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_lateral_deltoid_development\n- improve_shoulder_stability\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Cable Lateral Raise, equipment: cable machine\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Lateral Raise, equipment: dumbbells\n\nInstructions:\n\n- Begin by moving the pulleys to the high position, select the resistance to be used, and take a handle in each hand.\n- Stand directly between both pulleys with your arms extended out to your sides. Your head and chest should be up while your arms form a \"T\". This will be your starting position.\n- Keeping the elbows extended, pull your arms straight to your sides.\n- Return your arms back to the starting position after a pause at the peak contraction.\n- Continue the movement for the prescribed number of repetitions.",
+  "metadata": {
+    "exercise_id": "cable_iron_cross",
+    "exercise_name": "cable_iron_cross",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_shoulder_abduction",
+      "adduction"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_lateral_deltoid_development",
+      "improve_shoulder_stability"
+    ],
+    "unilateral": false
+  }
+}

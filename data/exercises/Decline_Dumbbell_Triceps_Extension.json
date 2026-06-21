@@ -1,0 +1,33 @@
+{
+  "id": "decline_dumbbell_triceps_extension",
+  "document": "Exercise: Decline Dumbbell Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- forearm_rotation\n- triple_joint_movement_focusing_on_elbow_flexion\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- isolating_and_strengthening_the_triceps_muscle_group\n- improving_overall_arm_aesthetics_through_hypertrophy\n\nContraindications:\n\n- Recent elbow surgery or injury\n- Severe shoulder instability\n\nExercise Variations:\n\n- name: Single Arm Decline Dumbbell Triceps Extension, notes: Use a lighter dumbbell to maintain form and balance.\n- name: Decline Cable Triceps Extension, equipment: cable machine\n\nSubstitution Options:\n\n- exercise_name: Triceps Pushdown Machine, equipment: cable machine\n- exercise_name: Overhead Dumbbell Extension, equipment: dumbbells\n\nInstructions:\n\n- Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.\n- Once you are laying down, move the dumbbells in front of you at shoulder width. The palms of the hands should be facing each other and the arms should be perpendicular to the floor and fully extended. This will be your starting position.\n- As you breathe in and you keep the upper arms stationary (and elbows in), bring the dumbbells down slowly by moving your forearms in a semicircular motion towards you until your thumbs are next to your ears. Breathe in as you perform this portion of the movement.\n- Lift the dumbbells back to the starting position by contracting the triceps and exhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "decline_dumbbell_triceps_extension",
+    "exercise_name": "decline_dumbbell_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "forearm_rotation",
+      "triple_joint_movement_focusing_on_elbow_flexion"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "isolating_and_strengthening_the_triceps_muscle_group",
+      "improving_overall_arm_aesthetics_through_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

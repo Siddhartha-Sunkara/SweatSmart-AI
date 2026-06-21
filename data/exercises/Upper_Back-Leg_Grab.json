@@ -1,0 +1,33 @@
+{
+  "id": "upper_back_leg_grab",
+  "document": "Exercise: Upper Back-Leg Grab\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion_extension\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- lower back\n- middle back\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hamstring_stretch\n- flexibility\n\nContraindications:\n\n- lower back pain\n- recent knee injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- While seated, bend forward to hug your thighs from underneath with both arms.\n- Keep your knees together and your legs extended out as you bring your chest down to your knees. You can also stretch your middle back by pulling your back away from your knees as your hugging them.",
+  "metadata": {
+    "exercise_id": "upper_back_leg_grab",
+    "exercise_name": "upper_back_leg_grab",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion_extension"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "lower_back",
+      "middle_back"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstring_stretch",
+      "flexibility"
+    ],
+    "unilateral": false
+  }
+}

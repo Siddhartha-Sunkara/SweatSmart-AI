@@ -1,0 +1,33 @@
+{
+  "id": "reverse_flyes",
+  "document": "Exercise: Reverse Flyes\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_shoulder_external_rotation\n- abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_rear_deltoid_development\n- improve_shoulder_flexibility_and_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Arm Reverse Flyes, equipment: dumbbell\n- name: Reverse Flyes with Resistance Band, equipment: resistance band\n\nSubstitution Options:\n\n- exercise_name: Face Pulls, equipment: cable machine\n- exercise_name: Lateral Raises, equipment: dumbbell or cable\n\nInstructions:\n\n- To begin, lie down on an incline bench with the chest and stomach pressing against the incline. Have the dumbbells in each hand with the palms facing each other (neutral grip).\n- Extend the arms in front of you so that they are perpendicular to the angle of the bench. The legs should be stationary while applying pressure with the ball of your toes. This is the starting position.\n- Maintaining the slight bend of the elbows, move the weights out and away from each other (to the side) in an arc motion while exhaling. Tip: Try to squeeze your shoulder blades together to get the best results from this exercise.\n- The arms should be elevated until they are parallel to the floor.\n- Feel the contraction and slowly lower the weights back down to the starting position while inhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "reverse_flyes",
+    "exercise_name": "reverse_flyes",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_shoulder_external_rotation",
+      "abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_rear_deltoid_development",
+      "improve_shoulder_flexibility_and_strength"
+    ],
+    "unilateral": false
+  }
+}

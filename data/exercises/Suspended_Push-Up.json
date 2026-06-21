@@ -1,0 +1,35 @@
+{
+  "id": "suspended_push_up",
+  "document": "Exercise: Suspended Push-Up\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_pushing\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Suspended Push-Up with Tempo, instructions: ['Same as above, but emphasize a controlled tempo: lower for 2 seconds, hold for 1 second, and push up for 2 seconds.']\n- name: Suspended Push-Up with Dips, instructions: ['Perform the Suspended Push-Up, then transition into a dip position by lowering your body until your elbows are at 90 degrees. Perform a full dip and return to push-up position.']\n\nSubstitution Options:\n\n- exercise_name: Bodyweight Push-Up, equipment: none\n\nInstructions:\n\n- Anchor your suspension straps securely to the top of a rack or other object.\n- Leaning into the straps, take a handle in each hand and move into a push-up plank position. You should be as close to parallel to the ground as you can manage with your arms fully extended, maintaining good posture.\n- Maintaining a straight, rigid torso, descend slowly by allowing the elbows to flex.\n- Continue until your elbows break 90 degrees, pausing before you extend to return to the starting position.",
+  "metadata": {
+    "exercise_id": "suspended_push_up",
+    "exercise_name": "suspended_push_up",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_pushing"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "weighted_jump_squat",
+  "document": "Exercise: Weighted Jump Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_jump\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- lower back\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hypertrophy\n- power\n\nContraindications:\n\n- condition: Recent ACL reconstruction, reason: High risk of re-injury due to rapid change in direction and landing forces.\n\nExercise Variations:\n\n- name: Jump Squat with Dumbbells\n- name: Jump Squat with Medicine Ball\n\nSubstitution Options:\n\n- name: Bodyweight Jump Squat\n- name: Box Jump\n\nInstructions:\n\n- Position a lightly loaded barbell across the back of your shoulders. You could also use a weighted vest, sandbag, or other type of resistance for this exercise.\n- The weight should be light enough that it doesn't slow you down significantly. Your feet should be just outside of shoulder width with your head and chest up. This will be your starting position.\n- Using a countermovement, squat partially down and immediately reverse your direction to explode off of the ground, extending through your hips, knees, and ankles. Maintain good posture throughout the jump.\n- As you return to the ground, absorb the impact through your legs.",
+  "metadata": {
+    "exercise_id": "weighted_jump_squat",
+    "exercise_name": "weighted_jump_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_jump"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings",
+      "lower_back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hypertrophy",
+      "power"
+    ],
+    "unilateral": false
+  }
+}

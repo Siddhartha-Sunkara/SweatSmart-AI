@@ -1,0 +1,38 @@
+{
+  "id": "two_arm_kettlebell_clean",
+  "document": "Exercise: Two-Arm Kettlebell Clean\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- lower back\n- traps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- condition: Shoulder instability, description: Individuals with shoulder instability should avoid this exercise due to the overhead nature of the movement.\n\nExercise Variations:\n\n- name: One-Arm Kettlebell Clean, force: pull, level: intermediate, mechanic: compound, primaryMuscles: ['shoulders'], secondaryMuscles: ['calves', 'glutes', 'hamstrings', 'lower back', 'traps']\n\nSubstitution Options:\n\n- name: Two-Arm Dumbbell Clean, equipment: dumbbells\n\nInstructions:\n\n- Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.\n- Clean the kettlebells to your shoulders by extending through the legs and hips as you raise the kettlebells towards your shoulders. Rotate your wrists as you do so.\n- Lower the kettlebells back to the starting position and repeat.",
+  "metadata": {
+    "exercise_id": "two_arm_kettlebell_clean",
+    "exercise_name": "two_arm_kettlebell_clean",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "traps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cable_hammer_curls___rope_attachment",
+  "document": "Exercise: Cable Hammer Curls - Rope Attachment\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- elbow_flexion\n- bilateral\n- supinated_grip\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Recent bicep injury, reason: May exacerbate existing injuries\n- condition: Shoulder instability, reason: Can increase shoulder strain\n\nExercise Variations:\n\n- name: Concentration Cable Hammer Curls, instructions: ['Attach a rope attachment to a low pulley and sit on the bench with your legs crossed.', 'Grasp the rope with a neutral (palms-in) grip and rest your elbow against the inside of your thigh for support.', 'Using your biceps, pull your arm up as you exhale until your bicep touches your forearm. Tip: Remember to keep the elbow stationary.']\n\nSubstitution Options:\n\n- exercise_name: Barbell Hammer Curls, equipment: barbell\n- exercise_name: Dumbbell Hammer Curls, equipment: dumbbells\n\nInstructions:\n\n- Attach a rope attachment to a low pulley and stand facing the machine about 12 inches away from it.\n- Grasp the rope with a neutral (palms-in) grip and stand straight up keeping the natural arch of the back and your torso stationary.\n- Put your elbows in by your side and keep them there stationary during the entire movement. Tip: Only the forearms should move; not your upper arms. This will be your starting position.\n- Using your biceps, pull your arms up as you exhale until your biceps touch your forearms. Tip: Remember to keep the elbows in and your upper arms stationary.\n- After a 1 second contraction where you squeeze your biceps, slowly start to bring the weight back to the original position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "cable_hammer_curls___rope_attachment",
+    "exercise_name": "cable_hammer_curls___rope_attachment",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "elbow_flexion",
+      "bilateral",
+      "supinated_grip"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

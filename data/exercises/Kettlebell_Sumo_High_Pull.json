@@ -1,0 +1,40 @@
+{
+  "id": "kettlebell_sumo_high_pull",
+  "document": "Exercise: Kettlebell Sumo High Pull\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_extension_with_knee\n- hip_flexion\n- hip\n\nPrimary Muscles:\n\n- traps\n\nSecondary Muscles:\n\n- adductors\n- glutes\n- hamstrings\n- quadriceps\n- shoulders\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- Recent or chronic lower back issues\n- Shoulder instability or injury\n\nExercise Variations:\n\n- name: Sumo Deadlift High Pull, equipment: kettlebells\n\nSubstitution Options:\n\n- name: Barbell Sumo High Pull, equipment: barbell\n- name: Dumbbell Sumo High Pull, equipment: dumbbells\n\nInstructions:\n\n- Place a kettlebell on the ground between your feet. Position your feet in a wide stance, and grasp the kettlebell with two hands. Set your hips back as far as possible, with your knees bent. Keep your chest and head up. This will be your starting position.\n- Begin by extending the hips and knees, simultaneously pulling the kettlebell to your shoulders, raising your elbows as you do so. Reverse the motion to return to the starting position.",
+  "metadata": {
+    "exercise_id": "kettlebell_sumo_high_pull",
+    "exercise_name": "kettlebell_sumo_high_pull",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_extension_with_knee",
+      "hip_flexion",
+      "hip"
+    ],
+    "primary_muscles": [
+      "traps"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "adductors",
+      "shoulders",
+      "hamstrings"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

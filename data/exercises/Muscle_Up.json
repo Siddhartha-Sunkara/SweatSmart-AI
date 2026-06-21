@@ -1,0 +1,41 @@
+{
+  "id": "muscle_up",
+  "document": "Exercise: Muscle Up\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- abdominals\n- biceps\n- forearms\n- middle back\n- shoulders\n- traps\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- upper_body_strength_and_power\n- core_stability_and_engagement\n- hypertrophy_of_lats,_biceps,_forearms,_middle_back,_shoulders,_traps,_triceps\n\nContraindications:\n\n- Shoulder instability or injury\n- Severe wrist or elbow pain\n\nExercise Variations:\n\n- name: Assisted Muscle Up, equipment: assisted machine\n- name: Single-Arm Muscle Up, primaryMuscles: ['lats', 'biceps', 'forearms']\n\nSubstitution Options:\n\n- name: Ring Rows, force: pull, level: intermediate\n- name: Dip Machine, force: push, level: intermediate\n\nInstructions:\n\n- Grip the rings using a false grip, with the base of your palms on top of the rings. Initiate a pull up by pulling the elbows down to your side, flexing the elbows.\n- As you reach the top position of the pull-up, pull the rings to your armpits as you roll your shoulders forward, allowing your elbows to move straight back behind you. This puts you into the proper position to continue into the dip portion of the movement.\n- Maintaining control and stability, extend through the elbow to complete the motion.\n- Use care when lowering yourself to the ground.",
+  "metadata": {
+    "exercise_id": "muscle_up",
+    "exercise_name": "muscle_up",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "middle_back",
+      "biceps",
+      "forearms",
+      "traps",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "upper_body_strength_and_power",
+      "core_stability_and_engagement",
+      "hypertrophy_of_lats,_biceps,_forearms,_middle_back,_shoulders,_traps,_triceps"
+    ],
+    "unilateral": false
+  }
+}

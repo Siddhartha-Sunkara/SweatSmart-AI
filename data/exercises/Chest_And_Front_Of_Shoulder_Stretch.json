@@ -1,0 +1,37 @@
+{
+  "id": "chest_and_front_of_shoulder_stretch",
+  "document": "Exercise: Chest And Front Of Shoulder Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension_of_the_shoulder_joint\n- flexion\n- external_rotation\n- with_some_internal\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_chest_and_front_of_shoulder_flexibility\n- reduce_muscle_tension_in_the_upper_body\n\nContraindications:\n\n- shoulder instability or injury\n- recent shoulder surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Doorway Chest Stretch, force: static, level: beginner, mechanic: isolation\n\nInstructions:\n\n- Start off by standing with your legs together, holding a bodybar or a broomstick.\n- Take a slightly wider than shoulder width grip on the pole and hold it in front of you with your palms facing down.\n- Carefully lift the pole up and behind your head.",
+  "metadata": {
+    "exercise_id": "chest_and_front_of_shoulder_stretch",
+    "exercise_name": "chest_and_front_of_shoulder_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension_of_the_shoulder_joint",
+      "flexion",
+      "external_rotation",
+      "with_some_internal"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_chest_and_front_of_shoulder_flexibility",
+      "reduce_muscle_tension_in_the_upper_body"
+    ],
+    "unilateral": false
+  }
+}

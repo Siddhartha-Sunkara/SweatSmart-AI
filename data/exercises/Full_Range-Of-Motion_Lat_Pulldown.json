@@ -1,0 +1,33 @@
+{
+  "id": "full_range_of_motion_lat_pulldown",
+  "document": "Exercise: Full Range-Of-Motion Lat Pulldown\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_pulling\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- biceps\n- middle back\n- shoulders\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder impingement, reason: May exacerbate symptoms\n- condition: Lower back pain, reason: Slight arch in lower back may aggravate condition\n\nExercise Variations:\n\n- name: Wide-Grip Lat Pulldown, primaryMuscles: ['lats', 'middle back']\n- name: Narrow-Grip Lat Pulldown, primaryMuscles: ['lats', 'biceps']\n\nSubstitution Options:\n\n- exercise_name: Barbell Pull-Down, equipment: barbell\n- exercise_name: Machine Lat Pulldown, equipment: lat pulldown machine\n\nInstructions:\n\n- Either standing or seated on a high bench, grasp two stirrup cables that are attached to the high pulleys. Grab with the opposing hand so your arms are crisscrossed about you and your palms are facing forward.\n- Keeping your chest up and maintaining a slight arch in your lower back, pull the handles down as if you were doing a regular pulldown. The range of motion will be more of an arc. During the movement, rotate your hands so that in the bottom position your palms face each other rather than forward. Return slowly to the starting position and repeat.",
+  "metadata": {
+    "exercise_id": "full_range_of_motion_lat_pulldown",
+    "exercise_name": "full_range_of_motion_lat_pulldown",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_pulling"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "shoulders",
+      "middle_back",
+      "biceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

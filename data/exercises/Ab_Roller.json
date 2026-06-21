@@ -1,0 +1,31 @@
+{
+  "id": "ab_roller",
+  "document": "Exercise: Ab Roller\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- horizontal_pulling\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Lower back pain, reason: May exacerbate existing conditions due to the strain on the lower back.\n- condition: Shoulder injury, reason: High shoulder involvement may aggravate pre-existing injuries.\n\nExercise Variations:\n\n- name: Single Arm Ab Roller, force: pull, level: advanced, mechanic: compound, primaryMuscles: ['abdominals'], secondaryMuscles: ['shoulders']\n\nSubstitution Options:\n\n- exercise_name: Bicycle Crunches, equipment: bodyweight\n- exercise_name: Reverse Hyperextension, equipment: cable machine\n\nInstructions:\n\n- Hold the Ab Roller with both hands and kneel on the floor.\n- Now place the ab roller on the floor in front of you so that you are on all your hands and knees (as in a kneeling push up position). This will be your starting position.\n- Slowly roll the ab roller straight forward, stretching your body into a straight position. Tip: Go down as far as you can without touching the floor with your body. Breathe in during this portion of the movement.\n- After a pause at the stretched position, start pulling yourself back to the starting position as you breathe out. Tip: Go slowly and keep your abs tight at all times.",
+  "metadata": {
+    "exercise_id": "ab_roller",
+    "exercise_name": "ab_roller",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "horizontal_pulling"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

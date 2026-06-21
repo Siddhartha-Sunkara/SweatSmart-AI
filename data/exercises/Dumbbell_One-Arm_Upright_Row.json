@@ -1,0 +1,33 @@
+{
+  "id": "dumbbell_one_arm_upright_row",
+  "document": "Exercise: Dumbbell One-Arm Upright Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- external_rotation\n- shoulder_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- biceps\n- traps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Shoulder instability or injury, description: This exercise may exacerbate shoulder issues. Consult a healthcare professional before attempting.\n- condition: Rotator cuff injury, description: This exercise can strain the rotator cuff muscles. Consider alternative exercises if experiencing pain.\n\nExercise Variations:\n\n- name: Dumbbell Two-Arm Upright Row, force: pull, level: intermediate, mechanic: compound, primaryMuscles: ['shoulders'], secondaryMuscles: ['biceps', 'traps']\n\nSubstitution Options:\n\n- exercise_name: Barbell One-Arm Upright Row, equipment: barbell\n- exercise_name: Kettlebell One-Arm Upright Row, equipment: kettlebell\n\nInstructions:\n\n- Grab a dumbbell and stand up straight with your arm extended in front of you with a slight bend at the elbows and your back straight. This will be your starting position. Tip: The dumbbell should be resting on top of your thigh with the palm of your hands facing your thighs.\n- Keep the other hand can be kept fully extended to the side, by the waist or grabbing a fixed surface. This will be your starting position.\n- Use your side shoulders to lift the dumbbell as you exhale. The dumbbell should be close to the body as you move it up. Continue to lift it until the dumbbell is nearly in line with your chin. Tip: Your elbows should drive the motion. As you lift the dumbbell, your elbow should always be higher than your forearm. Also, keep your torso stationary and pause for a second at the top of the movement.\n- Lower the dumbbell back down slowly to the starting position. Inhale as you perform this portion of the movement.\n- Repeat for the recommended amount of repetitions and switch arms.",
+  "metadata": {
+    "exercise_id": "dumbbell_one_arm_upright_row",
+    "exercise_name": "dumbbell_one_arm_upright_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "external_rotation",
+      "shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "traps",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [],
+    "unilateral": false
+  }
+}

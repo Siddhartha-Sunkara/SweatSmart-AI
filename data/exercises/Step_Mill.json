@@ -1,0 +1,33 @@
+{
+  "id": "step_mill",
+  "document": "Exercise: Step Mill\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_propulsion\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Knee Osteoarthritis, reason: High impact and repetitive motion may exacerbate symptoms.\n- condition: Recent Lower Limb Surgery, reason: May be too strenuous post-surgery.\n\nExercise Variations:\n\n- name: High-Intensity Interval Training (HIIT), description: Alternate between high and low intensity intervals on the stepmill.\n- name: Stair Climbing, description: Use a stair climber as an alternative to the stepmill.\n\nSubstitution Options:\n\n- exercise_name: Treadmill Intervals, equipment: treadmill\n- exercise_name: Jump Rope, equipment: jump rope\n\nInstructions:\n\n- To begin, step onto the stepmill and select the desired option from the menu. You can choose a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Use caution so that you don't trip as you climb the stairs. It is recommended that you maintain your grip on the handles so that you don't fall.\n- Stepmills offer convenience, cardiovascular benefits, and usually have less impact than running outside while offering a similar rate of calories burned. They are typically much harder than other cardio equipment. A 150 lb person will typically burn over 300 calories in 30 minutes, compared to about 175 calories walking.",
+  "metadata": {
+    "exercise_id": "step_mill",
+    "exercise_name": "step_mill",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_propulsion"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "standing_dumbbell_straight_arm_front_delt_raise_above_head",
+  "document": "Exercise: Standing Dumbbell Straight-Arm Front Delt Raise Above Head\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_shoulder_flexion\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- front_deltoid_development\n- shoulder_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Barbell Front Raise, equipment: barbell\n- name: Machine Front Raise, equipment: cable machine\n\nSubstitution Options:\n\n- name: Seated Dumbbell Front Raise, equipment: dumbbell\n\nInstructions:\n\n- Hold the dumbbells in front of your thighs, palms facing your thighs.\n- Keep your arms straight with a slight bend at the elbows but keep them locked. This will be your starting position.\n- Raise the dumbbells in a semicircular motion to arm's length overhead as you exhale.\n- Slowly return to the starting position using the same path as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "standing_dumbbell_straight_arm_front_delt_raise_above_head",
+    "exercise_name": "standing_dumbbell_straight_arm_front_delt_raise_above_head",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_shoulder_flexion"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "front_deltoid_development",
+      "shoulder_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "weighted_bench_dip",
+  "document": "Exercise: Weighted Bench Dip\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- triple_joint_movement_involving_the_elbow\n- wrist_joints\n- shoulder\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system with some contribution from glycolysis\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- tricep_hypertrophy\n- chest_and_shoulder_strengthening\n\nContraindications:\n\n- Shoulder instability or injury\n- Elbow pain or injury\n\nExercise Variations:\n\n- name: Wide Grip Bench Dip, primaryMuscles: ['triceps', 'chest']\n- name: Close Grip Bench Dip, primaryMuscles: ['triceps']\n\nSubstitution Options:\n\n- exercise_name: Dips, equipment: parallel bars\n- exercise_name: Tricep Pushdown, equipment: cable machine\n\nInstructions:\n\n- For this exercise you will need to place a bench behind your back and another one in front of you. With the benches perpendicular to your body, hold on to one bench on its edge with the hands close to your body, separated at shoulder width. Your arms should be fully extended.\n- The legs will be extended forward on top of the other bench. Your legs should be parallel to the floor while your torso is to be perpendicular to the floor. Have your partner place the dumbbell on your lap. Note: This exercise is best performed with a partner as placing the weight on your lap can be challenging and cause injury without assistance. This will be your starting position.\n- Slowly lower your body as you inhale by bending at the elbows until you lower yourself far enough to where there is an angle slightly smaller than 90 degrees between the upper arm and the forearm. Tip: Keep the elbows as close as possible throughout the movement. Forearms should always be pointing down.\n- Using your triceps to bring your torso up again, lift yourself back to the starting position while exhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "weighted_bench_dip",
+    "exercise_name": "weighted_bench_dip",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "triple_joint_movement_involving_the_elbow",
+      "wrist_joints",
+      "shoulder"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_with_some_contribution_from_glycolysis",
+    "recovery_time_hours": 48,
+    "goals": [
+      "tricep_hypertrophy",
+      "chest_and_shoulder_strengthening"
+    ],
+    "unilateral": false
+  }
+}

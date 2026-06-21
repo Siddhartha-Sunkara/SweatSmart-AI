@@ -1,0 +1,36 @@
+{
+  "id": "landmine_180s",
+  "document": "Exercise: Landmine 180's\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- rotational\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- glutes\n- lower back\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- functional_strength\n- core_stability_and_strength\n\nContraindications:\n\n- condition: shoulder instability, reason: The rotational nature of this movement may exacerbate existing shoulder issues.\n- condition: lower back pain, reason: The exercise involves significant trunk rotation, which could aggravate lower back conditions.\n\nExercise Variations:\n\n- name: Landmine Press, force: push, instructions: ['Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.', 'Raise the bar from the floor, taking it to shoulder height with both hands with your arms extended in front of you. Adopt a wide stance. This will be your starting position.', 'Perform the movement by pressing the weight overhead while rotating the trunk and hips as you swing the weight all the way down to one side. Keep your arms extended throughout the exercise.', 'Reverse the motion to lower the weight back to shoulder height, then repeat on the opposite side.']\n\nSubstitution Options:\n\n- name: Kettlebell Swings, equipment: kettlebell\n- name: Battle Ropes, equipment: rope\n\nInstructions:\n\n- Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.\n- Raise the bar from the floor, taking it to shoulder height with both hands with your arms extended in front of you. Adopt a wide stance. This will be your starting position.\n- Perform the movement by rotating the trunk and hips as you swing the weight all the way down to one side. Keep your arms extended throughout the exercise.\n- Reverse the motion to swing the weight all the way to the opposite side.\n- Continue alternating the movement until the set is complete.",
+  "metadata": {
+    "exercise_id": "landmine_180s",
+    "exercise_name": "landmine_180's",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "rotational"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 48,
+    "goals": [
+      "functional_strength",
+      "core_stability_and_strength"
+    ],
+    "unilateral": false
+  }
+}

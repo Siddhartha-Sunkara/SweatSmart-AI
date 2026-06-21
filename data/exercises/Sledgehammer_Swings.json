@@ -1,0 +1,40 @@
+{
+  "id": "sledgehammer_swings",
+  "document": "Exercise: Sledgehammer Swings\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_swing_with_a_focus_on_explosive_power\n- core_stability\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- calves\n- forearms\n- lats\n- middle back\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improve_core_stability_and_strength\n- develop_explosive_power\n- enhance_grip_strength\n\nContraindications:\n\n- Individuals with lower back issues should use caution and possibly avoid this exercise due to the high impact nature.\n- Shoulder injuries may also limit participation in this exercise.\n\nExercise Variations:\n\n- name: Single Arm Sledgehammer Swing, instructions: Perform the same movement but with one arm at a time.\n- name: Sledgehammer Slams, instructions: Similar to swings, but focus on driving the hammer into the ground forcefully without bouncing it off the tire.\n\nSubstitution Options:\n\n- exercise_name: Kettlebell Swings, equipment: kettlebell\n- exercise_name: Battle Ropes, equipment: rope\n\nInstructions:\n\n- You will need a tire and a sledgehammer for this exercise. Stand in front of the tire about two feet away from it with a staggered stance. Grip the sledgehammer.\n- If you are right handed, your left hand should be at the bottom of the handle, and your right hand should be choking up closer to the head.\n- As you bring the sledge up, your right hand slides toward the head; as you swing down, your right hand will slide down to join your left hand. Slam it down as hard as you can against the tire. Control the bounce of the hammer off of the tire.\n- Repeat on the other side.",
+  "metadata": {
+    "exercise_id": "sledgehammer_swings",
+    "exercise_name": "sledgehammer_swings",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_swing_with_a_focus_on_explosive_power",
+      "core_stability"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "middle_back",
+      "forearms",
+      "shoulders",
+      "calves"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improve_core_stability_and_strength",
+      "develop_explosive_power",
+      "enhance_grip_strength"
+    ],
+    "unilateral": false
+  }
+}

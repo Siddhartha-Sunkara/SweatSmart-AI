@@ -1,0 +1,45 @@
+{
+  "id": "sandbag_load",
+  "document": "Exercise: Sandbag Load\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- core_engagement\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- biceps\n- calves\n- forearms\n- glutes\n- hamstrings\n- lower back\n- middle back\n- shoulders\n- traps\n\nEquipment:\n\n- other\n\nFatigue Score:\n4\n\nSystemic Fatigue:\nmoderate\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- functional_strength_for_real_world_applications\n- strength_and_power_development\n- core_stability_and_endurance\n\nContraindications:\n\n- Individuals with lower back issues should use caution and consult a healthcare provider before attempting this exercise.\n\nExercise Variations:\n\n- name: Sandbag Clean and Press, force: pull, level: intermediate\n- name: Sandbag Deadlift, force: pull, level: beginner\n\nSubstitution Options:\n\n- name: Barbell Clean and Press, force: pull, level: intermediate\n- name: Kettlebell Snatch, force: pull, level: beginner\n\nInstructions:\n\n- To load sandbags or other objects, begin with the implements placed a distance from the loading platform, typically 50 feet.\n- Begin by lifting the sandbag. Sandbags are extremely awkward, and the manner of lifting them can vary depending on the particular sandbag used. Reach as far around it as possible, extending through the hips and knees to pull it up high. Shouldering is usually not allowed.\n- Move as quickly as possible to the platform, and load it, extending through your hips, knees, and ankles to get it as high as possible. Place it onto the platform, ensuring it doesn't fall off.\n- Return to the starting position to retrieve the next sandbag, and repeat until the event is completed.",
+  "metadata": {
+    "exercise_id": "sandbag_load",
+    "exercise_name": "sandbag_load",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "core_engagement",
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "middle_back",
+      "biceps",
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "shoulders",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 4.0,
+    "systemic_fatigue": "moderate",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "functional_strength_for_real_world_applications",
+      "strength_and_power_development",
+      "core_stability_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

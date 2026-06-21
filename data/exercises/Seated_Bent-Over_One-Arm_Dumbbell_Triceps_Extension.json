@@ -1,0 +1,32 @@
+{
+  "id": "seated_bent_over_one_arm_dumbbell_triceps_extension",
+  "document": "Exercise: Seated Bent-Over One-Arm Dumbbell Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_overhead_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- tricep_hypertrophy\n- isolated_tricep_strength_development\n\nContraindications:\n\n- Shoulder instability or injury\n- Severe elbow pain or injury\n\nExercise Variations:\n\n- name: Seated Bent-Over Two-Arm Dumbbell Triceps Extension, equipment: dumbbells\n- name: Standing One-Arm Dumbbell Triceps Extension, equipment: dumbbells\n\nSubstitution Options:\n\n- name: Triceps Pushdown Machine, equipment: cable machine\n- name: Overhead Dumbbell Triceps Extension, equipment: dumbbells\n\nInstructions:\n\n- Sit down at the end of a flat bench with a dumbbell in one arm using a neutral grip (palms of the hand facing you).\n- Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.\n- The upper arm with the dumbbell should be close to the torso and aligned with it (lifted up until it is parallel to the floor while the forearms are pointing towards the floor as the hands hold the weights). Tip: There should be a 90-degree angle between the forearms and the upper arm. This is your starting position.\n- Keeping the upper arm stationary, use the triceps to lift the weight as you exhale until the forearm is parallel to the floor and the whole arm is extended. Like many other arm exercises, only the forearm moves.\n- After a second contraction at the top, slowly lower the dumbbell back to the starting position as you inhale.\n- Repeat the movement for the prescribed amount of repetitions.\n- Switch arms and repeat the exercise.",
+  "metadata": {
+    "exercise_id": "seated_bent_over_one_arm_dumbbell_triceps_extension",
+    "exercise_name": "seated_bent_over_one_arm_dumbbell_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_overhead_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "tricep_hypertrophy",
+      "isolated_tricep_strength_development"
+    ],
+    "unilateral": false
+  }
+}

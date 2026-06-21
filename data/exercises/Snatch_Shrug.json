@@ -1,0 +1,35 @@
+{
+  "id": "snatch_shrug",
+  "document": "Exercise: Snatch Shrug\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_shrug\n\nPrimary Muscles:\n\n- traps\n\nSecondary Muscles:\n\n- forearms\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- develop_shoulder_and_traps_strength\n- improve_posture_and_upper_back_health\n\nContraindications:\n\n- Shoulder instability or injury\n- Neck pain or issues\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Barbell Shrug, equipment: barbell\n- name: Dumbbell Shrug, equipment: dumbbells\n\nInstructions:\n\n- Begin with a wide grip, with the bar hanging at the mid thigh position. You can use a hook or overhand grip. Your back should be straight and inclined slightly forward.\n- Shrug your shoulders towards your ears. While this exercise can usually by loaded with heavier weight than a snatch, avoid overloading to the point that the execution slows down.",
+  "metadata": {
+    "exercise_id": "snatch_shrug",
+    "exercise_name": "snatch_shrug",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_shrug"
+    ],
+    "primary_muscles": [
+      "traps"
+    ],
+    "secondary_muscles": [
+      "shoulders",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "develop_shoulder_and_traps_strength",
+      "improve_posture_and_upper_back_health"
+    ],
+    "unilateral": false
+  }
+}

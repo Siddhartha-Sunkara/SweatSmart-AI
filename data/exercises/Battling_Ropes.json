@@ -1,0 +1,36 @@
+{
+  "id": "battling_ropes",
+  "document": "Exercise: Battling Ropes\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- alternating_arm_movements_with_rapid_whipping_of_the_ropes_up\n- down.\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- chest\n- forearms\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nHigh\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improving_core_stability_and_coordination\n- developing_upper_body_strength_and_endurance\n\nContraindications:\n\n- Individuals with shoulder instability or rotator cuff issues should use caution.\n- Those with lower back pain may experience increased strain.\n\nExercise Variations:\n\n- name: Single Arm Battling Ropes, primaryMuscles: ['shoulders', 'forearms']\n- name: Battling Ropes with Jumping, primaryMuscles: ['quadriceps', 'calves'], secondaryMuscles: ['hamstrings']\n\nSubstitution Options:\n\n- exercise_name: Kettlebell Swing, equipment: kettlebells\n\nInstructions:\n\n- For this exercise you will need a heavy rope anchored at its center 15-20 feet away. Standing in front of the rope, take an end in each hand with your arms extended at your side. This will be your starting position.\n- Initiate the movement by rapidly raising one arm to shoulder level as quickly as you can.\n- As you let that arm drop to the starting position, raise the opposite side.\n- Continue alternating your left and right arms, whipping the ropes up and down as fast as you can.",
+  "metadata": {
+    "exercise_id": "battling_ropes",
+    "exercise_name": "battling_ropes",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "alternating_arm_movements_with_rapid_whipping_of_the_ropes_up",
+      "down."
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "forearms"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improving_core_stability_and_coordination",
+      "developing_upper_body_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

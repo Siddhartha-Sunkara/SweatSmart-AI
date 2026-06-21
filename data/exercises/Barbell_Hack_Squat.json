@@ -1,0 +1,37 @@
+{
+  "id": "barbell_hack_squat",
+  "document": "Exercise: Barbell Hack Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- forearms\n- hamstrings\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- quadriceps_strength_and_hypertrophy\n- hamstring_activation\n- calves_engagement\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe osteoarthritis in the knees\n\nExercise Variations:\n\n- name: Barbell Hack Squat with Pause, instructions: ['Perform the hack squat as usual, but pause at the bottom for a count of two before returning to the starting position.']\n- name: Barbell Hack Squat with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- exercise_name: Goblet Squat, equipment: dumbbell\n- exercise_name: Split Squat, equipment: barbell or dumbbells\n\nInstructions:\n\n- Stand up straight while holding a barbell behind you at arms length and your feet at shoulder width. Tip: A shoulder width grip is best with the palms of your hands facing back. You can use wrist wraps for this exercise for a better grip. This will be your starting position.\n- While keeping your head and eyes up and back straight, squat until your upper thighs are parallel to the floor. Breathe in as you slowly go down.\n- Pressing mainly with the heel of the foot and squeezing the thighs, go back up as you breathe out.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "barbell_hack_squat",
+    "exercise_name": "barbell_hack_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "hamstrings",
+      "forearms"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "quadriceps_strength_and_hypertrophy",
+      "hamstring_activation",
+      "calves_engagement"
+    ],
+    "unilateral": false
+  }
+}

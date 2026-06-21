@@ -1,0 +1,35 @@
+{
+  "id": "dumbbell_one_arm_shoulder_press",
+  "document": "Exercise: Dumbbell One-Arm Shoulder Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_extension\n- external_rotation\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- triceps_engagement\n- shoulder_strength_and_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Dumbbell Two-Arm Shoulder Press, equipment: dumbbells\n- name: Smith Machine Shoulder Press, equipment: smith machine\n\nSubstitution Options:\n\n- exercise_name: Barbell One-Arm Shoulder Press, equipment: barbell\n- exercise_name: Kettlebell One-Arm Military Press, equipment: kettlebell\n\nInstructions:\n\n- Grab a dumbbell and either sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs or stand up straight.\n- Clean the dumbbell up to bring it to shoulder height. The other hand can be kept fully extended to the side, by the waist or grabbing a fixed surface.\n- Rotate the wrist so that the palm of your hand is facing forward. This is your starting position.\n- As you exhale, push the dumbbell up until your arm is fully extended.\n- After a second pause, slowly come down back to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions and then switch arms.",
+  "metadata": {
+    "exercise_id": "dumbbell_one_arm_shoulder_press",
+    "exercise_name": "dumbbell_one_arm_shoulder_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_extension",
+      "external_rotation"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "triceps_engagement",
+      "shoulder_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

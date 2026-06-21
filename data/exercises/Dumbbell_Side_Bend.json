@@ -1,0 +1,31 @@
+{
+  "id": "dumbbell_side_bend",
+  "document": "Exercise: Dumbbell Side Bend\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_flexion\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strengthening\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Dumbbell Side Bend with Twist, instructions: ['Perform the Dumbbell Side Bend but twist your torso as you bend to increase the challenge.']\n\nSubstitution Options:\n\n- exercise_name: Kettlebell Side Bend, equipment: kettlebell\n\nInstructions:\n\n- Stand up straight while holding a dumbbell on the left hand (palms facing the torso) as you have the right hand holding your waist. Your feet should be placed at shoulder width. This will be your starting position.\n- While keeping your back straight and your head up, bend only at the waist to the right as far as possible. Breathe in as you bend to the side. Then hold for a second and come back up to the starting position as you exhale. Tip: Keep the rest of the body stationary.\n- Now repeat the movement but bending to the left instead. Hold for a second and come back to the starting position.\n- Repeat for the recommended amount of repetitions and then change hands.",
+  "metadata": {
+    "exercise_id": "dumbbell_side_bend",
+    "exercise_name": "dumbbell_side_bend",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_flexion"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strengthening"
+    ],
+    "unilateral": false
+  }
+}

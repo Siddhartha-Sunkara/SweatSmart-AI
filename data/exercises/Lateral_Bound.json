@@ -1,0 +1,39 @@
+{
+  "id": "lateral_bound",
+  "document": "Exercise: Lateral Bound\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- lateral_bound\n\nPrimary Muscles:\n\n- adductors\n\nSecondary Muscles:\n\n- abductors\n- calves\n- glutes\n- hamstrings\n- quadriceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improve_lower_body_explosive_power\n- develop_glute_and_leg_muscle_strength\n- enhance_coordination_and_balance\n\nContraindications:\n\n- Individuals with knee or ankle injuries should avoid this exercise.\n\nExercise Variations:\n\n- name: Lateral Bound with Medicine Ball, force: push, level: intermediate\n\nSubstitution Options:\n\n- name: Lateral Hop, force: push, level: beginner\n\nInstructions:\n\n- Assume a half squat position facing 90 degrees from your direction of travel. This will be your starting position.\n- Allow your lead leg to do a countermovement inward as you shift your weight to the outside leg.\n- Immediately push off and extend, attempting to bound to the side as far as possible.\n- Upon landing, immediately push off in the opposite direction, returning to your original start position.\n- Continue back and forth for several repetitions.",
+  "metadata": {
+    "exercise_id": "lateral_bound",
+    "exercise_name": "lateral_bound",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "lateral_bound"
+    ],
+    "primary_muscles": [
+      "adductors"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "abductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improve_lower_body_explosive_power",
+      "develop_glute_and_leg_muscle_strength",
+      "enhance_coordination_and_balance"
+    ],
+    "unilateral": false
+  }
+}

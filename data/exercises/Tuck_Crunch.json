@@ -1,0 +1,33 @@
+{
+  "id": "tuck_crunch",
+  "document": "Exercise: Tuck Crunch\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- abdominal_flexion\n- extension\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability_improvement\n- abdominal_muscle_toning\n\nContraindications:\n\n- Individuals with lower back pain should avoid this exercise or perform it with caution under professional supervision.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Bicycle Crunches, equipment: body only\n- exercise_name: Reverse Crunch, equipment: body only\n\nInstructions:\n\n- To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.\n- Your legs should be crossed by wrapping one ankle around the other. Slowly elevate your legs up in the air until your thighs are perpendicular to the floor with a slight bend at the knees. Note: Your knees and toes should be parallel to the floor as opposed to the thighs.\n- Move your arms from the floor and cross them so they are resting on your chest. This is the starting position.\n- While keeping your lower back pressed against the floor, slowly lift your torso. Remember to exhale while perform this part of the exercise.\n- Slowly begin to lower your torso back down to the starting position while inhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "tuck_crunch",
+    "exercise_name": "tuck_crunch",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "abdominal_flexion",
+      "extension"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability_improvement",
+      "abdominal_muscle_toning"
+    ],
+    "unilateral": false
+  }
+}

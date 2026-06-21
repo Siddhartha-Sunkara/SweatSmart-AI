@@ -1,0 +1,34 @@
+{
+  "id": "moving_claw_series",
+  "document": "Exercise: Moving Claw Series\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- knee_flexion\n- patterning_of_the_lower_body_with_emphasis_on_hip_extension\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- quadriceps\n\nEquipment:\nNone\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_explosive_power\n- improve_sprinting_form\n\nContraindications:\n\n- condition: knee injury, description: This exercise may exacerbate knee issues due to the high impact and repetitive nature.\n- condition: recent lower body surgery, description: Avoid this exercise until full recovery as it places significant stress on the hamstrings, quadriceps, and calves.\n\nExercise Variations:\n\n- name: Moving Claw Series with Resistance Bands, id: Moving_Claw_Series_Resistance_Bands\n- name: Moving Claw Series on a Treadmill, id: Moving_Claw_Series_Treadmill\n\nSubstitution Options:\n\n- name: Bounding, id: Bounding\n- name: Hill Sprints, id: Hill_Sprints\n\nInstructions:\n\n- This move helps prepare your running form to help you excel at sprinting. As you run, be sure to flex the knee, aiming to kick your glutes as the hip extends.\n- Reload the quad as the leg moves back forward, attacking the ground on the next step.\n- Ensure that as you run, you block with the arms, punching through in a rapid 1-2 motion.",
+  "metadata": {
+    "exercise_id": "moving_claw_series",
+    "exercise_name": "moving_claw_series",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "knee_flexion",
+      "patterning_of_the_lower_body_with_emphasis_on_hip_extension"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "quadriceps"
+    ],
+    "equipment": [],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_explosive_power",
+      "improve_sprinting_form"
+    ],
+    "unilateral": false
+  }
+}

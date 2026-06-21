@@ -1,0 +1,37 @@
+{
+  "id": "kneeling_squat",
+  "document": "Exercise: Kneeling Squat\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_lower_body_push\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- abdominals\n- hamstrings\n- lower back\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- lower_back_stability\n- hamstring_engagement\n- glute_activation_and_strengthening\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Kneeling Squat with Dumbbells, equipment: dumbbells\n- name: Kneeling Squat with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlift High Pull, equipment: barbell\n\nInstructions:\n\n- Set the bar to the proper height in a power rack. Kneel behind the bar; it may be beneficial to put a mat down to pad your knees. Slide under the bar, racking it across the back of your shoulders. Your shoulder blades should be retracted and the bar tight across your back. Unrack the weight.\n- With your head looking forward, sit back with your butt until you touch your calves.\n- Reverse the motion, returning the torso to an upright position.",
+  "metadata": {
+    "exercise_id": "kneeling_squat",
+    "exercise_name": "kneeling_squat",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_lower_body_push"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "hamstrings",
+      "lower_back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "lower_back_stability",
+      "hamstring_engagement",
+      "glute_activation_and_strengthening"
+    ],
+    "unilateral": false
+  }
+}

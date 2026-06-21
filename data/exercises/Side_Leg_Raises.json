@@ -1,0 +1,33 @@
+{
+  "id": "side_leg_raises",
+  "document": "Exercise: Side Leg Raises\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_hip_abduction\n- adduction\n\nPrimary Muscles:\n\n- adductors\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improving_hip_mobility\n- strengthening_the_adductors_and_hip_abductors\n\nContraindications:\n\n- Lower back pain\n- Hip joint instability\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Clamshell Exercise, equipment: body only\n\nInstructions:\n\n- Stand next to a chair, which you may hold onto as a support. Stand on one leg. This will be your starting position.\n- Keeping your leg straight, raise it as far out to the side as possible, and swing it back down, allowing it to cross the opposite leg.\n- Repeat this swinging motion 5-10 times, increasing the range of motion as you do so.",
+  "metadata": {
+    "exercise_id": "side_leg_raises",
+    "exercise_name": "side_leg_raises",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_hip_abduction",
+      "adduction"
+    ],
+    "primary_muscles": [
+      "adductors"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improving_hip_mobility",
+      "strengthening_the_adductors_and_hip_abductors"
+    ],
+    "unilateral": false
+  }
+}

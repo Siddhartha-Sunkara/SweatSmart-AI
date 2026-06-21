@@ -1,0 +1,32 @@
+{
+  "id": "lying_close_grip_barbell_triceps_extension_behind_the_head",
+  "document": "Exercise: Lying Close-Grip Barbell Triceps Extension Behind The Head\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- triple_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- triceps_hypertrophy\n- strength_development_for_triceps\n\nContraindications:\n\n- Shoulder injuries\n- Cervical spine issues\n\nExercise Variations:\n\n- name: Incline Lying Close-Grip Barbell Triceps Extension Behind The Head, equipment: barbell, level: intermediate\n- name: Dips (Close Grip), equipment: parallel bars or dip station\n\nSubstitution Options:\n\n- exercise_name: Close-Grip Bench Press, equipment: barbell\n- exercise_name: Triceps Pushdown, equipment: cable machine\n\nInstructions:\n\n- While holding a barbell or EZ Curl bar with a pronated grip (palms facing forward), lie on your back on a flat bench with your head close to the end of the bench. Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles.\n- Extend your arms in front of you and slowly bring the bar back in a semi circular motion (while keeping the arms extended) to a position over your head. At the end of this step your arms should be overhead and parallel to the floor. This will be your starting position. Tip: Keep your elbows in at all times.\n- As you inhale, lower the bar by bending at the elbows and while keeping the upper arm stationary. Keep lowering the bar until your forearms are perpendicular to the floor.\n- As you exhale bring the bar back up to the starting position by pushing the bar up in a semi-circular motion until the lower arms are also parallel to the floor. Contract the triceps hard at the top of the movement for a second. Tip: Again, only the forearms should move. The upper arms should remain stationary at all times.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "lying_close_grip_barbell_triceps_extension_behind_the_head",
+    "exercise_name": "lying_close_grip_barbell_triceps_extension_behind_the_head",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "triple_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "triceps_hypertrophy",
+      "strength_development_for_triceps"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "scissor_kick",
+  "document": "Exercise: Scissor Kick\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension\n- unilateral_hip_flexion\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strengthening\n\nContraindications:\n\n- Lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Leg Raises, force: pull, level: beginner\n\nInstructions:\n\n- To begin, lie down with your back pressed against the floor or on an exercise mat (optional). Your arms should be fully extended to the sides with your palms facing down. Note: The arms should be stationary the entire time.\n- With a slight bend at the knees, lift your legs up so that your heels are about 6 inches off the ground. This is the starting position.\n- Now lift your left leg up to about a 45 degree angle while your right leg is lowered until the heel is about 2-3 inches from the ground.\n- Switch movements by raising your right leg up and lowering your left leg. Remember to breathe while performing this exercise.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "scissor_kick",
+    "exercise_name": "scissor_kick",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension",
+      "unilateral_hip_flexion"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strengthening"
+    ],
+    "unilateral": false
+  }
+}

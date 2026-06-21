@@ -1,0 +1,36 @@
+{
+  "id": "svend_press",
+  "document": "Exercise: Svend Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- forearms\n- shoulders\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Svend Press with Dumbbells, equipment: dumbbells\n- name: Svend Press with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- name: Push-Ups, equipment: bodyweight\n\nInstructions:\n\n- Begin in a standing position.\n- Press two lightweight plates together with your hands. Hold the plates together close to your chest to create an isometric contraction in your chest muscles. Your fingers should be pointed forward. This is your starting position.\n- Squeeze the plates between your palms and extend your arms directly out in front of you in a controlled motion.\n- Pause at the top of the motion, and then slowly return to the starting position.",
+  "metadata": {
+    "exercise_id": "svend_press",
+    "exercise_name": "svend_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders",
+      "forearms"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

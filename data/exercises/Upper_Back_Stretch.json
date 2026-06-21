@@ -1,0 +1,33 @@
+{
+  "id": "upper_back_stretch",
+  "document": "Exercise: Upper Back Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- middle back\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- improve_flexibility\n- relax_middle_back_muscles\n\nContraindications:\n\n- acute back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Clasp fingers together with your thumbs pointing down, round your shoulders as you reach your hands forward.",
+  "metadata": {
+    "exercise_id": "upper_back_stretch",
+    "exercise_name": "upper_back_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "middle_back"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [
+      "improve_flexibility",
+      "relax_middle_back_muscles"
+    ],
+    "unilateral": false
+  }
+}

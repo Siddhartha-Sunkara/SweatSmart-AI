@@ -1,0 +1,38 @@
+{
+  "id": "lying_machine_squat",
+  "document": "Exercise: Lying Machine Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- knee_flexion\n- quad_dominant_hip_extension\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system with some contribution from glycolysis\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- hamstring_endurance\n- quadriceps_hypertrophy\n- glute_activation_and_strength\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Lying Machine Front Squat, force: push, primaryMuscles: ['quadriceps', 'hip flexors'], secondaryMuscles: ['calves', 'glutes']\n- name: Machine Bulgarian Split Squat, force: push, primaryMuscles: ['quadriceps', 'hamstrings'], secondaryMuscles: ['calves', 'glutes']\n\nSubstitution Options:\n\n- exercise_name: Seated Leg Press, equipment: machine\n- exercise_name: Sissy Squats, equipment: bodyweight\n\nInstructions:\n\n- Adjust the leg machine to a height that will allow you to get inside it with your knees bent and the thighs slightly below parallel.\n- Once you select the weight, position yourself inside the machine face up with the knees bent and thighs slightly below parallel to the platform. Make sure that the knees do not go past the toes. The angle created between the hamstrings and the calves should be one that is slightly less than 90 degrees (since your starting position requires you to start slightly below parallel). Your back and your head should be resting on the machine while your shoulders are pressed under the shoulder pads.\n- Place your hands by the handles and position your feet slightly pointing out at a shoulder width position. This will be your starting position.\n- While pressing with the balls of the feet as you breathe out, make your whole body erect as you squeeze the quads. Hold the contracted position for a second. Tip: Since you are starting below parallel, you can opt to use your hands to help you up by pressing on your thighs only on the first repetition.\n- Slowly squat down as you inhale but instead of going all the way down to the starting position, just stop once your thighs are parallel to the platform. The angle between your hamstrings and calves should be a 90-degree angle.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "lying_machine_squat",
+    "exercise_name": "lying_machine_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "knee_flexion",
+      "quad_dominant_hip_extension"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_with_some_contribution_from_glycolysis",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstring_endurance",
+      "quadriceps_hypertrophy",
+      "glute_activation_and_strength"
+    ],
+    "unilateral": false
+  }
+}

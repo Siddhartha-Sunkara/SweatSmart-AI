@@ -1,0 +1,32 @@
+{
+  "id": "barbell_seated_calf_raise",
+  "document": "Exercise: Barbell Seated Calf Raise\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- ankle_plantar_flexion\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- ankle_strength_and_stability\n- calf_muscle_hypertrophy\n\nContraindications:\n\n- Individuals with severe knee issues should avoid this exercise due to the pressure on the knees.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Calf Raise Machine, equipment: calf raise machine\n- exercise_name: Standing Calf Raise, equipment: barbell or dumbbells\n\nInstructions:\n\n- Place a block about 12 inches in front of a flat bench.\n- Sit on the bench and place the ball of your feet on the block.\n- Have someone place a barbell over your upper thighs about 3 inches above your knees and hold it there. This will be your starting position.\n- Raise up on your toes as high as possible as you squeeze the calves and as you breathe out.\n- After a second contraction, slowly go back to the starting position. Tip: To get maximum benefit stretch your calves as far as you can.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "barbell_seated_calf_raise",
+    "exercise_name": "barbell_seated_calf_raise",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "ankle_plantar_flexion"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "ankle_strength_and_stability",
+      "calf_muscle_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

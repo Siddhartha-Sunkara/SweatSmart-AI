@@ -1,0 +1,35 @@
+{
+  "id": "smith_machine_incline_bench_press",
+  "document": "Exercise: Smith Machine Incline Bench Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nATP-PC system and glycolytic pathway\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- shoulder_and_triceps_strength\n- chest_hypertrophy\n\nContraindications:\n\n- condition: recent shoulder injury, reason: may exacerbate the condition\n- condition: severe cardiovascular issues, reason: high risk of strain\n\nExercise Variations:\n\n- name: Smith Machine Decline Bench Press, force: push, level: intermediate, mechanic: compound, primaryMuscles: ['chest'], secondaryMuscles: ['shoulders', 'triceps']\n\nSubstitution Options:\n\n- name: Incline Dumbbell Bench Press, equipment: dumbbells\n- name: Barbell Incline Chest Press, equipment: barbell\n\nInstructions:\n\n- Place an incline bench underneath the smith machine. Place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the incline bench and make sure your upper chest is aligned with the barbell. Using a pronated grip (palms facing forward) that is wider than shoulder width, unlock the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.\n- As you breathe in, come down slowly until you feel the bar on your upper chest.\n- After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.\n- Repeat the movement for the prescribed amount of repetitions.\n- When you are done, place the bar back in the rack.",
+  "metadata": {
+    "exercise_id": "smith_machine_incline_bench_press",
+    "exercise_name": "smith_machine_incline_bench_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "atp_pc_system_and_glycolytic_pathway",
+    "recovery_time_hours": 1,
+    "goals": [
+      "shoulder_and_triceps_strength",
+      "chest_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

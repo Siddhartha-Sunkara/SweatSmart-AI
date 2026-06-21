@@ -1,0 +1,35 @@
+{
+  "id": "one_arm_long_bar_row",
+  "document": "Exercise: One-Arm Long Bar Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_row\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- develop_strength_in_the_middle_back_and_biceps\n- improve_unilateral_stability_and_balance\n\nContraindications:\n\n- Shoulder instability or injury\n- Severe lower back pain\n\nExercise Variations:\n\n- name: One-Arm Long Bar Row with Kettlebell, equipment: kettlebell\n- name: One-Arm Long Bar Row with Band, equipment: resistance band\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Dumbbell Row, equipment: dumbbells\n\nInstructions:\n\n- Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.\n- Stand next to the bar, and take a grip with one hand close to the collar. Using your hips and legs, rise to a standing position.\n- Assume a bent-knee stance with your hips back and your chest up. Your arm should be extended. This will be your starting position.\n- Pull the weight to your side by retracting the shoulder and flexing the elbow. Do not jerk the weight or cheat during the movement.\n- After a brief pause, return to the starting position.",
+  "metadata": {
+    "exercise_id": "one_arm_long_bar_row",
+    "exercise_name": "one_arm_long_bar_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_row"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "develop_strength_in_the_middle_back_and_biceps",
+      "improve_unilateral_stability_and_balance"
+    ],
+    "unilateral": false
+  }
+}

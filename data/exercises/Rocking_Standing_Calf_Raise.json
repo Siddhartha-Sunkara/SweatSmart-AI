@@ -1,0 +1,32 @@
+{
+  "id": "rocking_standing_calf_raise",
+  "document": "Exercise: Rocking Standing Calf Raise\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- ankle_plantarflexion\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- lower_body_strength_and_stability\n- calf_muscle_hypertrophy\n\nContraindications:\n\n- Recent lower leg injury or surgery\n- Severe knee pain or instability\n\nExercise Variations:\n\n- name: Single-Leg Standing Calf Raise, equipment: barbell or dumbbells\n- name: Reverse Calf Raise, equipment: calf raise machine\n\nSubstitution Options:\n\n- name: Seated Calf Raise, equipment: calf raise machine\n- name: Standing Calf Raise, equipment: barbell or dumbbells\n\nInstructions:\n\n- This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place it on the back of your shoulders (slightly below the neck).\n- Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.\n- Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance. Also maintain a straight back and keep the knees with a slight bend; never locked. This will be your starting position.\n- Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending (other than the slight initial bend we created during positioning) at any time. Hold the contracted position by a second before you start to go back down.\n- Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.\n- Now lift your toes by contracting the tibia muscles in the front of the calves as you breathe out.\n- Hold for a second and bring them back down as you breathe in.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "rocking_standing_calf_raise",
+    "exercise_name": "rocking_standing_calf_raise",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "ankle_plantarflexion"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "lower_body_strength_and_stability",
+      "calf_muscle_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

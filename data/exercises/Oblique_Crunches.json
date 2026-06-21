@@ -1,0 +1,33 @@
+{
+  "id": "oblique_crunches",
+  "document": "Exercise: Oblique Crunches\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_core_activation\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_overall_abdominal_muscle_tone\n- strengthen_oblique_muscles\n- improve_core_stability\n\nContraindications:\n\n- Individuals with lower back pain or injuries should avoid this exercise or perform it with caution and under the guidance of a fitness professional.\n\nExercise Variations:\n\n- name: Oblique Crunches with Medicine Ball, force: pull, level: beginner, mechanic: isolation\n- name: Oblique Crunches with Resistance Band, force: pull, level: intermediate, mechanic: isolation\n\nSubstitution Options:\n\n- name: Seated Cable Oblique Crunches, force: pull, level: beginner, mechanic: isolation\n- name: Side Plank with Hip Flexion, force: push, level: intermediate, mechanic: stabilization\n\nInstructions:\n\n- Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put one hand beside your head and the other to the side against the floor.\n- Make sure your feet are elevated and resting on a flat surface.\n- Now lift the shoulder in which your hand is touching your head.\n- Simply elevate your shoulder and body upward until you touch your knee. For example, if you have your right hand besides your head, then you want to elevate your body upwards until your right elbow touches your left knee. The same variation can be applied doing the inverse and using your left elbow to touch your right knee.\n- After your knee touches your elbow, lower your body until you have reached the starting position.\n- Remember to breathe in during the eccentric (lowering) part of the exercise and to breathe out during the concentric (upward) part of the exercise.\n- Continue alternating in this manner until all of the recommended repetitions for each side have been completed.",
+  "metadata": {
+    "exercise_id": "oblique_crunches",
+    "exercise_name": "oblique_crunches",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_core_activation"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_overall_abdominal_muscle_tone",
+      "strengthen_oblique_muscles",
+      "improve_core_stability"
+    ],
+    "unilateral": false
+  }
+}

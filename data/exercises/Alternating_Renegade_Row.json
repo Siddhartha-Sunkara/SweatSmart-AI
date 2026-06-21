@@ -1,0 +1,37 @@
+{
+  "id": "alternating_renegade_row",
+  "document": "Exercise: Alternating Renegade Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- dynamic\n- bilateral\n- multi_joint\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- abdominals\n- biceps\n- chest\n- lats\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n4\n\nSystemic Fatigue:\nmoderate\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n2 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder instability, reason: due to the overhead position and pulling motion\n- condition: lower back issues, reason: due to the load on the spine during the rowing motion\n\nExercise Variations:\n\n- name: Single-Arm Renegade Row, force: pull, level: expert, mechanic: compound, primaryMuscles: ['middle back'], secondaryMuscles: ['abdominals', 'biceps', 'chest', 'lats', 'triceps']\n\nSubstitution Options:\n\n- exercise_name: Alternating Dumbbell Row, equipment: dumbbells\n\nInstructions:\n\n- Place two kettlebells on the floor about shoulder width apart. Position yourself on your toes and your hands as though you were doing a pushup, with the body straight and extended. Use the handles of the kettlebells to support your upper body. You may need to position your feet wide for support.\n- Push one kettlebell into the floor and row the other kettlebell, retracting the shoulder blade of the working side as you flex the elbow, pulling it to your side.\n- Then lower the kettlebell to the floor and begin the kettlebell in the opposite hand. Repeat for several reps.",
+  "metadata": {
+    "exercise_id": "alternating_renegade_row",
+    "exercise_name": "alternating_renegade_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "dynamic",
+      "bilateral",
+      "multi_joint"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "lats",
+      "biceps",
+      "chest",
+      "triceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 4.0,
+    "systemic_fatigue": "moderate",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 2,
+    "goals": [],
+    "unilateral": false
+  }
+}

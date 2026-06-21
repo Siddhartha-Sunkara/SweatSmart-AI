@@ -1,0 +1,36 @@
+{
+  "id": "spinal_stretch",
+  "document": "Exercise: Spinal Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- torso_rotation\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- lats\n- lower back\n- neck\n- traps\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relieve_neck_and_shoulder_tension\n- improve_spinal_flexibility\n\nContraindications:\n\n- recent spinal injury\n- chronic lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Sit in a chair so your back is straight and your feet planted on the floor.\n- Interlace your fingers behind your head, elbows out and your chin down.\n- Twist your upper body to one side about 3 times as far as you can. Then lean forward and twist your torso to reach your elbow to the floor on the inside of your knee.\n- Return to upright position and then repeat for your other side.",
+  "metadata": {
+    "exercise_id": "spinal_stretch",
+    "exercise_name": "spinal_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "torso_rotation"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "lower_back",
+      "neck",
+      "traps"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relieve_neck_and_shoulder_tension",
+      "improve_spinal_flexibility"
+    ],
+    "unilateral": false
+  }
+}

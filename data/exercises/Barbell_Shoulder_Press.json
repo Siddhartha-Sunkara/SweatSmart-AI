@@ -1,0 +1,35 @@
+{
+  "id": "barbell_shoulder_press",
+  "document": "Exercise: Barbell Shoulder Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_press\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- chest\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- shoulder_strength\n- upper_body_mass_gain\n\nContraindications:\n\n- condition: shoulder instability, description: Individuals with shoulder instability should avoid overhead movements and consult a healthcare professional before attempting this exercise.\n- condition: rotator cuff injury, description: Individuals with rotator cuff injuries should perform this exercise with caution or seek guidance from a physical therapist to ensure proper form and technique.\n\nExercise Variations:\n\n- name: Arnold Press, mechanic: compound, primaryMuscles: ['shoulders', 'chest', 'triceps'], secondaryMuscles: [], instructions: ['Sit on a bench with back support in a squat rack. Position two dumbbells at a height that is just above your head, one slightly heavier than the other.', 'Grasp the dumbbells with an alternating grip (one palm facing forward and the other backward).', 'Lift the bar up over your head by locking your arms. Hold at about shoulder level and slightly in front of your head. This is your starting position.', 'Lower the heavier dumbbell down to the shoulders slowly as you inhale, while keeping the lighter one stationary.', 'Lift both dumbbells back up to the starting position as you exhale.', 'Repeat for the recommended amount of repetitions.']\n\nSubstitution Options:\n\n- name: Dumbbell Shoulder Press, equipment: dumbbells\n- name: Smith Machine Shoulder Press, equipment: smith machine\n\nInstructions:\n\n- Sit on a bench with back support in a squat rack. Position a barbell at a height that is just above your head. Grab the barbell with a pronated grip (palms facing forward).\n- Once you pick up the barbell with the correct grip width, lift the bar up over your head by locking your arms. Hold at about shoulder level and slightly in front of your head. This is your starting position.\n- Lower the bar down to the shoulders slowly as you inhale.\n- Lift the bar back up to the starting position as you exhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "barbell_shoulder_press",
+    "exercise_name": "barbell_shoulder_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_press"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "shoulder_strength",
+      "upper_body_mass_gain"
+    ],
+    "unilateral": false
+  }
+}

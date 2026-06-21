@@ -1,0 +1,38 @@
+{
+  "id": "ring_dips",
+  "document": "Exercise: Ring Dips\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- elbow_flexion\n- wrist_extension\n- triple_joint_movement_involving_shoulder_flexion\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- tricep_hypertrophy\n- shoulder_stability_and_strength\n- chest_strength_and_size\n\nContraindications:\n\n- Shoulder instability or injury\n- Elbow pain or injury\n\nExercise Variations:\n\n- variation_name: Ring Dips with Negative Phase Emphasis, instructions: ['Start in the bottom position of a ring dip.', 'Slowly lower your body for twice as long as you would normally take to return to the starting position.']\n- variation_name: Ring Dips with Eccentric Focus, instructions: ['Focus on controlling the descent phase, taking 3 seconds to lower yourself into the bottom position.']\n\nSubstitution Options:\n\n- exercise_name: Dip Bars Dips, equipment: dip bars\n- exercise_name: Bench Dips, equipment: bench\n\nInstructions:\n\n- Grip a ring in each hand, and then take a small jump to help you get into the starting position with your arms locked out.\n- Begin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.\n- Reverse the motion by extending the elbow, pushing yourself back up into the starting position.\n- Repeat for the desired number of repetitions.",
+  "metadata": {
+    "exercise_id": "ring_dips",
+    "exercise_name": "ring_dips",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "elbow_flexion",
+      "wrist_extension",
+      "triple_joint_movement_involving_shoulder_flexion"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "tricep_hypertrophy",
+      "shoulder_stability_and_strength",
+      "chest_strength_and_size"
+    ],
+    "unilateral": false
+  }
+}

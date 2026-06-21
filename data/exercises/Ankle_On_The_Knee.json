@@ -1,0 +1,30 @@
+{
+  "id": "ankle_on_the_knee",
+  "document": "Exercise: Ankle On The Knee\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- isometric\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_glute_flexibility\n- reduce_lower_back_tension\n\nContraindications:\n\n- recent knee or ankle surgery\n- severe joint pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- From a lying position, bend your knees and keep your feet on the floor.\n- Place your ankle of one foot on your opposite knee.\n- Grasp the thigh or knee of the bottom leg and pull both of your legs into the chest. Relax your neck and shoulders. Hold for 10-20 seconds and then switch sides.",
+  "metadata": {
+    "exercise_id": "ankle_on_the_knee",
+    "exercise_name": "ankle_on_the_knee",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "isometric"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_glute_flexibility",
+      "reduce_lower_back_tension"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "front_squats_with_two_kettlebells",
+  "document": "Exercise: Front Squats With Two Kettlebells\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- quad_dominant\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- quadriceps_strength_and_hypertrophy\n- calves_engagement_and_toning\n- glute_activation_and_strengthening\n\nContraindications:\n\n- Recent knee surgery\n- Severe knee pain or instability\n\nExercise Variations:\n\n- name: Front Squats With One Kettlebell, equipment: kettlebell\n- name: Front Squats with Barbell, equipment: barbell\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlifts with Kettlebells, equipment: kettlebells\n- exercise_name: Goblet Squats, equipment: dumbbell\n\nInstructions:\n\n- Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.\n- Looking straight ahead at all times, squat as low as you can and pause at the bottom. As you squat down, push your knees out. You should squat between your legs, keeping an upright torso, with your head and chest up.\n- Rise back up by driving through your heels and repeat.",
+  "metadata": {
+    "exercise_id": "front_squats_with_two_kettlebells",
+    "exercise_name": "front_squats_with_two_kettlebells",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "quad_dominant"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "quadriceps_strength_and_hypertrophy",
+      "calves_engagement_and_toning",
+      "glute_activation_and_strengthening"
+    ],
+    "unilateral": false
+  }
+}

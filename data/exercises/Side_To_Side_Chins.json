@@ -1,0 +1,38 @@
+{
+  "id": "side_to_side_chins",
+  "document": "Exercise: Side To Side Chins\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_pull\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- biceps\n- forearms\n- middle back\n- shoulders\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nHigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improving_shoulder_stability\n- developing_lats_and_middle_back_muscles\n- enhancing_grip_strength\n\nContraindications:\n\n- Shoulder injuries or pain\n- Lower back issues\n\nExercise Variations:\n\n- name: Narrow Grip Side To Side Chins, force: pull, level: advanced\n- name: Single Arm Side To Side Chins, force: pull, level: expert\n\nSubstitution Options:\n\n- name: Assisted Pull-Ups with Wider Grip, force: pull, level: intermediate\n- name: Lat Pulldowns, force: pull, level: intermediate\n\nInstructions:\n\n- Grab the pull-up bar with the palms facing forward using a wide grip.\n- As you have both arms extended in front of you holding the bar at a wide grip, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.\n- Pull your torso up while leaning to the left hand side until the bar almost touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space (no swinging) and only the arms should move. The forearms should do no other work other than hold the bar.\n- After a second of contraction, inhale as you go back to the starting position.\n- Now, pull your torso up while leaning to the right hand side until the bar almost touches your upper chest by drawing the shoulders and the upper arms down and back. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.\n- After a second of contraction, inhale as you go back to the starting position.\n- Repeat steps 3-6 until you have performed the prescribed amount of repetitions for each side.",
+  "metadata": {
+    "exercise_id": "side_to_side_chins",
+    "exercise_name": "side_to_side_chins",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_pull"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "shoulders",
+      "middle_back",
+      "forearms",
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improving_shoulder_stability",
+      "developing_lats_and_middle_back_muscles",
+      "enhancing_grip_strength"
+    ],
+    "unilateral": false
+  }
+}

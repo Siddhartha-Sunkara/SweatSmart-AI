@@ -1,0 +1,34 @@
+{
+  "id": "thigh_abductor",
+  "document": "Exercise: Thigh Abductor\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_hip_abduction\n\nPrimary Muscles:\n\n- abductors\n\nSecondary Muscles:\n\n- glutes\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- isolation_of_the_abductor_muscles\n- glute_activation_and_strengthening\n\nContraindications:\n\n- Recent hip surgery\n- Severe knee pain\n\nExercise Variations:\n\n- name: Standing Leg Abduction, equipment: dumbbells or resistance bands\n\nSubstitution Options:\n\n- exercise_name: Seated Leg Abduction, equipment: cable machine\n\nInstructions:\n\n- To begin, sit down on the abductor machine and select a weight you are comfortable with. When your legs are positioned properly, grip the handles on each side. Your entire upper body (from the waist up) should be stationary. This is the starting position.\n- Slowly press against the machine with your legs to move them away from each other while exhaling.\n- Feel the contraction for a second and begin to move your legs back to the starting position while breathing in. Note: Remember to keep your upper body stationary to prevent any injuries from occurring.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "thigh_abductor",
+    "exercise_name": "thigh_abductor",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_hip_abduction"
+    ],
+    "primary_muscles": [
+      "abductors"
+    ],
+    "secondary_muscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "isolation_of_the_abductor_muscles",
+      "glute_activation_and_strengthening"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "two_arm_kettlebell_military_press",
+  "document": "Exercise: Two-Arm Kettlebell Military Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_press\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\naerobic and anaerobic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- muscular_endurance\n- strength\n\nContraindications:\n\n- Shoulder impingement or rotator cuff issues\n\nExercise Variations:\n\n- name: Two-Arm Kettlebell Front Raise to Press, equipment: kettlebells\n- name: Two-Arm Kettlebell Overhead Press, equipment: kettlebells\n\nSubstitution Options:\n\n- name: Two-Arm Dumbbell Military Press, equipment: dumbbells\n- name: One-Arm Kettlebell Military Press, equipment: kettlebells, primaryMuscles: ['shoulders', 'triceps'], secondaryMuscles: []\n\nInstructions:\n\n- Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you swing the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward.\n- Press the kettlebells up and out. As the kettlebells pass your head, lean into the weights so that the kettlebells are racked behind your head. Make sure to contract your lats, butt, and stomach for added stability.",
+  "metadata": {
+    "exercise_id": "two_arm_kettlebell_military_press",
+    "exercise_name": "two_arm_kettlebell_military_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_press"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "aerobic_and_anaerobic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "muscular_endurance",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

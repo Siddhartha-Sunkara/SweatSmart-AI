@@ -1,0 +1,33 @@
+{
+  "id": "reverse_crunch",
+  "document": "Exercise: Reverse Crunch\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension_with_abdominal_contraction\n- hip_flexion\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability\n- abdominal_muscle_definition\n\nContraindications:\n\n- Lower back pain\n- Recent abdominal surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Bicycle Crunches, equipment: body only\n- exercise_name: Leg Raises, equipment: body only\n\nInstructions:\n\n- Lie down on the floor with your legs fully extended and arms to the side of your torso with the palms on the floor. Your arms should be stationary for the entire exercise.\n- Move your legs up so that your thighs are perpendicular to the floor and feet are together and parallel to the floor. This is the starting position.\n- While inhaling, move your legs towards the torso as you roll your pelvis backwards and you raise your hips off the floor. At the end of this movement your knees will be touching your chest.\n- Hold the contraction for a second and move your legs back to the starting position while exhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "reverse_crunch",
+    "exercise_name": "reverse_crunch",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension_with_abdominal_contraction",
+      "hip_flexion"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability",
+      "abdominal_muscle_definition"
+    ],
+    "unilateral": false
+  }
+}

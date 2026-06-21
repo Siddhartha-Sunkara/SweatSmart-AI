@@ -1,0 +1,32 @@
+{
+  "id": "speed_band_overhead_triceps",
+  "document": "Exercise: Speed Band Overhead Triceps\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- triple_extension_at_the_elbow_joint_with_overhead_positioning\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bands\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhanced_elbow_extension_strength\n- isolated_triceps_strengthening\n\nContraindications:\n\n- Shoulder instability or injury\n- Elbow joint issues\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Triceps Pushdown, equipment: cable machine\n\nInstructions:\n\n- For this exercise anchor a band to the ground. We used an incline bench and anchored the band to the base, standing over the bench. Alternatively, this could be performed standing on the band.\n- To begin, pull the band behind your head, holding it with a pronated grip and your elbows up. This will be your starting position.\n- To perform the movement, extend through the elbow to to straighten your arms, ensuring that you keep your upper arm in place.\n- Pause, and then return to the starting position.",
+  "metadata": {
+    "exercise_id": "speed_band_overhead_triceps",
+    "exercise_name": "speed_band_overhead_triceps",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "triple_extension_at_the_elbow_joint_with_overhead_positioning"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhanced_elbow_extension_strength",
+      "isolated_triceps_strengthening"
+    ],
+    "unilateral": false
+  }
+}

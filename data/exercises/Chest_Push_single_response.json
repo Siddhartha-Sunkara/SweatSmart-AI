@@ -1,0 +1,37 @@
+{
+  "id": "chest_push_single_response",
+  "document": "Exercise: Chest Push (single response)\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- abdominals\n- shoulders\n- triceps\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- core_stability\n- explosiveness\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Chest Push (double response), equipment: medicine ball\n\nSubstitution Options:\n\n- name: Push Press, equipment: dumbbells\n\nInstructions:\n\n- Begin in a kneeling position holding the medicine ball with both hands tightly into the chest.\n- Execute the pass by exploding forward and outward with the hips while pushing the ball as far as possible.\n- Follow through by falling forward, catching yourself with your hands.",
+  "metadata": {
+    "exercise_id": "chest_push_single_response",
+    "exercise_name": "chest_push_(single_response)",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "abdominals",
+      "shoulders"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_stability",
+      "explosiveness",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

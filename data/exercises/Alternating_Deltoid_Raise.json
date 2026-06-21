@@ -1,0 +1,32 @@
+{
+  "id": "alternating_deltoid_raise",
+  "document": "Exercise: Alternating Deltoid Raise\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_alternating_movement\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- shoulder_hypertrophy\n- improved_shoulder_stability\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Arm Alternating Deltoid Raise, force: push, level: intermediate, mechanic: isolation, primaryMuscles: ['shoulders'], secondaryMuscles: [], instructions: ['In a standing position, hold one dumbbell in your right hand at your side.', 'Keeping your elbow slightly bent, raise the weight directly in front of you to shoulder height, avoiding any swinging or cheating.', 'Return the weight to your side and repeat with the left arm.', 'Continue alternating arms for the desired number of repetitions.'], category: strength, images: ['Single-Arm_Alternating_Deltoid_Raise/0.jpg', 'Single-Arm_Alternating_Deltoid_Raise/1.jpg']\n\nSubstitution Options:\n\n- exercise_name: Lateral Raise, equipment: dumbbell\n- exercise_name: Face Pull, equipment: cable machine\n\nInstructions:\n\n- In a standing position, hold a pair of dumbbells at your side.\n- Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating.\n- Return the weights to your side.\n- On the next repetition, raise the weights laterally, raising them out to your side to about shoulder height.\n- Return the weights to the starting position and continue alternating to the front and side.",
+  "metadata": {
+    "exercise_id": "alternating_deltoid_raise",
+    "exercise_name": "alternating_deltoid_raise",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_alternating_movement"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "shoulder_hypertrophy",
+      "improved_shoulder_stability"
+    ],
+    "unilateral": false
+  }
+}

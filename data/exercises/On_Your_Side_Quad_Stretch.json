@@ -1,0 +1,30 @@
+{
+  "id": "on_your_side_quad_stretch",
+  "document": "Exercise: On Your Side Quad Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension\n- unilateral_hip_flexion\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_flexibility_in_the_quadriceps_and_hip_flexors\n\nContraindications:\n\n- recent hip surgery\n- severe hip pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Start off by lying on your right side, with your right knee bent at a 90-degree angle resting on the floor in front of you (this stabilizes the torso).\n- Bend your left knee behind you and hold your left foot with your left hand. To stretch your hip flexor, press your left hip forward as you push your left foot back into your hand. Switch sides.",
+  "metadata": {
+    "exercise_id": "on_your_side_quad_stretch",
+    "exercise_name": "on_your_side_quad_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension",
+      "unilateral_hip_flexion"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_flexibility_in_the_quadriceps_and_hip_flexors"
+    ],
+    "unilateral": false
+  }
+}

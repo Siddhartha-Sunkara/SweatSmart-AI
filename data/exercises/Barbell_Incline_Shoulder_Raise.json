@@ -1,0 +1,34 @@
+{
+  "id": "barbell_incline_shoulder_raise",
+  "document": "Exercise: Barbell Incline Shoulder Raise\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_abduction\n- protraction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- chest\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- shoulder_strength_and_hypertrophy\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Barbell Upright Row, force: pull, mechanic: compound, primaryMuscles: ['trapezius', 'delts']\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Incline Shoulder Raise, equipment: dumbbells\n\nInstructions:\n\n- Lie back on an Incline Bench. Using a medium width grip (a grip that is slightly wider than shoulder width), lift the bar from the rack and hold it straight over you with your arms straight. This will be your starting position.\n- While keeping the arms straight, lift the bar by protracting your shoulder blades, raising the shoulders from the bench as you breathe out.\n- Bring back the bar to the starting position as you breathe in.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "barbell_incline_shoulder_raise",
+    "exercise_name": "barbell_incline_shoulder_raise",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_abduction",
+      "protraction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "chest"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "shoulder_strength_and_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "seated_two_arm_palms_up_low_pulley_wrist_curl",
+  "document": "Exercise: Seated Two-Arm Palms-Up Low-Pulley Wrist Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- wrist_flexion\n\nPrimary Muscles:\n\n- forearms\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n1.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- wrist_flexion_strength\n\nContraindications:\n\n- condition: recent wrist injury, description: Avoid this exercise if you have a recent wrist injury.\n\nExercise Variations:\n\n- name: Standing Two-Arm Palms-Up Low-Pulley Wrist Curl, mechanic: isolation, force: pull, level: beginner, primaryMuscles: ['forearms']\n\nSubstitution Options:\n\n- name: Seated Two-Arm Palms-Up Dumbbell Wrist Curl, equipment: dumbbells\n\nInstructions:\n\n- Put a bench in front of a low pulley machine that has a barbell or EZ Curl attachment on it.\n- Move the bench far enough away so that when you bring the handle to the top of your thighs tension is created on the cable due to the weight stack being moved up.\n- Now hold the handle with both hands, palms up, using a shoulder-width grip.\n- Step back and sit on the bench with your feet about shoulder width apart, firmly on the floor.\n- Lean forward and place the forearms on your thighs with the back of your wrists over your knees. This will be your starting position.\n- Lower the bar as far as possible, while inhaling and keeping a tight grip.\n- Now curl the bar up as high as possible while contracting the forearms. Tip: Only the wrist should move; not the forearms.\n- After a second contraction at the top go back to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "seated_two_arm_palms_up_low_pulley_wrist_curl",
+    "exercise_name": "seated_two_arm_palms_up_low_pulley_wrist_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "wrist_flexion"
+    ],
+    "primary_muscles": [
+      "forearms"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 1.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "wrist_flexion_strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "single_leg_leg_extension",
+  "document": "Exercise: Single-Leg Leg Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_knee_extension\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- quadriceps_strengthening\n\nContraindications:\n\n- Recent knee surgery or injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Single-Leg Dumbbell Extension, equipment: dumbbells\n\nInstructions:\n\n- Seat yourself in the machine and adjust it so that you are positioned properly. The pad should be against the lower part of the shin but not in contact with the ankle. Adjust the seat so that the pivot point is in line with your knee. Select a weight appropriate for your abilities.\n- Maintaining good posture, fully extend one leg, pausing at the top of the motion.\n- Return to the starting position without letting the weight stop, keeping tension on the muscle.\n- Repeat for the desired number of repetitions.",
+  "metadata": {
+    "exercise_id": "single_leg_leg_extension",
+    "exercise_name": "single_leg_leg_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_knee_extension"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "quadriceps_strengthening"
+    ],
+    "unilateral": false
+  }
+}

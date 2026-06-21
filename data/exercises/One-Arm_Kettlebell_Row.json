@@ -1,0 +1,35 @@
+{
+  "id": "one_arm_kettlebell_row",
+  "document": "Exercise: One-Arm Kettlebell Row\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_row\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improve_posture_and_spinal_stability\n- develop_upper_body_strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain\n\nExercise Variations:\n\n- name: One-Arm Kettlebell Row with Band, equipment: kettlebells, resistance band\n- name: One-Arm Kettlebell Row on Bench, equipment: kettlebells, bench\n\nSubstitution Options:\n\n- name: Single-Arm Dumbbell Row, equipment: dumbbells\n\nInstructions:\n\n- Place a kettlebell in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position. Grab the kettlebell and pull it to your stomach, retracting your shoulder blade and flexing the elbow. Keep your back straight. Lower and repeat.",
+  "metadata": {
+    "exercise_id": "one_arm_kettlebell_row",
+    "exercise_name": "one_arm_kettlebell_row",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_row"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improve_posture_and_spinal_stability",
+      "develop_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

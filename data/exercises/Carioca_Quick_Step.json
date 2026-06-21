@@ -1,0 +1,40 @@
+{
+  "id": "carioca_quick_step",
+  "document": "Exercise: Carioca Quick Step\n\nCategory:\nplyometrics\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- knee_flexion\n- lateral_movement_with_hip\n- extension\n\nPrimary Muscles:\n\n- adductors\n\nSecondary Muscles:\n\n- abdominals\n- abductors\n- calves\n- glutes\n- hamstrings\n- quadriceps\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_lower_body_coordination\n- develop_core_engagement_for_better_posture\n- improve_lateral_stability_and_mobility\n\nContraindications:\n\n- Recent or chronic knee injuries\n- Severe hip instability\n\nExercise Variations:\n\n- name: Carioca Quick Step with Resistance Band, id: Carioca_Quick_Step_withResistance_Band\n- name: Carioca Quick Step with Medicine Ball, id: Carioca_Quick_Step_with_Medicine_Ball\n\nSubstitution Options:\n\n- name: Side Shuffle, id: Side_Shuffle\n\nInstructions:\n\n- Begin with your feet a few inches apart and your left arm up in a relaxed, athletic position.\n- With your right foot, quick step behind and pull the knee up.\n- Fire your arms back up when you pull the right knee, being sure that your knee goes straight up and down. Avoid turning your feet as you move and continue to look forward as you move to the side.",
+  "metadata": {
+    "exercise_id": "carioca_quick_step",
+    "exercise_name": "carioca_quick_step",
+    "category": "plyometrics",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "knee_flexion",
+      "lateral_movement_with_hip",
+      "extension"
+    ],
+    "primary_muscles": [
+      "adductors"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "quadriceps",
+      "glutes",
+      "abductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_lower_body_coordination",
+      "develop_core_engagement_for_better_posture",
+      "improve_lateral_stability_and_mobility"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "seated_dumbbell_inner_biceps_curl",
+  "document": "Exercise: Seated Dumbbell Inner Biceps Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- cable_like\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- isolate_and_strengthen_the_biceps_brachii_muscle\n- improve_muscular_endurance\n\nContraindications:\n\n- Individuals with elbow joint issues should avoid this exercise or perform it with caution.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Seated Dumbbell Hammer Curl, equipment: dumbbell\n\nInstructions:\n\n- Sit on the end of a flat bench with a dumbbell in each hand being held at arms length. The elbows should be close to the torso.\n- Rotate the palms of the hands so that they are facing inward in a neutral position. This will be your starting position.\n- While holding the upper arms stationary, curl the dumbbells out and up, turning the palms out as you lift and keeping your forearms in line with your outer deltoids. Tips:\n- Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps.\n- Slowly begin to bring the dumbbells back to the starting position as your breathe in. Remember to rotate your arms as you lower the dumbbells so that you can switch back to a neutral grip.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "seated_dumbbell_inner_biceps_curl",
+    "exercise_name": "seated_dumbbell_inner_biceps_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "cable_like"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "isolate_and_strengthen_the_biceps_brachii_muscle",
+      "improve_muscular_endurance"
+    ],
+    "unilateral": false
+  }
+}

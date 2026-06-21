@@ -1,0 +1,36 @@
+{
+  "id": "single_leg_high_box_squat",
+  "document": "Exercise: Single-Leg High Box Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\naerobic and anaerobic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hamstrings_engagement\n- glutes_activation\n- quadriceps_strengthening\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Leg Box Step-Up, id: Single-Leg_Box_Step-Up\n\nSubstitution Options:\n\n- name: Single-Leg Bulgarian Split Squat, id: Single-Leg_Bulgarian_Split_Squat\n\nInstructions:\n\n- Position a box in a rack. Secure a band or rope in place above the box.\n- Standing in front of it, step onto the box to a full standing position, letting your other leg remain unsupported. Hold onto the band for balance\n- . Continue stepping up and down on the same leg before switching to the opposite side.",
+  "metadata": {
+    "exercise_id": "single_leg_high_box_squat",
+    "exercise_name": "single_leg_high_box_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "aerobic_and_anaerobic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hamstrings_engagement",
+      "glutes_activation",
+      "quadriceps_strengthening"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "good_morning_off_pins",
+  "document": "Exercise: Good Morning off Pins\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- hip_hinge\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- abdominals\n- glutes\n- lower back\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hamstring_hypertrophy\n- glute_activation\n- spinal_flexibility\n\nContraindications:\n\n- Lower back issues\n- Recent spinal surgery\n\nExercise Variations:\n\n- variation_name: Sumo Good Morning, equipment: barbell\n- variation_name: Good Morning with Dumbbells, equipment: dumbbells\n\nSubstitution Options:\n\n- exercise_name: Romanian Deadlift, equipment: barbell\n\nInstructions:\n\n- Begin with a bar on a rack at about the same height as your stomach. Bend over underneath the bar and rack the bar across the rear of your shoulders as you would a power squat, not on top of your shoulders. At the proper height, you should be near parallel to the floor when bent over. Keep your back tight, shoulder blades pinched together, and your knees slightly bent. Keep your back arched and your cervical spine in proper alignment.\n- Begin the motion by extending through the hips with your glutes and hamstrings, and you are standing with the weight. Slowly lower the weight back to the pins returning to the starting position.",
+  "metadata": {
+    "exercise_id": "good_morning_off_pins",
+    "exercise_name": "good_morning_off_pins",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "hip_hinge"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "abdominals",
+      "lower_back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hamstring_hypertrophy",
+      "glute_activation",
+      "spinal_flexibility"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "double_kettlebell_snatch",
+  "document": "Exercise: Double Kettlebell Snatch\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- pull_push\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n- quadriceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n4\n\nSystemic Fatigue:\nmoderate\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- improving_hip_and_core_stability\n- building_shoulder_and_upper_body_strength\n- developing_explosive_power\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back issues\n\nExercise Variations:\n\n- name: Single Kettlebell Snatch, equipment: kettlebell\n- name: Snatch with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Clean and Press, equipment: barbell\n\nInstructions:\n\n- Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.\n- Swing the kettlebells between your legs forcefully and reverse the direction.\n- Drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion.",
+  "metadata": {
+    "exercise_id": "double_kettlebell_snatch",
+    "exercise_name": "double_kettlebell_snatch",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "pull_push"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "quadriceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 4.0,
+    "systemic_fatigue": "moderate",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 24,
+    "goals": [
+      "improving_hip_and_core_stability",
+      "building_shoulder_and_upper_body_strength",
+      "developing_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

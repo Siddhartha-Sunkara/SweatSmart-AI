@@ -1,0 +1,32 @@
+{
+  "id": "groiners",
+  "document": "Exercise: Groiners\n\nCategory:\nstretching\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- bilateral_jumping\n\nPrimary Muscles:\n\n- adductors\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- enhance_explosive_power\n- improve_lower_body_strength_and_coordination\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Groiners with Medicine Ball, equipment: medicine ball\n- name: Groiners with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- name: Bodyweight Squats, force: push, level: intermediate\n- name: Lateral Bounds, force: pull, level: advanced\n\nInstructions:\n\n- Begin in a pushup position on the floor. This will be your starting position.\n- Using both legs, jump forward landing with your feet next to your hands. Keep your head up as you do so.\n- Return to the starting position and immediately repeat the movement, continuing for 10-20 repetitions.",
+  "metadata": {
+    "exercise_id": "groiners",
+    "exercise_name": "groiners",
+    "category": "stretching",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "bilateral_jumping"
+    ],
+    "primary_muscles": [
+      "adductors"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "enhance_explosive_power",
+      "improve_lower_body_strength_and_coordination"
+    ],
+    "unilateral": false
+  }
+}

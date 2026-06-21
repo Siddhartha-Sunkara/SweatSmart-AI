@@ -1,0 +1,30 @@
+{
+  "id": "calf_stretch_hands_against_wall",
+  "document": "Exercise: Calf Stretch Hands Against Wall\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- static_stretch\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.5\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_flexibility\n- reduce_muscle_tension\n\nContraindications:\n\n- acute ankle injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Stand facing a wall from several feet away. Stagger your stance, placing one foot forward.\n- Lean forward and rest your hands on the wall, keeping your heel, hip and head in a straight line.\n- Attempt to keep your heel on the ground. Hold for 10-20 seconds and then switch sides.",
+  "metadata": {
+    "exercise_id": "calf_stretch_hands_against_wall",
+    "exercise_name": "calf_stretch_hands_against_wall",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "static_stretch"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.5,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_flexibility",
+      "reduce_muscle_tension"
+    ],
+    "unilateral": false
+  }
+}

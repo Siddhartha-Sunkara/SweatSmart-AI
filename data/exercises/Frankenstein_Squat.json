@@ -1,0 +1,39 @@
+{
+  "id": "frankenstein_squat",
+  "document": "Exercise: Frankenstein Squat\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- knee_flexion\n- quad_dominant_hip\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- athletic_performance\n- quadriceps_hypertrophy\n- functional_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Sumo Deadlift High Pull, equipment: barbell\n- name: Split-Stance Front Squat, equipment: barbell\n\nSubstitution Options:\n\n- exercise_name: Front Squat, equipment: barbell\n\nInstructions:\n\n- This drill teaches you the proper positioning of both the bar and your body during the clean and front squat.\n- Place the barbell on the front of the shoulders, releasing your grip and extending your arms out in front of you. The shoulders should be pushed forward to create a shelf, and the bar should be in contact with the throat. Ensure that you only move your shoulder blades forward; don't round the thoracic spine.\n- Squat by flexing the knees and hips, sitting in between your legs. Keep the torso upright, the arms up, and the shoulders forward, and the bar should stay in place. Go to the bottom of the squat, until your hamstrings contact your calves.\n- Return to the upright position by driving through the front of the heel and extending the knees and hips.",
+  "metadata": {
+    "exercise_id": "frankenstein_squat",
+    "exercise_name": "frankenstein_squat",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "knee_flexion",
+      "quad_dominant_hip"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "abdominals",
+      "calves"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "athletic_performance",
+      "quadriceps_hypertrophy",
+      "functional_strength"
+    ],
+    "unilateral": false
+  }
+}

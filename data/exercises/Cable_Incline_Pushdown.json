@@ -1,0 +1,31 @@
+{
+  "id": "cable_incline_pushdown",
+  "document": "Exercise: Cable Incline Pushdown\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- latissimus_dorsi_development\n\nContraindications:\n\n- Shoulder instability or injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Seated Cable Row, equipment: cable\n\nInstructions:\n\n- Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.\n- Grasp the straight bar attachment overhead with a pronated (overhand; palms down) shoulder width grip and extend your arms in front of you. The bar should be around 2 inches away from your upper thighs. This will be your starting position.\n- Keeping the upper arms stationary, lift your arms back in a semi circle until the bar is straight over your head. Breathe in during this portion of the movement.\n- Slowly go back to the starting position using your lats and hold the contraction once you reach the starting position. Breathe out during the execution of this movement.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "cable_incline_pushdown",
+    "exercise_name": "cable_incline_pushdown",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "latissimus_dorsi_development"
+    ],
+    "unilateral": false
+  }
+}

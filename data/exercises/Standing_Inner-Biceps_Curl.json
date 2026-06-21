@@ -1,0 +1,31 @@
+{
+  "id": "standing_inner_biceps_curl",
+  "document": "Exercise: Standing Inner-Biceps Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_upper_body\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- isolated_biceps_growth_and_strength\n\nContraindications:\n\n- Individuals with severe elbow or shoulder injuries should avoid this exercise.\n\nExercise Variations:\n\n- name: Incline Standing Inner-Biceps Curl, equipment: dumbbell, primaryMuscles: ['biceps']\n- name: Seated Inner-Biceps Curl, equipment: dumbbell, primaryMuscles: ['biceps']\n\nSubstitution Options:\n\n- name: Dumbbell Hammer Curl, equipment: dumbbell\n\nInstructions:\n\n- Stand up with a dumbbell in each hand being held at arms length. The elbows should be close to the torso. Your legs should be at about shoulder's width apart from each other.\n- Rotate the palms of the hands so that they are facing inward in a neutral position. This will be your starting position.\n- While holding the upper arms stationary, curl the weights out while contracting the biceps as you breathe out. Your wrist should turn so that when the weights are fully elevated you have supinated grip (palms facing up).\n- Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Tip: Keep the forearms aligned with your outer deltoids.\n- Hold the contracted position for a second as you squeeze the biceps.\n- Slowly begin to bring the dumbbells back to the starting position as your breathe in. Remember to rotate the wrists as you lower the weight in order to switch back to a neutral grip.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "standing_inner_biceps_curl",
+    "exercise_name": "standing_inner_biceps_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_upper_body"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "isolated_biceps_growth_and_strength"
+    ],
+    "unilateral": false
+  }
+}

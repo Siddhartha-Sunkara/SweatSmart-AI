@@ -1,0 +1,31 @@
+{
+  "id": "seated_overhead_stretch",
+  "document": "Exercise: Seated Overhead Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- lateral_flexion\n- torso_rotation\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_spinal_flexibility\n- relieve_muscle_tension\n\nContraindications:\n\n- lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Sit up straight on an exercise mat.\n- Touch the soles of your feet together with your feet six to eight inches in front of your hips.\n- Place one hand on the floor beside you and your other hand behind your head.\n- Lift your elbow to the ceiling as you incline your torso to the other side. Hold for 10 to 20 seconds, then switch sides.",
+  "metadata": {
+    "exercise_id": "seated_overhead_stretch",
+    "exercise_name": "seated_overhead_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "lateral_flexion",
+      "torso_rotation"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_spinal_flexibility",
+      "relieve_muscle_tension"
+    ],
+    "unilateral": false
+  }
+}

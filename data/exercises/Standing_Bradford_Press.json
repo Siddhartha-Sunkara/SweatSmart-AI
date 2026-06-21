@@ -1,0 +1,34 @@
+{
+  "id": "standing_bradford_press",
+  "document": "Exercise: Standing Bradford Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_press\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nATP-PC system and glycolytic pathway\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent shoulder surgery\n\nExercise Variations:\n\n- name: Front Raise to Overhead Press, mechanic: compound, primaryMuscles: ['shoulders', 'triceps']\n- name: Arnold Press, force: push, equipment: barbell\n\nSubstitution Options:\n\n- name: Seated Dumbbell Shoulder Press, equipment: dumbbells\n- name: Overhead Barbell Extension, equipment: barbell\n\nInstructions:\n\n- Place a loaded bar at shoulder level in a rack. With a pronated grip at shoulder width, begin with the bar racked across the front of your shoulders. This is your starting position.\n- Initiate the lift by extending the elbows to press the bar overhead. Avoid locking out the elbow as you move the weight behind your head.\n- Lower the bar down to the back of the head until your elbow forms a right angle.\n- Lift the bar back over your head by extending the elbows\n- Lower the bar down to the starting position.\n- Alternate in this manner until you complete the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "standing_bradford_press",
+    "exercise_name": "standing_bradford_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_press"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "atp_pc_system_and_glycolytic_pathway",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

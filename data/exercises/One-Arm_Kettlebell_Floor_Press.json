@@ -1,0 +1,34 @@
+{
+  "id": "one_arm_kettlebell_floor_press",
+  "document": "Exercise: One-Arm Kettlebell Floor Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- extension\n- shoulder_internal_rotation\n- elbow_extension\n- shoulder_horizontal_abduction\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system with some contribution from glycolysis\n\nRecovery Time:\n1.5 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder instability, reason: Increased risk of shoulder injury\n- condition: recent rotator cuff injury, reason: May exacerbate existing condition\n\nExercise Variations:\n\n- name: One-Arm Kettlebell Floor Press with Alternating Arms, instructions: ['Lie on the floor holding a kettlebell with one hand, with your upper arm supported by the floor. The palm should be facing in.', 'Press the kettlebell straight up toward the ceiling, rotating your wrist.', 'Lower the kettlebell back to the starting position and repeat with the other arm.']\n\nSubstitution Options:\n\n- exercise_name: One-Arm Dumbbell Floor Press, equipment: dumbbells\n\nInstructions:\n\n- Lie on the floor holding a kettlebell with one hand, with your upper arm supported by the floor. The palm should be facing in.\n- Press the kettlebell straight up toward the ceiling, rotating your wrist.\n- Lower the kettlebell back to the starting position and repeat.",
+  "metadata": {
+    "exercise_id": "one_arm_kettlebell_floor_press",
+    "exercise_name": "one_arm_kettlebell_floor_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "extension",
+      "shoulder_internal_rotation",
+      "elbow_extension",
+      "shoulder_horizontal_abduction"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_with_some_contribution_from_glycolysis",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

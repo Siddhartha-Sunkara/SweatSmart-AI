@@ -1,0 +1,31 @@
+{
+  "id": "standing_elevated_quad_stretch",
+  "document": "Exercise: Standing Elevated Quad Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_flexibility_stretch\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_quadriceps_flexibility\n\nContraindications:\n\n- acute knee injuries\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Start by standing with your back about two to three feet away from a bench or step.\n- Lift one leg behind you and rest your foot on the step,either on your instep or the ball of your foot, whichever you find most comfortable.\n- Keep your supporting knee slightly bent and avoid letting that knee extend out beyond your toes. Switch sides.",
+  "metadata": {
+    "exercise_id": "standing_elevated_quad_stretch",
+    "exercise_name": "standing_elevated_quad_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_flexibility_stretch"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_quadriceps_flexibility"
+    ],
+    "unilateral": false
+  }
+}

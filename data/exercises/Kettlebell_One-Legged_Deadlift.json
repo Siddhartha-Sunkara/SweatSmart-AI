@@ -1,0 +1,35 @@
+{
+  "id": "kettlebell_one_legged_deadlift",
+  "document": "Exercise: Kettlebell One-Legged Deadlift\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_hip_hinge\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- glutes\n- lower back\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- glute_activation\n- hamstring_strength_and_flexibility\n\nContraindications:\n\n- condition: Lower back pain, severity: moderate to severe\n\nExercise Variations:\n\n- name: Kettlebell One-Legged Deadlift with Medicine Ball\n- name: One-Legged Romanian Deadlift with Barbell\n\nSubstitution Options:\n\n- name: Single-Leg RDL with Dumbbells\n\nInstructions:\n\n- Hold a kettlebell by the handle in one hand. Stand on one leg, on the same side that you hold the kettlebell.\n- Keeping that knee slightly bent, perform a stiff legged deadlift by bending at the hip, extending your free leg behind you for balance.\n- Continue lowering the kettlebell until you are parallel to the ground, and then return to the upright position.",
+  "metadata": {
+    "exercise_id": "kettlebell_one_legged_deadlift",
+    "exercise_name": "kettlebell_one_legged_deadlift",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_hip_hinge"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "glute_activation",
+      "hamstring_strength_and_flexibility"
+    ],
+    "unilateral": false
+  }
+}

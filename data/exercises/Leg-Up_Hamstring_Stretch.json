@@ -1,0 +1,31 @@
+{
+  "id": "leg_up_hamstring_stretch",
+  "document": "Exercise: Leg-Up Hamstring Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension\n- unilateral_hip_flexion\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_hamstring_flexibility\n- relax_the_nervous_system\n\nContraindications:\n\n- acute lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Lie flat on your back, bend one knee, and put that foot flat on the floor to stabilize your spine.\n- Extend the other leg in the air. If you're tight, you wont be able to straighten it. That's okay. Extend the knee so that the sole of the lifted foot faces the ceiling (or as close as you can get it).\n- Slowly straighten the legs as much as possible and then pull the leg toward your nose. Switch sides.",
+  "metadata": {
+    "exercise_id": "leg_up_hamstring_stretch",
+    "exercise_name": "leg_up_hamstring_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension",
+      "unilateral_hip_flexion"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_hamstring_flexibility",
+      "relax_the_nervous_system"
+    ],
+    "unilateral": false
+  }
+}

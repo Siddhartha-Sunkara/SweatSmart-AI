@@ -1,0 +1,36 @@
+{
+  "id": "elliptical_trainer",
+  "document": "Exercise: Elliptical Trainer\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- circular_motion_with_both_legs_in_a_reciprocating_action\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high, depending on intensity and duration\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- cardiovascular_fitness\n- lower_body_strength_and_endurance\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Incline Elliptical, mechanic: increased resistance on the machine to simulate an incline\n- name: Interval Training, instructions: ['Alternate between high and low intensity intervals for a more challenging workout.']\n\nSubstitution Options:\n\n- exercise_name: Stationary Bike, equipment: machine\n- exercise_name: Rowing Machine, equipment: machine\n\nInstructions:\n\n- To begin, step onto the elliptical and select the desired option from the menu. Most ellipticals have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.\n- The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",
+  "metadata": {
+    "exercise_id": "elliptical_trainer",
+    "exercise_name": "elliptical_trainer",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "circular_motion_with_both_legs_in_a_reciprocating_action"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high,_depending_on_intensity_and_duration",
+    "recovery_time_hours": 1,
+    "goals": [
+      "cardiovascular_fitness",
+      "lower_body_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

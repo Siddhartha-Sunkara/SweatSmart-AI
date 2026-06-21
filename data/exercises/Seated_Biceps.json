@@ -1,0 +1,35 @@
+{
+  "id": "seated_biceps",
+  "document": "Exercise: Seated Biceps\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- isometric\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- muscle_endurance\n- stretching\n\nContraindications:\n\n- recent bicep injury\n- joint instability\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Sit on the floor with your knees bent and your partner standing behind you. Extend your arms straight behind you with your palms facing each other. Your partner will hold your wrists for you. This will be the starting position.\n- Attempt to flex your elbows, while your partner prevents any actual movement.\n- After 10-20 seconds, relax your arms while your partner gently pulls your wrists up to stretch your biceps. Be sure to let your partner know when the stretch is appropriate to prevent injury or overstretching.",
+  "metadata": {
+    "exercise_id": "seated_biceps",
+    "exercise_name": "seated_biceps",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "isometric"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "muscle_endurance",
+      "stretching"
+    ],
+    "unilateral": false
+  }
+}

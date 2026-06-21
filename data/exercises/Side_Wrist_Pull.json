@@ -1,0 +1,33 @@
+{
+  "id": "side_wrist_pull",
+  "document": "Exercise: Side Wrist Pull\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_isometric_contraction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- forearms\n- lats\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_shoulder_flexibility\n- relieve_upper_back_tension\n\nContraindications:\n\n- shoulder instability or injury\n- carpal tunnel syndrome\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Wall Slide, id: Wall_Slide\n- name: Seated Wrist Stretch, id: Seated_Wrist_Stretch\n\nInstructions:\n\n- This stretch works best standing. Cross your left arm over the midline of your body and hold the left wrist in your right hand down at the level of your hips. Start the stretch with a bent left arm.\n- Slowly straighten, pull, and lift it up to shoulder height, as pictured. Feel this stretch originate in your back, not your shoulders, and don't pull too hard on the shoulders joint. Switch sides.",
+  "metadata": {
+    "exercise_id": "side_wrist_pull",
+    "exercise_name": "side_wrist_pull",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_isometric_contraction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "forearms"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_shoulder_flexibility",
+      "relieve_upper_back_tension"
+    ],
+    "unilateral": false
+  }
+}

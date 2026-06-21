@@ -1,0 +1,33 @@
+{
+  "id": "floor_glute_ham_raise",
+  "document": "Exercise: Floor Glute-Ham Raise\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- eccentric_concentric\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- glutes\n\nEquipment:\nNone\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy_of_the_hamstrings_and_glutes\n- strengthening_of_the_core_and_stabilizing_muscles\n\nContraindications:\n\n- Recent hamstring injury or surgery\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Partner Assisted, instructions: Use a partner to hold your feet during the movement.\n- name: Knee Flexion Variation, instructions: Keep knees slightly bent throughout the exercise to reduce strain on the hamstrings.\n\nSubstitution Options:\n\n- exercise_name: Romanian Deadlift, equipment: barbell\n- exercise_name: Single-Leg Glute-Ham Raise, equipment: None\n\nInstructions:\n\n- You can use a partner for this exercise or brace your feet under something stable.\n- Begin on your knees with your upper legs and torso upright. If using a partner, they will firmly hold your feet to keep you in position. This will be your starting position.\n- Lower yourself by extending at the knee, taking care to NOT flex the hips as you go forward.\n- Place your hands in front of you as you reach the floor. This movement is very difficult and you may be unable to do it unaided. Use your arms to lightly push off the floor to aid your return to the starting position.",
+  "metadata": {
+    "exercise_id": "floor_glute_ham_raise",
+    "exercise_name": "floor_glute_ham_raise",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "eccentric_concentric"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves"
+    ],
+    "equipment": [],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy_of_the_hamstrings_and_glutes",
+      "strengthening_of_the_core_and_stabilizing_muscles"
+    ],
+    "unilateral": false
+  }
+}

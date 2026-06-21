@@ -1,0 +1,41 @@
+{
+  "id": "bent_press",
+  "document": "Exercise: Bent Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- unilateral_overhead_press_with_a_twist\n- hip_hinge\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n- lower back\n- quadriceps\n- shoulders\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n4\n\nSystemic Fatigue:\nmoderate\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n2 hours\n\nGoals:\n\n- increase_shoulder_and_core_stability\n- enhance_unilateral_strength_and_coordination\n- develop_hip_mobility_and_stability\n\nContraindications:\n\n- Shoulder impingement\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Bent Press with Medicine Ball, equipment: medicine ball\n- name: Bent Press with Barbell, equipment: barbell\n\nSubstitution Options:\n\n- exercise_name: Renegade Row, equipment: dumbbells\n- exercise_name: Single-Arm Overhead Press, equipment: kettlebell\n\nInstructions:\n\n- Clean a kettlebell to your shoulder. Clean the kettlebell to your shoulders by extending through the legs and hips as you raise the kettlebell towards your shoulder. The wrist should rotate as you do so. This will be your starting position.\n- Begin my leaning to the side opposite the kettlebell, continuing until you are able to touch the ground with your free hand, keeping your eyes on the kettlebell. As you do so, press the weight vertically be extending through the elbow, keeping your arm perpendicular to the ground.\n- Return to an upright position, with the kettlebell above your head. Return the kettlebell to the shoulder and repeat for the desired number of repetitions.",
+  "metadata": {
+    "exercise_id": "bent_press",
+    "exercise_name": "bent_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "unilateral_overhead_press_with_a_twist",
+      "hip_hinge"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "shoulders",
+      "triceps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 4.0,
+    "systemic_fatigue": "moderate",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "high",
+    "recovery_time_hours": 2,
+    "goals": [
+      "increase_shoulder_and_core_stability",
+      "enhance_unilateral_strength_and_coordination",
+      "develop_hip_mobility_and_stability"
+    ],
+    "unilateral": false
+  }
+}

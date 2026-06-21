@@ -1,0 +1,36 @@
+{
+  "id": "kettlebell_figure_8",
+  "document": "Exercise: Kettlebell Figure 8\n\nCategory:\nstrength\n\nExercise Type:\nNone\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_coordination\n- unilateral_hip\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- hamstrings\n- shoulders\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- shoulder_mobility_and_coordination\n- core_stability_and_strength\n\nContraindications:\n\n- condition: lower back pain, reason: The exercise places significant stress on the lower back in a bent-over position.\n\nExercise Variations:\n\n- name: Kettlebell Figure 8 with Alternating Hands, instructions: ['Place one kettlebell between your legs and take a wider than shoulder width stance. Bend over by pushing your butt out and keeping your back flat.', 'Pick up a kettlebell and pass it to your other hand between your legs. The receiving hand should reach from behind the legs. Go back and forth for several repetitions, alternating hands each time.']\n\nSubstitution Options:\n\n- name: Dumbbell Figure 8, equipment: dumbbells\n\nInstructions:\n\n- Place one kettlebell between your legs and take a wider than shoulder width stance. Bend over by pushing your butt out and keeping your back flat.\n- Pick up a kettlebell and pass it to your other hand between your legs. The receiving hand should reach from behind the legs. Go back and forth for several repetitions.",
+  "metadata": {
+    "exercise_id": "kettlebell_figure_8",
+    "exercise_name": "kettlebell_figure_8",
+    "category": "strength",
+    "exercise_type": "",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_coordination",
+      "unilateral_hip"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "hamstrings",
+      "shoulders"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "shoulder_mobility_and_coordination",
+      "core_stability_and_strength"
+    ],
+    "unilateral": false
+  }
+}

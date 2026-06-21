@@ -1,0 +1,35 @@
+{
+  "id": "floor_press",
+  "document": "Exercise: Floor Press\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- strength_gains_in_the_upper_body\n- hypertrophy_of_the_chest,_triceps,_and_shoulders\n\nContraindications:\n\n- Shoulder instability or injury\n- Chest pain or discomfort\n\nExercise Variations:\n\n- name: Close-Grip Floor Press, primaryMuscles: ['triceps']\n- name: Wide-Grip Floor Press, primaryMuscles: ['chest']\n\nSubstitution Options:\n\n- exercise_name: Incline Dumbbell Press, equipment: dumbbells\n- exercise_name: Bench Press, equipment: barbell\n\nInstructions:\n\n- Adjust the j-hooks so they are at the appropriate height to rack the bar. Begin lying on the floor with your head near the end of a power rack. Keeping your shoulder blades pulled together; pull the bar off of the hooks.\n- Lower the bar towards the bottom of your chest or upper stomach, squeezing the bar and attempting to pull it apart as you do so. Ensure that you tuck your elbows throughout the movement. Lower the bar until your upper arm contacts the ground and pause, preventing any slamming or bouncing of the weight.\n- Press the bar back up as fast as you can, keeping the bar, your wrists, and elbows in line as you do so.",
+  "metadata": {
+    "exercise_id": "floor_press",
+    "exercise_name": "floor_press",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "strength_gains_in_the_upper_body",
+      "hypertrophy_of_the_chest,_triceps,_and_shoulders"
+    ],
+    "unilateral": false
+  }
+}

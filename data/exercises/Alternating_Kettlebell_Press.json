@@ -1,0 +1,34 @@
+{
+  "id": "alternating_kettlebell_press",
+  "document": "Exercise: Alternating Kettlebell Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulder_press\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- muscle_hypertrophy\n- strength\n\nContraindications:\n\n- condition: shoulder instability, reason: May exacerbate existing shoulder issues.\n- condition: recent shoulder surgery, reason: Should be avoided until fully healed.\n\nExercise Variations:\n\n- name: Single-Arm Kettlebell Press, description: Perform the press with one arm at a time.\n- name: Kettlebell Overhead Squat Press, description: Combine the press with an overhead squat for increased difficulty.\n\nSubstitution Options:\n\n- exercise_name: Alternating Dumbbell Press, equipment: dumbbells\n\nInstructions:\n\n- Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.\n- Press one directly overhead by extending through the elbow, turning it so the palm faces forward while holding the other kettlebell stationary .\n- Lower the pressed kettlebell to the starting position and immediately press with your other arm.",
+  "metadata": {
+    "exercise_id": "alternating_kettlebell_press",
+    "exercise_name": "alternating_kettlebell_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulder_press"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "muscle_hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

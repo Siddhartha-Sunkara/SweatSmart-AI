@@ -1,0 +1,37 @@
+{
+  "id": "plie_dumbbell_squat",
+  "document": "Exercise: Plie Dumbbell Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- glute_activation\n- quadriceps_development\n\nContraindications:\n\n- condition: knee injury, description: Individuals with knee injuries should consult a healthcare professional before attempting this exercise.\n- condition: recent surgery, description: Avoid this exercise if you have recently undergone lower body surgery. Consult your surgeon for clearance.\n\nExercise Variations:\n\n- name: Plié Dumbbell Squat with Alternating Legs, instructions: ['Hold a dumbbell at the base with both hands and stand straight up. Move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent.', 'Your toes should be facing out. Note: Your arms should be stationary while performing the exercise. This is the starting position.', 'Slowly bend the knees and lower your body until your thighs are parallel to the floor, focusing on one leg at a time. Make sure to inhale as this is the eccentric part of the exercise.', 'Press mainly with the heel of the foot to bring the body back to the starting position while exhaling.', 'Repeat for the recommended amount of repetitions, alternating legs.']\n\nSubstitution Options:\n\n- exercise_name: Bodyweight Plié Squat, equipment: none\n- exercise_name: Barbell Squat, equipment: barbell\n\nInstructions:\n\n- Hold a dumbbell at the base with both hands and stand straight up. Move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent.\n- Your toes should be facing out. Note: Your arms should be stationary while performing the exercise. This is the starting position.\n- Slowly bend the knees and lower your legs until your thighs are parallel to the floor. Make sure to inhale as this is the eccentric part of the exercise.\n- Press mainly with the heel of the foot to bring the body back to the starting position while exhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "plie_dumbbell_squat",
+    "exercise_name": "plie_dumbbell_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings",
+      "abdominals",
+      "calves"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "glute_activation",
+      "quadriceps_development"
+    ],
+    "unilateral": false
+  }
+}

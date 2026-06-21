@@ -1,0 +1,32 @@
+{
+  "id": "triceps_overhead_extension_with_rope",
+  "document": "Exercise: Triceps Overhead Extension with Rope\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- triple_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hypertrophy_and_strength_development\n- isolation_of_the_triceps_muscle\n\nContraindications:\n\n- Shoulder instability or injury\n\nExercise Variations:\n\n- name: Triceps Overhead Extension with Rope - Single Arm, notes: Use a lighter weight and focus on form.\n- name: Triceps Overhead Extension with Rope - Superset, notes: Pair this exercise with another tricep exercise for increased intensity.\n\nSubstitution Options:\n\n- name: Triceps Dips, equipment: bench\n- name: Overhead Triceps Extension with Dumbbells, equipment: dumbbells\n\nInstructions:\n\n- Attach a rope to a low pulley. After selecting an appropriate weight, grasp the rope with both hands and face away from the cable.\n- Position your hands behind your head with your elbows point straight up. Your elbows should start out flexed, and you can stagger your stance and lean gently away from the machine to create greater stability. This will be your starting position.\n- To perform the movement, extend through the elbow while keeping the upper arm in position, raising your hands above your head.\n- Squeeze your triceps at the top of the movement, and slowly lower the weight back to the start position.",
+  "metadata": {
+    "exercise_id": "triceps_overhead_extension_with_rope",
+    "exercise_name": "triceps_overhead_extension_with_rope",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "triple_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hypertrophy_and_strength_development",
+      "isolation_of_the_triceps_muscle"
+    ],
+    "unilateral": false
+  }
+}

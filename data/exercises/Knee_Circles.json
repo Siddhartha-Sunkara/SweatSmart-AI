@@ -1,0 +1,32 @@
+{
+  "id": "knee_circles",
+  "document": "Exercise: Knee Circles\n\nCategory:\nstretching\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- circular\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\n\n- hamstrings\n- quadriceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- recent knee injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Stand with your legs together and hands by your waist.\n- Now move your knees in a circular motion as you breathe normally.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "knee_circles",
+    "exercise_name": "knee_circles",
+    "category": "stretching",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "circular"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

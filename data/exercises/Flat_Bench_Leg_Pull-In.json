@@ -1,0 +1,30 @@
+{
+  "id": "flat_bench_leg_pull_in",
+  "document": "Exercise: Flat Bench Leg Pull-In\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- bilateral\n- multi_joint\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Lower back pain, reason: May exacerbate existing conditions due to the pulling motion on the lower abdomen.\n- condition: Recent abdominal surgery, reason: May be too strenuous and could cause complications.\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- exercise_name: Bicycle Crunches, equipment: body only\n- exercise_name: Leg Raises, equipment: body only\n\nInstructions:\n\n- Lie on an exercise mat or a flat bench with your legs off the end.\n- Place your hands either under your glutes with your palms down or by the sides holding on to the bench (or with palms down by the side on an exercise mat). Also extend your legs straight out. This will be your starting position.\n- Bend your knees and pull your upper thighs into your midsection as you breathe out. Continue this movement until your knees are near your chest. Hold the contracted position for a second.\n- As you breathe in, slowly return to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "flat_bench_leg_pull_in",
+    "exercise_name": "flat_bench_leg_pull_in",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "bilateral",
+      "multi_joint"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

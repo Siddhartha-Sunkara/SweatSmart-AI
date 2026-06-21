@@ -1,0 +1,37 @@
+{
+  "id": "double_kettlebell_jerk",
+  "document": "Exercise: Double Kettlebell Jerk\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- push_pull\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- calves\n- quadriceps\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_shoulder_strength_and_power\n- enhance_overall_coordination_and_balance\n- improve_explosive_power\n\nContraindications:\n\n- Shoulder instability or injury\n- Knee pain or injury\n\nExercise Variations:\n\n- name: Kettlebell Clean and Press, instructions: ['Clean the kettlebells to your shoulders.', 'Press the kettlebells overhead.']\n- name: Split Jerk, instructions: ['Perform a split jerk with the kettlebells.']\n\nSubstitution Options:\n\n- exercise_name: Barbell Jerk, equipment: barbell\n- exercise_name: Single Kettlebell Jerk, equipment: single kettlebell\n\nInstructions:\n\n- Hold a kettlebell by the handle in each hand.\n- Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so, so that the palms face forward. This will be your starting position.\n- Dip your body by bending the knees, keeping your torso upright.\n- Immediately reverse direction, driving through the heels, in essence jumping to create momentum.\n- As you do so, press the kettlebells overhead to lockout by extending the arms, using your body's momentum to move the weights.\n- Return your feet to the ground in a split fashion, with one foot forward and one foot back.\n- Keeping the weights overhead, return to a standing position, bringing your feet together. Lower the weights to perform the next repetition.",
+  "metadata": {
+    "exercise_id": "double_kettlebell_jerk",
+    "exercise_name": "double_kettlebell_jerk",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "push_pull"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "triceps",
+      "quadriceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_shoulder_strength_and_power",
+      "enhance_overall_coordination_and_balance",
+      "improve_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

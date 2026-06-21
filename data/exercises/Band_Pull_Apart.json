@@ -1,0 +1,36 @@
+{
+  "id": "band_pull_apart",
+  "document": "Exercise: Band Pull Apart\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- external_rotation\n- lateral_shoulder_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- middle back\n- traps\n\nEquipment:\n\n- bands\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- develop_shoulder_stability_and_strength\n- improve_middle_back_and_trapezius_muscle_activation\n\nContraindications:\n\n- Shoulder instability or injury\n\nExercise Variations:\n\n- name: Single-Arm Band Pull Apart, notes: Use a single band and alternate arms for each repetition.\n- name: Band Pull Apart with Pause, notes: Pause at the bottom of the movement to increase time under tension.\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Lateral Raise, equipment: dumbbells\n\nInstructions:\n\n- Begin with your arms extended straight out in front of you, holding the band with both hands.\n- Initiate the movement by performing a reverse fly motion, moving your hands out laterally to your sides.\n- Keep your elbows extended as you perform the movement, bringing the band to your chest. Ensure that you keep your shoulders back during the exercise.\n- Pause as you complete the movement, returning to the starting position under control.",
+  "metadata": {
+    "exercise_id": "band_pull_apart",
+    "exercise_name": "band_pull_apart",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "external_rotation",
+      "lateral_shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "traps",
+      "middle_back"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "develop_shoulder_stability_and_strength",
+      "improve_middle_back_and_trapezius_muscle_activation"
+    ],
+    "unilateral": false
+  }
+}

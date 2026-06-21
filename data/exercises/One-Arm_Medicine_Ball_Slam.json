@@ -1,0 +1,37 @@
+{
+  "id": "one_arm_medicine_ball_slam",
+  "document": "Exercise: One-Arm Medicine Ball Slam\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- rotational\n- vertical_pulling\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- lats\n- shoulders\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- shoulder_mobility_and_strength\n- lats_activation\n- core_strength_and_stability\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Two-Arm Medicine Ball Slam, force: pull, level: intermediate, mechanic: compound, primaryMuscles: ['abdominals', 'lats'], secondaryMuscles: ['shoulders']\n\nSubstitution Options:\n\n- exercise_name: One-Arm Kettlebell Slam, equipment: kettlebell\n\nInstructions:\n\n- Start in a standing position with a staggered, athletic stance. Hold a medicine ball in one hand, on the same side as your back leg. This will be your starting position.\n- Begin by winding the arm, raising the medicine ball above your head. As you do so, extend through the hips, knees, and ankles to load up for the slam.\n- At peak extension, flex the shoulders, spine, and hips to throw the ball hard into the ground directly in front of you.\n- Catch the ball on the bounce and continue for the desired number of repetitions.",
+  "metadata": {
+    "exercise_id": "one_arm_medicine_ball_slam",
+    "exercise_name": "one_arm_medicine_ball_slam",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "rotational",
+      "vertical_pulling"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "shoulders"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "shoulder_mobility_and_strength",
+      "lats_activation",
+      "core_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "one_knee_to_chest",
+  "document": "Exercise: One Knee To Chest\n\nCategory:\nstretching\n\nExercise Type:\ncompound\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension_of_the_hip_joint\n- with_a_stretch_component_for_the_opposite_side's_hip_flexor\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- hamstrings\n- lower back\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n1.5\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- relieve_tension_in_the_lower_back\n- improve_flexibility_of_hip_flexors_and_glutes\n\nContraindications:\n\n- recent knee surgery\n- severe lower back pain\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Start off by lying on the floor.\n- Extend one leg straight and pull the other knee to your chest. Hold under the knee joint to protect the kneecap.\n- Gently tug that knee toward your nose.\n- Switch sides. This stretches the buttocks and lower back of the bent leg and the hip flexor of the straight leg.",
+  "metadata": {
+    "exercise_id": "one_knee_to_chest",
+    "exercise_name": "one_knee_to_chest",
+    "category": "stretching",
+    "exercise_type": "compound",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension_of_the_hip_joint",
+      "with_a_stretch_component_for_the_opposite_side's_hip_flexor"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "lower_back",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 1.5,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 0,
+    "goals": [
+      "relieve_tension_in_the_lower_back",
+      "improve_flexibility_of_hip_flexors_and_glutes"
+    ],
+    "unilateral": false
+  }
+}

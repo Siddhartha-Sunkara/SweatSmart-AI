@@ -1,0 +1,37 @@
+{
+  "id": "pallof_press",
+  "document": "Exercise: Pallof Press\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- shoulder_press\n- unilateral_core_stability\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\n\n- chest\n- shoulders\n- triceps\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_shoulder_press_strength_and_coordination\n- strengthen_core_stability_and_obliques\n\nContraindications:\n\n- Individuals with lower back pain should avoid this exercise if it exacerbates their condition.\n- Those with shoulder instability may need to modify or avoid the exercise.\n\nExercise Variations:\n\n- name: Pallof Press with a Twist, description: Perform the Pallof Press while simultaneously twisting your torso to challenge rotational stability.\n- name: Pallof Press with a Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Single-Arm Cable Press, equipment: cable\n- exercise_name: Landmine Press, equipment: barbell or dumbbells\n\nInstructions:\n\n- Connect a standard handle to a tower, and—if possible—position the cable to shoulder height. If not, a low pulley will suffice.\n- With your side to the cable, grab the handle with both hands and step away from the tower. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.\n- With your feet positioned hip-width apart and knees slightly bent, hold the cable to the middle of your chest. This will be your starting position.\n- Press the cable away from your chest, fully extending both arms. You core should be tight and engaged.\n- Hold the repetition for several seconds before returning to the starting position.\n- At the conclusion of the set, repeat facing the other direction.",
+  "metadata": {
+    "exercise_id": "pallof_press",
+    "exercise_name": "pallof_press",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "shoulder_press",
+      "unilateral_core_stability"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_shoulder_press_strength_and_coordination",
+      "strengthen_core_stability_and_obliques"
+    ],
+    "unilateral": false
+  }
+}

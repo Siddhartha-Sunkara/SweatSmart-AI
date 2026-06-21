@@ -1,0 +1,35 @@
+{
+  "id": "leverage_deadlift",
+  "document": "Exercise: Leverage Deadlift\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hinge\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- strengthening_the_posterior_chain\n- improving_hip_and_spinal_stability\n\nContraindications:\n\n- Lower back pain\n- Recent lower body surgery\n\nExercise Variations:\n\n- variation_name: Single Leg Leverage Deadlift, equipment: machine\n\nSubstitution Options:\n\n- exercise_name: Romanian Deadlift, equipment: barbell\n\nInstructions:\n\n- Load the pins to an appropriate weight. Position yourself directly between the handles. Grasp the bottom handles with a comfortable grip, and then lower your hips as you take a breath. Look forward with your head and keep your chest up. This will be your starting position.\n- Return the weight to the starting position.",
+  "metadata": {
+    "exercise_id": "leverage_deadlift",
+    "exercise_name": "leverage_deadlift",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hinge"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "strengthening_the_posterior_chain",
+      "improving_hip_and_spinal_stability"
+    ],
+    "unilateral": false
+  }
+}

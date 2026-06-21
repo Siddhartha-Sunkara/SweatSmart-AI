@@ -1,0 +1,37 @@
+{
+  "id": "smith_machine_leg_press",
+  "document": "Exercise: Smith Machine Leg Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- knee_flexion\n- hip_extension\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- quadriceps_hypertrophy\n- lower_body_strength\n\nContraindications:\n\n- condition: recent knee surgery, reason: potential strain on the healing tissue\n- condition: severe osteoporosis, reason: increased risk of bone fractures\n\nExercise Variations:\n\n- name: Smith Machine Leg Press with Smith Machine Bar Lowered, force: push, level: intermediate, mechanic: compound, primaryMuscles: ['quadriceps'], secondaryMuscles: ['calves', 'glutes', 'hamstrings']\n\nSubstitution Options:\n\n- name: Squats, equipment: bodyweight or barbell\n- name: Barbell Leg Press, equipment: machine\n\nInstructions:\n\n- Position a Smith machine bar a couple feet off of the ground. Ensure that it is resting on the safeties. After loading the bar to an appropriate weight, lie underneath the bar. Place the middle of your feet on the bar, tucking your knees to your chest. This will be your starting position.\n- Begin the movement by driving through your feet to move the bar upward, extending the hips and knees. Do not lock out your knees.\n- At the top of the motion, pause briefly before returning to the starting position.",
+  "metadata": {
+    "exercise_id": "smith_machine_leg_press",
+    "exercise_name": "smith_machine_leg_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "knee_flexion",
+      "hip_extension"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "quadriceps_hypertrophy",
+      "lower_body_strength"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sit_up",
+  "document": "Exercise: Sit-Up\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension_of_the_spine\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- core_strength_and_stability\n- abdominal_muscle_definition\n\nContraindications:\n\n- Lower back pain\n- Recent abdominal surgery\n\nExercise Variations:\n\n- name: Hanging Sit-Up, equipment: bar or pull-up bar\n- name: Ball Sit-Up, equipment: balance ball\n\nSubstitution Options:\n\n- exercise_name: Bicycle Crunches, equipment: body only\n- exercise_name: Reverse Crunches, equipment: body only\n\nInstructions:\n\n- Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.\n- Place your hands behind your head and lock them together by clasping your fingers. This is the starting position.\n- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhaling.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "sit_up",
+    "exercise_name": "sit_up",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension_of_the_spine"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "core_strength_and_stability",
+      "abdominal_muscle_definition"
+    ],
+    "unilateral": false
+  }
+}

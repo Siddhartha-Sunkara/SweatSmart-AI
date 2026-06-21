@@ -1,0 +1,38 @@
+{
+  "id": "one_leg_barbell_squat",
+  "document": "Exercise: One Leg Barbell Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- unilateral_lower_body_movement_with_a_barbell\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- balance_and_stability_improvement\n- hamstring_strengthening\n- glute_activation\n- quadriceps_development\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe back pain\n\nExercise Variations:\n\n- name: One Leg Barbell Squat with Pause at Bottom, instructions: ['Same as original but pause for 1-2 seconds at the bottom before returning to starting position.']\n- name: One Leg Barbell Squat with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- name: Single Leg Dumbbell Squat, equipment: dumbbells\n- name: Single Leg Romanian Deadlift, equipment: barbell or dumbbells\n\nInstructions:\n\n- Start by standing about 2 to 3 feet in front of a flat bench with your back facing the bench. Have a barbell in front of you on the floor. Tip: Your feet should be shoulder width apart from each other.\n- Bend the knees and use a pronated grip with your hands being wider than shoulder width apart from each other to lift the barbell up until you can rest it on your chest.\n- Then lift the barbell over your head and rest it on the base of your neck. Move one foot back so that your toe is resting on the flat bench. Your other foot should be stationary in front of you. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. Tip: Make sure your back is straight and chest is out while performing this exercise.\n- As you inhale, slowly lower your leg until your thigh is parallel to the floor. At this point, your knee should be over your toes. Your chest should be directly above the middle of your thigh.\n- Leading with the chest and hips and contracting the quadriceps, elevate your leg back to the starting position as you exhale.\n- Repeat for the recommended amount of repetitions.\n- Switch legs and repeat the movement.",
+  "metadata": {
+    "exercise_id": "one_leg_barbell_squat",
+    "exercise_name": "one_leg_barbell_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "unilateral_lower_body_movement_with_a_barbell"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "balance_and_stability_improvement",
+      "hamstring_strengthening",
+      "glute_activation",
+      "quadriceps_development"
+    ],
+    "unilateral": false
+  }
+}

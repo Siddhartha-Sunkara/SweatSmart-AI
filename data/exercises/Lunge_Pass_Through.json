@@ -1,0 +1,37 @@
+{
+  "id": "lunge_pass_through",
+  "document": "Exercise: Lunge Pass Through\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_lower_body_compound_movement\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- calves\n- glutes\n- quadriceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy_of_the_hamstrings,_glutes,_and_quadriceps\n- improving_unilateral_lower_body_strength_and_stability\n- enhancing_coordination_and_balance\n\nContraindications:\n\n- Recent or chronic knee injuries\n- Severe hip instability or pain\n\nExercise Variations:\n\n- name: Lunge Pass Through with Dumbbells, equipment: dumbbells\n- name: Lunge Pass Through with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Single-Leg RDL with Kettlebell, equipment: kettlebells\n- exercise_name: Split Squat with Kettlebell, equipment: kettlebells\n\nInstructions:\n\n- Stand with your torso upright holding a kettlebell in your right hand. This will be your starting position.\n- Step forward with your left foot and lower your upper body down by flexing the hip and the knee, keeping the torso upright. Lower your back knee until it nearly touches the ground.\n- As you lunge, pass the kettlebell under your front leg to your opposite hand.\n- Pressing through the heel of your foot, return to the starting position.\n- Repeat the movement for the recommended amount of repetitions, alternating legs.",
+  "metadata": {
+    "exercise_id": "lunge_pass_through",
+    "exercise_name": "lunge_pass_through",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_lower_body_compound_movement"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "quadriceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy_of_the_hamstrings,_glutes,_and_quadriceps",
+      "improving_unilateral_lower_body_strength_and_stability",
+      "enhancing_coordination_and_balance"
+    ],
+    "unilateral": false
+  }
+}

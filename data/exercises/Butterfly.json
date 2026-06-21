@@ -1,0 +1,32 @@
+{
+  "id": "butterfly",
+  "document": "Exercise: Butterfly\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_upper_body_symmetry\n- build_chest_muscle_strength_and_size\n\nContraindications:\n\n- Individuals with shoulder injuries should avoid this exercise or modify the movement to reduce strain.\n\nExercise Variations:\n\n- name: Incline Butterfly, mechanic: compound, primaryMuscles: ['chest', 'triceps']\n- name: Decline Butterfly, mechanic: compound, primaryMuscles: ['chest', 'triceps']\n\nSubstitution Options:\n\n- exercise_name: Push-ups, equipment: bodyweight\n- exercise_name: Dumbbell Chest Press, equipment: dumbbells\n\nInstructions:\n\n- Sit on the machine with your back flat on the pad.\n- Take hold of the handles. Tip: Your upper arms should be positioned parallel to the floor; adjust the machine accordingly. This will be your starting position.\n- Push the handles together slowly as you squeeze your chest in the middle. Breathe out during this part of the motion and hold the contraction for a second.\n- Return back to the starting position slowly as you inhale until your chest muscles are fully stretched.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "butterfly",
+    "exercise_name": "butterfly",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_upper_body_symmetry",
+      "build_chest_muscle_strength_and_size"
+    ],
+    "unilateral": false
+  }
+}

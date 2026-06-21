@@ -1,0 +1,31 @@
+{
+  "id": "one_legged_cable_kickback",
+  "document": "Exercise: One-Legged Cable Kickback\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_hip_extension\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- hamstrings\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Recent or chronic knee injury, reason: May exacerbate knee issues\n- condition: Lower back pain, reason: Can increase lumbar strain if not performed correctly\n\nExercise Variations:\n\n- name: One-Legged Cable Kickback with Dumbbell, equipment: ['cable', 'dumbbell']\n- name: One-Legged Cable Kickback with Resistance Band, equipment: ['cable', 'resistance band']\n\nSubstitution Options:\n\n- exercise_name: Single-Leg Glute Bridge, equipment: bodyweight\n- exercise_name: Seated Cable Kickback, equipment: cable\n\nInstructions:\n\n- Hook a leather ankle cuff to a low cable pulley and then attach the cuff to your ankle.\n- Face the weight stack from a distance of about two feet, grasping the steel frame for support.\n- While keeping your knees and hips bent slightly and your abs tight, contract your glutes to slowly \"kick\" the working leg back in a semicircular arc as high as it will comfortably go as you breathe out. Tip: At full extension, squeeze your glutes for a second in order to achieve a peak contraction.\n- Now slowly bring your working leg forward, resisting the pull of the cable until you reach the starting position.\n- Repeat for the recommended amount of repetitions.\n- Switch legs and repeat the movement for the other side.",
+  "metadata": {
+    "exercise_id": "one_legged_cable_kickback",
+    "exercise_name": "one_legged_cable_kickback",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_hip_extension"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "iron_cross",
+  "document": "Exercise: Iron Cross\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- external_rotation\n- shoulder_horizontal_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- chest\n- glutes\n- hamstrings\n- lower back\n- quadriceps\n- traps\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- overall_upper_body_development\n- shoulder_strength_and_stability\n\nContraindications:\n\n- shoulder instability or injury\n- rotator cuff issues\n\nExercise Variations:\n\n- name: Kettlebell Iron Cross, equipment: kettlebell\n- name: Dumbbell Single-Arm Lateral Raise, equipment: dumbbell\n\nSubstitution Options:\n\n- name: Dumbbell Lateral Raise, equipment: dumbbell\n- name: Barbell Upright Row, equipment: barbell\n\nInstructions:\nNone",
+  "metadata": {
+    "exercise_id": "iron_cross",
+    "exercise_name": "iron_cross",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "external_rotation",
+      "shoulder_horizontal_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "chest",
+      "glutes",
+      "lower_back",
+      "traps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "overall_upper_body_development",
+      "shoulder_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

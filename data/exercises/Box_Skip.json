@@ -1,0 +1,38 @@
+{
+  "id": "box_skip",
+  "document": "Exercise: Box Skip\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump_with_lateral_movement\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- glutes\n- quadriceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_explosive_power\n- enhance_coordination_and_balance\n\nContraindications:\n\n- Recent lower back injury\n- Knee instability or pain\n\nExercise Variations:\n\n- name: Single-Leg Box Skip, primaryMuscles: ['hamstrings', 'quadriceps']\n\nSubstitution Options:\n\n- name: Jump Rope, force: push, level: beginner\n\nInstructions:\n\n- You will need several boxes lined up about 8 feet apart.\n- Begin facing the first box with one leg slightly behind the other.\n- Drive off the back leg, attempting to gain as much height with the hips as possible.\n- Immediately upon landing on the box, drive the other leg forward and upward to gain height and distance, leaping from the box. Land between the first two boxes with the same leg that landed on the first box.\n- Then, step to the next box and repeat.",
+  "metadata": {
+    "exercise_id": "box_skip",
+    "exercise_name": "box_skip",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump_with_lateral_movement"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "quadriceps",
+      "glutes",
+      "adductors",
+      "abductors",
+      "calves"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_explosive_power",
+      "enhance_coordination_and_balance"
+    ],
+    "unilateral": false
+  }
+}

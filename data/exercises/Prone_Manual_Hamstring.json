@@ -1,0 +1,31 @@
+{
+  "id": "prone_manual_hamstring",
+  "document": "Exercise: Prone Manual Hamstring\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- extension_of_the_knee_joint\n- flexion\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hamstring_strength_and_endurance\n- neural_activation_of_the_hamstrings\n\nContraindications:\n\n- Recent hamstring injury or surgery\n\nExercise Variations:\n\n- name: Partner Resistance with Different Angles, description: Perform the exercise while your partner changes their hand position on your heel, varying angles to target different parts of the hamstrings.\n- name: Single-Leg Variation, description: Perform the exercise using one leg at a time for increased challenge and isolation.\n\nSubstitution Options:\n\n- exercise_name: Seated Hamstring Curls, equipment: cable machine\n- exercise_name: Romanian Deadlifts, equipment: barbell or dumbbells\n\nInstructions:\n\n- You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.\n- To begin, flex the knee to curl your leg up. Your partner should provide resistance, starting light and increasing the pressure as the movement is completed. Communicate with your partner to monitor appropriate resistance levels.\n- Pause at the top, returning the leg to the starting position as your partner provides resistance going the other direction.",
+  "metadata": {
+    "exercise_id": "prone_manual_hamstring",
+    "exercise_name": "prone_manual_hamstring",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "extension_of_the_knee_joint",
+      "flexion"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstring_strength_and_endurance",
+      "neural_activation_of_the_hamstrings"
+    ],
+    "unilateral": false
+  }
+}

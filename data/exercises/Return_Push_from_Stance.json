@@ -1,0 +1,35 @@
+{
+  "id": "return_push_from_stance",
+  "document": "Exercise: Return Push from Stance\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- chest\n- triceps\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nexplosive\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- improve_upper_body_power\n- enhance_coordination\n\nContraindications:\n\n- shoulder instability\n- recent shoulder surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- You will need a partner for this drill.\n- Begin in an athletic 2 or 3 point stance.\n- At the signal, move into a position to receive the pass from your partner.\n- Catch the medicine ball with both hands and immediately throw it back to your partner.\n- You can modify this drill by running different routes.",
+  "metadata": {
+    "exercise_id": "return_push_from_stance",
+    "exercise_name": "return_push_from_stance",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "triceps"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "explosive",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_upper_body_power",
+      "enhance_coordination"
+    ],
+    "unilateral": false
+  }
+}

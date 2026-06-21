@@ -1,0 +1,33 @@
+{
+  "id": "lying_dumbbell_tricep_extension",
+  "document": "Exercise: Lying Dumbbell Tricep Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- shoulders\n- triple_joint_movement_focusing_on_the_triceps_with_secondary_involvement_of_chest\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high due to isolation nature and use of free weights\n\nRecovery Time:\n1.5 hours\n\nGoals:\nNone\n\nContraindications:\n\n- Individuals with shoulder instability or injuries should avoid this exercise due to the overhead nature of the movement.\n- Those with elbow issues may experience discomfort and should modify the range of motion.\n\nExercise Variations:\n\n- name: Single Arm Lying Dumbbell Tricep Extension, notes: Focus on one arm at a time to ensure even muscle development and control.\n- name: Lying Cable Tricep Extension, equipment: cable machine\n\nSubstitution Options:\n\n- exercise_name: Tricep Pushdown Machine, equipment: cable machine\n- exercise_name: Overhead Dumbbell Extension, equipment: dumbbells\n\nInstructions:\n\n- Lie on a flat bench while holding two dumbbells directly in front of you. Your arms should be fully extended at a 90-degree angle from your torso and the floor. The palms should be facing in and the elbows should be tucked in. This is the starting position.\n- As you breathe in and you keep the upper arms stationary with the elbows in, slowly lower the weight until the dumbbells are near your ears.\n- At that point, while keeping the elbows in and the upper arms stationary, use the triceps to bring the weight back up to the starting position as you breathe out.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "lying_dumbbell_tricep_extension",
+    "exercise_name": "lying_dumbbell_tricep_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "shoulders",
+      "triple_joint_movement_focusing_on_the_triceps_with_secondary_involvement_of_chest"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high_due_to_isolation_nature_and_use_of_free_weights",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

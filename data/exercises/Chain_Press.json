@@ -1,0 +1,32 @@
+{
+  "id": "chain_press",
+  "document": "Exercise: Chain Press\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder instability, reason: The exercise places significant stress on the shoulder joint.\n- condition: recent rotator cuff injury, reason: May exacerbate existing injuries.\n\nExercise Variations:\n\n- name: Incline Chain Press, angle: 45 degrees\n- name: Decline Chain Press, angle: 30 degrees\n\nSubstitution Options:\n\n- exercise_name: Barbell Bench Press, equipment: barbell\n- exercise_name: Dumbbell Bench Press, equipment: dumbbells\n\nInstructions:\n\n- Begin by connecting the chains to the cable handle attachments. Position yourself on the flat bench in the same position as for a dumbbell press. Your wrists should be pronated and arms perpendicular to the floor. This will be your starting position.\n- Lower the chains by flexing the elbows, unloading some of the chain onto the floor.\n- Continue until your elbow forms a 90 degree angle, and then reverse the motion by extending through the elbow to lockout.",
+  "metadata": {
+    "exercise_id": "chain_press",
+    "exercise_name": "chain_press",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

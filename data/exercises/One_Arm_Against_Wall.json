@@ -1,0 +1,30 @@
+{
+  "id": "one_arm_against_wall",
+  "document": "Exercise: One Arm Against Wall\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_isometric_hold\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow to moderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_latissimus_dorsi_flexibility\n- enhance_shoulder_mobility\n\nContraindications:\n\n- shoulder instability\n- latissimus dorsi injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- From a standing position, place a bent arm against a wall or doorway.\n- Slowly lean toward your arm until you feel a stretch in your lats.",
+  "metadata": {
+    "exercise_id": "one_arm_against_wall",
+    "exercise_name": "one_arm_against_wall",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_isometric_hold"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low_to_moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_latissimus_dorsi_flexibility",
+      "enhance_shoulder_mobility"
+    ],
+    "unilateral": false
+  }
+}

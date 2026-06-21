@@ -1,0 +1,32 @@
+{
+  "id": "spider_curl",
+  "document": "Exercise: Spider Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- bicep_curl\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- e_z_curl_bar\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- biceps_hypertrophy\n- isolation_biceps_training\n\nContraindications:\n\n- Shoulder impingement\n- Bicep tendonitis\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- name: Barbell Curl, equipment: barbell\n- name: Hammer Curl, equipment: dumbbells\n\nInstructions:\n\n- Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off.\n- Move to the front side of the preacher bench (the part where the arms usually lay) and position yourself to lay at a 45 degree slant with your torso and stomach pressed against the front side of the preacher bench.\n- Make sure that your feet (especially the toes) are well positioned on the floor and place your upper arms on top of the pad located on the inside part of the preacher bench.\n- Use your arms to grab the barbell with a supinated grip (palms facing up) at about shoulder width apart or slightly closer from each other.\n- Slowly begin to lift the barbell upwards and exhale. Hold the contracted position for a second as you squeeze the biceps.\n- Slowly begin to bring the barbell back to the starting position as your breathe in. .\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "spider_curl",
+    "exercise_name": "spider_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "bicep_curl"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "e_z_curl_bar"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "biceps_hypertrophy",
+      "isolation_biceps_training"
+    ],
+    "unilateral": false
+  }
+}

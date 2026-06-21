@@ -1,0 +1,35 @@
+{
+  "id": "plyo_kettlebell_pushups",
+  "document": "Exercise: Plyo Kettlebell Pushups\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power_and_explosiveness\n\nContraindications:\n\n- Shoulder injuries\n- Recent wrist or elbow surgeries\n\nExercise Variations:\n\n- name: Plyo Kettlebell Pushups with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- name: Plyo Pushups, equipment: none\n\nInstructions:\n\n- Place a kettlebell on the floor. Place yourself in a pushup position, on your toes with one hand on the ground and one hand holding the kettlebell, with your elbows extended. This will be your starting position.\n- Begin by lowering yourself as low as you can, keeping your back straight.\n- Quickly and forcefully reverse direction, pushing yourself up to the other side of the kettlebell, switching hands as you do so. Continue the movement by descending and repeating the movement back and forth.",
+  "metadata": {
+    "exercise_id": "plyo_kettlebell_pushups",
+    "exercise_name": "plyo_kettlebell_pushups",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power_and_explosiveness"
+    ],
+    "unilateral": false
+  }
+}

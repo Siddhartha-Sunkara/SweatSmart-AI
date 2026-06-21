@@ -1,0 +1,40 @@
+{
+  "id": "heaving_snatch_balance",
+  "document": "Exercise: Heaving Snatch Balance\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_pushing\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abdominals\n- forearms\n- glutes\n- hamstrings\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- enhancing_shoulder_stability_and_mobility\n- developing_explosive_power_in_the_upper_body_and_legs\n- improving_coordination_and_timing_for_snatch_execution\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Heaving Snatch Balance with Medicine Ball, equipment: medicine ball\n\nSubstitution Options:\n\n- exercise_name: Clean Balance, equipment: barbell\n\nInstructions:\n\n- This drill helps you learn the snatch. Begin by holding a light weight across the back of the shoulders. Your feet should be slightly wider than hip width apart with the feet turned out, the same position that you would perform a squat with.\n- Begin by dipping with the knees slightly, and popping back up to briefly unload the bar. Drive yourself underneath the bar, elevating it overhead as you descend into a full squat.\n- Return to a standing position.",
+  "metadata": {
+    "exercise_id": "heaving_snatch_balance",
+    "exercise_name": "heaving_snatch_balance",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_pushing"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "glutes",
+      "forearms",
+      "shoulders",
+      "triceps",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 24,
+    "goals": [
+      "enhancing_shoulder_stability_and_mobility",
+      "developing_explosive_power_in_the_upper_body_and_legs",
+      "improving_coordination_and_timing_for_snatch_execution"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "band_good_morning_pull_through",
+  "document": "Exercise: Band Good Morning (Pull Through)\n\nCategory:\npowerlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- hip_hinge\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- glutes\n- lower back\n\nEquipment:\n\n- bands\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hamstring_strength\n- spinal_stability\n- glute_activation\n\nContraindications:\n\n- Lower back pain\n\nExercise Variations:\n\n- name: Single Leg Good Morning (Pull Through), equipment: bands\n\nSubstitution Options:\n\n- name: Romanian Deadlift, equipment: barbell\n\nInstructions:\n\n- Loop the band around a post. Standing a little ways away, loop the opposite end around the neck. Your hands can help hold the band in position.\n- Begin by bending at the hips, getting your butt back as far as possible. Keep your back flat and bend forward to about 90 degrees. Your knees should be only slightly bent.\n- Return to the starting position be driving through with the hips to come back to a standing position.",
+  "metadata": {
+    "exercise_id": "band_good_morning_pull_through",
+    "exercise_name": "band_good_morning_(pull_through)",
+    "category": "powerlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "hip_hinge"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back"
+    ],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstring_strength",
+      "spinal_stability",
+      "glute_activation"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bicycling_stationary",
+  "document": "Exercise: Bicycling, Stationary\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- cyclical\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- cardiovascular_fitness\n- lower_body_strength_and_endurance\n\nContraindications:\n\n- Recent knee or hip surgery\n- Severe cardiovascular conditions\n\nExercise Variations:\n\n- name: High-Resistance Interval Training, description: Increase resistance and decrease speed for short intervals.\n- name: Low-Resistance Continuous Cycling, description: Maintain a steady, low-resistance pace for an extended period.\n\nSubstitution Options:\n\n- exercise_name: Elliptical Trainer, equipment: machine\n- exercise_name: Treadmill Walking, equipment: machine\n\nInstructions:\n\n- To begin, seat yourself on the bike and adjust the seat to your height.\n- Select the desired option from the menu. You may have to start pedaling to turn it on. You can use the manual setting, or you can select a program to use. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. The level of resistance can be changed throughout the workout. The handles can be used to monitor your heart rate to help you stay at an appropriate intensity.",
+  "metadata": {
+    "exercise_id": "bicycling_stationary",
+    "exercise_name": "bicycling,_stationary",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "cyclical"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "cardiovascular_fitness",
+      "lower_body_strength_and_endurance"
+    ],
+    "unilateral": false
+  }
+}

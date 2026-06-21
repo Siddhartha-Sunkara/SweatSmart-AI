@@ -1,0 +1,36 @@
+{
+  "id": "chair_upper_body_stretch",
+  "document": "Exercise: Chair Upper Body Stretch\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- flexion\n- extension\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- biceps\n- chest\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- relax_chest_and_biceps_muscles\n- improve_shoulder_flexibility\n\nContraindications:\n\n- shoulder injuries\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Sit on the edge of a chair, gripping the back of it.\n- Straighten your arms, keeping your back straight, and pull your upper body forward so you feel a stretch. Hold for 20-30 seconds.",
+  "metadata": {
+    "exercise_id": "chair_upper_body_stretch",
+    "exercise_name": "chair_upper_body_stretch",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "flexion",
+      "extension"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "biceps"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "relax_chest_and_biceps_muscles",
+      "improve_shoulder_flexibility"
+    ],
+    "unilateral": false
+  }
+}

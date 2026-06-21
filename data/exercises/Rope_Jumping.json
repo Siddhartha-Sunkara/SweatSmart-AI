@@ -1,0 +1,32 @@
+{
+  "id": "rope_jumping",
+  "document": "Exercise: Rope Jumping\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_jumping\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: knee injury, reason: High impact and repetitive jumping can exacerbate knee injuries.\n- condition: back pain, reason: Incorrect form or excessive jumping can strain the back muscles.\n\nExercise Variations:\n\n- name: Double Rope Jumping, description: Use two ropes and jump over both simultaneously.\n- name: Single Leg Rope Jumping, description: Jump with one leg while the other remains on the ground, alternating legs.\n\nSubstitution Options:\n\n- exercise_name: Jumping Jacks, equipment: none\n\nInstructions:\n\n- Hold an end of the rope in each hand. Position the rope behind you on the ground. Raise your arms up and turn the rope over your head bringing it down in front of you. When it reaches the ground, jump over it. Find a good turning pace that can be maintained. Different speeds and techniques can be used to introduce variation.\n- Rope jumping is exciting, challenges your coordination, and requires a lot of energy. A 150 lb person will burn about 350 calories jumping rope for 30 minutes, compared to over 450 calories running.",
+  "metadata": {
+    "exercise_id": "rope_jumping",
+    "exercise_name": "rope_jumping",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_jumping"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}

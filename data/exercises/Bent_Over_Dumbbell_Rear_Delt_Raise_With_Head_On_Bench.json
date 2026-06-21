@@ -1,0 +1,32 @@
+{
+  "id": "bent_over_dumbbell_rear_delt_raise_with_head_on_bench",
+  "document": "Exercise: Bent Over Dumbbell Rear Delt Raise With Head On Bench\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_shoulder_abduction\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improvement_in_shoulder_width_and_posture\n- isolation_of_the_rear_deltoids\n\nContraindications:\n\n- condition: Shoulder instability, description: This exercise may exacerbate shoulder instability due to the overhead abduction movement. Consult a healthcare professional before attempting this exercise.\n- condition: Recent rotator cuff injury, description: The bent over position and overhead abduction can place undue stress on the rotator cuff. It is advisable to avoid this exercise until full recovery.\n\nExercise Variations:\n\n- name: Bent Over Dumbbell Rear Delt Raise Without Head On Bench, instructions: ['Stand up straight while holding a dumbbell in each hand.', 'While keeping your back straight and maintaining the natural arch of your back, lean forward until your torso is parallel to the floor. Let the arms hang in front of you perpendicular to the ground. The palms of your hands should be facing each other.', 'Keeping your torso stationary, lift the dumbbells straight to the side until both arms are parallel to the floor. Exhale as you lift the weights.', 'After a one second contraction at the top, slowly lower the dumbbells back to the starting position.', 'Repeat the recommended amount of repetitions.']\n\nSubstitution Options:\n\n- exercise_name: Machine Rear Delt Fly, equipment: cable machine\n- exercise_name: Dumbbell Lateral Raise, equipment: dumbbells\n\nInstructions:\n\n- Stand up straight while holding a dumbbell in each hand and with an incline bench in front of you.\n- While keeping your back straight and maintaining the natural arch of your back, lean forward until your forehead touches the bench in front of you. Let the arms hang in front of you perpendicular to the ground. The palms of your hands should be facing each other and your torso should be parallel to the floor. This will be your starting position.\n- Keeping your torso forward and stationary, and the arms straight with a slight bend at the elbows, lift the dumbbells straight to the side until both arms are parallel to the floor. Exhale as you lift the weights. Caution: avoid swinging the torso or bringing the arms back as opposed to the side.\n- After a one second contraction at the top, slowly lower the dumbbells back to the starting position.\n- Repeat the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "bent_over_dumbbell_rear_delt_raise_with_head_on_bench",
+    "exercise_name": "bent_over_dumbbell_rear_delt_raise_with_head_on_bench",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_shoulder_abduction"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improvement_in_shoulder_width_and_posture",
+      "isolation_of_the_rear_deltoids"
+    ],
+    "unilateral": false
+  }
+}

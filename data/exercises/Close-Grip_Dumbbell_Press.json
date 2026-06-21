@@ -1,0 +1,32 @@
+{
+  "id": "close_grip_dumbbell_press",
+  "document": "Exercise: Close-Grip Dumbbell Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- triple_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- chest\n- shoulders\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: shoulder instability, reason: The close-grip position can exacerbate shoulder issues in individuals with pre-existing conditions.\n\nExercise Variations:\n\n- variation_name: Incline Close-Grip Dumbbell Press, instructions: ['Place a dumbbell standing up on an incline bench.', 'Lie perpendicular to the bench with only your shoulders lying on the surface. Hips should be below the bench and your legs bent with your feet firmly on the floor.', \"Grasp the dumbbell with both hands and hold it straight over your chest at arm's length. Both palms should be pressing against the underside of the sides of the dumbbell. This will be your starting position.\", 'Initiate the movement by lowering the dumbbell to your chest.', 'Return to the starting position by extending the elbows.']\n\nSubstitution Options:\n\n- exercise_name: Close-Grip Barbell Press, equipment: barbell\n\nInstructions:\n\n- Place a dumbbell standing up on a flat bench.\n- Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench with only your shoulders lying on the surface. Hips should be below the bench and your legs bent with your feet firmly on the floor.\n- Grasp the dumbbell with both hands and hold it straight over your chest at arm's length. Both palms should be pressing against the underside of the sides of the dumbbell. This will be your starting position.\n- Initiate the movement by lowering the dumbbell to your chest.\n- Return to the starting position by extending the elbows.",
+  "metadata": {
+    "exercise_id": "close_grip_dumbbell_press",
+    "exercise_name": "close_grip_dumbbell_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "triple_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [],
+    "unilateral": false
+  }
+}

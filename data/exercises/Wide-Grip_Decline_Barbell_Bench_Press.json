@@ -1,0 +1,35 @@
+{
+  "id": "wide_grip_decline_barbell_bench_press",
+  "document": "Exercise: Wide-Grip Decline Barbell Bench Press\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- horizontal_pushing\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- upper_body_strength_enhancement\n- chest_hypertrophy\n\nContraindications:\n\n- Shoulder injuries or pain\n- Chest wall injuries or pain\n\nExercise Variations:\n\n- name: Close-Grip Variation, primaryMuscles: ['triceps']\n- name: Pec Deck Machine, equipment: machine\n\nSubstitution Options:\n\n- exercise_name: Incline Dumbbell Bench Press, equipment: dumbbells\n- exercise_name: Flat Barbell Bench Press, equipment: barbell\n\nInstructions:\n\n- Lie back on a decline bench with the feet securely locked at the front of the bench. Using a wide, pronated (palms forward) grip that is around 3 inches away from shoulder width (for each hand), lift the bar from the rack and hold it straight over you with your arms locked. The bar will be perpendicular to the torso and the floor. This will be your starting position.\n- As you breathe in, come down slowly until you feel the bar on your lower chest.\n- After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up.\n- Repeat the movement for the prescribed amount of repetitions.",
+  "metadata": {
+    "exercise_id": "wide_grip_decline_barbell_bench_press",
+    "exercise_name": "wide_grip_decline_barbell_bench_press",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "horizontal_pushing"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "upper_body_strength_enhancement",
+      "chest_hypertrophy"
+    ],
+    "unilateral": false
+  }
+}

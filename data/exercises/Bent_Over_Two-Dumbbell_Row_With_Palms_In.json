@@ -1,0 +1,35 @@
+{
+  "id": "bent_over_two_dumbbell_row_with_palms_in",
+  "document": "Exercise: Bent Over Two-Dumbbell Row With Palms In\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_row\n\nPrimary Muscles:\n\n- middle back\n\nSecondary Muscles:\n\n- biceps\n- lats\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- back_strength_and_hypertrophy\n- bicep_engagement\n\nContraindications:\n\n- Shoulder impingement\n- Lower back pain\n\nExercise Variations:\n\n- name: Bent Over Two-Dumbbell Row With Palms Out, force: pull, level: beginner\n\nSubstitution Options:\n\n- name: Single-Arm Dumbbell Row, force: pull, level: beginner\n\nInstructions:\n\n- With a dumbbell in each hand (palms facing each other), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.\n- While keeping the torso stationary, lift the dumbbells to your side as you breathe out, squeezing your shoulder blades together. On the top contracted position, squeeze the back muscles and hold for a second.\n- Slowly lower the weight again to the starting position as you inhale.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "bent_over_two_dumbbell_row_with_palms_in",
+    "exercise_name": "bent_over_two_dumbbell_row_with_palms_in",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_row"
+    ],
+    "primary_muscles": [
+      "middle_back"
+    ],
+    "secondary_muscles": [
+      "lats",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 24,
+    "goals": [
+      "back_strength_and_hypertrophy",
+      "bicep_engagement"
+    ],
+    "unilateral": false
+  }
+}

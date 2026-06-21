@@ -1,0 +1,70 @@
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: sweatsmart-qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      # Reuse the existing host folder so already-ingested data is preserved.
+      - ${QDRANT_STORAGE_PATH:-C:/Users/Asus/qdrant_storage}:/qdrant/storage
+
+  redis:
+    image: redis/redis-stack:latest          # includes RediSearch (required for SemanticCache vector index)
+    container_name: sweatsmart-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+      - "8001:8001"                          # RedisInsight UI
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 10
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sweatsmart-app:latest
+    container_name: sweatsmart-app
+    restart: unless-stopped
+    depends_on:
+      qdrant:
+        condition: service_started
+      redis:
+        condition: service_healthy
+    env_file:
+      - .env                                 # GROQ_API_KEY, LANGCHAIN_* etc.
+    environment:
+      # Compose-internal service URLs override anything in .env
+      QDRANT_URL: http://qdrant:6333
+      REDIS_URL: redis://redis:6379
+      SEMANTIC_CACHE_ENABLED: "true"
+      USE_HYBRID: "false"
+    ports:
+      - "8000:8000"
+    volumes:
+      - hf_cache:/cache/huggingface          # BGE model persists across container restarts
+
+  # One-off ingestion: `docker compose --profile ingest run --rm ingest`
+  ingest:
+    extends:
+      service: app
+    container_name: sweatsmart-ingest
+    profiles: ["ingest"]
+    restart: "no"
+    depends_on:
+      qdrant:
+        condition: service_started
+    ports: []                                # no need to publish 8000
+    command: ["python", "-m", "scripts.upload_to_qdrant"]
+    healthcheck:
+      disable: true
+
+volumes:
+  redis_data:
+  hf_cache:

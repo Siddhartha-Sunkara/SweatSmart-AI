@@ -1,0 +1,38 @@
+{
+  "id": "push_up_to_side_plank",
+  "document": "Exercise: Push Up to Side Plank\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- rotational\n- push\n\nPrimary Muscles:\n\n- chest\n\nSecondary Muscles:\n\n- abdominals\n- shoulders\n- triceps\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- upper_body_coordination\n- core_stability_and_endurance\n- chest_strength_and_size\n\nContraindications:\n\n- Shoulder injuries\n- Lower back pain\n\nExercise Variations:\n\n- name: Push Up to Side Plank with Leg Lift, force: push and leg lift, level: advanced, mechanic: compound, equipment: body only\n- name: Push Up to Side Plank with Hip Extension, force: push and hip extension, level: intermediate, mechanic: compound, equipment: body only\n\nSubstitution Options:\n\n- name: Incline Push Up to Side Plank, force: push, level: beginner, mechanic: compound, equipment: body only\n- name: Decline Push Up to Side Plank, force: push, level: intermediate, mechanic: compound, equipment: body only\n\nInstructions:\n\n- Get into pushup position on the toes with your hands just outside of shoulder width.\n- Perform a pushup by allowing the elbows to flex. As you descend, keep your body straight.\n- Do one pushup and as you come up, shift your weight on the left side of the body, twist to the side while bringing the right arm up towards the ceiling in a side plank.\n- Lower the arm back to the floor for another pushup and then twist to the other side.\n- Repeat the series, alternating each side, for 10 or more reps.",
+  "metadata": {
+    "exercise_id": "push_up_to_side_plank",
+    "exercise_name": "push_up_to_side_plank",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "rotational",
+      "push"
+    ],
+    "primary_muscles": [
+      "chest"
+    ],
+    "secondary_muscles": [
+      "triceps",
+      "abdominals",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "upper_body_coordination",
+      "core_stability_and_endurance",
+      "chest_strength_and_size"
+    ],
+    "unilateral": false
+  }
+}

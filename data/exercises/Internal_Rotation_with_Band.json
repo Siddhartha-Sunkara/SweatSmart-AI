@@ -1,0 +1,32 @@
+{
+  "id": "internal_rotation_with_band",
+  "document": "Exercise: Internal Rotation with Band\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_shoulder_internal_rotation\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bands\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improving_shoulder_flexibility\n- shoulder_strength_and_stability\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent shoulder surgery\n\nExercise Variations:\n\n- variation_name: Band Resistance Level Increase, description: Increase the resistance of the band to challenge the muscles further.\n- variation_name: Single Arm Dumbbell Internal Rotation, equipment: dumbbells\n\nSubstitution Options:\n\n- exercise_name: Internal Shoulder Rotation with Cable Machine, equipment: cable machine\n\nInstructions:\n\n- Choke the band around a post. The band should be at the same height as your elbow. Stand with your right side to the band a couple of feet away.\n- Grasp the end of the band with your right hand, and keep your elbow pressed firmly to your side. We recommend you hold a pad or foam roll in place with your elbow to keep it firmly in position.\n- With your upper arm in position, your elbow should be flexed to 90 degrees with your hand reaching away from your torso. This will be your starting position.\n- Execute the movement by rotating your arm in a forehand motion, keeping your elbow in place.\n- Continue as far as you are able, pause, and then return to the starting position.",
+  "metadata": {
+    "exercise_id": "internal_rotation_with_band",
+    "exercise_name": "internal_rotation_with_band",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_shoulder_internal_rotation"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bands"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improving_shoulder_flexibility",
+      "shoulder_strength_and_stability"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "triceps_stretch",
+  "document": "Exercise: Triceps Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- isometric_contraction\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\n\n- lats\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- improve_triceps_flexibility\n- enhance_shoulder_mobility\n\nContraindications:\n\n- shoulder instability\n- recent elbow injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Reach your hand behind your head, grasp your elbow and gently pull. Hold for 10 to 20 seconds, then switch sides.",
+  "metadata": {
+    "exercise_id": "triceps_stretch",
+    "exercise_name": "triceps_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "isometric_contraction"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [
+      "lats"
+    ],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [
+      "improve_triceps_flexibility",
+      "enhance_shoulder_mobility"
+    ],
+    "unilateral": false
+  }
+}

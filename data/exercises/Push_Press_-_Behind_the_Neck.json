@@ -1,0 +1,36 @@
+{
+  "id": "push_press___behind_the_neck",
+  "document": "Exercise: Push Press - Behind the Neck\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- calves\n- quadriceps\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- developing_shoulder_and_triceps_strength\n- improving_explosive_power\n\nContraindications:\n\n- Shoulder instability\n- Rotator cuff injury\n\nExercise Variations:\n\n- name: Push Press - Front Load, equipment: barbell\n- name: Strict Military Press, equipment: dumbbells or barbell\n\nSubstitution Options:\n\n- exercise_name: Overhead Squat, equipment: barbell\n\nInstructions:\n\n- Standing with the weight racked on the back of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible. Drive through the heels create as much speed and force as possible, moving the bar in a vertical path.\n- Using the momentum generated, finish pressing the weight overhead be extending through the arms.\n- Return to the starting position, using your legs to absorb the impact.",
+  "metadata": {
+    "exercise_id": "push_press___behind_the_neck",
+    "exercise_name": "push_press___behind_the_neck",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "triceps",
+      "quadriceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "developing_shoulder_and_triceps_strength",
+      "improving_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

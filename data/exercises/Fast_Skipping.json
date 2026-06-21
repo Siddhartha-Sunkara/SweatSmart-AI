@@ -1,0 +1,39 @@
+{
+  "id": "fast_skipping",
+  "document": "Exercise: Fast Skipping\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump_with_horizontal_displacement\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_explosive_power\n- improve_cardiovascular_fitness\n- strengthen_leg_muscles\n\nContraindications:\n\n- condition: recent lower body injury, reason: high impact and rapid loading may exacerbate injuries\n\nExercise Variations:\n\n- name: High Knees, force: push, level: beginner, mechanic: compound, primaryMuscles: ['quadriceps', 'hamstrings']\n\nSubstitution Options:\n\n- exercise_name: Jump Rope, equipment: jump rope\n\nInstructions:\n\n- Start in a relaxed position with one leg slightly forward. This will be your starting position.\n- Skip by executing a step-hop pattern of right-right-step to left-left-step, and so on, alternating back and forth.\n- Perform fast skips by maintaining close contact with the ground and reduce air time, moving as quickly as possible.",
+  "metadata": {
+    "exercise_id": "fast_skipping",
+    "exercise_name": "fast_skipping",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump_with_horizontal_displacement"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "adductors",
+      "abductors",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_explosive_power",
+      "improve_cardiovascular_fitness",
+      "strengthen_leg_muscles"
+    ],
+    "unilateral": false
+  }
+}

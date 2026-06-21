@@ -1,0 +1,30 @@
+{
+  "id": "standing_soleus_and_achilles_stretch",
+  "document": "Exercise: Standing Soleus And Achilles Stretch\n\nCategory:\nstretching\n\nExercise Type:\nisolation\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_static_stretch\n\nPrimary Muscles:\n\n- calves\n\nSecondary Muscles:\nNone\n\nEquipment:\nNone\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.5\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_flexibility\n- reduce_muscle_tension\n\nContraindications:\n\n- acute calf injury\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- Stand with your feet hip-distance apart, one foot slightly in front of the other.\n- Bend both knees, keeping your back heel on the floor. Switch sides.",
+  "metadata": {
+    "exercise_id": "standing_soleus_and_achilles_stretch",
+    "exercise_name": "standing_soleus_and_achilles_stretch",
+    "category": "stretching",
+    "exercise_type": "isolation",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_static_stretch"
+    ],
+    "primary_muscles": [
+      "calves"
+    ],
+    "secondary_muscles": [],
+    "equipment": [],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.5,
+    "energy_requirement": "low",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_flexibility",
+      "reduce_muscle_tension"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "jefferson_squats",
+  "document": "Exercise: Jefferson Squats\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- knee_flexion\n- quad_dominant_hip\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- lower back\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PCr system, glycolytic pathway\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- quadriceps_hypertrophy\n- traps_engagement_for_better_posture\n- hamstring_engagement\n- glute_activation_and_strengthening\n- lower_back_stability\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe lower back pain\n\nExercise Variations:\n\n- name: Jefferson Squats with Dumbbells, equipment: ['dumbbells']\n- name: Jefferson Squats with Resistance Bands, equipment: ['resistance bands']\n\nSubstitution Options:\n\n- exercise_name: Sumo Deadlift High Pull, equipment: barbell\n- exercise_name: Romanian Deadlift, equipment: barbell\n\nInstructions:\n\n- Place a barbell on the floor.\n- Stand in the middle of the bar length wise.\n- Bend down by bending at the knees and keeping your back straight and grasp the front of the bar with your right hand. Your palm should be in (neutral grip) facing the left side.\n- Grasp the rear of the bar with your left hand. The palm of your hand should be in neutral grip alignment (palms facing the right side). Tip: Ensure that your grip is even on the bar. Your torso should be positioned right in the middle of the bar and the distance between your torso and your right hand (which should be at the front) should be the same as the distance between your torso and your left hand (which should be to your back).\n- Now stand straight up with the weight. Tip: Your feet should be shoulder width apart and your toes slightly pointed out.\n- Squat down by bending at the knees and keeping your back straight until your upper thighs are parallel with the floor. Tip: Keep your back as vertical as possible with the floor and your head up. Also remember to not let your knees go past your toes. Inhale during this portion of the movement.\n- Now drive yourself back up to the starting position by pushing with the feet . Tip: Keep the bar hanging at arm's length and your elbows locked with a slight bend. The arms only serve as hooks. Avoid doing any lifting with them. Do the lifting with your thighs; not your arms.",
+  "metadata": {
+    "exercise_id": "jefferson_squats",
+    "exercise_name": "jefferson_squats",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "knee_flexion",
+      "quad_dominant_hip"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "traps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pcr_system,_glycolytic_pathway",
+    "recovery_time_hours": 48,
+    "goals": [
+      "quadriceps_hypertrophy",
+      "traps_engagement_for_better_posture",
+      "hamstring_engagement",
+      "glute_activation_and_strengthening",
+      "lower_back_stability"
+    ],
+    "unilateral": false
+  }
+}

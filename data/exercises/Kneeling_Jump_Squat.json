@@ -1,0 +1,36 @@
+{
+  "id": "kneeling_jump_squat",
+  "document": "Exercise: Kneeling Jump Squat\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- lower_body_compound_movement\n\nPrimary Muscles:\n\n- glutes\n\nSecondary Muscles:\n\n- calves\n- hamstrings\n- quadriceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- improved_explosive_power_and_speed\n- hypertrophy_and_strength_gains_in_the_glutes,_quads,_hamstrings,_and_calves\n\nContraindications:\n\n- Recent knee or hip surgery\n- Severe joint pain or inflammation\n\nExercise Variations:\n\n- name: Kneeling Jump Squat with Dumbbells, equipment: dumbbells\n- name: Kneeling Jump Squat with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- name: Box Jump Squat, force: push, level: expert, mechanic: compound\n- name: Power Clean, force: pull, level: expert, mechanic: compound\n\nInstructions:\n\n- Begin kneeling on the floor with a barbell racked across the back of your shoulders, or you can use your body weight for this exercise. This can be done inside of a power rack to make unracking easier.\n- Sit back with your hips until your glutes touch your feet, keeping your head and chest up.\n- Explode up with your hips, generating enough power to land with your feet flat on the floor.\n- Continue with the squat by driving through your heels and extending the knees to come to a standing position.",
+  "metadata": {
+    "exercise_id": "kneeling_jump_squat",
+    "exercise_name": "kneeling_jump_squat",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "lower_body_compound_movement"
+    ],
+    "primary_muscles": [
+      "glutes"
+    ],
+    "secondary_muscles": [
+      "calves",
+      "hamstrings",
+      "quadriceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 48,
+    "goals": [
+      "improved_explosive_power_and_speed",
+      "hypertrophy_and_strength_gains_in_the_glutes,_quads,_hamstrings,_and_calves"
+    ],
+    "unilateral": false
+  }
+}

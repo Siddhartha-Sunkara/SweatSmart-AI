@@ -1,0 +1,36 @@
+{
+  "id": "wide_grip_pulldown_behind_the_neck",
+  "document": "Exercise: Wide-Grip Pulldown Behind The Neck\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- horizontal_pulling\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- biceps\n- middle back\n- shoulders\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate to high\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- develop_back_muscle_strength_and_size\n- improve_overall_upper_body_strength\n\nContraindications:\n\n- Shoulder impingement syndrome\n- Cervical spine issues\n\nExercise Variations:\n\n- name: Medium Grip Wide-Grip Pulldown Behind The Neck, grip_width: shoulder width\n- name: Close Grip Wide-Grip Pulldown Behind The Neck, grip_width: less than shoulder width\n\nSubstitution Options:\n\n- exercise_name: Wide-Grip Lat Pulldown, equipment: cable machine\n- exercise_name: Barbell Bent Over Row, equipment: barbell\n\nInstructions:\n\n- Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.\n- Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than your shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.\n- As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso and head forward. Think of an imaginary line from the center of the bar down to the back of your neck. This is your starting position.\n- As you breathe out, bring the bar down until it touches the back of your neck by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the bar; therefore do not try to pull down the bar using the forearms.\n- After a second on the contracted position squeezing your shoulder blades together, slowly raise the bar back to the starting position when your arms are fully extended and the lats are fully stretched. Inhale during this portion of the movement.\n- Repeat this motion for the prescribed amount of repetitions.",
+  "metadata": {
+    "exercise_id": "wide_grip_pulldown_behind_the_neck",
+    "exercise_name": "wide_grip_pulldown_behind_the_neck",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "horizontal_pulling"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "shoulders",
+      "middle_back",
+      "biceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate_to_high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "develop_back_muscle_strength_and_size",
+      "improve_overall_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

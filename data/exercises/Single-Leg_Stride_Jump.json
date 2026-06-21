@@ -1,0 +1,38 @@
+{
+  "id": "single_leg_stride_jump",
+  "document": "Exercise: Single-Leg Stride Jump\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- enhance_explosive_power\n- improve_unilateral_leg_strength_and_stability\n- increase_vertical_jump_height\n\nContraindications:\n\n- Recent lower body injury or surgery\n- Chronic knee pain\n\nExercise Variations:\n\n- name: Single-Leg Stride Jump with Medicine Ball, id: Single-Leg_Stride_Jump_Medicine_Ball\n\nSubstitution Options:\n\n- name: Single-Leg Box Jump, id: Single-Leg_Box_Jump\n\nInstructions:\n\n- Stand to the side of a box with your inside foot on top of it, close to the edge.\n- Begin by swinging the arms upward as you push through the top leg, jumping upward as high as possible. Attempt to drive the opposite knee upward.\n- Land in the same position that you started, using your inside leg to decelerate the impact.",
+  "metadata": {
+    "exercise_id": "single_leg_stride_jump",
+    "exercise_name": "single_leg_stride_jump",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abductors",
+      "calves",
+      "hamstrings",
+      "adductors"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "enhance_explosive_power",
+      "improve_unilateral_leg_strength_and_stability",
+      "increase_vertical_jump_height"
+    ],
+    "unilateral": false
+  }
+}

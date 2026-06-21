@@ -1,0 +1,38 @@
+{
+  "id": "narrow_stance_hack_squats",
+  "document": "Exercise: Narrow Stance Hack Squats\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- bilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nATP-PC and glycolytic\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- hamstring_engagement\n- quadriceps_hypertrophy\n- glute_activation_and_strength\n- calves_strengthening\n\nContraindications:\n\n- Recent knee surgery or injury\n- Severe knee pain or instability\n\nExercise Variations:\n\n- name: Wide Stance Hack Squats, stance: wide\n- name: Sumo Deadlifts into Hack Squat, mechanic: compound, mixed\n\nSubstitution Options:\n\n- exercise_name: Barbell Squats, equipment: barbell\n- exercise_name: Smith Machine Squats, equipment: smith machine\n\nInstructions:\n\n- Place the back of your torso against the back pad of the machine and hook your shoulders under the shoulder pads provided.\n- Position your legs in the platform using a less than shoulder width narrow stance with the toes slightly pointed out. Your feet should be around 3 inches or less apart. Tip: Keep your head up at all times and also maintain the back on the pad at all times.\n- Place your arms on the side handles of the machine and disengage the safety bars (which on most designs is done by moving the side handles from a facing front position to a diagonal position).\n- Now straighten your legs without locking the knees. This will be your starting position.\n- Begin to slowly lower the unit by bending the knees as you maintain a straight posture with the head up (back on the pad at all times). Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees (which is the point in which the upper legs are below parallel to the floor). Inhale as you perform this portion of the movement.\n- Begin to raise the unit as you exhale by pushing the floor with mainly with the heels of your feet as you straighten the legs again and go back to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "narrow_stance_hack_squats",
+    "exercise_name": "narrow_stance_hack_squats",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "bilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "atp_pc_and_glycolytic",
+    "recovery_time_hours": 24,
+    "goals": [
+      "hamstring_engagement",
+      "quadriceps_hypertrophy",
+      "glute_activation_and_strength",
+      "calves_strengthening"
+    ],
+    "unilateral": false
+  }
+}

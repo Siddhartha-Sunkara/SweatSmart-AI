@@ -1,0 +1,32 @@
+{
+  "id": "scissors_jump",
+  "document": "Exercise: Scissors Jump\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_jump_with_leg_switch\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- glutes\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Knee injury, notes: Avoid this exercise if you have a knee injury as it involves high-impact jumping.\n- condition: Recent surgery, notes: Wait until full recovery before attempting this exercise, especially if it involves the lower body.\n\nExercise Variations:\n\n- variation_name: Scissors Jump with Arm Swing, notes: Add arm swing to increase the range of motion and intensity.\n- variation_name: Single-Leg Scissors Jump, notes: Perform the exercise on one leg for increased difficulty and balance challenge.\n\nSubstitution Options:\n\n- exercise_name: Box Jump, notes: Replace scissors jump with a box jump for a similar leg switch action but less impact.\n\nInstructions:\n\n- Assume a lunge stance position with one foot forward with the knee bent, and the rear knee nearly touching the ground.\n- Ensure that the front knee is over the midline of the foot. Extending through both legs, jump as high as possible, swinging your arms to gain lift.\n- As you jump as high as you can, switch the position of your legs, moving your front leg to the back and the rear leg to the front.\n- As you land, absorb the impact through the legs by adopting the lunge position, and repeat.",
+  "metadata": {
+    "exercise_id": "scissors_jump",
+    "exercise_name": "scissors_jump",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_jump_with_leg_switch"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

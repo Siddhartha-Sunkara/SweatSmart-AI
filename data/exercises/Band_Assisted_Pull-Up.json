@@ -1,0 +1,37 @@
+{
+  "id": "band_assisted_pull_up",
+  "document": "Exercise: Band Assisted Pull-Up\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\nNone\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- horizontal_pulling\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- abdominals\n- forearms\n- middle back\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_latissimus_dorsi_activation\n- enhance_grip_strength_and_forearm_endurance\n- develop_upper_body_strength\n\nContraindications:\n\n- Shoulder impingement\n- Severe wrist or elbow injuries\n\nExercise Variations:\n\n- name: Band Assisted Chin-Up, primaryMuscles: ['lats', 'biceps']\n- name: Wide-Grip Band Assisted Pull-Up, primaryMuscles: ['lats', 'middle back']\n\nSubstitution Options:\n\n- exercise_name: Assisted Pull-Up Machine, equipment: machine\n- exercise_name: Bodyweight Pull-Up, equipment: bar\n\nInstructions:\n\n- Choke the band around the center of the pullup bar. You can use different bands to provide varying levels of assistance.\n- Pull the end of the band down, and place one bent knee into the loop, ensuring it won't slip out. Take a medium to wide grip on the bar. This will be your starting position.\n- Pull yourself upward by contracting the lats as you flex the elbow. The elbow should be driven to your side. Pull to the front, attempting to get your chin over the bar. Avoid swinging or jerking movements.\n- After a brief pause, return to the starting position.",
+  "metadata": {
+    "exercise_id": "band_assisted_pull_up",
+    "exercise_name": "band_assisted_pull_up",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "horizontal_pulling"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "middle_back",
+      "forearms"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_latissimus_dorsi_activation",
+      "enhance_grip_strength_and_forearm_endurance",
+      "develop_upper_body_strength"
+    ],
+    "unilateral": false
+  }
+}

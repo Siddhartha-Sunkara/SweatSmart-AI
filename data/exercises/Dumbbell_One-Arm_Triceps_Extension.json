@@ -1,0 +1,32 @@
+{
+  "id": "dumbbell_one_arm_triceps_extension",
+  "document": "Exercise: Dumbbell One-Arm Triceps Extension\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_overhead_extension\n\nPrimary Muscles:\n\n- triceps\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- tricep_hypertrophy\n- isolated_tricep_strength_development\n\nContraindications:\n\n- Shoulder instability or injury\n- Recent elbow surgery\n\nExercise Variations:\n\n- name: One-Arm Dumbbell Triceps Extension with Resistance Band, equipment: ['dumbbell', 'resistance band']\n- name: Dumbbell One-Arm Triceps Extension on Incline Bench, equipment: ['dumbbell', 'incline bench']\n\nSubstitution Options:\n\n- name: Triceps Pushdown Machine, equipment: cable machine\n- name: Dumbbell Tricep Extension, equipment: dumbbell\n\nInstructions:\n\n- Grab a dumbbell and either sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs or stand up straight.\n- Clean the dumbbell up to bring it to shoulder height and then extend the arm over your head so that the whole arm is perpendicular to the floor and next to your head. The dumbbell should be on top of you. The other hand can be kept fully extended to the side, by the waist, supporting the upper arm that has the dumbbell or grabbing a fixed surface.\n- Rotate the wrist so that the palm of your hand is facing forward and the pinkie is facing the ceiling. This will be your starting position.\n- Slowly lower the dumbbell behind your head as you hold the upper arm stationary. Inhale as you perform this movement and pause when your triceps are fully stretched.\n- Return to the starting position by flexing your triceps as you breathe out. Tip: It is imperative that only the forearm moves. The upper arm should remain at all times stationary next to your head.\n- Repeat for the recommended amount of repetitions and switch arms.",
+  "metadata": {
+    "exercise_id": "dumbbell_one_arm_triceps_extension",
+    "exercise_name": "dumbbell_one_arm_triceps_extension",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_overhead_extension"
+    ],
+    "primary_muscles": [
+      "triceps"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "tricep_hypertrophy",
+      "isolated_tricep_strength_development"
+    ],
+    "unilateral": false
+  }
+}

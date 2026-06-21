@@ -1,0 +1,33 @@
+{
+  "id": "cable_judo_flip",
+  "document": "Exercise: Cable Judo Flip\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- twisting\n- crunching\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- cable\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1.5 hours\n\nGoals:\n\n- improve_core_stability_and_balance\n- strengthen_abdominal_muscles\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Single-Arm Cable Judo Flip, force: pull, level: intermediate, mechanic: compound, primaryMuscles: ['abdominals'], secondaryMuscles: [], instructions: ['Connect a rope attachment to a tower, and move the cable to the lowest pulley position. Sit on a chair with your side to the cable.', 'Grasp one end of the rope with both hands and perform the judo flip movement as described in the original exercise.'], category: strength, images: ['Single_Arm_Cable_Judo_Flip/0.jpg'], id: Single_Arm_Cable_Judo_Flip\n\nSubstitution Options:\n\n- exercise_name: Seated Cable Crunch, equipment: cable\n\nInstructions:\n\n- Connect a rope attachment to a tower, and move the cable to the lowest pulley position. Stand with your side to the cable with a wide stance, and grab the rope with both hands.\n- Twist your body away from the pulley as you bring the rope over your shoulder like you're performing a judo flip.\n- Shift your weight between your feet as you twist and crunch forward, pulling the cable downward.\n- Return to the starting position and repeat until failure.\n- Then, reposition and repeat the same series of movements on the opposite side.",
+  "metadata": {
+    "exercise_id": "cable_judo_flip",
+    "exercise_name": "cable_judo_flip",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "twisting",
+      "crunching"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_core_stability_and_balance",
+      "strengthen_abdominal_muscles"
+    ],
+    "unilateral": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "side_to_side_box_shuffle",
+  "document": "Exercise: Side to Side Box Shuffle\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- lateral_movement_with_jumping\n- landing\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- abductors\n- adductors\n- calves\n- hamstrings\n\nEquipment:\n\n- other\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- improve_explosive_power\n- enhance_lateral_stability_and_agility\n\nContraindications:\n\n- Recent lower body injury\n- Chronic knee or ankle issues\n\nExercise Variations:\n\n- name: Single Leg Box Shuffle, primaryMuscles: ['quadriceps', 'hamstrings']\n\nSubstitution Options:\n\n- exercise_name: Side to Side Hop, equipment: no equipment\n\nInstructions:\n\n- Stand to one side of the box with your left foot resting on the middle of it.\n- To begin, jump up and over to the other side of the box, landing with your right foot on top of the box and your left foot on the floor. Swing your arms to aid your movement.\n- Continue shuffling back and forth across the box.",
+  "metadata": {
+    "exercise_id": "side_to_side_box_shuffle",
+    "exercise_name": "side_to_side_box_shuffle",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "lateral_movement_with_jumping",
+      "landing"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "abductors",
+      "calves",
+      "hamstrings",
+      "adductors"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "high",
+    "recovery_time_hours": 1,
+    "goals": [
+      "improve_explosive_power",
+      "enhance_lateral_stability_and_agility"
+    ],
+    "unilateral": false
+  }
+}

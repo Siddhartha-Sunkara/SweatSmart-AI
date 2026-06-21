@@ -1,0 +1,36 @@
+{
+  "id": "one_arm_kettlebell_split_snatch",
+  "document": "Exercise: One-Arm Kettlebell Split Snatch\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- hamstrings\n- quadriceps\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- balance\n- power\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Two-Arm Kettlebell Split Snatch, force: pull, level: expert, mechanic: compound, primaryMuscles: ['shoulders'], secondaryMuscles: ['hamstrings', 'quadriceps']\n\nSubstitution Options:\n\n- name: One-Arm Dumbbell Split Snatch, equipment: dumbbells\n\nInstructions:\n\n- Hold a kettlebell in one hand by the handle.\n- Squat towards the floor, and then reverse the motion, extending the hips, knees, and finally the ankles, to raise the kettlebell overhead.\n- After fully extending the body, descend into a lunge position to receive the weights overhead, one leg forward and one leg back. Ensure you drive through with your hips and lock the ketttlebells overhead in one uninterrupted motion.\n- Return to a standing position, holding the weight overhead, and bring the feet together. Lower the weight to return to the starting position.",
+  "metadata": {
+    "exercise_id": "one_arm_kettlebell_split_snatch",
+    "exercise_name": "one_arm_kettlebell_split_snatch",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "hamstrings",
+      "quadriceps"
+    ],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "balance",
+      "power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

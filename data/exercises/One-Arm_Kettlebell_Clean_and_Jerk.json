@@ -1,0 +1,32 @@
+{
+  "id": "one_arm_kettlebell_clean_and_jerk",
+  "document": "Exercise: One-Arm Kettlebell Clean and Jerk\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- kettlebells\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- power\n- strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Two-Arm Kettlebell Clean and Jerk, force: push, level: intermediate, mechanic: compound, primaryMuscles: ['shoulders']\n\nSubstitution Options:\n\n- exercise_name: One-Arm Dumbbell Clean and Jerk, equipment: dumbbells\n\nInstructions:\n\n- Hold a kettlebell by the handle.\n- Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward.\n- Dip your body by bending the knees, keeping your torso upright.\n- Immediately reverse direction, driving through the heels, in essence jumping to create momentum. As you do so, press the kettlebell overhead to lockout by extending the arms, using your body's momentum to move the weight.\n- Receive the weight overhead by returning to a squat position underneath the weight.\n- Keeping the weight overhead, return to a standing position. Lower the weight to the floor to perform the next repetition.",
+  "metadata": {
+    "exercise_id": "one_arm_kettlebell_clean_and_jerk",
+    "exercise_name": "one_arm_kettlebell_clean_and_jerk",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "kettlebells"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

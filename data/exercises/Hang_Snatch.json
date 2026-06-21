@@ -1,0 +1,43 @@
+{
+  "id": "hang_snatch",
+  "document": "Exercise: Hang Snatch\n\nCategory:\nolympic weightlifting\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nexpert\n\nMovement Patterns:\n\n- hinge\n- pull\n\nPrimary Muscles:\n\n- hamstrings\n\nSecondary Muscles:\n\n- abdominals\n- calves\n- forearms\n- glutes\n- lower back\n- quadriceps\n- shoulders\n- traps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nATP-PC system with some contribution from glycolysis\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy_of_primary_muscles_involved\n- improvement_in_explosive_power_and_speed\n- enhancement_of_coordination_and_balance\n\nContraindications:\n\n- Shoulder impingement\n- Lower back pain\n\nExercise Variations:\n\n- name: Hang Snatch from Blocks, force: pull, level: expert\n- name: Hang Snatch with Medicine Ball, force: pull, level: expert\n\nSubstitution Options:\n\n- name: Hang Clean, force: pull, level: expert\n\nInstructions:\n\n- Begin with a wide grip on the bar, with an overhand or hook grip. The feet should be directly below the hips with the feet turned out. Your knees should be slightly bent, and the torso inclined forward. The spine should be fully extended and the head facing forward. The bar should be at the hips. This will be your starting position.\n- Aggressively extend through the legs and hips. At peak extension, shrug the shoulders and allow the elbows to flex to the side.\n- As you move your feet into the receiving position, forcefully pull yourself below the bar as you elevate the bar overhead. Receive the bar with your body as low as possible and the arms fully extended overhead.\n- Return to a standing position with the weight overhead. Follow by returning the weight to the ground under control.",
+  "metadata": {
+    "exercise_id": "hang_snatch",
+    "exercise_name": "hang_snatch",
+    "category": "olympic_weightlifting",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "expert",
+    "movement_patterns": [
+      "hinge",
+      "pull"
+    ],
+    "primary_muscles": [
+      "hamstrings"
+    ],
+    "secondary_muscles": [
+      "abdominals",
+      "quadriceps",
+      "glutes",
+      "lower_back",
+      "forearms",
+      "traps",
+      "shoulders",
+      "calves"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "atp_pc_system_with_some_contribution_from_glycolysis",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy_of_primary_muscles_involved",
+      "improvement_in_explosive_power_and_speed",
+      "enhancement_of_coordination_and_balance"
+    ],
+    "unilateral": false
+  }
+}

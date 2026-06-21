@@ -1,0 +1,34 @@
+{
+  "id": "barbell_step_ups",
+  "document": "Exercise: Barbell Step Ups\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- unilateral_lower_body_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n- quadriceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: knee injury, description: Individuals with knee injuries should avoid this exercise or modify it under professional supervision.\n- condition: back pain, description: Individuals experiencing back pain may find this exercise uncomfortable and should consult a healthcare provider before attempting.\n\nExercise Variations:\n\n- name: Single Leg Barbell Step Ups, force: push, level: intermediate, mechanic: compound, primaryMuscles: ['quadriceps'], secondaryMuscles: ['calves', 'glutes', 'hamstrings']\n\nSubstitution Options:\n\n- exercise_name: Dumbbell Step Ups, equipment: dumbbells\n- exercise_name: Box Jumps, equipment: box\n\nInstructions:\n\n- Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck) and stand upright behind an elevated platform (such as the one used for spotting behind a flat bench). This is your starting position.\n- Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.\n- Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.\n- Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg.",
+  "metadata": {
+    "exercise_id": "barbell_step_ups",
+    "exercise_name": "barbell_step_ups",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "unilateral_lower_body_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings",
+      "quadriceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [],
+    "unilateral": false
+  }
+}

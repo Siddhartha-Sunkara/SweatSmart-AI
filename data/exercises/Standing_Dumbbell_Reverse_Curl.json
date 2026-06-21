@@ -1,0 +1,34 @@
+{
+  "id": "standing_dumbbell_reverse_curl",
+  "document": "Exercise: Standing Dumbbell Reverse Curl\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- elbow_flexion\n\nPrimary Muscles:\n\n- biceps\n\nSecondary Muscles:\n\n- forearms\n\nEquipment:\n\n- dumbbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- bicep_hypertrophy\n- forearm_strength\n\nContraindications:\n\n- Shoulder impingement\n- Elbow tendinitis\n\nExercise Variations:\n\n- name: Concentration Reverse Curl, instructions: [\"Sit on a bench with your back against it. Hold a dumbbell in one hand and rest the same arm's elbow on your thigh for support.\", 'Curl the weight towards your shoulder while keeping your upper arm stationary.']\n- name: Reverse Curl with Resistance Band, equipment: resistance band\n\nSubstitution Options:\n\n- exercise_name: Barbell Reverse Curl, equipment: barbell\n- exercise_name: Machine Bicep Curl, equipment: cable machine\n\nInstructions:\n\n- To begin, stand straight with a dumbbell in each hand using a pronated grip (palms facing down). Your arms should be fully extended while your feet are shoulder width apart from each other. This is the starting position.\n- While holding the upper arms stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the muscle.\n- Slowly begin to bring the dumbbells back to starting position as your breathe in.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "standing_dumbbell_reverse_curl",
+    "exercise_name": "standing_dumbbell_reverse_curl",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "elbow_flexion"
+    ],
+    "primary_muscles": [
+      "biceps"
+    ],
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "bicep_hypertrophy",
+      "forearm_strength"
+    ],
+    "unilateral": false
+  }
+}

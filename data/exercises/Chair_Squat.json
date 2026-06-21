@@ -1,0 +1,38 @@
+{
+  "id": "chair_squat",
+  "document": "Exercise: Chair Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_lower_body\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- hamstrings_engagement\n- calves_strengthening\n- quadriceps_strength\n- glutes_activation\n\nContraindications:\n\n- Recent knee surgery\n- Severe knee pain or injury\n\nExercise Variations:\n\n- name: Chair Squat with Dumbbells, equipment: dumbbells\n- name: Chair Squat with Resistance Bands, equipment: resistance bands\n\nSubstitution Options:\n\n- exercise_name: Bodyweight Squat, equipment: none\n- exercise_name: Sled Push, equipment: sled\n\nInstructions:\n\n- To begin, first set the bar to a position that best matches your height. Once the bar is loaded, step under it and position it across the back of your shoulders.\n- Take the bar with your hands facing forward, unlock it and lift it off the rack by extending your legs.\n- Move your feet forward about 18 inches in front of the bar. Position your legs using a shoulder width stance with the toes slightly pointed out. Look forward at all times and maintain a neutral or slightly arched spine. This will be your starting position.\n- Slowly lower the bar by bending the knees as you maintain a straight posture with the head up. Continue down until the angle between the upper and lower leg breaks 90 degrees.\n- Begin to raise the bar as you exhale by pushing the floor with the heels of your feet, extending the knees and returning to the starting position.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "chair_squat",
+    "exercise_name": "chair_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_lower_body"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "hamstrings_engagement",
+      "calves_strengthening",
+      "quadriceps_strength",
+      "glutes_activation"
+    ],
+    "unilateral": false
+  }
+}

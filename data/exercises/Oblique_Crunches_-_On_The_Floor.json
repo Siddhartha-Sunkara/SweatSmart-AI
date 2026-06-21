@@ -1,0 +1,33 @@
+{
+  "id": "oblique_crunches___on_the_floor",
+  "document": "Exercise: Oblique Crunches - On The Floor\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- bilateral\n- upper_body_rotation\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- oblique_muscle_development\n- core_strengthening\n\nContraindications:\n\n- Lower back pain, recent abdominal surgery\n\nExercise Variations:\nNone\n\nSubstitution Options:\n\n- Twisting Crunches\n- Seated Oblique Twist\n\nInstructions:\n\n- Start out by lying on your right side with your legs lying on top of each other. Make sure your knees are bent a little bit.\n- Place your left hand behind your head.\n- Once you are in this set position, begin by moving your left elbow up as you would perform a normal crunch except this time the main emphasis is on your obliques.\n- Crunch as high as you can, hold the contraction for a second and then slowly drop back down into the starting position.\n- Remember to breathe in during the eccentric (lowering) part of the exercise and to breathe out during the concentric (elevation) part of the exercise.",
+  "metadata": {
+    "exercise_id": "oblique_crunches___on_the_floor",
+    "exercise_name": "oblique_crunches___on_the_floor",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "bilateral",
+      "upper_body_rotation"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "oblique_muscle_development",
+      "core_strengthening"
+    ],
+    "unilateral": false
+  }
+}

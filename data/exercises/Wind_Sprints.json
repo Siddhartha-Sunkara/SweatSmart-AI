@@ -1,0 +1,32 @@
+{
+  "id": "wind_sprints",
+  "document": "Exercise: Wind Sprints\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_alternating_knee_drive\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nanaerobic\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- lower_abdominal_conditioning\n- core_strengthening\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: High Knees in Place, force: pull, level: beginner, mechanic: compound, equipment: body only\n\nSubstitution Options:\n\n- name: Knee Raises on Bench, force: pull, level: beginner, mechanic: compound, equipment: bench\n\nInstructions:\n\n- Hang from a pull-up bar using a pronated grip. Your arms and legs should be extended. This will be your starting position.\n- Begin by quickly raising one knee as high as you can. Do not swing your body or your legs. 3\n- Immediately reverse the motion, returning that leg to the starting position. Simultaneously raise the opposite knee as high as possible.\n- Continue alternating between legs until the set is complete.",
+  "metadata": {
+    "exercise_id": "wind_sprints",
+    "exercise_name": "wind_sprints",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_alternating_knee_drive"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "anaerobic",
+    "recovery_time_hours": 1,
+    "goals": [
+      "lower_abdominal_conditioning",
+      "core_strengthening"
+    ],
+    "unilateral": false
+  }
+}

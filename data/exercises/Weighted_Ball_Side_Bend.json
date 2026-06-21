@@ -1,0 +1,32 @@
+{
+  "id": "weighted_ball_side_bend",
+  "document": "Exercise: Weighted Ball Side Bend\n\nCategory:\nstrength\n\nExercise Type:\nisolation\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- lateral_flexion\n\nPrimary Muscles:\n\n- abdominals\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- exercise_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_lateral_flexion_strength\n- strengthen_the_obliques_and_transverse_abdominis_for_improved_core_stability\n\nContraindications:\n\n- Individuals with lower back pain or injuries should consult a healthcare professional before attempting this exercise.\n\nExercise Variations:\n\n- name: Weighted Ball Side Bend with Medicine Ball, equipment: medicine ball\n- name: Side Bend with Resistance Band, equipment: resistance band\n\nSubstitution Options:\n\n- exercise_name: Side Bend with Dumbbell, equipment: dumbbell\n\nInstructions:\n\n- To begin, lie down on an exercise ball with your left side of the torso (waist, hips and shoulder) pressed against the ball.\n- Your feet should be on the floor while your legs are crossed and hanging from the ball. Hold a weighted plate with your right hand directly to the right side of your head. Tip: Make sure the smooth side of the plate is resting against your head.\n- Place your left arm across your torso so that your palm is on your obliques. There should be a right angle between your left forearm and upper arm. This is the starting position.\n- Raise the side of your torso up by laterally flexing at the waist while exhaling.\n- Hold the contraction for a second and slowly lower yourself back down to the starting position while inhaling.\n- Repeat for the recommended amount of repetitions.\n- Switch sides and repeat the exercise.",
+  "metadata": {
+    "exercise_id": "weighted_ball_side_bend",
+    "exercise_name": "weighted_ball_side_bend",
+    "category": "strength",
+    "exercise_type": "isolation",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "lateral_flexion"
+    ],
+    "primary_muscles": [
+      "abdominals"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "exercise_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_lateral_flexion_strength",
+      "strengthen_the_obliques_and_transverse_abdominis_for_improved_core_stability"
+    ],
+    "unilateral": false
+  }
+}

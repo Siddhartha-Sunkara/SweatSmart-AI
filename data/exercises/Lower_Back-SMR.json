@@ -1,0 +1,32 @@
+{
+  "id": "lower_back_smr",
+  "document": "Exercise: Lower Back-SMR\n\nCategory:\nstretching\n\nExercise Type:\nNone\n\nForce Type:\nstatic\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- static_stretching\n\nPrimary Muscles:\n\n- lower back\n\nSecondary Muscles:\nNone\n\nEquipment:\n\n- foam_roll\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n3\n\nEnergy Requirement:\nlow\n\nRecovery Time:\n0.5 hours\n\nGoals:\n\n- improve_flexibility\n- reduce_muscle_tension\n\nContraindications:\n\n- acute lower back injury\n- pregnancy\n\nExercise Variations:\nNone\n\nSubstitution Options:\nNone\n\nInstructions:\n\n- In a seated position, place a foam roll under your lower back. Cross your arms in front of you and protract your shoulders. This will be your starting position.\n- Raise your hips off of the floor and lean back, keeping your weight on your lower back. Now shift your weight slightly to one side, keeping your weight off of the spine and on the muscles to the side of it. Roll over your lower back, holding points of tension for 10-30 seconds. Repeat on the other side.",
+  "metadata": {
+    "exercise_id": "lower_back_smr",
+    "exercise_name": "lower_back_smr",
+    "category": "stretching",
+    "exercise_type": "",
+    "force": "static",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "static_stretching"
+    ],
+    "primary_muscles": [
+      "lower_back"
+    ],
+    "secondary_muscles": [],
+    "equipment": [
+      "foam_roll"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 3.0,
+    "energy_requirement": "low",
+    "recovery_time_hours": 0,
+    "goals": [
+      "improve_flexibility",
+      "reduce_muscle_tension"
+    ],
+    "unilateral": false
+  }
+}

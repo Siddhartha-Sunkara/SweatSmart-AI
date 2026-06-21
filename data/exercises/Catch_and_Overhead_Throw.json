@@ -1,0 +1,36 @@
+{
+  "id": "catch_and_overhead_throw",
+  "document": "Exercise: Catch and Overhead Throw\n\nCategory:\nplyometrics\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- vertical_push\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- abdominals\n- chest\n- shoulders\n\nEquipment:\n\n- medicine_ball\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.75\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n24 hours\n\nGoals:\n\n- enhance_shoulder_stability\n- improve_explosive_power\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Overhead Throw to Partner, instructions: ['Begin standing while facing a partner.', 'Using both hands, position the ball behind your head, stretching as much as possible, and forcefully throw the ball forward to your partner.']\n\nSubstitution Options:\n\n- exercise_name: Medicine Ball Slam, equipment: medicine ball\n\nInstructions:\n\n- Begin standing while facing a wall or a partner.\n- Using both hands, position the ball behind your head, stretching as much as possible, and forcefully throw the ball forward.\n- Ensure that you follow your throw through, being prepared to receive your rebound from your throw. If you are throwing against the wall, make sure that you stand close enough to the wall to receive the rebound, and aim a little higher than you would with a partner.",
+  "metadata": {
+    "exercise_id": "catch_and_overhead_throw",
+    "exercise_name": "catch_and_overhead_throw",
+    "category": "plyometrics",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "vertical_push"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "abdominals",
+      "shoulders"
+    ],
+    "equipment": [
+      "medicine_ball"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.75,
+    "energy_requirement": "high",
+    "recovery_time_hours": 24,
+    "goals": [
+      "enhance_shoulder_stability",
+      "improve_explosive_power"
+    ],
+    "unilateral": false
+  }
+}

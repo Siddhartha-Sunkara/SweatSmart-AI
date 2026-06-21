@@ -1,0 +1,35 @@
+{
+  "id": "cable_rope_rear_delt_rows",
+  "document": "Exercise: Cable Rope Rear-Delt Rows\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- unilateral_shoulder_extension_with_external_rotation\n\nPrimary Muscles:\n\n- shoulders\n\nSecondary Muscles:\n\n- biceps\n- middle back\n\nEquipment:\n\n- cable\n\nFatigue Score:\n2\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n0.8\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n1 hours\n\nGoals:\n\n- enhance_rear_deltoid_muscle_development\n- improve_shoulder_stability_and_strength\n\nContraindications:\nNone\n\nExercise Variations:\n\n- name: Standing Cable Rope Rear-Delt Rows, force: pull, level: intermediate, mechanic: compound, primaryMuscles: ['shoulders'], secondaryMuscles: ['biceps', 'middle back'], instructions: ['Stand facing the low pulley and grasp the rope with an overhand grip.', 'Keep your lower back upright and slide your hips back so that your knees are slightly bent. This will be your starting position.', 'Pull the cable attachment towards your upper chest, just below the neck, as you keep your elbows up and out to the sides. Continue this motion as you exhale until the elbows travel slightly behind the back.', 'Go back to the initial position where the arms are extended and the shoulders are stretched forward. Inhale as you perform this portion of the movement.', 'Repeat for the recommended amount of repetitions.'], category: strength, images: ['Cable_Rope_Rear-Delt_Rows_Stand/0.jpg', 'Cable_Rope_Rear-Delt_Rows_Stand/1.jpg']\n\nSubstitution Options:\n\n- exercise_name: Seated Dumbbell Lateral Raises, equipment: dumbbells\n- exercise_name: Machine Rear Delt Flyes, equipment: cable machine\n\nInstructions:\n\n- Sit in the same position on a low pulley row station as you would if you were doing seated cable rows for the back.\n- Attach a rope to the pulley and grasp it with an overhand grip. Your arms should be extended and parallel to the floor with the elbows flared out.\n- Keep your lower back upright and slide your hips back so that your knees are slightly bent. This will be your starting position.\n- Pull the cable attachment towards your upper chest, just below the neck, as you keep your elbows up and out to the sides. Continue this motion as you exhale until the elbows travel slightly behind the back. Tip: Keep your upper arms horizontal, perpendicular to the torso and parallel to the floor throughout the motion.\n- Go back to the initial position where the arms are extended and the shoulders are stretched forward. Inhale as you perform this portion of the movement.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "cable_rope_rear_delt_rows",
+    "exercise_name": "cable_rope_rear_delt_rows",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "unilateral_shoulder_extension_with_external_rotation"
+    ],
+    "primary_muscles": [
+      "shoulders"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "biceps"
+    ],
+    "equipment": [
+      "cable"
+    ],
+    "fatigue_score": 2.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 0.8,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 1,
+    "goals": [
+      "enhance_rear_deltoid_muscle_development",
+      "improve_shoulder_stability_and_strength"
+    ],
+    "unilateral": false
+  }
+}

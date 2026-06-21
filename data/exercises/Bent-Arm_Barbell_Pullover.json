@@ -1,0 +1,37 @@
+{
+  "id": "bent_arm_barbell_pullover",
+  "document": "Exercise: Bent-Arm Barbell Pullover\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npull\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- horizontal_pushing\n\nPrimary Muscles:\n\n- lats\n\nSecondary Muscles:\n\n- chest\n- lats\n- shoulders\n- triceps\n\nEquipment:\n\n- barbell\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nmoderate\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- strength\n\nContraindications:\n\n- Shoulder injuries\n- Chest pain or discomfort\n\nExercise Variations:\n\n- name: Incline Bent-Arm Barbell Pullover, mechanic: compound, primaryMuscles: ['lats', 'chest'], secondaryMuscles: ['shoulders', 'triceps']\n- name: Bent-Arm Dumbbell Pullover, equipment: dumbbells\n\nSubstitution Options:\n\n- name: Dumbbell Pullover, equipment: dumbbells\n- name: Machine Chest Fly, equipment: cable machine\n\nInstructions:\n\n- Lie on a flat bench with a barbell using a shoulder grip width.\n- Hold the bar straight over your chest with a bend in your arms. This will be your starting position.\n- While keeping your arms in the bent arm position, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.\n- At that point, bring the barbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.\n- Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions.",
+  "metadata": {
+    "exercise_id": "bent_arm_barbell_pullover",
+    "exercise_name": "bent_arm_barbell_pullover",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "pull",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "horizontal_pushing"
+    ],
+    "primary_muscles": [
+      "lats"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "lats",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "moderate",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

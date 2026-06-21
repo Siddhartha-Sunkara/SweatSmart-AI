@@ -1,0 +1,37 @@
+{
+  "id": "freehand_jump_squat",
+  "document": "Exercise: Freehand Jump Squat\n\nCategory:\nstrength\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- pull\n- lower_body_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- glutes\n- hamstrings\n\nEquipment:\n\n- bodyweight\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power_and_explosiveness\n\nContraindications:\n\n- Recent knee surgery\n- Severe joint pain\n\nExercise Variations:\n\n- name: Weighted Jump Squat, equipment: barbell or dumbbells\n- name: Single-Leg Jump Squat, force: push, level: advanced\n\nSubstitution Options:\n\n- name: Bodyweight Squats, force: push, level: beginner\n- name: Jumping Lunges, force: push, level: intermediate\n\nInstructions:\n\n- Cross your arms over your chest.\n- With your head up and your back straight, position your feet at shoulder width.\n- Keeping your back straight and chest up, squat down as you inhale until your upper thighs are parallel, or lower, to the floor.\n- Now pressing mainly with the ball of your feet, jump straight up in the air as high as possible, using the thighs like springs. Exhale during this portion of the movement.\n- When you touch the floor again, immediately squat down and jump again.\n- Repeat for the recommended amount of repetitions.",
+  "metadata": {
+    "exercise_id": "freehand_jump_squat",
+    "exercise_name": "freehand_jump_squat",
+    "category": "strength",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "pull",
+      "lower_body_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "glutes",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power_and_explosiveness"
+    ],
+    "unilateral": false
+  }
+}

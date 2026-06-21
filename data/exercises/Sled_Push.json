@@ -1,0 +1,39 @@
+{
+  "id": "sled_push",
+  "document": "Exercise: Sled Push\n\nCategory:\nstrongman\n\nExercise Type:\ncompound\n\nForce Type:\npush\n\nDifficulty Level:\nbeginner\n\nMovement Patterns:\n\n- push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- calves\n- chest\n- glutes\n- hamstrings\n- triceps\n\nEquipment:\n\n- other\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\nhigh\n\nRecovery Time:\n48 hours\n\nGoals:\n\n- hypertrophy\n- power\n- strength\n\nContraindications:\n\n- Shoulder instability or injury\n- Lower back pain or injury\n\nExercise Variations:\n\n- name: Sled Pull, force: pull, level: beginner\n- name: Barbell Push-Up, force: push, level: beginner\n\nSubstitution Options:\n\n- name: Barbell Push Press, force: push, level: intermediate\n- name: Kettlebell Clean and Press, force: push, level: intermediate\n\nInstructions:\n\n- Load your pushing sled with the desired weight.\n- Take an athletic posture, leaning into the sled with your arms fully extended, grasping the handles. Push the sled as fast as possible, focusing on extending your hips and knees to strengthen your posterior chain.",
+  "metadata": {
+    "exercise_id": "sled_push",
+    "exercise_name": "sled_push",
+    "category": "strongman",
+    "exercise_type": "compound",
+    "force": "push",
+    "difficulty_level": "beginner",
+    "movement_patterns": [
+      "push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "chest",
+      "glutes",
+      "triceps",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "other"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "high",
+    "recovery_time_hours": 48,
+    "goals": [
+      "hypertrophy",
+      "power",
+      "strength"
+    ],
+    "unilateral": false
+  }
+}

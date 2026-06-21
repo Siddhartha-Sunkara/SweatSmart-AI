@@ -1,0 +1,36 @@
+{
+  "id": "rowing_stationary",
+  "document": "Exercise: Rowing, Stationary\n\nCategory:\ncardio\n\nExercise Type:\nNone\n\nForce Type:\nNone\n\nDifficulty Level:\nintermediate\n\nMovement Patterns:\n\n- compound_pull_push\n\nPrimary Muscles:\n\n- quadriceps\n\nSecondary Muscles:\n\n- biceps\n- calves\n- glutes\n- hamstrings\n- lower back\n- middle back\n\nEquipment:\n\n- machine\n\nFatigue Score:\n3\n\nSystemic Fatigue:\nlow\n\nStimulus To Fatigue Ratio:\n2.5\n\nEnergy Requirement:\naerobic_and Anaerobic\n\nRecovery Time:\n1 hours\n\nGoals:\nNone\n\nContraindications:\n\n- condition: Recent knee surgery, reason: High impact on knees may be detrimental to recovery.\n- condition: Severe lower back pain, reason: May exacerbate existing conditions due to the pulling motion.\n\nExercise Variations:\n\n- name: High-Intensity Interval Training (HIIT), description: Alternate between high and low intensity rowing intervals to maximize cardiovascular benefits.\n- name: Resistance Bands, description: Use resistance bands for added upper body engagement during the pulling phase.\n\nSubstitution Options:\n\n- exercise_name: Rowing, Water, reason: Water rowing provides a similar full-body workout with natural resistance.\n- exercise_name: Elliptical Trainer, reason: An elliptical can provide a lower-impact alternative that still targets multiple muscle groups.\n\nInstructions:\n\n- To begin, seat yourself on the rower. Make sure that your heels are resting comfortably against the base of the foot pedals and that the straps are secured. Select the program that you wish to use, if applicable. Sit up straight and bend forward at the hips.\n- There are three phases of movement when using a rower. The first phase is when you come forward on the rower. Your knees are bent and against your chest. Your upper body is leaning slightly forward while still maintaining good posture. Next, push against the foot pedals and extend your legs while bringing your hands to your upper abdominal area, squeezing your shoulders back as you do so. To avoid straining your back, use primarily your leg and hip muscles.\n- The recovery phase simply involves straightening your arms, bending the knees, and bringing your body forward again as you transition back into the first phase.",
+  "metadata": {
+    "exercise_id": "rowing_stationary",
+    "exercise_name": "rowing,_stationary",
+    "category": "cardio",
+    "exercise_type": "",
+    "force": "",
+    "difficulty_level": "intermediate",
+    "movement_patterns": [
+      "compound_pull_push"
+    ],
+    "primary_muscles": [
+      "quadriceps"
+    ],
+    "secondary_muscles": [
+      "middle_back",
+      "biceps",
+      "glutes",
+      "lower_back",
+      "calves",
+      "hamstrings"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "fatigue_score": 3.0,
+    "systemic_fatigue": "low",
+    "stimulus_to_fatigue_ratio": 2.5,
+    "energy_requirement": "aerobic_and_anaerobic",
+    "recovery_time_hours": 1,
+    "goals": [],
+    "unilateral": false
+  }
+}
