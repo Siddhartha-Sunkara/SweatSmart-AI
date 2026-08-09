@@ -42,7 +42,7 @@ async def retrieve_node(state: dict) -> dict[str, Any]:
 
     # Per-branch filter: combine common filters with this muscle.
     branch_filters: dict[str, Any] = {k: v for k, v in common.items() if v}
-    branch_filters["primary_muscle"] = [muscle]
+    branch_filters["primary_muscle"] = [muscle.lower()]
 
     try:
         raw_docs = await retrieve_one_async(

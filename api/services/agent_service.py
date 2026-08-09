@@ -10,6 +10,7 @@ from api.exceptions import AgentError
 from api.services import semantic_cache
 from intent_agent.agent import aask as chat_aask, get_agent as get_chat_agent
 from workout_planner_agent.agent import aask as workout_aask, get_agent as get_workout_agent
+from nl_to_sql_agent.agent import aask as nl_to_sql_aask, get_agent as get_nl_to_sql_agent
 
 logger = logging.getLogger(__name__)
 
@@ -27,9 +28,10 @@ async def warm_up_agents() -> None:
     await asyncio.gather(
         asyncio.to_thread(get_chat_agent),
         asyncio.to_thread(get_workout_agent),
+        asyncio.to_thread(get_nl_to_sql_agent),
         asyncio.to_thread(semantic_cache.is_enabled),
     )
-    logger.info("Intent and workout planner agents initialized.")
+    logger.info("Intent, workout planner, and NL-to-SQL agents initialized.")
 
 
 async def shutdown_executor() -> None:
@@ -58,6 +60,15 @@ async def chat(user_prompt: str) -> Dict[str, Any]:
     await semantic_cache.set_(user_prompt, result)
     result["cached"] = False
     return result
+
+
+@traceable(name="api.query_history", run_type="chain")
+async def query_history(user_prompt: str, user_id: int) -> Dict[str, Any]:
+    """Run the NL-to-SQL pipeline asynchronously."""
+    try:
+        return await nl_to_sql_aask(user_prompt, user_id)
+    except Exception as e:
+        raise AgentError("nl_to_sql", str(e))
 
 
 @traceable(name="api.generate_workout", run_type="chain")

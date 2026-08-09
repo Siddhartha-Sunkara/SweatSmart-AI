@@ -12,6 +12,9 @@ Classify the user's message into EXACTLY ONE of the following intents:
 - "workout_generation": the user wants a workout plan, routine, or list of exercises.
   Examples: "give me a push workout", "30 min legs day with dumbbells", "I want an upper body routine".
 
+- "workout_history": the user is asking about their past workouts, logged data, personal records, stats, or history.
+  Examples: "what is my heaviest bench press?", "how many workouts did I do last week?", "show my recent sessions", "what was my total volume for chest?", "when did I last do squats?".
+
 - "exercise_question": the user is asking about a specific exercise (form, what it targets, alternatives).
   Examples: "what muscles does a deadlift hit?", "is the goblet squat good for quads?".
 

@@ -64,7 +64,7 @@ def build_filters(filters: dict) -> Filter | None:
         conditions.append(
             FieldCondition(
                 key="metadata.primary_muscles",
-                match=MatchAny(any=filters["primary_muscle"])
+                match=MatchAny(any=[v.lower() for v in filters["primary_muscle"]])
             )
         )
 
@@ -73,7 +73,7 @@ def build_filters(filters: dict) -> Filter | None:
         conditions.append(
             FieldCondition(
                 key="metadata.equipment",
-                match=MatchAny(any=filters["equipment"])
+                match=MatchAny(any=[v.lower() for v in filters["equipment"]])
             )
         )
 
@@ -91,7 +91,7 @@ def build_filters(filters: dict) -> Filter | None:
         conditions.append(
             FieldCondition(
                 key="metadata.difficulty_level",
-                match=MatchValue(value=filters["difficulty_level"])
+                match=MatchValue(value=filters["difficulty_level"].lower())
             )
         )
 

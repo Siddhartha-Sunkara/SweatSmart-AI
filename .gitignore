@@ -25,6 +25,7 @@ env/
 *.sqlite3
 *.sqbpro
 qdrant_storage/
+data/images/
 
 # HF / model caches
 .cache/

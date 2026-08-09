@@ -7,6 +7,7 @@ from pydantic import BaseModel, Field
 class IntentClassification(BaseModel):
     intent: Literal[
         "workout_generation",
+        "workout_history",
         "exercise_question",
         "injury_modification",
         "progression_plan",

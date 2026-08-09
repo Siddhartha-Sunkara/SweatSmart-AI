@@ -43,7 +43,7 @@ class Settings(BaseSettings):
     REDIS_URL: str = "electric-tulip-ultrafresh-50461.db.redis.io:13770"                                # empty => cache disabled
     SEMANTIC_CACHE_ENABLED: bool = True
     SEMANTIC_CACHE_INDEX_NAME: str = "chat_semcache"
-    SEMANTIC_CACHE_DISTANCE_THRESHOLD: float = 0.1     # cosine distance; smaller = stricter match
+    SEMANTIC_CACHE_DISTANCE_THRESHOLD: float = 0.05     # cosine distance; smaller = stricter match
     SEMANTIC_CACHE_TTL_SECONDS: int = 3600
     SEMANTIC_CACHE_EMBED_MODEL: str = "BAAI/bge-small-en-v1.5"
 

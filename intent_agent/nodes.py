@@ -94,6 +94,30 @@ async def run_workout_node(state: RouterState) -> dict:
     }
 
 
+@traceable(name="run_nl_to_sql", run_type="chain")
+async def run_nl_to_sql_node(state: RouterState) -> dict:
+    """Delegate to the NL-to-SQL agent for workout history queries."""
+    try:
+        from nl_to_sql_agent.agent import aask as nl_to_sql_aask
+
+        user_id = state.get("user_id", 1)
+        result = await nl_to_sql_aask(
+            query=state["query"],
+            user_id=user_id,
+        )
+    except Exception as e:
+        logger.exception("NL-to-SQL agent failed")
+        return {
+            "result": {"error": str(e)},
+            "response": f"Something went wrong querying your workout history: {e}",
+        }
+
+    return {
+        "result": result,
+        "response": result.get("response", ""),
+    }
+
+
 # =====================================================
 # FORMATTING
 # =====================================================

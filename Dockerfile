@@ -31,8 +31,10 @@ RUN pip install -r requirements.txt
 COPY api ./api
 COPY intent_agent ./intent_agent
 COPY workout_planner_agent ./workout_planner_agent
+COPY nl_to_sql_agent ./nl_to_sql_agent
 COPY rag ./rag
 COPY scripts ./scripts
+COPY db ./db
 COPY data ./data
 
 # HuggingFace cache volume (model downloaded lazily on first request)

@@ -9,3 +9,8 @@ class ChatRequest(BaseModel):
 class WorkoutGenerateRequest(BaseModel):
     user_prompt: str
     filters: Optional[Dict[str, Any]] = None
+
+
+class WorkoutHistoryRequest(BaseModel):
+    user_prompt: str
+    user_id: int

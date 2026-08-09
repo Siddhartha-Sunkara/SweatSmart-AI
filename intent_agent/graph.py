@@ -9,6 +9,7 @@ from .nodes import (
     greeting_node,
     stub_node,
     run_workout_node,
+    run_nl_to_sql_node,
 )
 
 
@@ -17,6 +18,8 @@ def _route_on_intent(state: RouterState) -> str:
     intent = state.get("intent", "greeting")
     if intent == "workout_generation":
         return "run_workout"
+    if intent == "workout_history":
+        return "run_nl_to_sql"
     if intent == "greeting":
         return "greeting_node"
     return "stub_node"
@@ -27,6 +30,7 @@ def build_agent():
 
     graph.add_node("classify_intent", classify_intent_node)
     graph.add_node("run_workout", run_workout_node)
+    graph.add_node("run_nl_to_sql", run_nl_to_sql_node)
     graph.add_node("greeting_node", greeting_node)
     graph.add_node("stub_node", stub_node)
 
@@ -36,11 +40,13 @@ def build_agent():
         _route_on_intent,
         {
             "run_workout": "run_workout",
+            "run_nl_to_sql": "run_nl_to_sql",
             "greeting_node": "greeting_node",
             "stub_node": "stub_node",
         },
     )
     graph.add_edge("run_workout", END)
+    graph.add_edge("run_nl_to_sql", END)
     graph.add_edge("greeting_node", END)
     graph.add_edge("stub_node", END)
 

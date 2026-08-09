@@ -32,5 +32,10 @@ app.add_middleware(
 # Custom exception handlers
 register_exception_handlers(app)
 
+@app.get("/")
+def root():
+    return {"message": "Welcome to Smart SweatSmart API"}
+
+
 app.include_router(health.router)
 app.include_router(agent_router.router)

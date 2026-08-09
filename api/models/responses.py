@@ -34,3 +34,16 @@ class ChatResponse(BaseModel):
 
 class WorkoutGenerateResponse(BaseModel):
     workout_plan: dict
+
+
+# =====================================================
+# Workout history (NL-to-SQL) responses
+# =====================================================
+
+class WorkoutHistoryResponse(BaseModel):
+    query: str
+    user_id: int
+    generated_sql: str
+    is_valid: bool
+    row_count: int
+    response: str
